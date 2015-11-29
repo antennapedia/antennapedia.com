@@ -1,5 +1,11 @@
-npm install --save metalsmith-archive metalsmith-build-date metalsmith-changed metalsmith-collections metalsmith-each metalsmith-feed metalsmith-headings-identifier metalsmith-imagemin metalsmith-metadata metalsmith-paths metalsmith-slug metalsmith-typography
+# antennapedia.com
 
+Build your own antennapedia fic archive with this handy [Metalsmith](https://github.com/segmentio/metalsmith) project!
 
-metalsmith-date-formatter
-metalsmith-page-titles
+1. Clone the repo.
+1. `npm install`
+1. `npm run clean`
+
+When files change, run `npm run rebuild`.
+
+Story source is in `src/`. Site is generated into `build/`.
