@@ -1,16 +1,14 @@
 {
   "name": "ficsite2",
+  "description": "npm install --save metalsmith-archive metalsmith-build-date metalsmith-changed metalsmith-collections metalsmith-each metalsmith-feed metalsmith-headings-identifier metalsmith-imagemin metalsmith-metadata metalsmith-paths metalsmith-slug metalsmith-typography",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "css": "sass src/css/styles.sass  > build/css/styles.css",
-    "clean": "bin/build.js",
-    "rebuild": "bin/build.js --changed"
+  "author": "Antenna <antennapedia@gmail.com>",
+  "bin": {
+    "ficsite2": "build.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antennapedia/antennapedia.com/issues"
+  },
   "dependencies": {
     "jade": "~1.11.0",
     "metalsmith": "~2.1.0",
@@ -40,5 +38,19 @@
     "metalsmith-typography": "~0.1.1",
     "metalsmith-word-count": "0.0.4",
     "yargs": "~3.30.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/antennapedia/antennapedia.com",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github_antenna:antennapedia/antennapedia.com.git"
+  },
+  "scripts": {
+    "clean": "bin/build.js",
+    "css": "sass src/css/styles.sass  > build/css/styles.css",
+    "rebuild": "bin/build.js --changed"
   }
 }
