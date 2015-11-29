@@ -1,0 +1,32 @@
+extends basic.jade
+include partials/capsule.jade
+
+block title
+	title= title
+	- fandom = fandoms[tag]
+	if fandom
+		title= fandom.title
+	else
+		title= tag
+
+block banner
+	style.
+		#nav { background-image: #{banner} }
+			
+block navigation
+	include partials/subnav.jade
+
+block topmatter
+	if fandom
+		h2= fandoms[tag].title
+		p= fandoms[tag].description
+	else
+		h2= tag
+	p= pagination.files.length
+		|  stories.
+				
+block content
+	#storylisting
+		- each story in pagination.files
+			+capsule(story)
+			br
