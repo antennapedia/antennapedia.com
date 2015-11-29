@@ -10,7 +10,10 @@
     "url": "https://github.com/antennapedia/antennapedia.com/issues"
   },
   "dependencies": {
+    "async": "~1.5.0",
+    "glob": "~6.0.1",
     "jade": "~1.11.0",
+    "js-yaml": "~3.4.6",
     "metalsmith": "~2.1.0",
     "metalsmith-archive": "~0.1.1",
     "metalsmith-autotoc": "~0.1.2",
@@ -37,6 +40,7 @@
     "metalsmith-timestamp": "~1.1.1",
     "metalsmith-typography": "~0.1.1",
     "metalsmith-word-count": "0.0.4",
+    "moment": "~2.10.6",
     "yargs": "~3.30.0"
   },
   "devDependencies": {},
