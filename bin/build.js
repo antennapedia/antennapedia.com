@@ -14,8 +14,7 @@ var Metalsmith = require('metalsmith'),
 	layouts    = require('metalsmith-layouts'),
 	beautify   = require('metalsmith-beautify'),
 	static     = require('metalsmith-static'),
-	changed    = require('metalsmith-changed'),
-	autotoc    = require('metalsmith-autotoc')
+	changed    = require('metalsmith-changed')
 	;
 
 var argv = require('yargs')
@@ -39,11 +38,13 @@ if (argv.changed)
 }
 
 metalsmith
+	.concurrency(30)
 	.metadata({
 		site: { title: 'Antennapedia' }
 	})
 	.use(metadata({
-		fandoms: 'metadata/fandoms.json'
+		fandoms: 'metadata/fandoms.json',
+		series: 'metadata/series.json'
 	}))
 	.use(paths())
 	.use(sitetitle())
@@ -59,10 +60,9 @@ metalsmith
 		'handle': 'tags',
 		'path': 'tags/:tag.html',
 		'layout': 'tag.jade',
-		'sortBy': 'published'
+		'sortBy': 'idtag'
 	}))
 	.use(wordcount())
-	.use(autotoc({selector: 'h2, h3, h4'}))
 	.use(layouts({
 		'engine': 'jade',
 		'default': 'story.jade',

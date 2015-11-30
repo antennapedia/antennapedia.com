@@ -1,12 +1,5 @@
 extends basic.jade
 
-mixin renderToc(items)
-	ol
-		- each item in items
-			li.a(href='\##{item.id}')= item.text
-			- if item.children.length > 0 
-				+renderToc(item.children)
-
 block banner
 	style.
 		#nav { background-image: #{banner} }
@@ -27,6 +20,5 @@ block topmatter
 			a(href='../tags/#{urltag}.html') #{tag},&nbsp;
 				
 block content
-	- if toc
-		+renderToc(toc)
-	div#storybody!= contents
+	div#storybody
+		!= contents

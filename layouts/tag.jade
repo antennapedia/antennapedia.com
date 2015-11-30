@@ -2,24 +2,32 @@ extends basic.jade
 include partials/capsule.jade
 
 block title
-	title= title
 	- fandom = fandoms[tag]
+	- series = series[tag]
 	if fandom
 		title= fandom.title
+		- banner = fandom.banner
+	else if series
+		title= series.title
+		- banner = series.banner
 	else
 		title= tag
 
 block banner
-	style.
-		#nav { background-image: #{banner} }
+	if banner
+		style.
+			#nav { background-image: url(#{banner})	 }
 			
 block navigation
 	include partials/subnav.jade
 
 block topmatter
 	if fandom
-		h2= fandoms[tag].title
-		p= fandoms[tag].description
+		h2= fandom.title
+		p= fandom.description
+	else if series
+		h2= series.title
+		p= series.summary
 	else
 		h2= tag
 	p= pagination.files.length

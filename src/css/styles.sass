@@ -1,0 +1,247 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700,300|Merriweather)
+
+$backgroundcolor: white
+$foregroundcolor: black
+$darkestcolor: #36362c
+$darkercolor: #825534
+$contrastcolor: #5d917d
+$mediumcolor: #a8ad80
+$lightestcolor: #e6d4a7
+$faintcolor: #eeeeee
+
+html
+	height: 100%
+
+body
+	font-family: Merriweather, serif
+	font-size: 10pt
+	margin-left: 2em
+	margin-right: 2em
+	height: 100%
+	background-color: $backgroundcolor
+	color: $foregroundcolor
+
+#content
+
+#nav
+	font-family: Oswald, sans-serif
+	font-weight: 300
+	background-image: url(twelve_clara_header.jpg)
+	background-size: auto 224px
+	background-repeat: no-repeat
+	background-position: 10px 10px
+	background-color: $foregroundcolor
+	color: $backgroundcolor
+	padding-left: 394px
+	padding-right: 5px
+	padding-top: 10px
+	min-height: 234px
+	position: relative
+
+	a
+		text-decoration: none
+		color: $contrastcolor
+		font-weight: 400
+
+		&:active
+			color: $contrastcolor
+
+		&:visited
+			color: $mediumcolor
+
+		&:hover, &:visited:hover
+			text-decoration: underline
+
+		&.series
+			font-weight: 400
+			font-style: italic
+
+	h1
+		margin-bottom: 0px
+
+	h2
+		font-size: 2em
+		margin-top: .5em
+		margin-bottom: 0
+
+	.info
+		line-height: 125%
+
+	p
+		font-family: Merriweather, serif
+		font-size: 9pt
+
+a
+	text-decoration: none
+	color: $contrastcolor
+
+	&:active
+		color: $contrastcolor
+
+	&:visited
+		color: $mediumcolor
+
+	&:hover, &:visited:hover
+		text-decoration: underline
+
+
+h1, h2, h3, h4
+	font-family: 'Oswald', sans-serif
+	font-weight: 700
+
+h3
+	margin-bottom: 0px
+
+.story_summary
+	-webkit-border-radius: 10px
+	-moz-border-radius: 10px
+	border-radius: 10px
+	margin-top: .5em
+	margin-right: .5em
+	padding: .5em
+	background-color: $faintcolor
+
+#storylisting
+	columns: 3
+	column-rule: none
+	column-gap: 0
+
+#banner
+	margin-top: 10px
+
+
+#storylinks
+	font-family: Oswald, sans-serif
+	font-weight: 300
+	background-color: $foregroundcolor
+	color: white
+	margin: 0 auto
+	text-align: left
+	margin-top: 5px
+	padding: 8px 0 8px 8px
+
+	a
+		color: $contrastcolor
+		text-decoration: none
+		margin-top: 2px
+
+	a:hover
+		background: #101010 none repeat scroll 0 0
+		color: $mediumcolor
+
+	a:visited
+		color: $mediumcolor
+		text-decoration: none
+		margin-top: 2px
+
+#storybody
+	margin-top: 10px
+	max-width: 72em
+
+.ctary
+	font-style: italic
+	padding: 5px
+	background-color: $foregroundcolor
+	border: 1px solid $contrastcolor
+
+.ctary_inline
+	font-style: italic
+	background-color: $foregroundcolor
+
+img
+	border-style: none
+
+hr
+	border: none
+	color: $mediumcolor
+	background-color: $mediumcolor
+	height: 1px
+
+	&.faint
+		color: $foregroundcolor
+		background-color: $foregroundcolor
+		border: 1px dotted $lightestcolor
+		border-style: none none dotted
+
+
+blockquote
+	font-style: italic
+	color: $darkestcolor
+
+
+.storytitle
+	font-weight: 400
+
+.seriestitle
+	font-weight: 400
+
+
+#tags
+	width: 383px
+	float: left
+	padding-right: 1em
+
+#tag_listing
+	margin-left: 394px
+
+.tag
+	font-family: Oswald, sans-serif
+	display: inline
+	padding: 3px
+	color: $darkestcolor
+	background-color: $backgroundcolor
+	-webkit-border-radius: 7px
+	-moz-border-radius: 7px
+	border-radius: 7px
+	&:hover, &:visited:hover
+		color: $backgroundcolor
+		background-color: $contrastcolor
+	&:active
+		color: $mediumcolor
+		background-color: $contrastcolor
+
+.tag a
+	text-decoration: none
+	color: inherit
+	background-color: inherit
+
+.tag_selected
+	color: $backgroundcolor
+	background-color: $darkestcolor
+
+table.tablesorter
+	background-color: $foregroundcolor
+	margin: 1em
+	text-align: left
+
+	thead tr th, tfoot tr th
+		background-color: $mediumcolor
+		color: $foregroundcolor
+		font-weight: 400
+		padding: .25em
+		cursor: pointer
+
+	thead tr .header
+		background-image: url(bg.gif)
+		background-repeat: no-repeat
+		background-position: center right
+		cursor: pointer
+
+	td
+		padding-right: 20px
+		padding-bottom: 3px
+
+	.even
+		background-color: $backgroundcolor
+
+	.odd
+		background-color: $faintcolor
+
+	thead tr
+		.headerSortUp
+			background-image: url(asc.gif)
+			background-color: $contrastcolor
+
+		.headerSortDown
+			background-image: url(desc.gif)
+			background-color: $contrastcolor

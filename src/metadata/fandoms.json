@@ -1,0 +1,29 @@
+{
+    "f:btvs": {
+        "title": "Buffy the Vampire Slayer",
+        "description": "In every generation there is a Chosen One. She alone will stand against the vampires, the demons and the forces of darkness. She is the Slayer. Behind her stands her Watcher. He's the one in the tweed and the glasses, translating strange prophecies from Latin for her.",
+        "banner": "../css/giles_header.jpg"
+    },
+    "f:doctor_who": {
+        "title": "Doctor Who",
+        "description": "Time and relative dimensions in space.",
+        "banner": "../css/twelve_clara_header.jpg"
+    },
+    "f:the_thick_of_it": {
+        "title": "The Thick of It",
+        "description": "Malcolm Tucker swears at idiot politicians. And is the architect of his own doom.",
+        "banner": "../css/malcolm_tux_header.jpg"
+    },
+    "f:sherlock_holmes": {
+        "title": "Sherlock Holmes",
+        "description": "The adventures of the world's first (perhaps only) consulting detective, and his intrepid biographer."
+    },
+    "f:the_hour": {
+        "title": "The Hour",
+        "description": "Randall Brown has a past with Lix Storm. Emotionally repressed journalists in 1950s Britain."
+    },
+    "f:rpf": {
+        "title": "RPF",
+        "description": "Aka real-people fiction. Historical figures. People who are alive now. Usually in extreme AUs so as not to outrage the sensibilities of persons living."
+    }
+}

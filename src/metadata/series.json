@@ -1,0 +1,104 @@
+{
+    "s:thusia": {
+        "owner": "antennapedia",
+        "title": "Thusia",
+        "summary": "Europe worships the old gods, while the New World and the Middle East are the bastions of Christianity. Slayers are touched by the gods... and sometimes so are Watchers.",
+        "banner": "../css/giles_buffy_header.jpg"
+    },
+    "s:tradition_protocol": {
+        "owner": "antennapedia",
+        "title": "Tradition &amp; Protocol",
+        "summary": "Watchers aren't what Buffy thought they were. A season 4 rewrite.",
+        "banner": "../css/giles_buffy_header.jpg"
+    },
+    "s:helios_hyperion": {
+        "owner": "antennapedia",
+        "title": "Helios Hyperion",
+        "summary": "A long hot summer in the Hyperion Hotel, after Sunnydale collapsed.",
+        "banner": "../css/giles_buffy_header.jpg"
+    },
+    "s:ars_draconis": {
+        "owner": "antennapedia",
+        "title": "Ars Draconis",
+        "summary": "Giles and Buffy travel to the desert to find a weapon that might help them defeat Glory. They find a weapon, and the story begins.",
+        "banner": "http://antennapedia.com/Banners/katekat1010_dragonsbone.png"
+    },
+    "s:reconnection": {
+        "owner": "antennapedia",
+        "title": "Reconnection",
+        "summary": "Giles arrives in Sunnydale after Buffy has been resurrected, and he knows that something is wrong. A post-Flooded AU of season 6.",
+        "banner": "http://antennapedia.com/Banners/katekat1010_reconnection_banner.jpg"
+    },
+    "s:cloud_animals": {
+        "owner": "antennapedia",
+        "title": "Cloud Animals",
+        "summary": "Giles rebuilds the Council in England. To Xander's eternal surprise, he's a Watcher now too. A sweet post-Chosen AU.",
+        "banner": "../css/giles_xander_header.jpg"
+    },
+    "s:core_four": {
+        "owner": "antennapedia",
+        "title": "Core Four 'verse",
+        "summary": "The enjoining spell the Scoobies used to defeat Adam has surprising and life-changing after-effects.",
+        "banner": "../css/giles_header.jpg"
+    },
+    "s:displaced_watcher": {
+        "owner": "antennapedia",
+        "title": "The Displaced Watcher",
+        "summary": "Giles acquires a strange artifact, and makes the acquaintance of a consulting dectective and his biographer.",
+        "banner": "../css/giles_header.jpg"
+    },
+    "s:breaking_glass": {
+        "owner": "antennapedia",
+        "title": "Breaking Glass",
+        "summary": "Religion, conspiracies, history, magic, artifacts buried deep, Watchers and Slayers. And the story of Rupert Giles, who wants to serve a Slayer.",
+        "banner": "../css/giles_header.jpg"
+    },
+    "s:antique_roman": {
+        "owner": "antennapedia",
+        "title": "An Antique Roman",
+        "summary": "Ethan Rayne and Rupert Giles have been friends, enemies, and lovers since they were schoolboys. But when Ethan descends upon Giles on a very strange Christmas week, things work out differently.",
+        "banner": "http://antennapedia.com/Banners/katekat1010_antique_roman_poster1.png"
+    },
+    "s:attic": {
+        "owner": "antennapedia",
+        "title": "The Attic",
+        "summary": "After the fall of Sunnydale, Rupert Giles is with the new Slayers in Cleveland, fighting demons on the new hellmouth. They have no money, but they have each other. Most especially, Giles has Xander. But the year of fighting the First has scarred all of them.",
+        "banner": "../css/giles_xander_header.jpg"
+    },
+    "s:blackmail": {
+        "owner": "antennapedia",
+        "title": "Blackmail",
+        "summary": "A kinky revision of season 4, in ten parts, each in seven chapters. BDSM and other entertainments among consenting adults are depicted. Kink levels and the associated ratings are high; the emphasis is not on the plot. See the header on the first story for warnings.",
+        "banner": "http://antennapedia.com/Banners/katekat1010_blackmail_sm.jpeg"
+    },
+    "s:legacies": {
+        "owner": "antennapedia",
+        "title": "Legacies",
+        "summary": "Giles's Uncle Charles died in the explosion that destroyed the Council of Watchers, but he left Giles a few legacies. Life-changing legacies.",
+        "banner": "../css/giles_buffy_header.jpg"
+    },
+    "s:watchers_child": {
+        "owner": "antennapedia",
+        "title": "Watcher's Child",
+        "summary": "Giles/Jenny, various ratings, ending up with a different pairing to be revealed.",
+        "banner": "../css/giles_header.jpg"
+    },
+    "s:owned": {
+        "owner": "antennapedia",
+        "title": "Owned",
+        "summary": "Malcolm Tucker, spin doctor to Downing Street, and Clara Oswald, up-and-coming party strategist, are in an relationship. A most unconventional relationship.",
+        "banner": "../css/malcolm_clara_header.jpg"
+    },
+    "s:traveling": {
+        "owner": "antennapedia",
+        "title": "Traveling Hopefully",
+        "summary": "Malcolm Tucker, spin doctor to Downing Street, and Clara Oswald, schoolteacher. And their travels in a little blue box with an alien who looks alarmingly like Malcolm's father.",
+        "banner": "../css/malcolm_clara_header.jpg"
+    },
+    "s:tyger": {
+        "owner": "antennapedia",
+        "title": "Tyger Tyger",
+        "summary": "Tyger Tyger burning bright: what if In the Forest of the Night had ended very differently?",
+        "banner": "../css/twelve_clara_header.jpg"
+    }
+}
