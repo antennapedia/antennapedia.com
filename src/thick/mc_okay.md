@@ -6,7 +6,7 @@ summary: Clara has some news for Malcolm. Malcolm takes it in his stride. His pe
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: Oct 1 2015 12:00pm PST
+published: 2015-10-01T12:00:00-08:00
 tags:
     - p:malcolm/clara
     - f:the_thick_of_it

@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Jamie receives messages from Saint Malcolm."
 rating: mature
 pairing: Malcolm/Jamie
-published: July 27 2015 12:00pm PST
+published: 2015-07-27T12:00:00-08:00
 banner: ../css/malcolm_tux_header.jpg
 tags:
     - s:maddogs

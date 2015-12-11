@@ -6,7 +6,7 @@ summary: "A night of celebration, a night of fighting in an elevator, a good nig
 rating: mature
 pairing: Malcolm/Jamie
 banner: ../css/malcolm_tux_header.jpg
-published: July 29 2015 12:00pm PST
+published: 2015-07-29T12:00:00-08:00
 tags:
     - p:malcolm/jamie
     - f:the_thick_of_it

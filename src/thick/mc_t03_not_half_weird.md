@@ -6,7 +6,7 @@ summary: "Clara has to break some news to Malcolm."
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: May 13 2015 12:05pm PST
+published: 2015-05-13T12:05:00-08:00
 tags:
     - s:traveling
     - p:malcolm/clara

@@ -6,7 +6,7 @@ summary: Malcolm's first date with Clara, and his first time doing a lot of thin
 rating: adult
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: August 16 2015 12:00pm PST
+published: 2015-08-16T12:00:00-08:00
 tags:
     - s:owned
     - p:malcolm/clara

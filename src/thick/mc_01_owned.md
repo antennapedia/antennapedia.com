@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm's bit of solo experimentation with bondage has gone horribly wrong. To his horror, coworker Clara appears to rescue him. Clara decides to demand answers to a few questions before setting him free."
 pairing: Malcolm/Clara
 rating: adult
-published: April 8 2015 12:00pm PST
+published: 2015-04-08T12:00:00-08:00
 banner: ../css/malcolm_clara_header.jpg
 tags:
     - s:owned

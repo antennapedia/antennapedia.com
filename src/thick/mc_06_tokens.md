@@ -6,7 +6,7 @@ summary: "The morning after: Clara persuades Malcolm to take a holiday. He isn't
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: May 9 2015 12:00pm PST
+published: 2015-05-09T12:00:00-08:00
 tags:
     - s:owned
     - p:malcolm/clara

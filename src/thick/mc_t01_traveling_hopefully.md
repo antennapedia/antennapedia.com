@@ -6,7 +6,7 @@ summary: "Malcolm is returning to London from self-imposed exile on a remote isl
 rating: adult
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: January 18 2015 12:00pm PST
+published: 2015-01-18T12:00:00-08:00
 tags:
     - s:traveling
     - p:malcolm/clara

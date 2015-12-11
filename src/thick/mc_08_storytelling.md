@@ -6,7 +6,7 @@ summary: Clara sets some boundaries; Malcolm is forced to do some thinking.
 rating: adult
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: October 30 2015 12:00pm PST
+published: 2015-10-30T12:00:00-08:00
 tags:
     - s:owned
     - p:malcolm/clara
