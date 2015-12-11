@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor has transformed himself into a teenaged boy to infiltrate a school. It doesn't wear off immediately. HIJINX ENSUE.
 rating: general
 pairing: gen
-published: July 27 2015 12:06pm PST
+published: 2015-07-27T12:06:00-08:00
 tags:
     - p:gen
     - f:doctor_who

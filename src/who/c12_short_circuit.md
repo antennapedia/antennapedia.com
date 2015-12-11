@@ -5,7 +5,7 @@ author: antennapedia
 summary: They run out of the house, through the snow, and into the TARDIS. And then...
 rating: general
 pairing: Twelve/Clara
-published: July 27 2015 12:08pm PST
+published: 2015-07-27T12:08:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

@@ -6,7 +6,7 @@ summary: |
     "You were the one I wanted most to stay. But time could not be kept at bay. The more it goes, the more it's gone - the more it takes away." - Poem by Lang Leav, prompt for Twelve about Clara*
 rating: general
 pairing: Twelve/Clara
-published: February 7 2015 12:00pm PST
+published: 2015-02-07T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

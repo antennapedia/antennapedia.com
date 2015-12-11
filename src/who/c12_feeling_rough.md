@@ -5,7 +5,7 @@ author: antennapedia
 summary: Missy captured the Doctor, but he has escaped. He flees to Clara, but it's not easy.
 rating: general
 pairing: Twelve/Clara
-published: March 7 2015 12:00pm PST
+published: 2015-03-07T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

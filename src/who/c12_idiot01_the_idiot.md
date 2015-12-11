@@ -4,7 +4,7 @@ title: The Idiot
 author: antennapedia
 summary: The Doctor looks deep into Clara's eyes... and to his horror realizes that the bonding has been triggered. He must either mate with Clara or die. He chooses death.
 pairing: Twelve/Clara
-published: September 12 2015 12:00pm PST
+published: 2015-09-12T12:00:00-08:00
 rating: mature
 tags:
     - p:twelve/clara

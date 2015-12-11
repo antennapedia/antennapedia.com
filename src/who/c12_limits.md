@@ -6,7 +6,7 @@ summary: "Clara and the Doctor in a play session, take two."
 rating: general
 notes: Written for an anonymous prompt on tumblr that asked for CBT.
 pairing: Twelve/Clara
-published: Feb 8 12:00pm PST
+published: 2015-02-08T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

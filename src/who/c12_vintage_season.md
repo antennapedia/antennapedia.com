@@ -4,7 +4,7 @@ title: Vintage Season
 author: antennapedia
 summary: Young Jolyon is painting at Kew when an odd couple sits near him and has an even odder conversation.
 pairing: Twelve/Clara
-published: October 10 2015 12:10pm PST
+published: 2015-10-10T12:10:00-08:00
 rating: general
 tags:
     - p:twelve/clara

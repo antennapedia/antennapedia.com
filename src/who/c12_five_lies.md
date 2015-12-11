@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Mummy on the Orient Express missing scene: Clara & the Doctor decide to go for one last hurrah."
 rating: general
 pairing: gen
-published: February 7 2015 12:00pm PST
+published: 2015-02-07T12:00:00-08:00
 tags:
     - p:gen
     - f:doctor_who

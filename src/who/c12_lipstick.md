@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Clara looks for her lipstick. The Doctor meddles."
 rating: general
 pairing: Twelve/Clara
-published: November 18 2014 12:00pm PST
+published: 2014-11-18T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

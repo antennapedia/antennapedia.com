@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Clara wants a pajama party. The Doctor is sure he knows exactly what that means."
 rating: general
 pairing: Twelve/Clara
-published: November 20 2014 12:00pm PST
+published: 2014-11-20T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

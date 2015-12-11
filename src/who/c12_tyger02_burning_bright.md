@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor sees the future and makes plans.
 rating: mature
 pairing: Twelve/Clara
-published: October 12 2015 1:00pm PST
+published: 2015-10-12T13:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

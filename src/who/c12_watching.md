@@ -5,7 +5,7 @@ author: antennapedia
 summary: The TARDIS led her there, but Clara's the one who chose to stay. And watch.
 rating: mature
 pairing: Twelve/Clara
-published: April 4 2015 12:00pm PST
+published: 2015-04-04T12:00:00-08:00
 tags:
     - p:twelve/tardis
     - p:twelve/clara

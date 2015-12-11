@@ -5,7 +5,7 @@ author: antennapedia
 summary: "The Doctor needs a champion. A stranger rides in and offers her sword. She's a little short for a knight."
 rating: general
 pairing: Twelve/Clara
-published: May 30 2015 12:05pm PST
+published: 2015-05-30T12:05:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

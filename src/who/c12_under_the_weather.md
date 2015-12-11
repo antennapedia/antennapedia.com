@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Clara is sick. What on earth is the Doctor doing with her tea kettle?"
 rating: general
 pairing: Twelve/Clara
-published: May 30 2015 12:00pm PST
+published: 2015-05-30T12:00:00-08:00
 tags:
     - f:doctor_who
     - p:twelve/clara

@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor will do whatever makes Clara happy, even when it puzzles him. So will Danny.
 rating: general
 pairing: Twelve/Clara/Danny
-published: July 27 2015 12:10pm PST
+published: 2015-07-27T12:10:00-08:00
 tags:
     - p:twelve/clara/danny
     - f:doctor_who

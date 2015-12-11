@@ -5,7 +5,7 @@ author: antennapedia
 summary: "The Doctor was wrong about the trees and the solar flare. Very very wrong."
 rating: mature
 pairing: Twelve/Clara
-published: April 4 2015 12:00pm PST
+published: 2015-04-04T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

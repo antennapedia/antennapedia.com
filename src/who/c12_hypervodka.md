@@ -5,7 +5,7 @@ author: antennapedia
 summary: There’s some karaoke. And hypervodka. And consequences.
 rating: general
 pairing: Twelve/Clara
-published: May 1 2015 12:00pm PST
+published: 2015-05-01T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

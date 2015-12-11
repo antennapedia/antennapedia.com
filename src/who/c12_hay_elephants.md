@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor and an injured Clara seek shelter from a winter storm. Huddling for warmth ensues.
 rating: general
 pairing: Twelve/Clara
-published: August 31 2015 9:00pm PST
+published: 2015-08-31T21:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

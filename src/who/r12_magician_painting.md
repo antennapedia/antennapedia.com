@@ -5,7 +5,7 @@ author: antennapedia
 summary: Rose Tyler likes to visit an odd painting in the National Gallery, because its title mentions Gallifrey. One day she meets a stranger there.
 rating: general
 pairing: Twelve/Rose
-published: October 4 2015 1:00pm PST
+published: 2015-10-04T13:00:00-08:00
 tags:
     - p:twelve/rose
     - f:doctor_who

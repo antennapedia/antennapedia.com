@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor explains to Clara why he's alone, even when he's holding her. She does something about it.
 rating: mature
 pairing: Twelve/Clara
-published: March 23 2015 12:00pm PST
+published: 2015-03-23T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

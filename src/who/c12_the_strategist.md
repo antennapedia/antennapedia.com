@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Victorious Queen Clara's guards bring her a captive that suit her very specific tastes: gray-haired and lean. This one isn't what he appears to be, however."
 rating: general
 pairing: Twelve/Clara
-published: June 27 2015 12:00pm PST
+published: 2015-06-27T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

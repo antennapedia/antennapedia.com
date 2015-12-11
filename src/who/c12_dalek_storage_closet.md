@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Hiding in a storage closet again? Clara knows how to pass the time."
 rating: general
 pairing: Twelve/Clara
-published: April 4 2015 12:00pm PST
+published: 2015-04-04T12:00:00-08:00
 fandoms:
 tags:
     - p:twelve/clara

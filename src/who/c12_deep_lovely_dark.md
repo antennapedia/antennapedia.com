@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor is afraid to sleep and eventually it catches up with him.
 rating: teen
 pairing: Twelve/Clara
-published: August 21 2015 12:00pm PST
+published: 2015-08-21T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

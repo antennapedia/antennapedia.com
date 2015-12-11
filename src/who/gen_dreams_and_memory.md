@@ -6,7 +6,7 @@ rating: general
 summary: Zoe dreams and wakes.
 notes: Written for Remix Redux 2010. A remix of <a href="http://archiveofourown.org/works/6113">"Dreams and Memory"</a> by <a href="http://archiveofourown.org/users/amaresu/pseuds/amaresu">amaresu</a>.
 pairing: gen
-published: May 16 2010 00:01 PST
+published: 2010-05-16T00:01:00-08:00
 tags:
     - f:doctor_who
     - p:gen

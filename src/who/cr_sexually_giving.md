@@ -4,8 +4,8 @@ title: Sexually Giving
 author: antennapedia
 summary: Clara meets Pilfrey. Don't weep for him any more.
 rating: mature
-pairing: Clara/Pilfrey
-published: June 27 2015 12:02pm PST
+pairing: pilfrey/clara
+published: 2015-06-27T12:02:00-08:00
 tags:
     - f:doctor_who
     - p:clara/pilfrey

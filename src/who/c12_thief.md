@@ -5,7 +5,7 @@ author: antennapedia
 summary: "This is what happened in between the Doctor's visit to Gallifrey's coordinates and the meeting in the cafe."
 rating: mature
 pairing: Twelve/Clara
-published: December 24 2014 12:00pm PST
+published: 2014-12-24T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

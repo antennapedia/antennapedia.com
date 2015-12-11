@@ -5,7 +5,7 @@ author: antennapedia
 summary: "For once an encounter with an advanced civilization was not going to end in war, catastrophe, disaster, or even a pell-mell run toward something or away from something. It was just a lovely thank-you ceremony for the two of them, that's all, followed by a lovely night high up in a tree house. With one bed. Wait."
 rating: mature
 pairing: Twelve/Clara
-published: November 6 2014 12:00pm PST
+published: 2014-11-06T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

@@ -5,7 +5,7 @@ author: antennapedia
 summary: Sick Timelords are a PITA
 rating: general
 pairing: Twelve/Clara
-published: July 27 2015 12:02pm PST
+published: 2015-07-27T12:02:00-08:00
     - p:twelve/clara
     - f:doctor_who
     - c:clara-oswald

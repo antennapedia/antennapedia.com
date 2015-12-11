@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Hiding in plain sight, on the night of the winter solstice."
 rating: general
 pairing: Twelve/Clara
-published: February 7 2015 12:00pm PST
+published: 2015-02-07T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

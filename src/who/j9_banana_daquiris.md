@@ -11,7 +11,7 @@ notes: |
     Three things you want: Bananas, Jackie as a companion (Can be AU if you want). Jackie saves the world.<br>
     Two things you don't want: Noncon, fluff, Mickey bashing.
 pairing: Nine/Jackie
-published: November 26 2007 07:46am PST
+published: 2007-11-26T07:46:00-08:00
 tags:
     - p:nine/jackie
     - f:doctor_who

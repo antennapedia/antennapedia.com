@@ -5,7 +5,7 @@ author: antennapedia
 summary: The Doctor wants to marry her the Gallifreyan way as well as the human way. There are consequences.
 rating: general
 pairing: Twelve/Clara
-published: July 27 2015 12:04pm PST
+published: 2015-07-27T12:04:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who

@@ -5,7 +5,7 @@ author: antennapedia
 summary: All of time and space, out there in a blue box. Where do they go first, and what do they do? The Doctor shows Clara a wonder.
 rating: mature
 pairing: Twelve/Clara
-published: February 14 2015 12:00pm PST
+published: 2015-02-14T12:00:00-08:00
 tags:
     - p:twelve/clara
     - f:doctor_who
