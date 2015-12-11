@@ -26,3 +26,4 @@ node_modules
 templates
 .sass-cache
 scratch
+build
