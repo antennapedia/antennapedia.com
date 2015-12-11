@@ -1,6 +1,10 @@
 extends basic.jade
 include partials/capsule.jade
 
+block links
+	link(rel='stylesheet' rev='stylesheet' href='../css/styles.css')
+	link(rel='alternate' type='application/rss' href='../rss.xml')
+
 block title
 	- fandom = fandoms[tag]
 	- series = series[tag]

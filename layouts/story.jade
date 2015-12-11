@@ -1,5 +1,9 @@
 extends basic.jade
 
+block links
+	link(rel='stylesheet' rev='stylesheet' href='../css/styles.css')
+	link(rel='alternate' type='application/rss' href='../rss.xml')
+
 block banner
 	style.
 		#nav { background-image: #{banner} }
@@ -22,3 +26,7 @@ block topmatter
 block content
 	div#storybody
 		!= contents
+
+block footer
+	hr
+	p: small: a(href='../acknowledgments.html') Credits, acknowledgments, and disclaimers.

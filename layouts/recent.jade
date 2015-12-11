@@ -1,0 +1,23 @@
+extends basic.jade
+
+mixin capsule(story)
+	- taglist = story.tags.join(', ')
+	div.story_summary
+		- fullname = story.path.dir + '/' + story.path.name + '.html'
+		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
+		| &nbsp; #{story.pairing}, #{story.rating}
+		br
+		| #{story.summary} #{story.wordCount} words; reading time #{story.readingTime}. 
+		i= story.published
+
+block title
+	title Newest stories
+
+block topmatter
+	h1 Newest stories
+
+block content
+	#storylisting
+		- each story in collections.recent
+			+capsule(story)
+			br

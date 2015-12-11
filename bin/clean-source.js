@@ -66,9 +66,9 @@ function loadFile(fpath, callback)
 	});
 }
 
-var outdir = __dirname + '/../markdown';
+var outdir = __dirname + '/../scratch/markdown';
 
-findNewerFiles(__dirname + '/../json', null, function(err, files)
+findNewerFiles(__dirname + '/../scratch/json', null, function(err, files)
 {
 	if (err) throw err;
 	parseAll(files, function(err, results)

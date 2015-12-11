@@ -1,20 +1,23 @@
 #!/usr/bin/env node
 
 var Metalsmith = require('metalsmith'),
-	metadata   = require('metalsmith-metadata'),
-	paths      = require('metalsmith-paths'),
-	sitetitle  = require('metalsmith-page-titles'),
-	buildDate  = require('metalsmith-build-date'),
-	sass       = require('metalsmith-sass'),
-	markdownit = require('metalsmith-markdownit'),
-	timestamp  = require('metalsmith-timestamp'),
-	navigation = require('metalsmith-navigation'),
-	tags       = require('metalsmith-tags'),
-	wordcount  = require('metalsmith-word-count'),
-	layouts    = require('metalsmith-layouts'),
-	beautify   = require('metalsmith-beautify'),
-	static     = require('metalsmith-static'),
-	changed    = require('metalsmith-changed')
+	beautify    = require('metalsmith-beautify'),
+	buildDate   = require('metalsmith-build-date'),
+	changed     = require('metalsmith-changed'),
+	collections = require('metalsmith-collections'),
+	feed        = require('metalsmith-feed'),
+	identifiers = require('metalsmith-headings-identifier'),
+	layouts     = require('metalsmith-layouts'),
+	markdownit  = require('metalsmith-markdownit'),
+	metadata    = require('metalsmith-metadata'),
+	navigation  = require('metalsmith-navigation'),
+	paths       = require('metalsmith-paths'),
+	sass        = require('metalsmith-sass'),
+	sitetitle   = require('metalsmith-page-titles'),
+	static      = require('metalsmith-static'),
+	tags        = require('metalsmith-tags'),
+	timestamp   = require('metalsmith-timestamp'),
+	wordcount   = require('metalsmith-word-count')
 	;
 
 var argv = require('yargs')
@@ -40,7 +43,11 @@ if (argv.changed)
 metalsmith
 	.concurrency(30)
 	.metadata({
-		site: { title: 'Antennapedia' }
+		site: {
+			title: 'Antennapedia',
+			url: 'https://antennapedia.com',
+			author: 'antennapedia'
+		}
 	})
 	.use(metadata({
 		fandoms: 'metadata/fandoms.json',
@@ -56,18 +63,28 @@ metalsmith
 	}))
 	.use(timestamp())
 	.use(navigation())
+	.use(wordcount())
+	.use(collections({
+		recent: {
+			pattern: '**/*.html',
+			sortBy: 'published',
+			reverse: true,
+			limit: 10
+		}
+	}))
+	.use(feed({ collection: 'recent' }))
 	.use(tags({
 		'handle': 'tags',
 		'path': 'tags/:tag.html',
 		'layout': 'tag.jade',
 		'sortBy': 'idtag'
 	}))
-	.use(wordcount())
 	.use(layouts({
 		'engine': 'jade',
 		'default': 'story.jade',
 		'pattern': ['**/*.html' ]
 	}))
+	.use(identifiers())
 	.use(beautify({
 		'css': true,
 		'preserve_newlines': false
