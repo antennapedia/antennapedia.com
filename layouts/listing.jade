@@ -11,5 +11,6 @@ block content
 	- var list = collections[pullfrom]
 	#threecolumn
 		- each story in list
-			+capsule(story)
-			br
+			if story.title
+				+capsule(story)
+				br

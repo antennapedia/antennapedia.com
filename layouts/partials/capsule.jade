@@ -5,12 +5,13 @@ mixin capsule(story)
 	if !rootPath
 		- rootPath = ''
 	.story_summary
-		- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
-		a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
-		br
-		| #{story.pairing}, #{story.rating}
-		br
-		= story.summary
-		br
-		| #{story.wordCount} words; reading time #{story.readingTime}. 
-		i= story.published
+		.story_box
+			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
+			a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
+			br
+			| #{story.pairing}, #{story.rating}
+			br
+			= story.summary
+			br
+			| #{story.wordCount} words; reading time #{story.readingTime}. 
+			i= story.published

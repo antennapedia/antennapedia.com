@@ -16,7 +16,7 @@ block title
 		title= series.title
 		- banner = series.banner
 	else
-		title= tag
+		title tag: #{tag}
 
 block banner
 	if banner
@@ -42,7 +42,7 @@ block topmatter
 		h2= series.title
 		p= series.summary
 	else
-		h2= tag
+		h2 #{tag}
 	if pagination.files.length === 1
 		p 1 story.
 	else
