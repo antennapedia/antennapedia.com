@@ -12,7 +12,6 @@ var Metalsmith = require('metalsmith'),
 	layouts       = require('metalsmith-layouts'),
 	markdownit    = require('metalsmith-markdownit'),
 	metadata      = require('metalsmith-metadata'),
-	navigation    = require('metalsmith-navigation'),
 	paths         = require('metalsmith-paths'),
 	sass          = require('metalsmith-sass'),
 	sitetitle     = require('metalsmith-page-titles'),
@@ -20,6 +19,8 @@ var Metalsmith = require('metalsmith'),
 	tags          = require('metalsmith-tags'),
 	wordcount     = require('metalsmith-word-count')
 	;
+
+var start = Date.now();
 
 var argv = require('yargs')
 	.option('c', {
@@ -52,7 +53,8 @@ metalsmith
 	})
 	.use(metadata({
 		fandoms: 'metadata/fandoms.json',
-		series: 'metadata/series.json'
+		series: 'metadata/series.json',
+		archive: 'metadata/archive.json'
 	}))
 	.use(paths())
 	.use(sitetitle())
@@ -66,8 +68,8 @@ metalsmith
 		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
 	}))
 	.use(autotoc({selector: 'h2, h3, h4'}))
-	.use(navigation())
 	.use(wordcount())
+	.use(totalWords)
 	.use(collections({
 		recent: {
 			pattern: '**/*.html',
@@ -98,7 +100,23 @@ metalsmith
 		'dest': '.'
 	}));
 
+function totalWords(files, ms, done)
+{
+	var metadata = metalsmith.metadata();
+	var total = 0;
+	var fnames = Object.keys(files);
+	fnames.forEach(function(f)
+	{
+		total += parseInt(files[f].wordCount || 0, 10);
+	});
+	metadata.storycount = fnames.length - 4; // magic number
+	metadata.wordcount = total;
+	done();
+}
+
 metalsmith.build(function(err)
 {
+	console.log(Object.keys(metalsmith), Object.keys(metalsmith._metadata));
+	console.log('site built in ' + Math.round((Date.now() - start) / 1000) + 's');
 	if (err) throw err;
 });
