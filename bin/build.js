@@ -5,6 +5,7 @@ var Metalsmith = require('metalsmith'),
 	buildDate   = require('metalsmith-build-date'),
 	changed     = require('metalsmith-changed'),
 	collections = require('metalsmith-collections'),
+	dateFormatter = require('metalsmith-date-formatter'),
 	feed        = require('metalsmith-feed'),
 	identifiers = require('metalsmith-headings-identifier'),
 	layouts     = require('metalsmith-layouts'),
@@ -16,7 +17,6 @@ var Metalsmith = require('metalsmith'),
 	sitetitle   = require('metalsmith-page-titles'),
 	static      = require('metalsmith-static'),
 	tags        = require('metalsmith-tags'),
-	timestamp   = require('metalsmith-timestamp'),
 	wordcount   = require('metalsmith-word-count')
 	;
 
@@ -41,7 +41,7 @@ if (argv.changed)
 }
 
 metalsmith
-	.concurrency(30)
+	.concurrency(40)
 	.metadata({
 		site: {
 			title: 'Antennapedia',
@@ -61,7 +61,9 @@ metalsmith
 		'typographer': true,
 		'html': true
 	}))
-	.use(timestamp())
+	.use(dateFormatter({
+		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
+	}))
 	.use(navigation())
 	.use(wordcount())
 	.use(collections({
@@ -69,7 +71,7 @@ metalsmith
 			pattern: '**/*.html',
 			sortBy: 'published',
 			reverse: true,
-			limit: 10
+			limit: 15
 		}
 	}))
 	.use(feed({ collection: 'recent' }))

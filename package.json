@@ -37,7 +37,6 @@
     "metalsmith-slug": "0.0.5",
     "metalsmith-static": "0.0.5",
     "metalsmith-tags": "~1.0.0",
-    "metalsmith-timestamp": "~1.1.1",
     "metalsmith-typography": "~0.1.1",
     "metalsmith-word-count": "0.0.4",
     "moment": "~2.10.6",
