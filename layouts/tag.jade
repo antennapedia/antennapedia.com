@@ -23,7 +23,15 @@ block banner
 			#nav { background-image: url(#{banner})	 }
 			
 block navigation
-	include partials/subnav.jade
+	a(href="../index.html")
+		b Antennapedia
+	| &nbsp;|&nbsp;
+	a(href="../all.html") all stories
+	| &nbsp;|&nbsp;
+	a(href='../tags.html') by tags
+	| &nbsp;|&nbsp;
+	a(href='../new.html') newest stories
+	br
 
 block topmatter
 	if fandom

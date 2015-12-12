@@ -74,10 +74,15 @@ metalsmith
 	.use(totalWords)
 	.use(collections({
 		recent: {
-			pattern: '**/*.html',
+			pattern: '*/*.html',
 			sortBy: 'published',
 			reverse: true,
 			limit: 15
+		},
+		all: {
+			pattern: '*/*.html',
+			sortBy: 'published',
+			reverse: true
 		}
 	}))
 	.use(feed({ collection: 'recent' }))

@@ -1,4 +1,5 @@
 ---
 title: Newest stories
-layout: recent.jade
+layout: listing.jade
+pullfrom: recent
 ---

@@ -6,7 +6,7 @@ block title
 block topmatter
 	h1= site.title
 	p= archive.subtitle
-	p!= archive.description
+	!= archive.description
 
 block content
 	p #{storycount} stories totalling #{wordcount} words.
@@ -22,8 +22,8 @@ block content
 			else
 				| #{tagobj.length} stories
 		p= fandom.description
-	hr
-	p Want to take the archive on the go? All the standalone stories are in 
-		a(href='printable/all_stories.epub') this handy epub book.
-		|  Each series is also available as an epub file; see the table of contents
-		|  page for a series you're interested in for the link.
+	p
+		small
+			a(href='acknowledgments.html') Credits, acknowledgments, and disclaimers.
+			br
+			i Last updated #{date}.

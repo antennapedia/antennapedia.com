@@ -1,7 +1,9 @@
 extends basic.jade
 
 mixin capsule(story)
-	- taglist = story.tags.join(', ')
+	- var taglist = ''
+	if story.tags
+		- taglist = story.tags.join(', ')
 	div.story_summary
 		- fullname = story.path.dir + '/' + story.path.name + '.html'
 		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
@@ -13,13 +15,14 @@ mixin capsule(story)
 		i= story.published
 
 block title
-	title Newest stories
+	title= title
 
 block topmatter
-	h1 Newest stories
+	h1= title
 
 block content
+	- var list = collections[pullfrom]
 	#storylisting
-		- each story in collections.recent
+		- each story in list
 			+capsule(story)
 			br

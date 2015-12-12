@@ -18,6 +18,7 @@ tags:
   - 'p:randall/lix'
 rating: general
 pairing: randall/lix
+autotoc: true
 ---
 ## One
 
