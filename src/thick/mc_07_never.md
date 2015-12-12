@@ -9,6 +9,7 @@ pairing: Malcolm/Clara
 published: 2015-07-12T12:00:00-08:00
 tags:
     - s:owned
+    - genre:crossover
     - p:malcolm/clara
     - f:the_thick_of_it
     - f:doctor_who
@@ -21,7 +22,7 @@ tags:
     - genre:romance
     - kink:collars
     - kink:dom/sub
-    - morning-sex
+    - sex:morning
 altlink: http://archiveofourown.org/works/4330335
 ---
 Malcolm Tucker. The dark lord of Downing Street, the PM's enforcer, the psychotic Glaswegian bully-- asleep peacefully in bed. His face was different when he was relaxed, not snarling. It was still beaky behind that nose, still alarmingly like a bird of prey, but Clara could see the smile lines around his mouth, at the corners of his eyes. He wasn't a man who wanted to snarl. That was, perhaps, his greatest secret.

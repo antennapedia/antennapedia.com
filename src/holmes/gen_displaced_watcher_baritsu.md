@@ -12,7 +12,7 @@ tags:
   - 'c:giles'
   - 'c:holmes'
   - 'c:watson'
-  - crossover
+  - genre:crossover
   - 'season:05'
   - tagfic
   - timetravel

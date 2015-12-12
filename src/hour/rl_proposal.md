@@ -4,7 +4,7 @@ author: antennapedia
 published: '2015-07-27T12:17:00-08:00'
 title: Proposal
 notes: null
-summary: Randall finds the words at last..
+summary: Randall finds the words at last.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
 tags:
   - 'c:lix-storm'

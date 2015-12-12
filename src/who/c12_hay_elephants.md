@@ -19,7 +19,7 @@ tags:
     - dreams
     - genre:hurt/comfort
     - c:hurt!clara
-    - huddling-for-warmth
+    - trope:huddling-for-warmth
 altlink: http://archiveofourown.org/works/4710320
 ---
 The dire wolves had been beaten back, at some cost. The TARDIS was not reachable, not now, not with Clara bleeding from their teeth, not with the howling blizzard the Doctor could see coming in fast from the west. Nightfall was upon them, and the snow, and it would be death to carry her through this. He ran for the barn, with Clara slung over his shoulder in a fireman's carry. The barn was whole, and had been built to shelter animals through bitter storms like this. It would do for them.

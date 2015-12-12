@@ -68,8 +68,7 @@ body
 		line-height: 125%
 
 	p
-		font-family: Merriweather, serif
-		font-size: 9pt
+		font-size: 1.1em
 
 a
 	text-decoration: none
@@ -103,16 +102,38 @@ h3
 	-webkit-column-break-inside: avoid
 	page-break-inside: avoid
 	break-inside: avoid
+	position: relative
+	padding-left: 3em
 
-#storylisting
+.story_summary:before
+	padding-right: 10px
+	font-size: 5em
+	font-weight: 700
+	top: -5px
+	left: -2px
+	position: absolute
+	color: $mediumcolor
+	content: "\201C"
+
+#twocolumn
+	columns: 2
+	column-rule: none
+	column-gap: 1em
+
+#threecolumn
 	columns: 3
 	column-rule: none
 	column-gap: 0
 
-#taglisting
+#fivecolumn
 	columns: 5
 	column-rule: none
 	column-gap: 0
+
+.nobreak
+	-webkit-column-break-inside: avoid
+	page-break-inside: avoid
+	break-inside: avoid
 
 #banner
 	margin-top: 10px
@@ -122,30 +143,6 @@ h3
 	font-weight: 300
 	list-style-type: upper-roman
 	font-size: 150%
-
-#storylinks
-	font-family: Oswald, sans-serif
-	font-weight: 300
-	background-color: $foregroundcolor
-	color: white
-	margin: 0 auto
-	text-align: left
-	margin-top: 5px
-	padding: 8px 0 8px 8px
-
-	a
-		color: $contrastcolor
-		text-decoration: none
-		margin-top: 2px
-
-	a:hover
-		background: #101010 none repeat scroll 0 0
-		color: $mediumcolor
-
-	a:visited
-		color: $mediumcolor
-		text-decoration: none
-		margin-top: 2px
 
 #storybody
 	margin-top: 10px
@@ -176,48 +173,9 @@ hr
 		border: 1px dotted $lightestcolor
 		border-style: none none dotted
 
-
 blockquote
 	font-style: italic
 	color: $darkestcolor
 
-
 .storytitle
 	font-weight: 400
-
-.seriestitle
-	font-weight: 400
-
-
-#tags
-	width: 383px
-	float: left
-	padding-right: 1em
-
-#tag_listing
-	margin-left: 394px
-
-.tag
-	font-family: Oswald, sans-serif
-	display: inline
-	padding: 3px
-	color: $darkestcolor
-	background-color: $backgroundcolor
-	-webkit-border-radius: 7px
-	-moz-border-radius: 7px
-	border-radius: 7px
-	&:hover, &:visited:hover
-		color: $backgroundcolor
-		background-color: $contrastcolor
-	&:active
-		color: $mediumcolor
-		background-color: $contrastcolor
-
-.tag a
-	text-decoration: none
-	color: inherit
-	background-color: inherit
-
-.tag_selected
-	color: $backgroundcolor
-	background-color: $darkestcolor

@@ -6,24 +6,27 @@ block title
 block topmatter
 	h1= site.title
 	p= archive.subtitle
-	!= archive.description
+	!= contents
 
 block content
 	p #{storycount} stories totalling #{wordcount} words.
-	- var fnames = Object.keys(fandoms)
-	- each ftag in fnames
-		- var fandom = fandoms[ftag]
-		- var tagobj = tags[ftag]
-		h3
-			a(href='tags/#{tagobj.urlSafe}.html')= fandom.title
-			|:&nbsp;
-			if tagobj.length === 1
-				| 1 story
-			else
-				| #{tagobj.length} stories
-		p= fandom.description
-	p
-		small
-			a(href='acknowledgments.html') Credits, acknowledgments, and disclaimers.
-			br
-			i Last updated #{date}.
+	#twocolumn
+		- var fnames = Object.keys(fandoms)
+		- each ftag in fnames
+			- var fandom = fandoms[ftag]
+			- var tagobj = tags[ftag]
+			.nobreak
+				h3
+					a(href='tags/#{tagobj.urlSafe}.html')= fandom.title
+					|:&nbsp;
+					if tagobj.length === 1
+						| 1 story
+					else
+						| #{tagobj.length} stories
+				p= fandom.description
+
+block footer
+	hr
+	p:small
+		a(href='acknowledgments.html') Credits, acknowledgments, and disclaimers.
+	p:small:i Last updated #{date}.

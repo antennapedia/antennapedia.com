@@ -13,7 +13,7 @@ tags:
     - c:twelfth-doctor
     - genre:hurt/comfort
     - genre:angst
-    - death-in-heaven
+    - episode:death-in-heaven
     - sex:first-time
     - pining
 altlink: http://archiveofourown.org/works/2574320

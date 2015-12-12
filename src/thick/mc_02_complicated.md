@@ -8,6 +8,7 @@ pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
 published: 2015-08-16T12:00:00-08:00
 tags:
+    - genre:crossover
     - s:owned
     - p:malcolm/clara
     - f:the_thick_of_it

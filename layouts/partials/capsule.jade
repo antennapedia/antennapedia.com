@@ -1,9 +1,14 @@
 mixin capsule(story)
-	- taglist = story.tags.join(', ')
+	- var taglist = ''
+	if story.tags
+		- taglist = story.tags.join(', ')
+	if !rootPath
+		- rootPath = ''
 	.story_summary
-		- fullname = '../' + story.path.dir + '/' + story.path.name + '.html'
-		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
-		| &nbsp; #{story.pairing}, #{story.rating}
+		- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
+		a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
+		br
+		| #{story.pairing}, #{story.rating}
 		br
 		= story.summary
 		br

@@ -15,7 +15,7 @@ tags:
   - 'c:holmes'
   - 'c:watson'
   - council
-  - crossover
+  - genre:crossover
   - london
   - magic
   - 'season:05'

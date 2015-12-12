@@ -10,7 +10,7 @@ tags:
   - 'c:ethan'
   - 'c:giles'
   - 'c:second-doctor'
-  - crossover
+  - genre:crossover
   - incomplete
   - pre-series
   - school

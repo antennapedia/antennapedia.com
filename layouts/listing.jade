@@ -1,18 +1,5 @@
 extends basic.jade
-
-mixin capsule(story)
-	- var taglist = ''
-	if story.tags
-		- taglist = story.tags.join(', ')
-	div.story_summary
-		- fullname = story.path.dir + '/' + story.path.name + '.html'
-		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
-		| &nbsp; #{story.pairing}, #{story.rating}
-		br
-		= story.summary
-		br 
-		| #{story.wordCount} words; reading time #{story.readingTime}. 
-		i= story.published
+include partials/capsule.jade
 
 block title
 	title= title
@@ -22,7 +9,7 @@ block topmatter
 
 block content
 	- var list = collections[pullfrom]
-	#storylisting
+	#threecolumn
 		- each story in list
 			+capsule(story)
 			br

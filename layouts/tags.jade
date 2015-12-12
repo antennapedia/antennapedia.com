@@ -8,7 +8,7 @@ block topmatter
 	p There are #{tagl.length} tags.
 				
 block content
-	#taglisting
+	#fivecolumn
 		- each tag in tagl
 			- full = tags[tag]
 			a(href='tags/#{full.urlSafe}.html')= tag

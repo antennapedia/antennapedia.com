@@ -6,6 +6,7 @@ block links
 	link(rel='alternate' type='application/rss' href='../rss.xml')
 
 block title
+	- rootPath = '../'
 	- fandom = fandoms[tag]
 	- series = series[tag]
 	if fandom
@@ -49,7 +50,7 @@ block topmatter
 			|  stories.
 				
 block content
-	#storylisting
+	#threecolumn
 		- each story in pagination.files
 			+capsule(story)
 			br
