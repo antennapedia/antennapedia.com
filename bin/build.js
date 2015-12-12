@@ -1,29 +1,29 @@
 #!/usr/bin/env node
 
 var Metalsmith = require('metalsmith'),
-	beautify    = require('metalsmith-beautify'),
-	buildDate   = require('metalsmith-build-date'),
-	changed     = require('metalsmith-changed'),
-	collections = require('metalsmith-collections'),
+	beautify      = require('metalsmith-beautify'),
+	buildDate     = require('metalsmith-build-date'),
+	changed       = require('metalsmith-changed'),
+	collections   = require('metalsmith-collections'),
 	dateFormatter = require('metalsmith-date-formatter'),
-	feed        = require('metalsmith-feed'),
-	identifiers = require('metalsmith-headings-identifier'),
-	layouts     = require('metalsmith-layouts'),
-	markdownit  = require('metalsmith-markdownit'),
-	metadata    = require('metalsmith-metadata'),
-	navigation  = require('metalsmith-navigation'),
-	paths       = require('metalsmith-paths'),
-	sass        = require('metalsmith-sass'),
-	sitetitle   = require('metalsmith-page-titles'),
-	static      = require('metalsmith-static'),
-	tags        = require('metalsmith-tags'),
-	wordcount   = require('metalsmith-word-count')
+	feed          = require('metalsmith-feed'),
+	identifiers   = require('metalsmith-headings-identifier'),
+	layouts       = require('metalsmith-layouts'),
+	markdownit    = require('metalsmith-markdownit'),
+	metadata      = require('metalsmith-metadata'),
+	navigation    = require('metalsmith-navigation'),
+	paths         = require('metalsmith-paths'),
+	sass          = require('metalsmith-sass'),
+	sitetitle     = require('metalsmith-page-titles'),
+	static        = require('metalsmith-static'),
+	tags          = require('metalsmith-tags'),
+	wordcount     = require('metalsmith-word-count')
 	;
 
 var argv = require('yargs')
 	.option('c', {
-		alias: 'changed',
-		type: 'boolean',
+		alias:       'changed',
+		type:        'boolean',
 		description: 'only process changed files'
 	})
 	.argv;

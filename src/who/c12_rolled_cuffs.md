@@ -12,8 +12,8 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - genre:kink
-    - sub!clara
-    - dom!twelve
+    - c:sub!clara
+    - c:dom!twelve
     - kink:dom/sub
     - kink:clothed-male-naked-female
     - kink:cmnf

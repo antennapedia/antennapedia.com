@@ -11,7 +11,7 @@ tags:
     - f:doctor_who
     - c:clara-oswald
     - c:twelfth-doctor
-    - friendship
+    - genre:friendship
     - genre:fluff
 altlink: http://archiveofourown.org/works/2574320
 ---

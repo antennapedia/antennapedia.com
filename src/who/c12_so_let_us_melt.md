@@ -18,6 +18,7 @@ tags:
     - sex:first-time
     - sex:telepathic
     - genre:hurt/comfort
+    - cuddlecore
     - hurt!doctor
 altlink: http://archiveofourown.org/works/3597465
 ---

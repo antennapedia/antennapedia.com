@@ -15,6 +15,7 @@ tags:
     - gallifrey
     - telepathy
     - cuddling
+    - cuddlecore
     - dreams
     - genre:hurt/comfort
     - hurt!doctor

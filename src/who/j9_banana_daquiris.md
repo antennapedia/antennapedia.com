@@ -15,8 +15,8 @@ published: 2007-11-26T07:46:00-08:00
 tags:
     - p:nine/jackie
     - f:doctor_who
-    - c:jackie tyler
-    - c:ninth doctor
+    - c:jackie-tyler
+    - c:ninth-doctor
     - timetravel
     - beatles
     - alcohol

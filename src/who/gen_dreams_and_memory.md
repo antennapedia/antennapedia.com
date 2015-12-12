@@ -10,8 +10,8 @@ published: 2010-05-16T00:01:00-08:00
 tags:
     - f:doctor_who
     - p:gen
-    - c:zoe heriot
-    - c:second doctor
+    - c:zoe-heriot
+    - c:second-doctor
     - timetravel
     - dreams
     - remix

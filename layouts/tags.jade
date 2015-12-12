@@ -1,0 +1,20 @@
+extends basic.jade
+
+block title
+	title All tags
+
+block topmatter
+	- var tagl = Object.keys(tags).sort()
+	p There are #{tagl.length} tags.
+				
+block content
+	#taglisting
+		- each tag in tagl
+			- full = tags[tag]
+			a(href='tags/#{full.urlSafe}.html')= tag
+			if full.length === 1
+				| 1 story
+			else
+				|  #{full.length} stories
+			br
+			

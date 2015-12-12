@@ -10,7 +10,7 @@ tags:
     - f:doctor_who
     - p:clara/pilfrey
     - c:clara-oswald
-    - c:ronnie pilfrey
+    - c:ronnie-pilfrey
     - genre:humor
     - one-night-stand
     - alcohol

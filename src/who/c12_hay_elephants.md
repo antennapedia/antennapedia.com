@@ -15,6 +15,7 @@ tags:
     - wolves
     - telepathy
     - cuddling
+    - cuddlecore
     - dreams
     - genre:hurt/comfort
     - c:hurt!clara

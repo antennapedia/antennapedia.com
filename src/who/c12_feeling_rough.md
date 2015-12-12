@@ -12,6 +12,7 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - cuddling
+    - cuddlecore
     - genre:hurt/comfort
     - hurt!clara
 altlink: http://archiveofourown.org/works/3502349
