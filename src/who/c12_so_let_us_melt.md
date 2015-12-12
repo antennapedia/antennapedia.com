@@ -18,7 +18,7 @@ tags:
     - sex:first-time
     - sex:telepathic
     - genre:hurt/comfort
-    - cuddlecore
+    - genre:cuddlecore
     - c:hurt!twelve
 altlink: http://archiveofourown.org/works/3597465
 ---

@@ -34,8 +34,11 @@ block topmatter
 		p= series.summary
 	else
 		h2= tag
-	p= pagination.files.length
-		|  stories.
+	if pagination.files.length === 1
+		p 1 story.
+	else
+		p= pagination.files.length
+			|  stories.
 				
 block content
 	#storylisting

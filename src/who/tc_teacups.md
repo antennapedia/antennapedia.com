@@ -10,7 +10,7 @@ tags:
   - aging
   - 'c:clara-oswald'
   - 'c:twelfth-doctor'
-  - cuddlecore
+  - genre:cuddlecore
   - 'genre:hurt/comfort'
   - "post-witch's-familiar"
   - tea
