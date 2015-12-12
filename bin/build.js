@@ -13,6 +13,7 @@ var Metalsmith = require('metalsmith'),
 	markdownit    = require('metalsmith-markdownit'),
 	metadata      = require('metalsmith-metadata'),
 	paths         = require('metalsmith-paths'),
+	rootpath      = require('metalsmith-rootpath'),
 	sass          = require('metalsmith-sass'),
 	sitetitle     = require('metalsmith-page-titles'),
 	static        = require('metalsmith-static'),
@@ -57,6 +58,7 @@ metalsmith
 		archive: 'metadata/archive.json'
 	}))
 	.use(paths())
+	.use(rootpath())
 	.use(sitetitle())
 	.use(buildDate())
 	.use(sass({'outputStyle': 'expanded'}))
@@ -116,7 +118,6 @@ function totalWords(files, ms, done)
 
 metalsmith.build(function(err)
 {
-	console.log(Object.keys(metalsmith), Object.keys(metalsmith._metadata));
 	console.log('site built in ' + Math.round((Date.now() - start) / 1000) + 's');
 	if (err) throw err;
 });

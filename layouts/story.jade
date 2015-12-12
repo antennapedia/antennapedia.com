@@ -8,17 +8,10 @@ mixin renderToc(items)
 				if (item.children.length > 0)
 					+renderToc(item.children)
 
-block links
-	link(rel='stylesheet' rev='stylesheet' href='../css/styles.css')
-	link(rel='alternate' type='application/rss' href='../rss.xml')
-
 block banner
 	style.
 		#nav { background-image: #{banner} }
 			
-block navigation
-	include partials/subnav.jade
-
 block topmatter
 	h2= title
 	p= summary
