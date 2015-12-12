@@ -1,5 +1,13 @@
 extends basic.jade
 
+mixin renderToc(items)
+	ol(class='toc')
+		- each item in items
+			li
+				a(href='')= item.text
+				if (item.children.length > 0)
+					+renderToc(item.children)
+
 block links
 	link(rel='stylesheet' rev='stylesheet' href='../css/styles.css')
 	link(rel='alternate' type='application/rss' href='../rss.xml')
@@ -14,17 +22,20 @@ block navigation
 block topmatter
 	h2= title
 	p= summary
-	div.info
+	.info
 		a(href='#{altlink}') discussion
 		br
-		| tags:
-		- for (i = 0; i < tags.length; i++)
-			- urltag = tagsUrlSafe[i]
-			- tag = tags[i]
-			a(href='../tags/#{urltag}.html') #{tag},&nbsp;
+		if tags
+			| tags:
+			- for (i = 0; i < tags.length; i++)
+				- urltag = tagsUrlSafe[i]
+				- tag = tags[i]
+				a(href='../tags/#{urltag}.html') #{tag},&nbsp;
 				
 block content
-	div#storybody
+	#storybody
+		if toc
+			+renderToc(toc)
 		!= contents
 
 block footer

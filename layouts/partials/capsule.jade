@@ -1,9 +1,11 @@
 mixin capsule(story)
 	- taglist = story.tags.join(', ')
-	div.story_summary
+	.story_summary
 		- fullname = '../' + story.path.dir + '/' + story.path.name + '.html'
 		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
 		| &nbsp; #{story.pairing}, #{story.rating}
 		br
-		| #{story.summary} #{story.wordCount} words; reading time #{story.readingTime}. 
+		= story.summary
+		br
+		| #{story.wordCount} words; reading time #{story.readingTime}. 
 		i= story.published

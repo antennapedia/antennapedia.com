@@ -39,7 +39,6 @@
     "metalsmith-tags": "~1.0.0",
     "metalsmith-typography": "~0.1.1",
     "metalsmith-word-count": "0.0.4",
-    "moment": "~2.10.6",
     "yargs": "~3.31.0"
   },
   "devDependencies": {},

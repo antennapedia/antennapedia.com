@@ -19,6 +19,7 @@ tags:
     - coffee
     - gallifrey-falls
 altlink: http://archiveofourown.org/works/4787750?view_full_work=true
+autotoc: true
 ---
 ## The Painting
 

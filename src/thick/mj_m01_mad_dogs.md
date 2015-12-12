@@ -17,6 +17,7 @@ tags:
     - sex:first-time
     - alcohol
 altlink: http://archiveofourown.org/works/4431140
+autotoc: true
 ---
 ## One
 

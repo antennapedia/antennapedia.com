@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var Metalsmith = require('metalsmith'),
+	autotoc       = require('metalsmith-autotoc'),
 	beautify      = require('metalsmith-beautify'),
 	buildDate     = require('metalsmith-build-date'),
 	changed       = require('metalsmith-changed'),
@@ -64,6 +65,7 @@ metalsmith
 	.use(dateFormatter({
 		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
 	}))
+	.use(autotoc({selector: 'h2, h3, h4'}))
 	.use(navigation())
 	.use(wordcount())
 	.use(collections({

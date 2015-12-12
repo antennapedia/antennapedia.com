@@ -7,7 +7,9 @@ mixin capsule(story)
 		a.storytitle(title='#{taglist}' href=fullname) "#{story.title}"
 		| &nbsp; #{story.pairing}, #{story.rating}
 		br
-		| #{story.summary} #{story.wordCount} words; reading time #{story.readingTime}. 
+		= story.summary
+		br 
+		| #{story.wordCount} words; reading time #{story.readingTime}. 
 		i= story.published
 
 block title
