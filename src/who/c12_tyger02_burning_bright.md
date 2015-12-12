@@ -12,7 +12,7 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - genre:angst
-    - hurt/comfort
+    - genre:hurt/comfort
     - pregnancy
     - grief
     - mourning

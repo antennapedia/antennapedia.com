@@ -12,10 +12,10 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - sex:first-time
-    - first-time
+    - sex:first-time
     - au:soulmates
     - trope:mate-or-die
-    - fluff
+    - genre:fluff
     - true-names
     - genre:angst
 altlink: http://archiveofourown.org/works/4787126

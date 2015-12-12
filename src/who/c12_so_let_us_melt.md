@@ -19,7 +19,7 @@ tags:
     - sex:telepathic
     - genre:hurt/comfort
     - cuddlecore
-    - hurt!doctor
+    - c:hurt!twelve
 altlink: http://archiveofourown.org/works/3597465
 ---
 Another encounter with the Doctor's nemesis, Missy. Another set of coordinates that revealed nothing when visited. Clara watched him close the TARDIS door on the emptiness and turn away. He did not seem to see her, but stood with clenched fists, back to the closed door. The set of his shoulders was stiff. His face alarmed her, it was so blank, so shuttered.

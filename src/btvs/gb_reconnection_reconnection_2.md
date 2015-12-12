@@ -15,7 +15,7 @@ tags:
   - 'c:tara'
   - 'c:willow'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - 'genre:romance'
   - magic
   - proposal

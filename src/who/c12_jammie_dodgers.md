@@ -13,7 +13,7 @@ tags:
     - c:twelfth-doctor
     - genre:humor
     - trope:deaging
-    - young!twelve
+    - c:young!twelve
     - cookies
 altlink: http://archiveofourown.org/works/4229547/chapters/10068083
 ---

@@ -9,7 +9,7 @@ altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marri
 tags:
   - 'c:lix-storm'
   - 'c:randall-brown'
-  - fluffy
+  - genre:fluff
   - 'genre:romance'
   - marriage
   - pregnancy

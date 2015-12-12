@@ -15,7 +15,7 @@ tags:
   - chivalry
   - council
   - england
-  - first-time
+  - sex:first-time
   - 'kink:dom/sub'
   - knights
   - magic

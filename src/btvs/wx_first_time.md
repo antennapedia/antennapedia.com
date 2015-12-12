@@ -9,7 +9,7 @@ altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=558970#t5
 tags:
   - 'c:willow'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - 'genre:kink'
   - kink-meme-fill
   - 'kink:spanking'

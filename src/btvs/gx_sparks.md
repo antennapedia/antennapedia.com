@@ -13,7 +13,7 @@ tags:
   - 'c:xander'
   - character-death
   - magic
-  - post-grave
+  - episode:grave
   - 'season:06'
   - 'f:btvs'
   - 'p:giles/xander'
@@ -32,11 +32,11 @@ Giles stood in the center of the nearly-bare living room, lighting it with that 
 
 "Where shall I--"
 
-"Couch," said Xander, pointing unnecessarily. 
+"Couch," said Xander, pointing unnecessarily.
 
 Giles sat gingerly. He was as yet unsure what his subconscious might do, if indeed it was involved. The power Willow had bequeathed to him was quite beyond his comprehension and certainly out of his control as yet. He suspected that Willow's final moments of intent informed the power's expression even now. Xander's battered pickup had transformed itself in small ways during the drive from downtown: dents unbending, paint chips vanishing, the engine smoothing into a well-tuned purr. And as for what it had done to Giles himself, as it had streamed into him, he wasn't yet letting himself consider. Though Xander's constant sideways glances were disturbing. Xander usually looked past him, or around him, never at him.
 
-Xander came back from the kitchen with two brown bottles in hand. He handed one down to Giles, then collapsed next to him. 
+Xander came back from the kitchen with two brown bottles in hand. He handed one down to Giles, then collapsed next to him.
 
 "To Willow, my best friend," Xander said. He clinked his bottle against Giles's, then tipped it to drink in long slow swallows.
 
@@ -74,17 +74,17 @@ Xander shook his head, then had another pull on his bottle. His knee was bouncin
 
 Giles shook his head. "No. This wasn't-- it wasn't a resolution that occurred to us."
 
-"But you dying did." 
+"But you dying did."
 
 There was accusation in Xander's voice. Giles sighed. Though as directions for anger went, it was acceptable. Later Xander would think to be angry with Willow.
 
 "There were many scenarios that ended with my death, I'm afraid. It was a sacrifice I was willing to make. And there were a number that ended with hers, though not this way. We'd hoped-- What we'd hoped was strangely near what happened." Giles laughed. "The pure magic broke through. It opened a door inside her heart, and you were able to walk in and find Willow. You brought her back to herself."
 
-Xander shook his head, though Giles wasn't sure what he was disagreeing with. 
+Xander shook his head, though Giles wasn't sure what he was disagreeing with.
 
 "And then she did... whatever it was she did."
 
-"She, she-- It was the most beautiful thing to watch, Giles. She stopped slashing at me, and she was letting me hug her, and she said something about how she was going to fix it all. Make amends. Make it all better. And then--" 
+"She, she-- It was the most beautiful thing to watch, Giles. She stopped slashing at me, and she was letting me hug her, and she said something about how she was going to fix it all. Make amends. Make it all better. And then--"
 
 And then the light had shone out, and pulsed over the town, and Giles had felt himself filled with pure magic, pure life essence, healing him in a long moment of what he could only call ecstasy. When it was over, Willow's body was gone. Burned clean away by the energy. Where Willow herself was, they weren't sure, but Giles thought it was not on this plane of existence. He knew it the moment it happened. He'd been unable to explain why to Buffy. She'd refused to believe him. Xander, who'd been holding her when it happened, had also simply known. It was Xander's certainty that had finally convinced Buffy. Xander, who was still dry-eyed and numb.
 
@@ -94,7 +94,7 @@ Xander was favoring him with another one of those looks, the looks that said he 
 
 "They've stopped aching," he said. "Perfect eyesight. No scars. My left shoulder has been weak since I was at university, from a karate injury. Not any more."
 
-Xander waved his hand around his face. "And then there's the, you know." 
+Xander waved his hand around his face. "And then there's the, you know."
 
 "What?"
 
@@ -108,7 +108,7 @@ Giles looked at Xander's face. There was something in it Giles had never seen be
 
 "No. What they needed. She said needed."
 
-Giles subsided onto the couch and had another long swallow of beer. It made her gift to him of a repaired body easier to bear, thinking that it wasn't the result of a selfish wish, but Giles was still uneasy. What might she have decided they all needed to be happy? That could be more alarming. 
+Giles subsided onto the couch and had another long swallow of beer. It made her gift to him of a repaired body easier to bear, thinking that it wasn't the result of a selfish wish, but Giles was still uneasy. What might she have decided they all needed to be happy? That could be more alarming.
 
 Giles looked sidelong at Xander, next to him on the couch. Xander was looking right back at him, under a shaggy fringe of hair. Lovely dark eyes. Giles had wanted to drown in them, once. Years ago, now. He looked at his beer bottle instead, at the condensation on the label. Product of the Sunnydale Microbrewery. A hometown product. A Hellmouth product. Bottled brimstone. He seemed to have drunk nearly all of it.
 
@@ -148,7 +148,7 @@ Xander's head thumped back against the couch alongside Giles's.
 
 "So mondo magic power makes people go crazy. And Willow left you hers, the mondo-est of the mondo."
 
-"That appears to be the case." 
+"That appears to be the case."
 
 "Hell of a last will and testament."
 
@@ -168,9 +168,9 @@ Giles reached out and pressed Xander's hand between his. He had no idea how to d
 
 Not an inanity, but this too needed to be set aside. Giles had much practice with this task.
 
-Giles closed his eyes and steadied his breathing. In, out. Relax. Count heartbeats. He went to a quiet place inside, his center, his meditative heart. He'd spent months at the coven learning to visualize his safe place, his private refuge. It was near what he remembered: a copse in woods in spring, with trees in leaf and the quiet sound of birds, but at its center was a bubbling spring. That was new. Water welled up and ran down the hill. Clear water, cleansing, cool. He could smell it in the air. 
+Giles closed his eyes and steadied his breathing. In, out. Relax. Count heartbeats. He went to a quiet place inside, his center, his meditative heart. He'd spent months at the coven learning to visualize his safe place, his private refuge. It was near what he remembered: a copse in woods in spring, with trees in leaf and the quiet sound of birds, but at its center was a bubbling spring. That was new. Water welled up and ran down the hill. Clear water, cleansing, cool. He could smell it in the air.
 
-Something prickled along the back of his neck. He was not alone. He spun. 
+Something prickled along the back of his neck. He was not alone. He spun.
 
 Willow was there, smiling at him. She glowed much as he had in the hallway, more, as if she were made of light. Giles blinked.
 
@@ -178,7 +178,7 @@ Willow was there, smiling at him. She glowed much as he had in the hallway, more
 
 "Drink," she said, and shimmered away. The sound of her laughter rang in the air where she had been.
 
-Giles went to his knees and filled his cupped hands with water. Strange, electric and sparkling and clear blue and marvelous. And all he need do was share it. He drank deep, and found the secret of healing, of remaking flesh. It was so easy, so sweet, so satisfying. Xander's hand in his, Xander's finger remade, Xander's body perfected. 
+Giles went to his knees and filled his cupped hands with water. Strange, electric and sparkling and clear blue and marvelous. And all he need do was share it. He drank deep, and found the secret of healing, of remaking flesh. It was so easy, so sweet, so satisfying. Xander's hand in his, Xander's finger remade, Xander's body perfected.
 
 Giles let go and fell back on the couch. His skin tingled, but the euphoria was back. He closed his eyes so he wouldn't have to look at Xander's marveling face. The magic had its price: what had been dead memory buried under dead leaves was now alive again, alive and bursting young and strong from damp earth. Life and energy and desire, reawakened and almost painful. Like the erection straining against his jeans.
 
@@ -194,7 +194,7 @@ Xander was gazing at his own hand now, flexing the fingers. His pupils were huge
 
 Giles's entire body was buzzing, but that was not the magic. That was simple arousal. He hadn't been this turned on in years. Circuitry long left open and dead, in his body and mind, now sang electric, closed and brought to life by Willow's last act. Everything was alive and humming inside him. Like the sound of an amplifier, turned on and plugged in, waiting for that first touch of fingers on strings. Giles shivered. He hungered for touch, yes, but it was impossible.
 
-Xander vibrated next to him, wriggling on the on the sofa, beer entirely forgotten. He touched Giles's arm for a moment. Giles jerked as if he'd been shocked. 
+Xander vibrated next to him, wriggling on the on the sofa, beer entirely forgotten. He touched Giles's arm for a moment. Giles jerked as if he'd been shocked.
 
 "So that's what you needed? To be Mister Sexual Healing?"
 
@@ -202,7 +202,7 @@ Xander vibrated next to him, wriggling on the on the sofa, beer entirely forgott
 
 "I mean, uh, Doctor Mojo Magic?"
 
-"No, that's not quite it. Though it's close." Giles pondered this a moment. What did he need most in the world? To know his Slayer was safe. Willow had to know this; it was easy, even for someone who had not read his heart. Her game had to be deeper. And Giles had tired of it. Tired of his glowing skin, the sparks, the power flooding through him not yet under his control. 
+"No, that's not quite it. Though it's close." Giles pondered this a moment. What did he need most in the world? To know his Slayer was safe. Willow had to know this; it was easy, even for someone who had not read his heart. Her game had to be deeper. And Giles had tired of it. Tired of his glowing skin, the sparks, the power flooding through him not yet under his control.
 
 He tipped his head all the way back to look at the ceiling. "I know you're there," he said.
 
@@ -212,7 +212,7 @@ He tipped his head all the way back to look at the ceiling. "I know you're there
 
 Xander went still next to him. "That's it, you've lost it. Three hours with the power, and it's melted your brain."
 
-Giles ignored Xander, and shook his head at the ceiling. She wasn't yet satisfied, though his plan had her strong approval. 
+Giles ignored Xander, and shook his head at the ceiling. She wasn't yet satisfied, though his plan had her strong approval.
 
 "What does Xander need? Must I work that out as well?"
 
@@ -220,13 +220,13 @@ There was a moment when he was certain he could hear Willow's voice, saying some
 
 Then another bright spark snapped from his fingertips and drifted to Xander's face, where it brushed his lips then faded. Xander touched his fingers to his mouth. Giles bit his own lip in an effort to keep himself from groaning aloud. Bloody hell. If desire might be allowed to rise to the level of need, he knew what he needed now.
 
-"That's-- wow. Is that what it feels like to you? Tingly and zoomy and the single most exciting thing ever?" Xander's voice was full of wonder and thick with something Giles could identify if he wished to, which he didn't. 
+"That's-- wow. Is that what it feels like to you? Tingly and zoomy and the single most exciting thing ever?" Xander's voice was full of wonder and thick with something Giles could identify if he wished to, which he didn't.
 
-"Something... something like that." 
+"Something... something like that."
 
 *Ask him, dummy,* Willow said to him, as clearly as if she were standing in the room.
 
-Giles sighed, and pinched the bridge of his nose. He gave in. "Very well." He sat up on the couch. He tugged at the hem of his jumper, enough to ensure it hid the worst of the evidence. He scrubbed a hand through his hair, attempting to put himself into some kind of reasonable array. It was no bloody use. He was doomed to have this conversation drunk, high, and randy. He sighed. 
+Giles sighed, and pinched the bridge of his nose. He gave in. "Very well." He sat up on the couch. He tugged at the hem of his jumper, enough to ensure it hid the worst of the evidence. He scrubbed a hand through his hair, attempting to put himself into some kind of reasonable array. It was no bloody use. He was doomed to have this conversation drunk, high, and randy. He sighed.
 
 "Xander," he said. He finally looked at Xander. Xander had his feet up on the couch, and was hugging his knees to his chest. His eyes were wide and he looked worried.
 
@@ -262,7 +262,7 @@ Giles turned away to hide his smile. The well of his laughter threatened to over
 
 "That was easy," Xander said.
 
-"Yes. Come back here." Giles patted the couch. Xander came to him, but didn't sit next to him. Instead he knelt astride Giles's lap, and Giles could feel for himself that the sparks had done to Xander what they'd done to him. And it would be all right. He let himself look deep into Xander's eyes now. They were calm, and certain, so Giles would trust it. Trust Xander. 
+"Yes. Come back here." Giles patted the couch. Xander came to him, but didn't sit next to him. Instead he knelt astride Giles's lap, and Giles could feel for himself that the sparks had done to Xander what they'd done to him. And it would be all right. He let himself look deep into Xander's eyes now. They were calm, and certain, so Giles would trust it. Trust Xander.
 
 But there was one thing left unsaid.
 
@@ -278,8 +278,8 @@ And because further speech would have been inane, Giles pulled Xander close, and
 
 Much later, when they had at last had their fill of each other, Giles let himself sprawl across Xander's messy bed. He was exhausted but deeply satisfied. And he'd stopped glowing: the power had settled itself deep inside him. In his blood, his nerves, his bones. Curling the ends of his hair, like as not. He sighed, and let his hand drift down Xander's arm. He wasn't sure if Willow had left Xander to him, or had left him to Xander. He didn't suppose it mattered.
 
-"Thank you," he said, to the ceiling, but it was another inanity. She'd moved on to wherever it was she was going. She was not dead, not exactly, but still he'd never see her again. Never lecture her, never growl at her for stealing his books. The tears came, then, not yet a flood, but the promise that he'd grieve as he ought. He wiped his face, then drew a deep shaky breath. 
+"Thank you," he said, to the ceiling, but it was another inanity. She'd moved on to wherever it was she was going. She was not dead, not exactly, but still he'd never see her again. Never lecture her, never growl at her for stealing his books. The tears came, then, not yet a flood, but the promise that he'd grieve as he ought. He wiped his face, then drew a deep shaky breath.
 
-Xander rolled over and rested his head on his hand. He looked down at Giles, solemn. Giles smiled up at him through tears. 
+Xander rolled over and rested his head on his hand. He looked down at Giles, solemn. Giles smiled up at him through tears.
 
 "Hello," he said. He brushed the hair away from Xander's face, and his fingertips sparked blue where they touched.

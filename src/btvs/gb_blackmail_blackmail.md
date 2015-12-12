@@ -13,7 +13,7 @@ tags:
   - 'c:giles'
   - 'c:sub!giles'
   - commentary
-  - first-time
+  - sex:first-time
   - 'genre:kink'
   - 'kink:bloodplay'
   - 'kink:bondage'

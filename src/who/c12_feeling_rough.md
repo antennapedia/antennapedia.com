@@ -14,7 +14,7 @@ tags:
     - cuddling
     - cuddlecore
     - genre:hurt/comfort
-    - hurt!clara
+    - c:hurt!clara
 altlink: http://archiveofourown.org/works/3502349
 ---
 The Doctor had vanished somewhere after he'd sent them into the vortex. He'd slammed the levers over and then stomped off without saying a word to her. It wasn't about her; she knew that. That wasn't what was hurting. It had been the whole day. That place. The things they'd seen. He needed time alone. She needed time alone. And she'd spent it alone, sitting on his armchair on the upper deck, staring with unfocused eyes at the lights of the rotor.

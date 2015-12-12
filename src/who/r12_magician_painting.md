@@ -12,7 +12,7 @@ tags:
     - c:rose-tyler
     - c:twelfth-doctor
     - genre:romance
-    - hurt/comfort
+    - genre:hurt/comfort
     - reunion
     - mourning
     - chips

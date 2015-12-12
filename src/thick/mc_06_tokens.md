@@ -13,11 +13,11 @@ tags:
     - f:the_thick_of_it
     - f:doctor_who
     - c:clara-oswald
-    - c:malcolm tucker
+    - c:malcolm-tucker
     - genre:hurt/comfort
     - kink:orgasm-control
     - kink:dom/sub
-    - childhood-abuse
+    - issues:childhood-abuse
     - kink:collars
     - genre:romance
     - genre:kink

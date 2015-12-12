@@ -11,8 +11,8 @@ tags:
     - s:maddogs
     - p:malcolm/jamie
     - f:the_thick_of_it
-    - c:jamie macdonald
-    - c:malcolm tucker
+    - c:jamie-macdonald
+    - c:malcolm-tucker
     - genre:romance
     - sex:first-time
     - alcohol

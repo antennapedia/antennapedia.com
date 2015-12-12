@@ -10,7 +10,7 @@ tags:
   - 'c:giles'
   - 'c:hurt!giles'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - 'genre:hurt/comfort'
   - kink-meme-fill
   - 'season:07'

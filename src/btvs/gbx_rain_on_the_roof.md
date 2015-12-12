@@ -10,7 +10,7 @@ tags:
   - 'c:buffy'
   - 'c:giles'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - 'genre:angst'
   - kink-meme-fill
   - post-series

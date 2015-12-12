@@ -12,7 +12,7 @@ tags:
   - 'c:giles'
   - 'c:willow'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - kink-meme-fill
   - magic
   - 'season:02'

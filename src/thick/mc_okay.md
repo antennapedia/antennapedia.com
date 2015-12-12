@@ -12,7 +12,7 @@ tags:
     - f:the_thick_of_it
     - f:doctor_who
     - c:clara-oswald
-    - c:malcolm tucker
+    - c:malcolm-tucker
     - pregnancy
     - announcements
     - proposal

@@ -12,12 +12,11 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - sex:first-time
-    - angst
-    - first-time
+    - sex:first-time
     - immortality
     - mourning
     - grief
-    - post-girl-who-died
+    - episode:girl-who-died
     - genre:angst
 warnings: none
 altlink: http://archiveofourown.org/chapters/11541385

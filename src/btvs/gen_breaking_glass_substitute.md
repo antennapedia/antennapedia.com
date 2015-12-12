@@ -8,7 +8,7 @@ notes: 'I stuck pretty closely to canon levels of Giles injuries, no matter how 
 summary: Xander and Willow help Giles recover from Angelus.
 altlink: 'http://antennapedia.livejournal.com/31526.html'
 tags:
-  - assault-recovery-issues
+  - issues:assault-recovery
   - 'c:giles'
   - 'c:hurt!giles'
   - 'c:willow'

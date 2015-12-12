@@ -14,7 +14,7 @@ tags:
     - tea
     - genre:hurt/comfort
     - genre:flufic
-    - hurt!twelve
+    - c:hurt!twelve
 altlink: http://archiveofourown.org/works/4229547/chapters/10067969
 ---
 Gallifreyans were rarely taken sick, he'd told her once. Time Lords almost never. The genetic manipulation that had made them super-intelligent, that had tinkered with their biology until portions of it were unrecognizable, had also given them immune systems of great resilience.

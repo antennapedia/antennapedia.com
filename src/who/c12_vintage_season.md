@@ -10,12 +10,11 @@ tags:
     - p:twelve/clara
     - f:doctor_who
     - f:forsyte-saga
-    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
-    - c:young jolyon forsyte
+    - c:young-jolyon-forsyte
     - genre:angst
-    - post-witch's-familiar
+    - episode:witch's-familiar
 altlink: http://archiveofourown.org/works/4968388
 ---
 Young Jolyon packed up his color-box for a morning in the Botanic Gardens. His series of watercolors of notable London places was underway with, if not immediate success, at least the potential for success. He'd done Big Ben, as a bit of a warmup, and the dome of St Paul's at dawn and at dusk. Now it was time for something sunnier, greener. Flowers. A bit of nature easy to reach for a man on his income, and on a sunny day like this, he was determined not to miss his chance. He kissed Helene and his children and set off by train to Kew.

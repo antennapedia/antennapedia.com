@@ -12,7 +12,7 @@ tags:
   - 'c:giles'
   - 'c:xander'
   - england
-  - first-time
+  - sex:first-time
   - 'genre:horror'
   - magic
   - rain

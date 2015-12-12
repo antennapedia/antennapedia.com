@@ -8,7 +8,7 @@ notes: 'My tribute to the works of A. Manley Haight. Thanks to <b><a href="http:
 summary: 'When a Council representative makes assumptions about his relationship with his Slayer, Giles must come clean to Buffy about the true natures of Watchers and of Slayers.'
 altlink: 'http://antennapedia.livejournal.com/168368.html#comments'
 tags:
-  - assault-recovery-issues
+  - issues:assault-recovery
   - award-winner
   - 'c:angelus'
   - 'c:buffy'

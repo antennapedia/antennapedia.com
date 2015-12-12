@@ -13,11 +13,11 @@ tags:
     - f:the_thick_of_it
     - f:doctor_who
     - c:clara-oswald
-    - c:malcolm tucker
+    - c:malcolm-tucker
     - kink:dom/sub
     - genre:hurt/comfort
     - genre:angst
-    - childhood-abuse
+    - issues:childhood-abuse
 altlink: http://archiveofourown.org/works/5112608
 ---
 When Malcolm woke, Clara was again already up, already dressed. He was alone in the warm bed. He could still smell her perfume on the pillow. Oh, sweet scent. Clara's scent. He dragged himself out of bed; he'd have cheerfully spent the entire day unconscious. Off to shower, shave, and dress. He studied his face in the bathroom mirror as he lathered himself up. Gray stubble on his chin, hair sticking up every which way, but his eyes looked fucking strange. His jaw wasn't clenched either. He felt happy, that's what he felt. Around his neck, dark and heavy, was the leather braid. He touched the medallion, flipped it so her name was against his skin and the word *owned* was facing out. His arse and thighs were bruised from what they'd done two nights before, when he'd-- when he'd made a tit of himself about things a grown man ought to have moved past. When he'd told her stories about himself, his childhood.

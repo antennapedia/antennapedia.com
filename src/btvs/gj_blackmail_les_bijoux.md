@@ -11,7 +11,7 @@ tags:
   - authors-favorite
   - 'c:giles'
   - 'c:jenny'
-  - first-time
+  - sex:first-time
   - 'genre:kink'
   - 'kink:blindfold'
   - 'season:02'

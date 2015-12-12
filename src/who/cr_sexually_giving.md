@@ -12,7 +12,7 @@ tags:
     - c:clara-oswald
     - c:ronnie-pilfrey
     - genre:humor
-    - one-night-stand
+    - kink:one-night-stand
     - alcohol
     - socks
     - singing

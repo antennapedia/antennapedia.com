@@ -13,8 +13,8 @@ tags:
     - c:twelfth-doctor
     - c:missy
     - genre:hurt/comfort
-    - hurt!doctor
-    - assault-recovery-issues
+    - c:hurt!twelve
+    - issues:assault-recovery
 altlink: http://archiveofourown.org/works/4230366
 ---
 The Doctor reeled into the TARDIS, shoved his fingers into the telepathic circuits, and pleaded for help. She was on his heels; she knew where he was running; she had let him go so that he could lead her to the TARDIS. His escape from torture was yet another of her plans. *Please, old girl*, he thought, *send me to safety. Away. And do it now.*

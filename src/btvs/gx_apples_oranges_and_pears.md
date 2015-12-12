@@ -12,11 +12,11 @@ tags:
   - 'c:giles'
   - 'c:larry'
   - 'c:xander'
-  - first-time
+  - sex:first-time
   - 'genre:fluff'
   - 'genre:humor'
   - 'genre:romance'
-  - glbt-issues
+  - issues:glbt
   - high-school
   - 'season:03'
   - 'f:btvs'

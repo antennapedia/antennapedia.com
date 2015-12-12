@@ -10,7 +10,7 @@ tags:
   - 'c:buffy'
   - 'c:giles'
   - elevator
-  - first-time
+  - sex:first-time
   - post-series
   - 'sex:angry'
   - 'f:btvs'

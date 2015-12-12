@@ -13,9 +13,9 @@ tags:
     - c:twelfth-doctor
     - sex:first-time
     - astronomy
-    - first-time
+    - sex:first-time
     - happy
-    - post-last-christmas
+    - episode:last-christmas
     - wedding-rings
     - sentimental
     - genre:romance

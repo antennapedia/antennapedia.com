@@ -13,7 +13,7 @@ tags:
     - f:the_thick_of_it
     - f:doctor_who
     - c:clara-oswald
-    - c:malcolm tucker
+    - c:malcolm-tucker
     - genre:romance
     - trope:wingfic
 notes: Probably not entirely canonical in the series.

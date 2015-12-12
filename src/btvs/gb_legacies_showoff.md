@@ -11,7 +11,7 @@ tags:
   - alcohol
   - 'c:buffy'
   - 'c:giles'
-  - first-time
+  - sex:first-time
   - 'genre:romance'
   - guns
   - post-series

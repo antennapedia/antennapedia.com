@@ -21,7 +21,7 @@ notes: >
 summary: 'Ethan has his own opinion about what constitutes amends, as owed by a vampire to his victim. Or by a chaos mage to his oldest friend.'
 altlink: 'http://antennapedia.livejournal.com/287988.html#comments'
 tags:
-  - assault-recovery-issues
+  - issues:assault-recovery
   - authors-favorite
   - award-winner
   - 'c:angel'

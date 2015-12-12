@@ -12,7 +12,7 @@ tags:
     - c:clara-oswald
     - c:twelfth-doctor
     - lying
-    - mummy-on-the-orient-express
+    - episode:mummy-on-the-orient-express
     - missing-scene
     - genre:angst
 altlink: http://archiveofourown.org/works/3437969

@@ -13,7 +13,7 @@ tags:
   - 'c:willow'
   - 'c:xander'
   - core-four
-  - first-time
+  - sex:first-time
   - polyamory
   - scoobies
   - 'season:04'

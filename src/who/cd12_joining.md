@@ -11,7 +11,7 @@ tags:
     - f:doctor_who
     - c:clara-oswald
     - c:twelfth-doctor
-    - c:danny pink
+    - c:danny-pink
     - genre:romance
     - sex:first-time
     - polyamory

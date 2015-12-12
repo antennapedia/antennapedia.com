@@ -15,7 +15,7 @@ tags:
   - 'c:xander'
   - commentary
   - drugs
-  - first-time
+  - sex:first-time
   - 'genre:romance'
   - 'season:04'
   - 'f:btvs'

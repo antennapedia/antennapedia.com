@@ -10,8 +10,8 @@ published: 2015-07-29T12:00:00-08:00
 tags:
     - p:malcolm/jamie
     - f:the_thick_of_it
-    - c:jamie macdonald
-    - c:malcolm tucker
+    - c:jamie-macdonald
+    - c:malcolm-tucker
     - genre:kink
     - sex:rough
     - sex:anal

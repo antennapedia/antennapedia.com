@@ -13,7 +13,7 @@ tags:
     - c:twelfth-doctor
     - genre:hurt/comfort
     - trope:soulbonding
-    - hurt!twelve
+    - c:hurt!twelve
     - marriage
 altlink: http://archiveofourown.org/works/4229547/chapters/10068203
 ---

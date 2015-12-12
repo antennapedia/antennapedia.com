@@ -18,7 +18,7 @@ tags:
   - character-death
   - 'genre:angst'
   - 'genre:hurt/comfort'
-  - glbt-issues
+  - issues:glbt
   - 'season:06'
   - suicide
   - 'f:btvs'

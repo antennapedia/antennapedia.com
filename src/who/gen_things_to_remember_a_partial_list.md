@@ -9,7 +9,7 @@ altlink: 'http://archiveofourown.org/works/5368796'
 tags:
   - 'c:twelfth-doctor'
   - memory-loss
-  - post-hell-bent
+  - episode:hell-bent
   - 'f:doctor_who'
   - 'p:gen'
 rating: general

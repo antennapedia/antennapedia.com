@@ -14,7 +14,7 @@ tags:
   - 'c:giles'
   - commentary
   - council
-  - first-time
+  - sex:first-time
   - oxford
   - pre-series
   - rupertus-domesticus

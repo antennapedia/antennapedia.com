@@ -12,7 +12,7 @@ tags:
   - 'c:xander'
   - cars
   - cleveland
-  - first-time
+  - sex:first-time
   - 'genre:romance'
   - happy
   - post-series

@@ -18,7 +18,7 @@ tags:
   - 'c:xander'
   - commentary
   - england
-  - first-time
+  - sex:first-time
   - 'genre:hurt/comfort'
   - 'genre:romance'
   - london
