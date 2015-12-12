@@ -90,7 +90,7 @@ metalsmith
 		'handle': 'tags',
 		'path': 'tags/:tag.html',
 		'layout': 'tag.jade',
-		'sortBy': 'idtag'
+		'sortBy': 'title'
 	}))
 	.use(layouts({
 		'engine': 'jade',
