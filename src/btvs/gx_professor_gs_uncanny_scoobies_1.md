@@ -2,7 +2,7 @@
 idtag: gx_professor_gs_uncanny_scoobies_1
 author: antennapedia
 published: '2010-07-18T15:41:00-07:00'
-title: "Professor G's Uncanny Scoobies &#0035;1"
+title: "Professor G's Uncanny Scoobies #1"
 notes: 'Written for <b><a href="http://community.livejournal.com/summer_of_giles/">summer_of_giles</a></b> 2010. <b><a href="http://mythichistorian.livejournal.com/">mythichistorian</a></b> has done an <a href="http://www.mythic-history.co.uk/waw/Images/SOG10/Post2/Uncanny1.jpg">illustration</a> for the story!'
 summary: "Xander's carelessness with magic artifacts might have got him into more trouble than he can reasonably escape, even with Giles's help."
 altlink: 'http://antennapedia.livejournal.com/492353.html'
@@ -112,13 +112,13 @@ Xander buried his face in his hands. "So, okay. I didn't just pick it up. I put 
 
 Xander whimpered. "Thanks. I needed you to tell me that."
 
-"Good God, man!" Giles paced away from the table, across the room and back. Xander was crumpled in place on the bench, curled up around himself. The little wings jutted out from his bare back. They were oddly appealing, Giles thought, covered with fluffy gray down as they were. They looked as if they belonged on on a baby bird. A cygnet, he thought, absurdly. He had a vision of Xander transformed into a swan, paddling across the pond back home, trailed by a dozen dog-paddling Slayers. He laughed, but it was more bitter than amused. 
+"Good God, man!" Giles paced away from the table, across the room and back. Xander was crumpled in place on the bench, curled up around himself. The little wings jutted out from his bare back. They were oddly appealing, Giles thought, covered with fluffy gray down as they were. They looked as if they belonged on on a baby bird. A cygnet, he thought, absurdly. He had a vision of Xander transformed into a swan, paddling across the pond back home, trailed by a dozen dog-paddling Slayers. He laughed, but it was more bitter than amused.
 
-He sat again on the bench across from Xander and unzipped his bag. He extracted his latest journal and uncapped his fountain pen. When in doubt, write in one's Watcher's diary. Date of incident. Method of activating the object. Nature of transformation. Xander and Jennifer watched him write in complete silence. 
+He sat again on the bench across from Xander and unzipped his bag. He extracted his latest journal and uncapped his fountain pen. When in doubt, write in one's Watcher's diary. Date of incident. Method of activating the object. Nature of transformation. Xander and Jennifer watched him write in complete silence.
 
 "Right. You put on the necklace. What happened first?"
 
-Jennifer answered. "He shouted and fell down on the floor and rolled around and squeaked a bunch. And the necklace was glowing." 
+Jennifer answered. "He shouted and fell down on the floor and rolled around and squeaked a bunch. And the necklace was glowing."
 
 Xander hid his face behind a hand but did not offer a more flattering description. Glowing. That was typical of an activated talisman. Giles noted it. "Where is it now?"
 
@@ -138,7 +138,7 @@ Giles capped his pen and tossed it onto his open journal. He said, "We need to g
 
 "We'll need to teleport."
 
-"Cool," Jennifer said, from her corner. 
+"Cool," Jennifer said, from her corner.
 
 "The trouble with that plan is that Willow is... incommunicado for a few days more yet."
 
@@ -150,7 +150,7 @@ Giles capped his pen and tossed it onto his open journal. He said, "We need to g
 
 Giles slapped his hand on the table. "Vampires are shipped as corpses because they *are* corpses. You're a living being. We wait for Willow."
 
-"How long is that going to be?" 
+"How long is that going to be?"
 
 From his voice, Xander had yielded. Giles hated hearing the discouragement there, but he couldn't help. He sighed, and let Xander have the bad news. "I don't know. She had to-- suffice to say, there was dimensional travel involved. It might be as long as a week or two."
 
@@ -160,7 +160,7 @@ Giles looked at Jennifer, crouched in the corner of the room, her brown arms wra
 
 She nodded to him and left the room. Giles moved around the table to sit on the bench next to Xander, careful to avoid his blind side. He slid as close as he thought propriety would allow. He touched Xander's bare arm and Xander snatched it away. Giles swallowed his hurt; this was not the time. Xander's shoulders were hunched and his arms were wrapped around himself defensively. The man was upset and he ought to get himself under control.
 
-"Is there anything you're not telling me? I need to know, if I'm to help." He kept his voice as soothing as he could. 
+"Is there anything you're not telling me? I need to know, if I'm to help." He kept his voice as soothing as he could.
 
 Xander uncoiled, at least a little bit, but he still wouldn't look at Giles. "Not really. That's how it happened. Except, well, the thing tugged at me, somehow. I just had to pick it up. And once I touched it I just kind of had to try it on. Stupid, I know."
 
@@ -176,9 +176,9 @@ Giles laid his hands flat on the table and considered this. "It sounds as if you
 
 "Maybe. But he hasn't been back for his stuff."
 
-Giles took off his glasses and tossed them onto the table. Carter had been put in place on the dig team to be on the lookout for artifacts of precisely the sort he'd found. Precisely *because* of accidents like the one Xander had had. He might be fleeing from Giles's justified fury about his failure, but he was compounding it by not being here to help. The magnitude of the problem Giles had before him was unknown without Carter there to give him any sort of data about the object. Despite what he'd said earlier, he couldn't be sure Xander's life wasn't in danger. Or his humanity. He might find himself the victim of a permanent demonic transformation. Or simply the possessor of an absurd pair of downy cygnet wings. 
+Giles took off his glasses and tossed them onto the table. Carter had been put in place on the dig team to be on the lookout for artifacts of precisely the sort he'd found. Precisely *because* of accidents like the one Xander had had. He might be fleeing from Giles's justified fury about his failure, but he was compounding it by not being here to help. The magnitude of the problem Giles had before him was unknown without Carter there to give him any sort of data about the object. Despite what he'd said earlier, he couldn't be sure Xander's life wasn't in danger. Or his humanity. He might find himself the victim of a permanent demonic transformation. Or simply the possessor of an absurd pair of downy cygnet wings.
 
-Giles fought back an urge to laugh hysterically. Of all the predicaments-- He'd fallen in love with a swan. Then he sobered. So yes, he was admitting to himself now that he'd fallen in love. But Xander had flinched away from his touch. He'd misinterpreted the incident in his study. Once again, he'd mistaken a touch for a sign of interest. 
+Giles fought back an urge to laugh hysterically. Of all the predicaments-- He'd fallen in love with a swan. Then he sobered. So yes, he was admitting to himself now that he'd fallen in love. But Xander had flinched away from his touch. He'd misinterpreted the incident in his study. Once again, he'd mistaken a touch for a sign of interest.
 
 Giles set it aside ruthlessly. His mooning about wouldn't get rid of Xander's curse, if that's what it was. He had to focus.
 
@@ -260,19 +260,19 @@ Giles deferred that pleasure for another day and carried his news back to Xander
 
 He was quite far gone, it seemed. Marvelous.
 
-In the afternoon Jennifer took him to the cafe in the center of town. They drank tea and Giles ransacked his memory for the remains of his conversational Arabic. It was patchier than he'd hoped, but he found it trickling back as he eavesdropped on the men talking at other tables. The town was not aware, it seemed, that anyone was missing or that anything unusual was happening. 
+In the afternoon Jennifer took him to the cafe in the center of town. They drank tea and Giles ransacked his memory for the remains of his conversational Arabic. It was patchier than he'd hoped, but he found it trickling back as he eavesdropped on the men talking at other tables. The town was not aware, it seemed, that anyone was missing or that anything unusual was happening.
 
-He woke the next morning by something tickling at his nose. He sneezed and rubbed, and found a few downy feathers scattered over the floor. He caught one and examined it as closely as he could, under one of the magnifying lenses Carter had used for his work. As best as Giles could tell, it was a bird feather. He was no expert, however. He bagged it and some other samples and tucked them away for analysis back home. That day he toured the portion of the catacombs the team had pronounced safe and agreed with them that yes, this site far predated the monastery, and yes, it was a most excellent find. The area had been bursting with early monasticism, often on the same sites as more ancient religious groups, and it was all most fascinating. At any other time he'd have been glued to the site and thrilled by the discovery in progress. 
+He woke the next morning by something tickling at his nose. He sneezed and rubbed, and found a few downy feathers scattered over the floor. He caught one and examined it as closely as he could, under one of the magnifying lenses Carter had used for his work. As best as Giles could tell, it was a bird feather. He was no expert, however. He bagged it and some other samples and tucked them away for analysis back home. That day he toured the portion of the catacombs the team had pronounced safe and agreed with them that yes, this site far predated the monastery, and yes, it was a most excellent find. The area had been bursting with early monasticism, often on the same sites as more ancient religious groups, and it was all most fascinating. At any other time he'd have been glued to the site and thrilled by the discovery in progress.
 
 The three books he'd requested arrived by courier arrived a couple of days later. Tucked inside was a note from Dawn, outlining her typically sensible plan for widening the area of research from Coptic history to more general legends of winged things. Giles postponed his morning trip to the dig site in favor of tucking in immediately into research. He was up long into the night reading the text on supernatural transformations by torchlight. Xander was up with him, not reading but instead pacing the room. He was still awake and pacing when Giles gave into exhaustion.
 
 Xander slept until noon, long after the day's growing heat had driven Giles from the bedroom. When he finally woke, he complained he was starving. He ate every date in the house and emptied the tiny icebox for his lunch. Giles stood behind him while he ate and tried to get him to hold his wings still long enough for the daily measurement. Xander had very little control over them and Giles begged him to stop fidgeting to no avail. Three feet now, he guessed, when extended.
 
-"Hullo!" The shiny points of pin feathers had begun to emerge from the wings and from the skin of his back around where the wings were rooted. The skin itself was well on its way to healing. 
+"Hullo!" The shiny points of pin feathers had begun to emerge from the wings and from the skin of his back around where the wings were rooted. The skin itself was well on its way to healing.
 
 "What now?"
 
-"Er. You've begun to molt." 
+"Er. You've begun to molt."
 
 "Oh. That's what that itching is. It's a new kind of itching."
 
@@ -298,7 +298,7 @@ Xander craned his head back to look. The expression on his face was doubtful. "A
 
 "Xander, devil wings are bat wings. Yours are feathered. Ergo."
 
-"They get hot when I stand in the sun," was all Xander said in reply. He sounded sulky. 
+"They get hot when I stand in the sun," was all Xander said in reply. He sounded sulky.
 
 That night he stalked out early and stayed out late. Giles remained awake until he returned, reading at the big common table by candlelight, taking notes in his journal. He'd moved on from the books Dawn had sent to Carter's collection, which was unfortunately focused on much older history of the area. Surprising, really, given that he'd known he was being sent to work on Coptic material. Perhaps he'd anticipated the discovery of the more ancient necropolis? This speculation kept Giles occupied into the small hours, when the door finally scraped open to admit Xander.
 
@@ -330,7 +330,7 @@ Jennifer had another thoughtful mouthful of bread before she answered. "I was pr
 
 "I can't sense anything other than him. He's loud, if you know what I mean."
 
-Giles did. He pushed his hat back and scratched at his head. Slayers reacted to the supernatural, not merely to the demonic, but Jennifer did ought to be able to sort out the inputs. Buffy could, he knew. Perhaps Buffy's years of practice told here. He resettled his hat and turned to her. 
+Giles did. He pushed his hat back and scratched at his head. Slayers reacted to the supernatural, not merely to the demonic, but Jennifer did ought to be able to sort out the inputs. Buffy could, he knew. Perhaps Buffy's years of practice told here. He resettled his hat and turned to her.
 
 "Remember what you learned about honing. You can tune him out."
 
@@ -388,7 +388,7 @@ When Xander left for his walk that night, he was cheerful. Jennifer held a fist 
 
 The next morning Xander was asleep face-down in the bed as usual, sprawled out on top of the sheets, wings akimbo. Giles regarded him with no small amount of satisfaction, then set off on his morning walk with Jennifer. Their plan was to have breakfast at the cafe as usual. They made their way down the road into the town square, amiably bickering about ways of tricking Xander into flying before he'd realized he done so.
 
-There was a crowd of people moving slowly along the main street. The men at its center were carrying something wrapped in dark cloth. Giles couldn't see what it was, but from the shape he thought he knew what it was. He moved in closer to hear what they were saying. His Arabic had improved in the last couple of weeks of intensive use, and what he heard made his heart sink. He took off his hat in respect. He found a man standing apart at the edge of the crowd, watching, and asked what had happened. It was the body of a girl, a teenaged girl, who'd gone missing from her home overnight. She'd been found at the dig site by the university students arriving in the morning. 
+There was a crowd of people moving slowly along the main street. The men at its center were carrying something wrapped in dark cloth. Giles couldn't see what it was, but from the shape he thought he knew what it was. He moved in closer to hear what they were saying. His Arabic had improved in the last couple of weeks of intensive use, and what he heard made his heart sink. He took off his hat in respect. He found a man standing apart at the edge of the crowd, watching, and asked what had happened. It was the body of a girl, a teenaged girl, who'd gone missing from her home overnight. She'd been found at the dig site by the university students arriving in the morning.
 
 Jennifer tugged at Giles's sleeve and pulled him away from the crowed.
 
@@ -430,7 +430,7 @@ Jennifer stopped and stared at him. He could see the disgust on her face very cl
 
 She trotted off along the alleyway and around a corner. Giles shut off his torch and followed. Somewhere on the horizon to the east the sky was beginning to lighten, but it would be two hours yet until daylight. Plenty of time for a vampire to hunt and feed.
 
-Jennifer led him through the back-alley route to the edge of the town square. They stopped just outside, hidden by the shadow of the awnings of a closed-up shop. Jennifer tapped him on the arm, then leapt silently away from him back into the alley. Giles turned away from her resolutely and sought out whatever had alarmed her. He'd played bait for Buffy often enough that he knew his role here: blunder out into the open and look vulnerable. 
+Jennifer led him through the back-alley route to the edge of the town square. They stopped just outside, hidden by the shadow of the awnings of a closed-up shop. Jennifer tapped him on the arm, then leapt silently away from him back into the alley. Giles turned away from her resolutely and sought out whatever had alarmed her. He'd played bait for Buffy often enough that he knew his role here: blunder out into the open and look vulnerable.
 
 He wandered out into the village square with his hands in his pockets. Just a fellow out for a midnight stroll.
 
@@ -456,11 +456,11 @@ Carter shook his head. "I found something there. Something I'd been looking for.
 
 "Your half-blind friend got to it before I could finish translating the inscription. I wanted to be sure. After he'd used it I was sure." He took a few steps forward and poked Giles in the chest. "I wanted that for myself."
 
-"You didn't want that curse on you," Giles said, more loudly than needed. Where'd he put his stake? Left vest pocket. He slid his hand into the pocket casually. How well-trained was Jennifer? Had she done any live exercises? He couldn't recall. 
+"You didn't want that curse on you," Giles said, more loudly than needed. Where'd he put his stake? Left vest pocket. He slid his hand into the pocket casually. How well-trained was Jennifer? Had she done any live exercises? He couldn't recall.
 
 "Curse? Surprised you think it's a curse. Doesn't matter. I found something better down there. The amulet gives power, but I found immortality."
 
-Carter smiled at Giles and showed his fangs. A moment later his face transformed fully. Giles stepped back and fumbled the stake out and into his hand. Carter's smile widened. He looked back over his shoulder and called out. 
+Carter smiled at Giles and showed his fangs. A moment later his face transformed fully. Giles stepped back and fumbled the stake out and into his hand. Carter's smile widened. He looked back over his shoulder and called out.
 
 "Bishoy!"
 
@@ -496,7 +496,7 @@ Carter turned and ran. Jennifer shoved herself to her feet and staggered after h
 
 "He's getting away."
 
-"Let him." He shoved her flat down to the ground and took a look at her arm. Bite marks, ripped when she'd struggled. He took her left hand and pressed it over the wound. 
+"Let him." He shoved her flat down to the ground and took a look at her arm. Bite marks, ripped when she'd struggled. He took her left hand and pressed it over the wound.
 
 There was a heavy thump on the pavement behind them. Giles reached for his knife, but it was only Xander, breathing hard with wings spread wide. He folded them and knelt next to Jennifer. "What's going on?" he said.
 
@@ -506,7 +506,7 @@ There was a heavy thump on the pavement behind them. Giles reached for his knife
 
 "Two. We got one."
 
-"I need a weapon." 
+"I need a weapon."
 
 Without a word Giles handed him the clasp knife. Xander snapped it open. He grinned at Giles, and to his horror Giles saw fangs in his mouth. Xander ran, one step, two, and leapt into the air. His wings beat powerfully and he mounted into the air smoothly, as if he had been born doing it. Giles gaped. He flew straight up, hovered, then shifted his weight and swooped over the rooftops and out of sight.
 
@@ -514,7 +514,7 @@ Giles snapped his mouth shut and got back to the task at hand. He had an injured
 
 "Looks like he figured it out," Jennifer said. "Ow."
 
-He wound his shirtsleeve around her arm, just above the bite-marks. "Pressure again now. Good. You let that vampire capture you," he said, to distract her. 
+He wound his shirtsleeve around her arm, just above the bite-marks. "Pressure again now. Good. You let that vampire capture you," he said, to distract her.
 
 She bit her lip. "He was faster than they said in training. Surprised me."
 
@@ -532,7 +532,7 @@ Giles flinched and looked up. Xander was hovering in the air twenty feet above t
 
 "Good God!"
 
-"Want him?" Xander let go, and Carter plummeted to the ground. Bone snapped and blood splashed. He looked at the mess and winced-- the vampire was still alive, moaning in pain. Xander swooped down in front of them and landed hard. He fell to one knee. The clasp knife was open in his hand and it was wet with blood. The vampire's blood, Giles guessed. 
+"Want him?" Xander let go, and Carter plummeted to the ground. Bone snapped and blood splashed. He looked at the mess and winced-- the vampire was still alive, moaning in pain. Xander swooped down in front of them and landed hard. He fell to one knee. The clasp knife was open in his hand and it was wet with blood. The vampire's blood, Giles guessed.
 
 "I wonder how long he'll last," Xander said. He  turned and threw the knife deep into Carter's gut. The vampire screamed.
 
@@ -542,9 +542,9 @@ Xander grinned at him. His fangs looked sharp, as sharp as those of the vampire 
 
 He pulled the knife out of Carter's belly and held it over him again. Giles knocked it away. He summoned every scrap of calm authority he'd ever had and said, "This ends now."
 
-Xander snarled at him but stood aside. Giles fumbled his second stake from his vest pocket. He plunged it into Carter's heart and ended his suffering. One last scream, sighing away into infinity, and he too was dust. 
+Xander snarled at him but stood aside. Giles fumbled his second stake from his vest pocket. He plunged it into Carter's heart and ended his suffering. One last scream, sighing away into infinity, and he too was dust.
 
-Xander seemed to crumple where he stood. His wings drooped. He wiped the blood from his face and stared at his wet hands. His teeth were normal again and so was his eye. 
+Xander seemed to crumple where he stood. His wings drooped. He wiped the blood from his face and stared at his wet hands. His teeth were normal again and so was his eye.
 
 "Shit shit shit, Giles, what did I just do?"
 
@@ -552,7 +552,7 @@ Xander seemed to crumple where he stood. His wings drooped. He wiped the blood f
 
 Xander gathered Jennifer in his arms and without another word leapt into the air. He flew off over the rooftops while Giles stood and stared after him in amazement. Then he swore to himself and set off through the streets at a dead run.
 
-He found Jennifer in the kitchen with the big first aid kit, contemplating a sloppy bandage half-taped to her arm Giles clucked at her and snatched the tape away. Wrong, all wrong. Jennifer snatched the tape back from him and rolled her eyes. 
+He found Jennifer in the kitchen with the big first aid kit, contemplating a sloppy bandage half-taped to her arm Giles clucked at her and snatched the tape away. Wrong, all wrong. Jennifer snatched the tape back from him and rolled her eyes.
 
 "Xander's on the roof. Go talk him out of whatever stupid thing he's going to do. I can finish this."
 
@@ -560,7 +560,7 @@ Giles took the stairs at a dead run, afraid of what he might find.
 
 Xander stood at the edge of the roof on the low wall. At any other time Giles might have panicked and run toward him to pull him away, but everything had changed. He was in no danger. If he jumped, he would fly. Xander's wings unfolded, lifted, and spread. Four meters, he guessed, from tip to tip. Four meters, completely improbable, and utterly beautiful. Water dripped from the feathers onto the wall beneath Xander. His jeans were soaked as well, Giles saw, and the blood had been washed away from his hands.
 
-The sky behind him was brightening with the dawn. 
+The sky behind him was brightening with the dawn.
 
 "You can fly," Giles said, aware it was fatuous.
 
@@ -594,17 +594,17 @@ Giles touched two fingers to Xander's lips, just as Xander had done to him weeks
 
 "You're the best man I know," he said, and he leaned forward.
 
-The air shifted behind them and Giles felt magic tingle at his senses. He let go of Xander and spun, and found himself nose to nose with Willow. Buffy stood behind her. Giles's face flushed and he felt his ears burn. They'd caught him. 
+The air shifted behind them and Giles felt magic tingle at his senses. He let go of Xander and spun, and found himself nose to nose with Willow. Buffy stood behind her. Giles's face flushed and he felt his ears burn. They'd caught him.
 
 Buffy winked at him, but said nothing. "Like the new look, Xan."
 
 "Yo, Buff, this is not at all awkward."
 
-Xander rubbed his hands on his jeans. He wasn't looking at Giles at all, so Giles studiously looked away from Xander and instead opened his arms to return Buffy's enthusiastic hug. He fought to tamp down his annoyance, for he was genuinely glad to see her. Though perhaps she might have waited another few hours before teleporting over. 
+Xander rubbed his hands on his jeans. He wasn't looking at Giles at all, so Giles studiously looked away from Xander and instead opened his arms to return Buffy's enthusiastic hug. He fought to tamp down his annoyance, for he was genuinely glad to see her. Though perhaps she might have waited another few hours before teleporting over.
 
 He gave Buffy another squeeze out of guilt for that thought. "I was just, uh, explaining to Xander that he's not evil," he said into her hair.
 
-Buffy pulled away from his embrace, apparently for the express purpose of making a face at him. Jennifer appeared behind her and made a face at him as well. Did none of his Slayers respect him in the least? Thank goodness, no. 
+Buffy pulled away from his embrace, apparently for the express purpose of making a face at him. Jennifer appeared behind her and made a face at him as well. Did none of his Slayers respect him in the least? Thank goodness, no.
 
 "Xander thinks he's evil?" Buffy said.
 
@@ -642,13 +642,13 @@ Willow shook her head. "It's in your place in Bath."
 
 "Speaking of which," Buffy said. "Let's get going."
 
-It was the work of fifteen minutes to pack their bags and books, and another half hour to hand the keys of the Rover over to a fellow who promised to return it to the agency in Asyut. Finally they were on the rooftop again, joining hands in a circle. Willow rose gently into the air, white hair flying, and the next breath Giles drew was cool and moist. He was standing in his own drive, before his own front door, and it was drizzling. He breathed in again. Rain, sweet rain on his face, the smell of mown grass. A dismal gray English dawn. And one thing he wanted more than anything else as homecoming. 
+It was the work of fifteen minutes to pack their bags and books, and another half hour to hand the keys of the Rover over to a fellow who promised to return it to the agency in Asyut. Finally they were on the rooftop again, joining hands in a circle. Willow rose gently into the air, white hair flying, and the next breath Giles drew was cool and moist. He was standing in his own drive, before his own front door, and it was drizzling. He breathed in again. Rain, sweet rain on his face, the smell of mown grass. A dismal gray English dawn. And one thing he wanted more than anything else as homecoming.
 
 "Fancy a cup?" he said. Getting the blood and sand out of his clothes could wait.
 
 But Buffy shook her head. "No time. Come on, Xan. To the Slaycave, Willow!"
 
-And the three of them vanished with a sound like popping soap bubbles. Giles and Jennifer stared at each other. Jennifer shrugged and Giles laughed, for what other response could he make? His business with Xander would have to wait until Buffy had worked through whatever scheme she'd hatched. He ushered Jennifer inside and the two of them went to his kitchen to make some tea and a bit of breakfast. Willow reappeared a few minutes later to join them, but Buffy and Xander were not with her. Giles itched to ask Willow where they were and what they were doing, but she volunteered nothing. And he felt that asking might reveal his secret. 
+And the three of them vanished with a sound like popping soap bubbles. Giles and Jennifer stared at each other. Jennifer shrugged and Giles laughed, for what other response could he make? His business with Xander would have to wait until Buffy had worked through whatever scheme she'd hatched. He ushered Jennifer inside and the two of them went to his kitchen to make some tea and a bit of breakfast. Willow reappeared a few minutes later to join them, but Buffy and Xander were not with her. Giles itched to ask Willow where they were and what they were doing, but she volunteered nothing. And he felt that asking might reveal his secret.
 
 Xander was gone for three days, doing he knew not what. Giles tried not to fret. He busied himself with catching up on correspondence that had stacked up on his desk while he was away, with the reports on the ever-slowing hunt for awakened Slayers. He was beginning to think they'd found the lot, at a count of nearly fifty girls. He also spent time with Dawn pursuing the line of inquiry she'd begun into amulets that effected magical transformations. After a brief vacation, Jennifer returned to the London field office with a commendation for bravery and a stern admonition to work on her reaction time.
 
@@ -688,7 +688,7 @@ Giles sat on the edge of his desk and stuck his hands into his trouser pockets. 
 
 Xander was not a demon-hunter by accident of birth. He hadn't been molded and trained and told what he was from an early age. He had chosen to hunt demons of his own free will, because it was something that needed to be done. The spirit of the amulet would have found Xander irresistible, and it would have taken a stronger will and more training than Xander had for him to resist it in turn. Once the thing had sensed Xander, the outcome had been inevitable.
 
-Giles said none of this just then, however. He would finish his translation of the account and give it to Xander to read when he was ready to read it. 
+Giles said none of this just then, however. He would finish his translation of the account and give it to Xander to read when he was ready to read it.
 
 "I was a natural, huh?"
 
@@ -742,7 +742,7 @@ He'd forgotten to be afraid, held tight in Xander's arms.
 
 Xander swore softly as they approached the open windows of the loft. "Controlled stall," he muttered, obviously more to himself than to Giles. "Controlled stall. Oh shit." They slowed, lurched forward, slowed again, then dropped the last five feet in an instant. Xander's feet slammed into the loft floor hard. He let go his embrace and Giles went sprawling on his face.
 
-"Sorry! Landings, man, they're hard. I still fall on my own face half the time." 
+"Sorry! Landings, man, they're hard. I still fall on my own face half the time."
 
 Giles rolled onto his back and grinned up at Xander. He'd skinned his elbow, but he would, he thought, be grinning for another week. "I don't care about the landings."
 
