@@ -29,9 +29,30 @@ var argv = require('yargs')
 		type:        'boolean',
 		description: 'only process changed files'
 	})
+	.option('s', {
+		alias: 'static',
+		type: 'boolean',
+		description: 'only process static files'
+	})
 	.argv;
 
 var metalsmith = new Metalsmith('.');
+
+if (argv.static)
+{
+	metalsmith
+		.clean(false)
+		.use(static({
+			'src': 'static',
+			'dest': '.'
+		}))
+		.build(function(err)
+		{
+			console.log('static files moved in ' + Math.round((Date.now() - start) / 1000) + 's');
+			if (err) throw err;
+			process.exit(0);
+		});
+}
 
 if (argv.changed)
 {
@@ -121,8 +142,11 @@ function totalWords(files, ms, done)
 	done();
 }
 
-metalsmith.build(function(err)
+if (!argv.static)
 {
-	console.log('site built in ' + Math.round((Date.now() - start) / 1000) + 's');
-	if (err) throw err;
-});
+	metalsmith.build(function(err)
+	{
+		console.log('site built in ' + Math.round((Date.now() - start) / 1000) + 's');
+		if (err) throw err;
+	});
+}
