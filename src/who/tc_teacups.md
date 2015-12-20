@@ -231,7 +231,7 @@ He laughed, and she did too. He shifted himself, relaxed his hold on her and str
 
 She laughed. Her fingers moved in his hair. She said, "Do you ever want to hide in your TARDIS for a week? Find some safe spot and just do nothing?"
 
-"Often. I do it whenever I need to. Park it, sit on the roof, play my guitar at the stars. Or I go the other way round, hide here in the library in drink tea."
+"Often. I do it whenever I need to. Park it, sit on the roof, play my guitar at the stars. Or I go the other way round, hide here in the library and drink tea."
 
 "Like we're doing now."
 
