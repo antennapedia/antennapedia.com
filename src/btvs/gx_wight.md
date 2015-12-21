@@ -9,16 +9,16 @@ altlink: 'http://antennapedia.livejournal.com/515462.html'
 tags:
   - alcohol
   - au
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - england
   - sex:first-time
-  - 'genre:horror'
+  - genre:horror
   - magic
   - rain
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - season:06
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

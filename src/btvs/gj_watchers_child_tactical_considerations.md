@@ -8,14 +8,14 @@ notes: null
 summary: Giles breaks the news to Buffy.
 altlink: 'http://antennapedia.livejournal.com/304100.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:jenny'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - c:jenny
+  - genre:romance
   - happy
-  - 'season:01'
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - season:01
+  - f:btvs
+  - p:giles/jenny
 rating: general
 pairing: giles/jenny
 ---

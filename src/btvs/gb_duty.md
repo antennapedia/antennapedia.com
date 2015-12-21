@@ -7,19 +7,19 @@ notes: Originally written for the Buffyverse anonymous kink meme.
 summary: A Watcher has many duties and is trained to perform them well.
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=566650#t566650'
 tags:
-  - 'c:buffy'
-  - 'c:dom!giles'
-  - 'c:giles'
-  - 'c:sub!buffy'
-  - 'genre:kink'
+  - c:buffy
+  - c:dom!giles
+  - c:giles
+  - c:sub!buffy
+  - genre:kink
   - kink-meme-fill
-  - 'kink:bloodplay'
-  - 'kink:bondage'
-  - 'kink:pain'
-  - 'kink:whipping'
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - kink:bloodplay
+  - kink:bondage
+  - kink:pain
+  - kink:whipping
+  - season:06
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

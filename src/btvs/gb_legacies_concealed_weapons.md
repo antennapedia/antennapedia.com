@@ -9,13 +9,13 @@ summary: Giles is cleaning his pistols. Buffy has some questions.
 altlink: 'http://antennapedia.livejournal.com/394041.html#comments'
 tags:
   - alcohol
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - genre:romance
   - guns
   - post-series
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

@@ -7,16 +7,16 @@ notes: Originally written for the Buffyverse anonymous kink meme.
 summary: Giles has a surprise for Xander.
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=579194#t579194'
 tags:
-  - 'c:dom!giles'
-  - 'c:giles'
-  - 'c:sub!xander'
-  - 'c:xander'
-  - 'genre:kink'
+  - c:dom!giles
+  - c:giles
+  - c:sub!xander
+  - c:xander
+  - genre:kink
   - kink-meme-fill
-  - 'kink:dom/sub'
-  - 'kink:piercing'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - kink:dom/sub
+  - kink:piercing
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

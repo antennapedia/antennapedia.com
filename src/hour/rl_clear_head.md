@@ -7,15 +7,15 @@ notes: null
 summary: Things are much clearer now that he's sober.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
 tags:
-  - 'c:lix-storm'
-  - 'c:randall-brown'
+  - c:lix-storm
+  - c:randall-brown
   - genre:fluff
-  - 'genre:romance'
+  - genre:romance
   - marriage
   - pregnancy
   - proposal
-  - 'f:the_hour'
-  - 'p:randall/lix'
+  - f:the_hour
+  - p:randall/lix
 rating: general
 pairing: randall/lix
 autotoc: true

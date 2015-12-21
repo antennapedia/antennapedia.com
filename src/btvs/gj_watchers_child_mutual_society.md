@@ -8,18 +8,18 @@ notes: null
 summary: Giles and Jenny have a nice church wedding.
 altlink: 'http://antennapedia.livejournal.com/312349.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:jenny'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:jenny
+  - c:willow
+  - c:xander
   - family
-  - 'genre:romance'
+  - genre:romance
   - happy
-  - 'season:01'
+  - season:01
   - wedding
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - f:btvs
+  - p:giles/jenny
 rating: general
 pairing: giles/jenny
 ---

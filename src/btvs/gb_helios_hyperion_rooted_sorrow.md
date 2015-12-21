@@ -9,14 +9,14 @@ summary: "The four times it happened before. And once it didn't quite."
 altlink: 'http://antennapedia.livejournal.com/297172.html'
 tags:
   - authors-favorite
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:angst'
-  - 'season:05'
+  - c:buffy
+  - c:giles
+  - genre:angst
+  - season:05
   - slayers
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

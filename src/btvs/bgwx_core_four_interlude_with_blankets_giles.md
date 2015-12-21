@@ -8,16 +8,16 @@ notes: null
 summary: 'Giles, in pajamas, thinking.'
 altlink: 'http://antennapedia.insanejournal.com/6726.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - core-four
-  - 'genre:fluff'
+  - genre:fluff
   - polyamory
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
+  - season:04
+  - f:btvs
+  - p:buffy/giles/willow/xander
 rating: mature
 pairing: buffy/giles/willow/xander
 ---

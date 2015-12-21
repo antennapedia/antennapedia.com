@@ -8,17 +8,17 @@ notes: null
 summary: Toast racks are abused; bathrobes are stolen; crosswords are left undone.
 altlink: 'http://antennapedia.livejournal.com/478555.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:fluff'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - genre:fluff
+  - genre:romance
   - pillow-talk
   - post-series
   - proposal
   - rain
   - toast
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

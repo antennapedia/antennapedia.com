@@ -9,15 +9,15 @@ summary: 'The origin of the Watchers, according to the Watchers of the 20th cent
 altlink: 'http://community.livejournal.com/summer_of_giles/52056.html'
 tags:
   - au
-  - 'c:apollo'
+  - c:apollo
   - council
   - first-slayer
   - greek-myth
   - myth
   - slayers
   - watchers
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

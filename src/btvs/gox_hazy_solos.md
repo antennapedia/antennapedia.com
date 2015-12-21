@@ -8,15 +8,15 @@ summary: "Somebody's been set up. Who? Only Xander knows for sure."
 altlink: 'http://antennapedia.livejournal.com/229583.html#comments'
 tags:
   - authors-favorite
-  - 'c:giles'
-  - 'c:oz'
-  - 'c:xander'
+  - c:giles
+  - c:oz
+  - c:xander
   - drugs
   - guitars
-  - 'kink:piercing'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/oz/xander'
+  - kink:piercing
+  - season:04
+  - f:btvs
+  - p:giles/oz/xander
 rating: adult
 pairing: giles/oz/xander
 ---

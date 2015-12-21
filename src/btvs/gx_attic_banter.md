@@ -8,16 +8,16 @@ notes: null
 summary: 'Once again, Xander distracts Giles from the nerve-wracking business of waiting.'
 altlink: 'http://community.livejournal.com/summer_of_giles/114850.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
-  - 'genre:kink'
-  - 'genre:romance'
+  - genre:kink
+  - genre:romance
   - happy
-  - 'kink:dirty-talk'
+  - kink:dirty-talk
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

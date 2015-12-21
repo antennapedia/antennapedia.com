@@ -8,21 +8,21 @@ notes: null
 summary: 'Giles dreams of the past, and wakes to the present.'
 altlink: 'http://community.livejournal.com/summer_of_giles/136524.html'
 tags:
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:jenny'
-  - 'c:xander'
+  - c:ethan
+  - c:giles
+  - c:jenny
+  - c:xander
   - cleveland
   - dreams
-  - 'genre:angst'
-  - 'genre:kink'
-  - 'kink:blindfold'
-  - 'kink:bondage'
+  - genre:angst
+  - genre:kink
+  - kink:blindfold
+  - kink:bondage
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
-  - 'p:giles/jenny'
-  - 'p:giles/ethan'
+  - f:btvs
+  - p:giles/xander
+  - p:giles/jenny
+  - p:giles/ethan
 rating: mature
 pairing: giles/xander
 ---

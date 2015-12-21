@@ -10,8 +10,8 @@ altlink: 'http://antennapedia.livejournal.com/101228.html#comments'
 tags:
   - authors-favorite
   - award-winner
-  - 'c:ethan'
-  - 'c:giles'
+  - c:ethan
+  - c:giles
   - commentary
   - council
   - drugs
@@ -20,8 +20,8 @@ tags:
   - oxford
   - pre-series
   - religion
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - f:btvs
+  - p:giles/ethan
 rating: adult
 pairing: giles/ethan
 ---

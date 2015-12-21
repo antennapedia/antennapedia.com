@@ -8,12 +8,12 @@ notes: null
 summary: Giles takes Buffy out for a Sunday drive.
 altlink: 'http://antennapedia.livejournal.com/394646.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - cars
   - post-series
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

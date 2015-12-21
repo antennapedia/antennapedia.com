@@ -10,8 +10,8 @@ altlink: 'http://antennapedia.livejournal.com/178370.html#comments'
 tags:
   - alchemy
   - authors-favorite
-  - 'c:ethan'
-  - 'c:giles'
+  - c:ethan
+  - c:giles
   - commentary
   - council
   - sex:first-time
@@ -19,8 +19,8 @@ tags:
   - pre-series
   - rupertus-domesticus
   - watchers
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - f:btvs
+  - p:giles/ethan
 rating: mature
 pairing: giles/ethan
 ---

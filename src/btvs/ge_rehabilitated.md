@@ -7,14 +7,14 @@ notes: 'Written for the <a href="http://community.livejournal.com/tweedandtea/15
 summary: 'Giles brings Willow back to the coven, where Ethan is waiting.'
 altlink: 'http://antennapedia.livejournal.com/350976.html'
 tags:
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'genre:hurt/comfort'
+  - c:ethan
+  - c:giles
+  - c:hurt!giles
+  - genre:hurt/comfort
   - post-grave
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - season:06
+  - f:btvs
+  - p:giles/ethan
 rating: general
 pairing: giles/ethan
 ---

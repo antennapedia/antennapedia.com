@@ -7,15 +7,15 @@ notes: Originally written for the Buffyverse anonymous kink meme.
 summary: "Ethan's in the hands of the Intiative."
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=555898#t555898'
 tags:
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:hurt!ethan'
-  - 'c:ripper!giles'
-  - 'genre:hurt/comfort'
+  - c:ethan
+  - c:giles
+  - c:hurt!ethan
+  - c:ripper!giles
+  - genre:hurt/comfort
   - kink-meme-fill
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - season:04
+  - f:btvs
+  - p:giles/ethan
 rating: mature
 pairing: giles/ethan
 ---

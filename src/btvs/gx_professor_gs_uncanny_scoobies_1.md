@@ -7,18 +7,18 @@ notes: 'Written for <b><a href="http://community.livejournal.com/summer_of_giles
 summary: "Xander's carelessness with magic artifacts might have got him into more trouble than he can reasonably escape, even with Giles's help."
 altlink: 'http://antennapedia.livejournal.com/492353.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - egypt
-  - 'genre:horror'
+  - genre:horror
   - magic
   - post-series
-  - 'trope:wingfic'
+  - trope:wingfic
   - vampires
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

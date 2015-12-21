@@ -7,13 +7,13 @@ notes: 'Written for <a href="http://community.livejournal.com/allthejellies">all
 summary: Giles sings the Buzzcocks.
 altlink: 'http://antennapedia.livejournal.com/22515.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:songfic'
+  - c:buffy
+  - c:giles
+  - genre:songfic
   - guitars
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:gen'
+  - season:04
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

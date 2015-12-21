@@ -8,18 +8,18 @@ notes: In progress.
 summary: 'Giles steals a dangerous artifact, then goes out to dinner with Buffy. Their night becomes more interesting as it progresses.'
 altlink: 'http://antennapedia.livejournal.com/169703.html'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
-  - 'genre:kink'
-  - 'kink:bondage'
-  - 'kink:dom/sub'
-  - 'kink:piercing'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
+  - genre:kink
+  - kink:bondage
+  - kink:dom/sub
+  - kink:piercing
   - magic
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - season:04
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

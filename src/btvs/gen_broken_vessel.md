@@ -7,17 +7,17 @@ notes: 'Makes reference to <a href="http://antennapedia.livejournal.com/328769.h
 summary: Giles has just enough money left for a train ticket home.
 altlink: 'http://community.livejournal.com/summer_of_giles/166813.html'
 tags:
-  - 'c:ethan'
-  - 'c:giles'
+  - c:ethan
+  - c:giles
   - drugs
   - eyghon
   - family
-  - 'genre:angst'
+  - genre:angst
   - guitars
   - pre-series
   - suicide
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: mature
 pairing: gen
 ---

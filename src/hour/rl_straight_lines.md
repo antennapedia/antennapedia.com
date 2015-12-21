@@ -7,12 +7,12 @@ notes: null
 summary: Randall manages his condition as best he knows how.
 altlink: 'http://antennapedia.tumblr.com/post/125036023653/uhhh-yeah-randalllix-wingfic-thats-why-hes'
 tags:
-  - 'c:lix-storm'
-  - 'c:randall-brown'
-  - 'genre:angst'
-  - 'trope:wingfic'
-  - 'f:the_hour'
-  - 'p:randall/lix'
+  - c:lix-storm
+  - c:randall-brown
+  - genre:angst
+  - trope:wingfic
+  - f:the_hour
+  - p:randall/lix
 rating: general
 pairing: randall/lix
 ---

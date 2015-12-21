@@ -7,16 +7,16 @@ notes: 'Written to the prompt "Giles/Buffy/Xander, both penetrating Buffy at onc
 summary: A thunderstorm after a long day of heat.
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=629882#t629882'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:xander
   - sex:first-time
-  - 'genre:angst'
+  - genre:angst
   - kink-meme-fill
   - post-series
-  - 'sex:anal'
-  - 'f:btvs'
-  - 'p:giles/buffy/xander'
+  - sex:anal
+  - f:btvs
+  - p:giles/buffy/xander
 rating: adult
 pairing: giles/buffy/xander
 ---

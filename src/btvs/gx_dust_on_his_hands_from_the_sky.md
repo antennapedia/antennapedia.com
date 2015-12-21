@@ -8,25 +8,25 @@ summary: "Xander flees to the place Scoobies go when they can't be near the Slay
 altlink: 'http://antennapedia.livejournal.com/235720.html#comments'
 tags:
   - authors-favorite
-  - 'c:angel'
-  - 'c:buffy'
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:hurt!xander'
-  - 'c:wesley'
-  - 'c:xander'
+  - c:angel
+  - c:buffy
+  - c:ethan
+  - c:giles
+  - c:hurt!xander
+  - c:wesley
+  - c:xander
   - character-death
-  - 'genre:angst'
-  - 'genre:hurt/comfort'
+  - genre:angst
+  - genre:hurt/comfort
   - issues:glbt
-  - 'season:06'
+  - season:06
   - suicide
-  - 'f:btvs'
-  - 'p:xander/anya'
-  - 'p:giles/xander'
-  - 'p:giles/ethan'
-  - 'p:giles/ofc'
-  - 'p:buffy/angel'
+  - f:btvs
+  - p:xander/anya
+  - p:giles/xander
+  - p:giles/ethan
+  - p:giles/ofc
+  - p:buffy/angel
 rating: mature
 pairing: giles/xander
 ---

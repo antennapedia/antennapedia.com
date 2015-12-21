@@ -8,18 +8,18 @@ notes: "Post-\"Chosen\" AU; <a href=\"http://antennapedia.livejournal.com/211202
 summary: 'The Head of Council enjoys cross-referencing, baking, and many other relaxing hobbies.'
 altlink: 'http://antennapedia.livejournal.com/212165.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:xander
   - england
   - sex:first-time
   - food
-  - 'genre:romance'
+  - genre:romance
   - happy
   - post-series
   - rupertus-domesticus
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

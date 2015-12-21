@@ -8,16 +8,16 @@ summary: "Only true love's kiss will wake her. But who's her true love?"
 altlink: 'http://antennapedia.livejournal.com/184676.html#comments'
 tags:
   - authors-favorite
-  - 'c:andrew'
-  - 'c:buffy'
-  - 'c:dawn'
-  - 'c:giles'
-  - 'c:jonathan'
-  - 'c:xander'
-  - 'genre:humor'
+  - c:andrew
+  - c:buffy
+  - c:dawn
+  - c:giles
+  - c:jonathan
+  - c:xander
+  - genre:humor
   - post-series
-  - 'f:btvs'
-  - 'p:buffy/jonathan'
+  - f:btvs
+  - p:buffy/jonathan
 rating: general
 pairing: buffy/jonathan
 ---

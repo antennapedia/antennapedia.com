@@ -24,12 +24,12 @@ summary: Words spoken and unspoken. Giles learns.
 altlink: 'http://antennapedia.livejournal.com/176042.html#comments'
 tags:
   - alcohol
-  - 'c:giles'
-  - 'c:oz'
-  - 'c:willow'
+  - c:giles
+  - c:oz
+  - c:willow
   - post-series
-  - 'f:btvs'
-  - 'p:giles/oz'
+  - f:btvs
+  - p:giles/oz
 rating: adult
 pairing: giles/oz
 ---

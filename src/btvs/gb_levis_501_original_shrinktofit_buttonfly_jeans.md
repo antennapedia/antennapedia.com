@@ -7,14 +7,14 @@ notes: null
 summary: Giles is wearing jeans that are as old as Buffy is. She can think of nothing better to do with them than unbutton them.
 altlink: 'http://whedon-kinkmeme.livejournal.com/1107.html?thread=134483'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - jeans
   - kink-meme-fill
-  - 'season:05'
-  - 'sex:oral'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - season:05
+  - sex:oral
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

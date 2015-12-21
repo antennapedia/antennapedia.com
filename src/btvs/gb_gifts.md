@@ -7,14 +7,14 @@ notes: 'Some time after "Breathing". Written for the kink bingo prompt "outdoor 
 summary: Giles and Buffy dally in a stone circle.
 altlink: 'http://antennapedia.livejournal.com/372781.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - england
-  - 'genre:romance'
+  - genre:romance
   - magic
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - season:06
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

@@ -22,17 +22,17 @@ notes: >
 summary: "Buffy's still got a hole in her side."
 altlink: 'http://community.livejournal.com/allthejellies/409390.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:hurt!buffy'
-  - 'c:xander'
-  - 'genre:hurt/comfort'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - c:hurt!buffy
+  - c:xander
+  - genre:hurt/comfort
+  - genre:romance
   - post-series
   - slayers
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

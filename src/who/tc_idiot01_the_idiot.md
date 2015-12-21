@@ -11,13 +11,13 @@ tags:
     - f:doctor_who
     - c:clara-oswald
     - c:twelfth-doctor
-    - sex:first-time
-    - sex:first-time
+    - s:the-idiot
     - au:soulmates
-    - trope:mate-or-die
+    - genre:angst
     - genre:fluff
     - true-names
-    - genre:angst
+    - sex:first-time
+    - trope:mate-or-die
 altlink: http://archiveofourown.org/works/4787126
 ---
 The Doctor stepped into the TARDIS, hand-in-hand with Clara, which was how they always were these days. He turned and squeezed and smiled at her. She'd been clever at least five times over just then, and as a result it had gone the best way it possibly could. Only one life lost, and that was the life of the man who'd built the machine with the intent of killing others, and he found that acceptable.

@@ -7,14 +7,14 @@ notes: 'Comment ficlet for <b><a href="http://getjrjt.livejournal.com/">getjrjt<
 summary: "Buffy and Giles get stuck in an elevator. Buffy's pissed off. So is Giles."
 altlink: 'http://antennapedia.livejournal.com/496907.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - elevator
   - sex:first-time
   - post-series
-  - 'sex:angry'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - sex:angry
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

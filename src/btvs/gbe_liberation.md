@@ -9,18 +9,18 @@ altlink: 'http://antennapedia.livejournal.com/411320.html#comments'
 tags:
   - alcohol
   - au
-  - 'c:buffy'
-  - 'c:ethan'
-  - 'c:giles'
+  - c:buffy
+  - c:ethan
+  - c:giles
   - commentary
-  - 'genre:angst'
-  - 'kink:piercing'
+  - genre:angst
+  - kink:piercing
   - magic
-  - 'season:05'
+  - season:05
   - swords
   - tattoos
-  - 'f:btvs'
-  - 'p:giles/buffy/ethan'
+  - f:btvs
+  - p:giles/buffy/ethan
 rating: adult
 pairing: giles/buffy/ethan
 ---

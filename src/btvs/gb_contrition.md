@@ -7,16 +7,16 @@ notes: null
 summary: Giles has erred and requests punishment.
 altlink: 'http://mmm-smut.livejournal.com/155514.html?thread=572538#t572538'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
   - kink-meme-fill
-  - 'kink:dom/sub'
-  - 'kink:whipping'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - kink:dom/sub
+  - kink:whipping
+  - season:04
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

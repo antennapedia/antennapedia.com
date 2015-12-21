@@ -11,21 +11,21 @@ tags:
   - au
   - authors-favorite
   - award-winner
-  - 'c:apollo'
-  - 'c:artemis'
-  - 'c:buffy'
-  - 'c:giles'
+  - c:apollo
+  - c:artemis
+  - c:buffy
+  - c:giles
   - commentary
   - council
   - greek-myth
   - los-angeles
   - magic
-  - 'season:01'
-  - 'sex:ritual'
+  - season:01
+  - sex:ritual
   - virginity
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

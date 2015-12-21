@@ -8,23 +8,23 @@ notes: 'Kicks off a series of connected ficlets. Pr0ny in intent, though some ch
 summary: 'Giles commits an indiscretion, and gets into a spot of trouble. Buffy has a few opinions about that. Mid season 4, before "A New Man".'
 altlink: 'http://antennapedia.livejournal.com/211117.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
   - commentary
   - sex:first-time
-  - 'genre:kink'
-  - 'kink:bloodplay'
-  - 'kink:bondage'
-  - 'kink:dom/sub'
-  - 'kink:whipping'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/riley'
-  - 'p:giles/buffy'
-  - 'p:giles/jenny'
-  - 'p:giles/ethan'
+  - genre:kink
+  - kink:bloodplay
+  - kink:bondage
+  - kink:dom/sub
+  - kink:whipping
+  - season:04
+  - f:btvs
+  - p:buffy/riley
+  - p:giles/buffy
+  - p:giles/jenny
+  - p:giles/ethan
 rating: adult
 pairing: giles/buffy
 ---

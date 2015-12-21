@@ -9,15 +9,15 @@ summary: Ethan contemplates the ruin of the disreputable Ripper.
 altlink: 'http://antennapedia.livejournal.com/69712.html'
 tags:
   - baby
-  - 'c:buffy'
-  - 'c:ethan'
-  - 'c:giles'
-  - 'genre:humor'
+  - c:buffy
+  - c:ethan
+  - c:giles
+  - genre:humor
   - happy
-  - 'season:02'
+  - season:02
   - tagfic
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - f:btvs
+  - p:giles/jenny
 rating: general
 pairing: giles/jenny
 ---

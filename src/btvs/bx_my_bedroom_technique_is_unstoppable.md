@@ -7,14 +7,14 @@ notes: null
 summary: Some of the things Xander likes best about his girlfriend Buffy.
 altlink: 'http://mmm-smut.livejournal.com/155514.html?thread=614522#t614522'
 tags:
-  - 'c:buffy'
-  - 'c:xander'
+  - c:buffy
+  - c:xander
   - kink-meme-fill
-  - 'season:04'
-  - 'sex:anal'
-  - 'sex:oral'
-  - 'f:btvs'
-  - 'p:buffy/xander'
+  - season:04
+  - sex:anal
+  - sex:oral
+  - f:btvs
+  - p:buffy/xander
 rating: adult
 pairing: buffy/xander
 ---

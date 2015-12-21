@@ -8,19 +8,19 @@ summary: Giles emerges from his shell after Scooby encouragement and a little ma
 altlink: 'http://antennapedia.livejournal.com/28245.html#comments'
 tags:
   - award-winner
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:oz'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:oz
+  - c:willow
+  - c:xander
   - commentary
   - drugs
   - sex:first-time
-  - 'genre:romance'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/buffy'
-  - 'p:giles/ethan'
+  - genre:romance
+  - season:04
+  - f:btvs
+  - p:giles/buffy
+  - p:giles/ethan
 rating: adult
 pairing: giles/buffy
 ---

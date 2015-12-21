@@ -8,23 +8,23 @@ summary: What happened when Xander got thrown out of his house just minutes afte
 altlink: 'http://antennapedia.livejournal.com/137746.html#comments'
 tags:
   - award-winner
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:larry'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:larry
+  - c:xander
   - sex:first-time
-  - 'genre:fluff'
-  - 'genre:humor'
-  - 'genre:romance'
+  - genre:fluff
+  - genre:humor
+  - genre:romance
   - issues:glbt
   - high-school
-  - 'season:03'
-  - 'f:btvs'
-  - 'p:giles/xander'
-  - 'p:giles/jenny'
-  - 'p:giles/ethan'
-  - 'p:xander/larry'
-  - 'p:xander/faith'
+  - season:03
+  - f:btvs
+  - p:giles/xander
+  - p:giles/jenny
+  - p:giles/ethan
+  - p:xander/larry
+  - p:xander/faith
 rating: adult
 pairing: giles/xander
 ---

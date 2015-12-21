@@ -8,12 +8,12 @@ notes: null
 summary: 'The Master is dead, and they all survived. Giles and Jenny celebrate.'
 altlink: 'http://antennapedia.livejournal.com/304100.html'
 tags:
-  - 'c:giles'
-  - 'c:jenny'
-  - 'genre:angst'
-  - 'season:01'
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - c:giles
+  - c:jenny
+  - genre:angst
+  - season:01
+  - f:btvs
+  - p:giles/jenny
 rating: mature
 pairing: giles/jenny
 ---

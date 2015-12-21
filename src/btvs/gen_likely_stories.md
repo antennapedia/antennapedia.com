@@ -7,17 +7,17 @@ notes: null
 summary: A Scooby signs up for NaNoWriMo.
 altlink: 'http://antennapedia.livejournal.com/393898.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - core-four
-  - 'genre:friendship'
+  - genre:friendship
   - happy
   - post-series
   - scoobies
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

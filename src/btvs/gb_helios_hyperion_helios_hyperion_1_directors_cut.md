@@ -27,17 +27,17 @@ notes: >
 summary: "Buffy stands at the edge of the pool at the Hyperion. She's got a hole in her side, and a hole where Sunnydale used to be."
 altlink: 'http://antennapedia.livejournal.com/306897.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:hurt!buffy'
-  - 'c:wesley'
-  - 'c:willow'
-  - 'c:xander'
-  - 'genre:hurt/comfort'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - c:hurt!buffy
+  - c:wesley
+  - c:willow
+  - c:xander
+  - genre:hurt/comfort
+  - genre:romance
   - post-series
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

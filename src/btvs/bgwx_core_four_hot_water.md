@@ -8,16 +8,16 @@ notes: 'A big dose of schmoop anyway. With thanks to <b><a href="http://fannishn
 summary: Not everyone thinks these living arrangements are sensible.
 altlink: 'http://antennapedia.livejournal.com/48136.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:joyce'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:joyce
+  - c:willow
+  - c:xander
   - core-four
   - polyamory
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
+  - season:04
+  - f:btvs
+  - p:buffy/giles/willow/xander
 rating: mature
 pairing: buffy/giles/willow/xander
 ---

@@ -7,19 +7,19 @@ notes: null
 summary: "The apocalpyse stone says Buffy's the one the prophecy is about, only this time instead of dying she has to have sex. Some people think that's worse."
 altlink: 'http://whedon-kinkmeme.livejournal.com/1107.html?thread=164435#t164435'
 tags:
-  - 'c:buffy'
-  - 'c:cordelia'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:cordelia
+  - c:giles
+  - c:willow
+  - c:xander
   - sex:first-time
   - kink-meme-fill
   - magic
-  - 'season:02'
-  - 'sex:ritual'
+  - season:02
+  - sex:ritual
   - virginity
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

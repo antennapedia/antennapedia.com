@@ -7,15 +7,15 @@ notes: 'For <b><a href="http://secondalto.livejournal.com/">secondalto</a></b>. 
 summary: Giles has a lot of pills to take.
 altlink: 'http://antennapedia.livejournal.com/64317.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'c:xander'
-  - 'genre:hurt/comfort'
+  - c:giles
+  - c:hurt!giles
+  - c:xander
+  - genre:hurt/comfort
   - post-becoming
-  - 'season:02'
+  - season:02
   - tagfic
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

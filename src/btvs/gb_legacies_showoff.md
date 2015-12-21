@@ -9,14 +9,14 @@ summary: Giles has just shown off his PPK. He has a few other ways to show off.
 altlink: 'http://antennapedia.livejournal.com/396101.html#comments'
 tags:
   - alcohol
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - sex:first-time
-  - 'genre:romance'
+  - genre:romance
   - guns
   - post-series
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

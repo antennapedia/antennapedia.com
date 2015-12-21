@@ -8,12 +8,12 @@ notes: 'Written for the <a href="http://en.wikipedia.org/wiki/International_Day_
 summary: Giles makes good on his threats. Xander approves.
 altlink: 'http://antennapedia.livejournal.com/40436.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
-  - 'p:giles/xander'
+  - c:giles
+  - c:xander
+  - season:04
+  - f:btvs
+  - p:buffy/giles/willow/xander
+  - p:giles/xander
 rating: adult
 pairing: giles/xander
 ---

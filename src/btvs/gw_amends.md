@@ -8,15 +8,15 @@ summary: 'Wesley&#8217;s waiting when Giles arrives with Willow.'
 altlink: 'http://antennapedia.livejournal.com/243366.html#comments'
 tags:
   - authors-favorite
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'c:wesley'
-  - 'c:willow'
-  - 'genre:hurt/comfort'
+  - c:giles
+  - c:hurt!giles
+  - c:wesley
+  - c:willow
+  - genre:hurt/comfort
   - post-grave
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/wesley'
+  - season:06
+  - f:btvs
+  - p:giles/wesley
 rating: mature
 pairing: giles/wesley
 ---

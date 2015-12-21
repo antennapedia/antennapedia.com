@@ -7,12 +7,12 @@ notes: 'Comment ficlet for Shibela, who prompted with "sleep-fuzzy, mussed, nose
 summary: The best way to wake up?
 altlink: 'http://antennapedia.livejournal.com/481663.html?thread=4263039#t4263039'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:fluff'
+  - c:buffy
+  - c:giles
+  - genre:fluff
   - tea
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

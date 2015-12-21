@@ -7,17 +7,17 @@ notes: null
 summary: Xander gets his first serious piercing. Giles has opinions.
 altlink: 'http://whedon-kinkmeme.livejournal.com/1107.html?thread=149075'
 tags:
-  - 'c:dom!giles'
-  - 'c:giles'
-  - 'c:sub!xander'
-  - 'c:xander'
-  - 'genre:kink'
+  - c:dom!giles
+  - c:giles
+  - c:sub!xander
+  - c:xander
+  - genre:kink
   - kink-meme-fill
-  - 'kink:dom/sub'
-  - 'kink:piercing'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - kink:dom/sub
+  - kink:piercing
+  - season:04
+  - f:btvs
+  - p:giles/xander
 rating: adult
 pairing: giles/xander
 ---

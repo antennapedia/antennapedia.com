@@ -7,20 +7,20 @@ notes: 'An unposted kink meme fill for a prompt that asked for gen hurt/comfort,
 summary: Giles has broken his wrist. The left one. The assault on his dignity commences.
 altlink: null
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'c:willow'
-  - 'c:xander'
-  - 'genre:fluff'
-  - 'genre:friendship'
-  - 'genre:hurt/comfort'
+  - c:buffy
+  - c:giles
+  - c:hurt!giles
+  - c:willow
+  - c:xander
+  - genre:fluff
+  - genre:friendship
+  - genre:hurt/comfort
   - happy
   - scoobies
-  - 'season:03'
+  - season:03
   - tea
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

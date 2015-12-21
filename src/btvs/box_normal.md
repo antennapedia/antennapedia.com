@@ -7,23 +7,23 @@ notes: Originally written for the Buffyverse anonymous kink meme.
 summary: "Parker wasn't enough for Buffy. She needs more. She's not normal."
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=570234#t570234'
 tags:
-  - 'c:buffy'
-  - 'c:dom!oz'
-  - 'c:dom!xander'
-  - 'c:hyena!xander'
-  - 'c:oz'
-  - 'c:sub!buffy'
-  - 'c:xander'
-  - 'genre:kink'
+  - c:buffy
+  - c:dom!oz
+  - c:dom!xander
+  - c:hyena!xander
+  - c:oz
+  - c:sub!buffy
+  - c:xander
+  - genre:kink
   - kink-meme-fill
-  - 'kink:bondage'
-  - 'kink:dom/sub'
-  - 'kink:whipping'
-  - 'season:04'
-  - 'sex:anal'
-  - 'sex:rough'
-  - 'f:btvs'
-  - 'p:buffy/oz/xander'
+  - kink:bondage
+  - kink:dom/sub
+  - kink:whipping
+  - season:04
+  - sex:anal
+  - sex:rough
+  - f:btvs
+  - p:buffy/oz/xander
 rating: adult
 pairing: buffy/oz/xander
 ---

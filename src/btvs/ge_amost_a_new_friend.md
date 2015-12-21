@@ -8,16 +8,16 @@ summary: "Giles accepts Ethan's offer of a drink. He remembers what happened las
 altlink: 'http://whedon-kinkmeme.livejournal.com/740.html?thread=28644'
 tags:
   - alcohol
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:hurt!giles'
+  - c:ethan
+  - c:giles
+  - c:hurt!giles
   - depression
-  - 'genre:hurt/comfort'
+  - genre:hurt/comfort
   - kink-meme-fill
   - post-gift
-  - 'season:05'
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - season:05
+  - f:btvs
+  - p:giles/ethan
 rating: adult
 pairing: giles/ethan
 ---

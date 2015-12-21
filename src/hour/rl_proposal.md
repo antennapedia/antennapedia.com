@@ -7,12 +7,12 @@ notes: null
 summary: Randall finds the words at last.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
 tags:
-  - 'c:lix-storm'
-  - 'c:randall-brown'
-  - 'genre:angst'
+  - c:lix-storm
+  - c:randall-brown
+  - genre:angst
   - proposal
-  - 'f:the_hour'
-  - 'p:randall/lix'
+  - f:the_hour
+  - p:randall/lix
 rating: general
 pairing: randall/lix
 ---

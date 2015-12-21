@@ -7,17 +7,17 @@ notes: 'For meegat, who wanted "Giles and Bovril".'
 summary: Buffy gets the flu. Giles has bromides.
 altlink: 'http://antennapedia.livejournal.com/76029.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:hurt!buffy'
-  - 'genre:fluff'
-  - 'genre:flufic'
-  - 'genre:hurt/comfort'
-  - 'season:03'
+  - c:buffy
+  - c:giles
+  - c:hurt!buffy
+  - genre:fluff
+  - genre:flufic
+  - genre:hurt/comfort
+  - season:03
   - tagfic
   - tea
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

@@ -7,15 +7,15 @@ notes: "Written for <b><a href=\"http://community.livejournal.com/remixredux08/\
 summary: Xander takes steps to make sure he remembers what he needs to.
 altlink: 'http://community.livejournal.com/remixredux08/47304.html'
 tags:
-  - 'c:tara'
-  - 'c:willow'
-  - 'c:xander'
-  - 'genre:horror'
+  - c:tara
+  - c:willow
+  - c:xander
+  - genre:horror
   - magic
   - remix
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:gen'
+  - season:06
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

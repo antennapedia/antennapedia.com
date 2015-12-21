@@ -8,17 +8,17 @@ notes: null
 summary: 'Tonight, Xander’s in charge.'
 altlink: 'http://community.livejournal.com/summer_of_giles/136303.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
-  - 'genre:angst'
-  - 'genre:kink'
-  - 'kink:blindfold'
-  - 'kink:bondage'
-  - 'kink:whipping'
+  - genre:angst
+  - genre:kink
+  - kink:blindfold
+  - kink:bondage
+  - kink:whipping
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

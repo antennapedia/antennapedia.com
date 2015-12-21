@@ -9,21 +9,21 @@ summary: An accident with a magical artifact sends Giles into the past. Can the 
 altlink: 'http://antennapedia.livejournal.com/62916.html#comments'
 tags:
   - award-winner
-  - 'c:buffy'
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:holmes'
-  - 'c:watson'
+  - c:buffy
+  - c:ethan
+  - c:giles
+  - c:holmes
+  - c:watson
   - council
   - genre:crossover
   - london
   - magic
-  - 'season:05'
+  - season:05
   - timetravel
   - watchers
-  - 'f:btvs'
-  - 'f:sherlock_holmes'
-  - 'p:gen'
+  - f:btvs
+  - f:sherlock_holmes
+  - p:gen
 rating: general
 pairing: gen
 ---

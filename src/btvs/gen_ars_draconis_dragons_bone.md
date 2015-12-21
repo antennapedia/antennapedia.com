@@ -9,14 +9,14 @@ summary: A legend is found on a trip to the desert.
 altlink: 'http://antennapedia.livejournal.com/70312.html'
 tags:
   - award-winner
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - dragons
-  - 'genre:adventure'
-  - 'season:05'
+    - genre:adventure
+  - season:05
   - swords
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

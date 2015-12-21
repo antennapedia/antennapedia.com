@@ -9,17 +9,17 @@ altlink: 'http://antennapedia.livejournal.com/225869.html#comments'
 tags:
   - authors-favorite
   - award-winner
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:kennedy'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:kennedy
+  - c:willow
+  - c:xander
   - post-series
   - remix
   - roadtrip
-  - 'f:btvs'
-  - 'p:gen'
-  - 'p:willow/xander'
+  - f:btvs
+  - p:gen
+  - p:willow/xander
 rating: general
 pairing: gen
 ---

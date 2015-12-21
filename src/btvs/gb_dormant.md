@@ -8,15 +8,15 @@ summary: 'Buffy has run away to seek an ordinary life. Giles finds her, and tell
 altlink: 'http://antennapedia.livejournal.com/448602.html#comments'
 tags:
   - au
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:angst'
+  - c:buffy
+  - c:giles
+  - genre:angst
   - post-becoming
-  - 'season:02'
+  - season:02
   - slayers
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

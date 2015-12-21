@@ -9,17 +9,17 @@ summary: Buffy learns about names and magic.
 altlink: 'http://antennapedia.livejournal.com/340772.html'
 tags:
   - baby
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:jenny'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:jenny
+  - c:xander
   - happy
   - magic
   - religion
-  - 'season:02'
+  - season:02
   - watchers
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - f:btvs
+  - p:giles/jenny
 rating: general
 pairing: giles/jenny
 ---

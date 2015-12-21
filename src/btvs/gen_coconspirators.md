@@ -8,13 +8,13 @@ summary: Rupert is taken shopping in London by his grandmother.
 altlink: 'http://antennapedia.livejournal.com/328769.html'
 tags:
   - authors-favorite
-  - 'c:giles'
+  - c:giles
   - family
   - guitars
   - pre-series
   - tagfic
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

@@ -7,18 +7,18 @@ notes: null
 summary: "The Doctor rescues Clara in the nick of time, but that's not the end of it."
 altlink: 'http://archiveofourown.org/works/5166860'
 tags:
-  - 'c:clara-oswald'
-  - 'c:comforting!twelve'
-  - 'c:hurt!clara'
-  - 'c:twelfth-doctor'
-  - 'genre:hurt/comfort'
-  - 'genre:whump'
-  - 'issues:assault-recovery'
-  - 'issues:sexual-assault'
+  - c:clara-oswald
+  - c:comforting!twelve
+  - c:hurt!clara
+  - c:twelfth-doctor
+  - genre:hurt/comfort
+  - genre:whump
+  - issues:assault-recovery
+  - issues:sexual-assault
   - recovery
   - telepathy
-  - 'f:doctor_who'
-  - 'p:twelve/clara'
+  - f:doctor_who
+  - p:twelve/clara
 rating: mature
 pairing: twelve/clara
 ---

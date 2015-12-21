@@ -7,18 +7,18 @@ notes: 'For <b><a href="http://spiralleds.livejournal.com/">spiralleds</a></b>, 
 summary: "There's a vampire problem in London. In about 400 years."
 altlink: 'http://antennapedia.livejournal.com/303203.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:ninth-doctor'
-  - 'c:rose'
+  - c:buffy
+  - c:giles
+  - c:ninth-doctor
+  - c:rose
   - fray
   - melaka
-  - 'season:04'
+  - season:04
   - timetravel
-  - 'f:btvs'
-  - 'f:doctor_who'
-  - 'p:gen'
-  - 'p:giles/ethan'
+  - f:btvs
+  - f:doctor_who
+  - p:gen
+  - p:giles/ethan
 rating: mature
 pairing: giles/ethan
 ---

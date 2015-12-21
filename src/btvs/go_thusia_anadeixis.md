@@ -9,18 +9,18 @@ summary: 'Giles is chosen as a Watcher, in an ancient rite invoking the god Apol
 altlink: 'http://antennapedia.livejournal.com/265250.html'
 tags:
   - au
-  - 'c:apollo'
-  - 'c:giles'
+  - c:apollo
+  - c:giles
   - council
   - drugs
   - gods
   - greek-myth
   - magic
   - pre-series
-  - 'sex:ritual'
+  - sex:ritual
   - watchers
-  - 'f:btvs'
-  - 'p:giles/omc'
+  - f:btvs
+  - p:giles/omc
 rating: adult
 pairing: giles/omc
 ---

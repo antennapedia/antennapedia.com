@@ -7,11 +7,11 @@ notes: null
 summary: 'He is not an idiot. He has a perfectly functioning mind, if not a perfectly functioning memory, and he knows the sound of an early-model TARDIS when he hears one.'
 altlink: 'http://archiveofourown.org/works/5368796'
 tags:
-  - 'c:twelfth-doctor'
+  - c:twelfth-doctor
   - memory-loss
   - episode:hell-bent
-  - 'f:doctor_who'
-  - 'p:gen'
+  - f:doctor_who
+  - p:gen
 rating: general
 pairing: gen
 ---

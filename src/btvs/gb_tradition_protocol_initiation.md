@@ -10,26 +10,26 @@ altlink: 'http://antennapedia.livejournal.com/168368.html#comments'
 tags:
   - issues:assault-recovery
   - award-winner
-  - 'c:angelus'
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:oz'
-  - 'c:willow'
-  - 'c:xander'
+  - c:angelus
+  - c:buffy
+  - c:giles
+  - c:oz
+  - c:willow
+  - c:xander
   - council
-  - 'kink:dom/sub'
-  - 'kink:piercing'
+  - kink:dom/sub
+  - kink:piercing
   - magic
   - scoobies
-  - 'season:04'
+  - season:04
   - slayers
   - swords
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
-  - 'p:giles/olivia'
-  - 'p:buffy/parker'
-  - 'p:willow/oz'
+  - f:btvs
+  - p:giles/buffy
+  - p:giles/olivia
+  - p:buffy/parker
+  - p:willow/oz
 rating: adult
 pairing: giles/buffy
 ---

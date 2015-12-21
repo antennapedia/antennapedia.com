@@ -9,14 +9,14 @@ summary: "New Year's Eve: champagne, sarcasm, and sex."
 altlink: 'http://antennapedia.livejournal.com/351410.html'
 tags:
   - alcohol
-  - 'c:ethan'
-  - 'c:giles'
-  - 'genre:romance'
-  - 'season:03'
+  - c:ethan
+  - c:giles
+  - genre:romance
+  - season:03
   - sentimental
   - snark
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - f:btvs
+  - p:giles/ethan
 rating: mature
 pairing: giles/ethan
 ---

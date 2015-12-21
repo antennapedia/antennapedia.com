@@ -9,18 +9,18 @@ summary: Xander and Willow help Giles recover from Angelus.
 altlink: 'http://antennapedia.livejournal.com/31526.html'
 tags:
   - issues:assault-recovery
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:giles
+  - c:hurt!giles
+  - c:willow
+  - c:xander
   - commentary
-  - 'genre:angst'
-  - 'genre:hurt/comfort'
+  - genre:angst
+  - genre:hurt/comfort
   - post-becoming
   - remixed
-  - 'season:02'
-  - 'f:btvs'
-  - 'p:gen'
+  - season:02
+  - f:btvs
+  - p:gen
 rating: mature
 pairing: gen
 ---

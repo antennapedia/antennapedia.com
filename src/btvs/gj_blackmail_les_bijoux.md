@@ -9,14 +9,14 @@ summary: Giles thinks too much.
 altlink: 'http://community.livejournal.com/rounds_of_kink/51369.html'
 tags:
   - authors-favorite
-  - 'c:giles'
-  - 'c:jenny'
+  - c:giles
+  - c:jenny
   - sex:first-time
-  - 'genre:kink'
-  - 'kink:blindfold'
-  - 'season:02'
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - genre:kink
+  - kink:blindfold
+  - season:02
+  - f:btvs
+  - p:giles/jenny
 rating: mature
 pairing: giles/jenny
 ---

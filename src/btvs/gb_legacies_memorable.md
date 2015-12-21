@@ -8,16 +8,16 @@ notes: null
 summary: "Giles has an engagement ring in his pocket, but he's stuck in interminable meetings. His scheme to wriggle out of them might have just backfired on him. Oh dear."
 altlink: 'http://antennapedia.livejournal.com/526641.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:fluff'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - genre:fluff
+  - genre:romance
   - happy
   - post-series
   - proposal
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

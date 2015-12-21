@@ -9,18 +9,18 @@ summary: Eggnog is dangerous. Very dangerous.
 altlink: 'http://antennapedia.livejournal.com/156416.html'
 tags:
   - alcohol
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - council
   - england
-  - 'genre:romance'
+  - genre:romance
   - happy
   - post-series
   - scoobies
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

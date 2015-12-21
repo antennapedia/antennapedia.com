@@ -8,15 +8,15 @@ notes: null
 summary: 'Giles shows Xander the one possession he retains from his earlier life: his bowie knife. It has a history.'
 altlink: 'http://community.livejournal.com/summer_of_giles/115129.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
-  - 'genre:angst'
-  - 'genre:kink'
-  - 'kink:knifeplay'
+  - genre:angst
+  - genre:kink
+  - kink:knifeplay
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

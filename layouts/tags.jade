@@ -1,9 +1,7 @@
 extends basic.jade
 
-block title
-	title All tags
-
 block topmatter
+	h2 All tags
 	- var tagl = Object.keys(tags).sort()
 	p There are #{tagl.length} tags.
 				

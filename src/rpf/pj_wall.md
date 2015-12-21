@@ -8,15 +8,15 @@ summary: "It's his wall this time, darn it. Peter is going to paint it and nobod
 altlink: 'http://archiveofourown.org/works/4684967'
 tags:
   - alcohol
-  - 'au:art-school'
-  - 'c:jenna-coleman'
-  - 'c:peter-capaldi'
-  - 'genre:romance'
+  - au:art-school
+  - c:jenna-coleman
+  - c:peter-capaldi
+  - genre:romance
   - graffiti
   - obliviousness
   - pining
-  - 'f:rpf'
-  - 'p:peter/jenna'
+  - f:rpf
+  - p:peter/jenna
 rating: mature
 pairing: peter/jenna
 ---

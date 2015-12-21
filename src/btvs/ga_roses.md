@@ -26,15 +26,15 @@ notes: >
 summary: 'Roses, history, tea, and decisions.'
 altlink: 'http://antennapedia.livejournal.com/333499.html'
 tags:
-  - 'c:anya'
-  - 'c:giles'
+  - c:anya
+  - c:giles
   - england
   - flowers
   - remixed
-  - 'season:06'
+  - season:06
   - tea
-  - 'f:btvs'
-  - 'p:giles/anya'
+  - f:btvs
+  - p:giles/anya
 rating: general
 pairing: giles/anya
 ---

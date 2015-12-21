@@ -7,23 +7,23 @@ notes: 'This was originally inspired by a prompt from <b><a href="http://communi
 summary: 'An ancient order of knights makes Giles an intriguing offer, but both the Order and the Council seem to think he has to give up Buffy first. Buffy has her own opinion about that.'
 altlink: 'http://antennapedia.livejournal.com/519952.html'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
-  - 'c:travers'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
+  - c:travers
   - chivalry
   - council
   - england
   - sex:first-time
-  - 'kink:dom/sub'
+  - kink:dom/sub
   - knights
   - magic
-  - 'season:04'
+  - season:04
   - swords
   - vampires
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

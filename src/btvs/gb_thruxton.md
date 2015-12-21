@@ -7,13 +7,13 @@ notes: 'For <b><a href="http://wide_rider.livejournal.com/">wide_rider</a></b>, 
 summary: Giles is in love.
 altlink: 'http://antennapedia.livejournal.com/65246.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
+  - c:buffy
+  - c:giles
   - motorcycles
   - post-series
   - tagfic
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

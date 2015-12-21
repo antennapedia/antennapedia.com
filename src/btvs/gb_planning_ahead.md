@@ -7,15 +7,15 @@ notes: 'A B/G ficlet of comfort following knife-related incidents, for <b><a hre
 summary: "What was that vampire doing with a knife? That wasn't fair."
 altlink: 'http://antennapedia.livejournal.com/117412.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:hurt!buffy'
+  - c:buffy
+  - c:giles
+  - c:hurt!buffy
   - commentary
-  - 'genre:fluff'
-  - 'genre:hurt/comfort'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - genre:fluff
+  - genre:hurt/comfort
+  - season:04
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

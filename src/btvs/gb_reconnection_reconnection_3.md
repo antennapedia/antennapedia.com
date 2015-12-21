@@ -8,21 +8,21 @@ notes: 'Fabulous banner by <b><a href="http://katekat1010.livejournal.com/">kate
 summary: 'Willow has wagered more than she can comfortably lose, and the conflict has gone hot.'
 altlink: 'http://antennapedia.livejournal.com/285495.html'
 tags:
-  - 'c:anya'
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:spike'
-  - 'c:tara'
-  - 'c:willow'
-  - 'c:xander'
-  - 'genre:romance'
+  - c:anya
+  - c:buffy
+  - c:giles
+  - c:spike
+  - c:tara
+  - c:willow
+  - c:xander
+  - genre:romance
   - magic
-  - 'season:06'
+  - season:06
   - souls
-  - 'f:btvs'
-  - 'p:xander/anya'
-  - 'p:willow/tara'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:xander/anya
+  - p:willow/tara
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

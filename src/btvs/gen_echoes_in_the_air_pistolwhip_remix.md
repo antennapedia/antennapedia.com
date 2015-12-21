@@ -8,16 +8,16 @@ summary: The morning after firing a gun in a tiny room.
 altlink: 'http://community.livejournal.com/remixredux09/33044.html'
 tags:
   - authors-favorite
-  - 'c:ethan'
-  - 'c:giles'
+  - c:ethan
+  - c:giles
   - council
   - eyghon
-  - 'genre:angst'
+  - genre:angst
   - guns
   - pre-series
   - remix
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

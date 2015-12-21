@@ -9,24 +9,24 @@ altlink: 'http://antennapedia.livejournal.com/157491.html#comments'
 tags:
   - authors-favorite
   - award-winner
-  - 'c:buffy'
-  - 'c:dawn'
-  - 'c:giles'
-  - 'c:hurt!buffy'
-  - 'c:hurt!giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:dawn
+  - c:giles
+  - c:hurt!buffy
+  - c:hurt!giles
+  - c:willow
+  - c:xander
   - commentary
   - england
   - sex:first-time
-  - 'genre:hurt/comfort'
-  - 'genre:romance'
+  - genre:hurt/comfort
+  - genre:romance
   - london
   - magic
   - post-grave
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - season:06
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

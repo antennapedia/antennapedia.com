@@ -8,17 +8,17 @@ notes: '<b><a href="http://nutterbudgie.livejournal.com/">nutterbudgie</a></b> w
 summary: Buffy demands an explanation.
 altlink: 'http://antennapedia.livejournal.com/333853.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:holmes'
-  - 'c:watson'
+  - c:buffy
+  - c:giles
+  - c:holmes
+  - c:watson
   - genre:crossover
-  - 'season:05'
+  - season:05
   - tagfic
   - timetravel
-  - 'f:btvs'
-  - 'f:sherlock_holmes'
-  - 'p:gen'
+  - f:btvs
+  - f:sherlock_holmes
+  - p:gen
 rating: general
 pairing: gen
 ---

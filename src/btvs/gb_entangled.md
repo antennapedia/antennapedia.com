@@ -7,26 +7,26 @@ notes: null
 summary: 'The timing is going to be tight, but they should be able to deal with the demon and get back home before the heat starts. Giles is sure of it. Famous last words.'
 altlink: 'http://summer-of-giles.livejournal.com/304450.html'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
+  - c:willow
+  - c:xander
   - core-four
-  - 'kink:biting'
-  - 'kink:dom/sub'
-  - 'kink:marking'
-  - 'kink:pegging'
+  - kink:biting
+  - kink:dom/sub
+  - kink:marking
+  - kink:pegging
   - polyamory
-  - 'season:04'
-  - 'trope:alpha/beta/omega-dynamics'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
-  - 'p:giles/buffy'
-  - 'p:willow/xander'
-  - 'p:tara/xander'
-  - 'p:tara/willow'
+  - season:04
+  - trope:alpha/beta/omega-dynamics
+  - f:btvs
+  - p:buffy/giles/willow/xander
+  - p:giles/buffy
+  - p:willow/xander
+  - p:tara/xander
+  - p:tara/willow
 rating: adult
 pairing: giles/buffy
 ---

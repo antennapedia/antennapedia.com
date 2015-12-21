@@ -8,17 +8,17 @@ notes: null
 summary: 'Xander and Giles discuss the relative merits of the back seat and the front seat of the typical American automobile, among other things.'
 altlink: 'http://community.livejournal.com/summer_of_giles/113920.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cars
   - cleveland
   - sex:first-time
-  - 'genre:romance'
+  - genre:romance
   - happy
   - post-series
   - slayers
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

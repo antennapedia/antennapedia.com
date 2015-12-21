@@ -7,17 +7,17 @@ notes: More a fragment than a full story. Continuations possible.
 summary: 'Rupert and Ethan are bored, wishing for adventure, and expecting never to find one. And then a police call box appears in the most unlikely of places.'
 altlink: 'http://antennapedia.livejournal.com/303203.html'
 tags:
-  - 'c:ethan'
-  - 'c:giles'
-  - 'c:second-doctor'
+  - c:ethan
+  - c:giles
+  - c:second-doctor
   - genre:crossover
   - incomplete
   - pre-series
   - school
   - timetravel
-  - 'f:btvs'
-  - 'f:doctor_who'
-  - 'p:giles/ethan'
+  - f:btvs
+  - f:doctor_who
+  - p:giles/ethan
 rating: mature
 pairing: giles/ethan
 ---

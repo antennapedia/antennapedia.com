@@ -8,17 +8,17 @@ notes: 'Written for <b><a href="http://soft_princess.livejournal.com/">soft_prin
 summary: "Apocalypse has been averted, at a price, and now there's all the time they need."
 altlink: 'http://antennapedia.livejournal.com/148943.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:hurt!xander'
-  - 'c:xander'
+  - c:giles
+  - c:hurt!xander
+  - c:xander
   - council
   - england
-  - 'genre:hurt/comfort'
-  - 'genre:romance'
+  - genre:hurt/comfort
+  - genre:romance
   - happy
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

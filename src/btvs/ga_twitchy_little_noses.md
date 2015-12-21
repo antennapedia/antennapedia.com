@@ -7,13 +7,13 @@ notes: 'For <b><a href="http://secondalto.livejournal.com/">secondalto</a></b>, 
 summary: Push the broom.
 altlink: 'http://antennapedia.livejournal.com/68596.html'
 tags:
-  - 'c:anya'
-  - 'c:giles'
-  - 'episode:tabula-rasa'
-  - 'season:06'
+  - c:anya
+  - c:giles
+  - episode:tabula-rasa
+  - season:06
   - tagfic
-  - 'f:btvs'
-  - 'p:giles/anya'
+  - f:btvs
+  - p:giles/anya
 rating: general
 pairing: giles/anya
 ---

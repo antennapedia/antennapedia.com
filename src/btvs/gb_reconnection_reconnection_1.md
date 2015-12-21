@@ -8,18 +8,18 @@ notes: 'For <b><a href="http://wide_rider.livejournal.com/">wide_rider</a></b>, 
 summary: 'Buffy is back from the dead, but something is wrong. Giles takes steps.'
 altlink: 'http://antennapedia.livejournal.com/65915.html#comments'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
+  - c:buffy
+  - c:giles
+  - c:willow
   - camping
   - depression
   - magic
-  - 'season:06'
+  - season:06
   - slayers
   - souls
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: general
 pairing: giles/buffy
 ---

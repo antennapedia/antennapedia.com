@@ -8,13 +8,13 @@ notes: null
 summary: "It's Valentine's Day, and Giles and Jenny don't have the conversation he was expecting."
 altlink: 'http://antennapedia.livejournal.com/332503.html'
 tags:
-  - 'c:giles'
-  - 'c:jenny'
+  - c:giles
+  - c:jenny
   - happy
   - proposal
-  - 'season:01'
-  - 'f:btvs'
-  - 'p:giles/jenny'
+  - season:01
+  - f:btvs
+  - p:giles/jenny
 rating: general
 pairing: giles/jenny
 ---

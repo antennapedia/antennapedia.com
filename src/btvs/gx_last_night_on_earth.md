@@ -7,15 +7,15 @@ notes: null
 summary: "Xander can't sleep the night before the big battle against the First. He needs somebody for a last night on earth snuggle."
 altlink: 'http://mmm-smut.livejournal.com/155514.html?thread=611962#t611962'
 tags:
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'c:xander'
+  - c:giles
+  - c:hurt!giles
+  - c:xander
   - sex:first-time
-  - 'genre:hurt/comfort'
+  - genre:hurt/comfort
   - kink-meme-fill
-  - 'season:07'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - season:07
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

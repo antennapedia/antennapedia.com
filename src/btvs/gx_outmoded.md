@@ -7,13 +7,13 @@ notes: 'For <b><a href="http://secondalto.livejournal.com/">secondalto</a></b>.'
 summary: Giles and Xander on patrol
 altlink: 'http://antennapedia.livejournal.com/69396.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
-  - 'genre:humor'
-  - 'season:04'
+  - c:giles
+  - c:xander
+  - genre:humor
+  - season:04
   - tagfic
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

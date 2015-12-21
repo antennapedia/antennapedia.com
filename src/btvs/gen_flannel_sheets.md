@@ -7,13 +7,13 @@ notes: "<b><a href=\"http://gileswench.livejournal.com/\">gileswench</a></b> wan
 summary: "Giles's flat in Bath has a guest room."
 altlink: 'http://antennapedia.livejournal.com/329325.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:friendship'
-  - 'season:06'
+  - c:buffy
+  - c:giles
+  - genre:friendship
+  - season:06
   - tagfic
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

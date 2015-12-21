@@ -8,14 +8,14 @@ notes: null
 summary: "The power's out at the Hyperion Hotel and the heat is rising."
 altlink: 'http://antennapedia.livejournal.com/272790.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:xander'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - c:xander
+  - genre:romance
   - post-series
-  - 'sex:anal'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - sex:anal
+  - f:btvs
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

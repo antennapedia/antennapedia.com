@@ -7,14 +7,14 @@ notes: Originally written for the Buffyverse anonymous kink meme.
 summary: 'Willow has misbehaved. Xander proposes a fix, and to his surprise, Willow consents.'
 altlink: 'http://community.livejournal.com/mmm_smut/155514.html?thread=558970#t558970'
 tags:
-  - 'c:willow'
-  - 'c:xander'
+  - c:willow
+  - c:xander
   - sex:first-time
-  - 'genre:kink'
+  - genre:kink
   - kink-meme-fill
-  - 'kink:spanking'
-  - 'f:btvs'
-  - 'p:willow/xander'
+  - kink:spanking
+  - f:btvs
+  - p:willow/xander
 rating: adult
 pairing: willow/xander
 ---

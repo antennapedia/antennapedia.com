@@ -8,12 +8,12 @@ summary: "But Xander doesn't drink!"
 altlink: 'http://antennapedia.livejournal.com/513128.html?thread=4542824#t4542824'
 tags:
   - alcohol
-  - 'c:giles'
-  - 'c:xander'
-  - 'genre:romance'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - c:giles
+  - c:xander
+  - genre:romance
+  - season:04
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

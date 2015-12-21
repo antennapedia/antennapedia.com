@@ -7,15 +7,15 @@ notes: null
 summary: Giles introduces Wesley to Sunnydale High library policy.
 altlink: 'http://antennapedia.livejournal.com/476407.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:wesley'
+  - c:giles
+  - c:wesley
   - computers
   - library
-  - 'season:03'
+  - season:03
   - snark
   - watchers
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

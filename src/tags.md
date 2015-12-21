@@ -1,4 +1,4 @@
 ---
-title: Tags
+title: All tags
 layout: tags.jade
 ---

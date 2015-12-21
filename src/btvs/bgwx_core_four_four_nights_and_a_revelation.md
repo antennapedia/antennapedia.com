@@ -8,21 +8,21 @@ notes: null
 summary: The enjoining spell to defeat Adam has surprising and life-changing after-effects.
 altlink: 'http://antennapedia.livejournal.com/28577.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - core-four
   - sex:first-time
   - polyamory
   - scoobies
-  - 'season:04'
-  - 'sex:group'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
-  - 'p:buffy/riley'
-  - 'p:xander/anya'
-  - 'p:willow/tara'
+  - season:04
+  - sex:group
+  - f:btvs
+  - p:buffy/giles/willow/xander
+  - p:buffy/riley
+  - p:xander/anya
+  - p:willow/tara
 rating: adult
 pairing: buffy/giles/willow/xander
 ---

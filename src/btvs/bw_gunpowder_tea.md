@@ -24,18 +24,18 @@ notes: >
 summary: "Wesley's in Cleveland, cleaning up after Merrick's career. He thinks he doesn't have a Slayer."
 altlink: 'http://antennapedia.livejournal.com/326508.html#comments'
 tags:
-  - 'au:wishverse'
+  - au:wishverse
   - authors-favorite
-  - 'c:buffy'
-  - 'c:merrick'
-  - 'c:wesley'
+  - c:buffy
+  - c:merrick
+  - c:wesley
   - commentary
-  - 'genre:angst'
+  - genre:angst
   - guns
-  - 'season:03'
+  - season:03
   - tea
-  - 'f:btvs'
-  - 'p:buffy/wesley'
+  - f:btvs
+  - p:buffy/wesley
 rating: general
 pairing: buffy/wesley
 ---

@@ -8,16 +8,16 @@ notes: 'Sometime between <a href="http://antennapedia.livejournal.com/148943.htm
 summary: The Watcher cooks. Xander watches.
 altlink: 'http://antennapedia.livejournal.com/179794.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - england
   - food
-  - 'genre:romance'
+  - genre:romance
   - post-series
   - rupertus-domesticus
   - watchers
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

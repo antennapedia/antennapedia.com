@@ -8,15 +8,15 @@ notes: null
 summary: A place with a bigger water heater.
 altlink: 'http://antennapedia.livejournal.com/37460.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:willow
+  - c:xander
   - core-four
   - polyamory
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/giles/willow/xander'
+  - season:04
+  - f:btvs
+  - p:buffy/giles/willow/xander
 rating: mature
 pairing: buffy/giles/willow/xander
 ---

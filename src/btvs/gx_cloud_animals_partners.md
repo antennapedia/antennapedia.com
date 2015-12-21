@@ -8,20 +8,20 @@ notes: "Post-\"Chosen\" AU; <a href=\"http://antennapedia.livejournal.com/211202
 summary: 'A day in the life of Xander Harris, Watcher.'
 altlink: 'http://antennapedia.livejournal.com/212647.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:kennedy'
-  - 'c:willow'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:kennedy
+  - c:willow
+  - c:xander
   - council
   - england
-  - 'genre:romance'
+  - genre:romance
   - incomplete
   - magic
   - post-series
   - slayers
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

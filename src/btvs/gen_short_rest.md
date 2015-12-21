@@ -8,19 +8,19 @@ summary: "Xander's convinced it's Hellmouthy, but probably it's just the flu."
 altlink: 'http://antennapedia.livejournal.com/382522.html#comments'
 tags:
   - authors-favorite
-  - 'c:giles'
-  - 'c:hurt!xander'
-  - 'c:jenny'
-  - 'c:xander'
-  - 'genre:flufic'
-  - 'genre:friendship'
-  - 'genre:hurt/comfort'
+  - c:giles
+  - c:hurt!xander
+  - c:jenny
+  - c:xander
+  - genre:flufic
+  - genre:friendship
+  - genre:hurt/comfort
   - happy
   - high-school
-  - 'season:02'
+  - season:02
   - tea
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

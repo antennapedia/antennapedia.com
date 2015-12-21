@@ -7,14 +7,14 @@ notes: 'For <b><a href="http://tx_cronopio.livejournal.com/">tx_cronopio</a></b>
 summary: Giles in Nashville.
 altlink: 'http://antennapedia.livejournal.com/64177.html'
 tags:
-  - 'c:giles'
-  - 'genre:angst'
+  - c:giles
+  - genre:angst
   - guitars
   - post-becoming
-  - 'season:02'
+  - season:02
   - tagfic
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

@@ -8,13 +8,13 @@ notes: An interstitial bagatelle.
 summary: Giles needs some reassurance. Buffy tells him to shut up. Watcher/Slayer pillow snark.
 altlink: 'http://antennapedia.livejournal.com/467786.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:romance'
+  - c:buffy
+  - c:giles
+  - genre:romance
   - pillow-talk
   - post-series
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

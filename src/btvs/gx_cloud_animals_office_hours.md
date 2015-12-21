@@ -8,14 +8,14 @@ notes: '<b><a href="http://sylum_tru.livejournal.com/">sylum_tru</a></b>, "He wa
 summary: Xander shows Giles the best way to spend an hour locked in your office.
 altlink: 'http://community.livejournal.com/rounds_of_kink/143385.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
-  - 'genre:romance'
+  - c:giles
+  - c:xander
+  - genre:romance
   - happy
   - post-series
   - slayers
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

@@ -8,16 +8,16 @@ notes: null
 summary: 'Giles and Xander shower after a messy patrol, and things get messier.'
 altlink: 'http://community.livejournal.com/summer_of_giles/114209.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
-  - 'genre:kink'
-  - 'genre:romance'
+  - genre:kink
+  - genre:romance
   - happy
-  - 'kink:watersports'
+  - kink:watersports
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

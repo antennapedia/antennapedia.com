@@ -8,13 +8,13 @@ summary: The Watchers and Slayers Society is about to hold its annual holiday pa
 altlink: 'http://antennapedia.livejournal.com/401471.html#comments'
 tags:
   - alcohol
-  - 'c:faith'
-  - 'c:giles'
-  - 'c:hurt!giles'
-  - 'genre:hurt/comfort'
+  - c:faith
+  - c:giles
+  - c:hurt!giles
+  - genre:hurt/comfort
   - post-series
-  - 'f:btvs'
-  - 'p:giles/faith'
+  - f:btvs
+  - p:giles/faith
 rating: general
 pairing: giles/faith
 ---

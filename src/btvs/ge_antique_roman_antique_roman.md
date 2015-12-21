@@ -24,17 +24,17 @@ tags:
   - issues:assault-recovery
   - authors-favorite
   - award-winner
-  - 'c:angel'
-  - 'c:buffy'
-  - 'c:ethan'
-  - 'c:giles'
-  - 'genre:angst'
+  - c:angel
+  - c:buffy
+  - c:ethan
+  - c:giles
+  - genre:angst
   - revenge
-  - 'season:03'
+  - season:03
   - tattoos
   - vampires
-  - 'f:btvs'
-  - 'p:giles/ethan'
+  - f:btvs
+  - p:giles/ethan
 rating: general
 pairing: giles/ethan
 ---

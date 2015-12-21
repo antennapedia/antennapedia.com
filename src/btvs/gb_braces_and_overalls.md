@@ -7,16 +7,16 @@ notes: 'Poll prompt is Snitty in braces mode Giles, with Buffy, pr0n, with a med
 summary: 'Or, Because Watchers and Slayers belong together. Quentin Travers got a lot wrong.'
 altlink: 'http://antennapedia.livejournal.com/83458.html'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:travers'
+  - c:buffy
+  - c:giles
+  - c:travers
   - commentary
   - post-helpless
-  - 'season:03'
+  - season:03
   - slayers
   - watchers
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

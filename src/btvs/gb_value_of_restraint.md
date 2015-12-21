@@ -7,17 +7,17 @@ notes: null
 summary: "Buffy finds the box Giles has hidden in the back of his closet, the one with the Council's tools."
 altlink: 'http://antennapedia.livejournal.com/422020.html'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:sub!giles'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:sub!giles
   - council
-  - 'genre:kink'
-  - 'kink:bondage'
-  - 'kink:whipping'
-  - 'season:05'
-  - 'f:btvs'
-  - 'p:giles/buffy'
+  - genre:kink
+  - kink:bondage
+  - kink:whipping
+  - season:05
+  - f:btvs
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---

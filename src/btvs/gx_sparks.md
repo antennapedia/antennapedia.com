@@ -8,15 +8,15 @@ summary: "Giles and Xander attempt to figure out what happened in Willow's last 
 altlink: 'http://community.livejournal.com/spring_with_xan/107015.html'
 tags:
   - alcohol
-  - 'c:giles'
-  - 'c:willow'
-  - 'c:xander'
+  - c:giles
+  - c:willow
+  - c:xander
   - character-death
   - magic
   - episode:grave
-  - 'season:06'
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - season:06
+  - f:btvs
+  - p:giles/xander
 rating: general
 pairing: giles/xander
 ---

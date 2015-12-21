@@ -8,25 +8,25 @@ notes: null
 summary: "Buffy settles into command of her liegeman, but finds that the rest of her life is complicated, and dangerous where she'd expected safety."
 altlink: 'http://antennapedia.livejournal.com/338168.html'
 tags:
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:riley'
-  - 'c:sub!giles'
-  - 'c:xander'
-  - 'genre:kink'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:riley
+  - c:sub!giles
+  - c:xander
+  - genre:kink
   - incomplete
-  - 'kink:bondage'
-  - 'kink:dom/sub'
-  - 'kink:orgasm-control'
-  - 'kink:whipping'
-  - 'season:04'
-  - 'sex:phone'
-  - 'f:btvs'
-  - 'p:buffy/riley'
-  - 'p:xander/anya'
-  - 'p:willow/tara'
-  - 'p:giles/buffy'
+  - kink:bondage
+  - kink:dom/sub
+  - kink:orgasm-control
+  - kink:whipping
+  - season:04
+  - sex:phone
+  - f:btvs
+  - p:buffy/riley
+  - p:xander/anya
+  - p:willow/tara
+  - p:giles/buffy
 rating: adult
 pairing: giles/buffy
 ---

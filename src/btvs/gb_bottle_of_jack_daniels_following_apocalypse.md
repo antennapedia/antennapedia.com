@@ -8,18 +8,18 @@ summary: 'Giles, Buffy, and Xander drink to fallen friends in a remote motel roo
 altlink: 'http://antennapedia.livejournal.com/353489.html'
 tags:
   - alcohol
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:xander'
+  - c:buffy
+  - c:giles
+  - c:xander
   - commentary
   - fantasy
-  - 'genre:romance'
-  - 'kink:voyeurism'
+  - genre:romance
+  - kink:voyeurism
   - post-series
-  - 'f:btvs'
-  - 'p:xander/anya'
-  - 'p:giles/buffy'
-  - 'p:buffy/spike'
+  - f:btvs
+  - p:xander/anya
+  - p:giles/buffy
+  - p:buffy/spike
 rating: mature
 pairing: giles/buffy
 ---

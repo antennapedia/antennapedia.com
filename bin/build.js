@@ -65,7 +65,7 @@ if (argv.changed)
 }
 
 metalsmith
-	.concurrency(40)
+	.concurrency(50)
 	.metadata({
 		site: {
 			title: 'Antennapedia',
@@ -80,7 +80,7 @@ metalsmith
 	}))
 	.use(paths())
 	.use(rootpath())
-	.use(sitetitle())
+	.use(sitetitle({ separator: ' :: ' }))
 	.use(buildDate())
 	.use(sass({'outputStyle': 'expanded'}))
 	.use(markdownit({
@@ -119,10 +119,6 @@ metalsmith
 		'pattern': ['**/*.html' ]
 	}))
 	.use(identifiers())
-	.use(beautify({
-		'css': true,
-		'preserve_newlines': false
-	}))
 	.use(static({
 		'src': 'static',
 		'dest': '.'

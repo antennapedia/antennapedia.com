@@ -8,17 +8,17 @@ notes: null
 summary: "Giles clears the way for future fun. Xander decides he's a bad, bad boyfriend."
 altlink: 'http://community.livejournal.com/summer_of_giles/136722.html'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
-  - 'genre:kink'
-  - 'genre:romance'
+  - genre:kink
+  - genre:romance
   - happy
-  - 'kink:bondage'
-  - 'kink:waxing'
+  - kink:bondage
+  - kink:waxing
   - post-series
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

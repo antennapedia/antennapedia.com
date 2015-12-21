@@ -28,23 +28,23 @@ altlink: 'http://antennapedia.livejournal.com/275373.html#comments'
 tags:
   - authors-favorite
   - award-winner
-  - 'c:angel'
-  - 'c:dawn'
-  - 'c:ethan'
-  - 'genre:adventure'
+  - c:angel
+  - c:dawn
+  - c:ethan
+    - genre:adventure
   - los-angeles
   - magic
   - norse-legend
   - poetry
   - post-series
-  - 'sex:ritual'
-  - 'f:btvs'
-  - 'p:ethan/dawn'
-  - 'p:giles/buffy'
+  - sex:ritual
+  - f:btvs
+  - p:ethan/dawn
+  - p:giles/buffy
 rating: mature
 pairing: ethan/dawn
 ---
-"I think you'll like Ferlinghetti," the man behind the register said. 
+"I think you'll like Ferlinghetti," the man behind the register said.
 
 He had an accent like Giles', educated English. Dawn glanced up at him for a second while she dug inside her backpack for her wallet. She hadn't expected that. He was about Giles' age. He had a mischievous smile on a long face. She liked it, though she couldn't have said why.
 
@@ -60,7 +60,7 @@ It was nice to get out of the Hyperion, away from the gang. The Slayerettes. Ang
 
 Plus, she was bored. There was only so much self-study Latin and Sumerian she could take in a single day. It was nice to find a place to hang out. A long walk from the hotel, not so close that any of them would trip across it by accident.
 
-A faint chime sounded in the back. The man slid down from his stool, cast a glance at Dawn, and took down his cane. He limped out from behind the counter, cane thumping and creaking on the warped hardwood floor, and vanished through the curtains underneath the two-faced man. Some time later the customer emerged, with a book, leather-bound, large, ragged gilt edges. The sort of book Dawn had grown up reading. A minute later, the shopkeeper followed. Dawn didn't look up, but listened to the uneven creaks on the floor. A sideline in magic books, then. Poetry and coffee in the front, grimoires in the back. Open mike night on Wednesday, closed on Sabbat Day. Dawn grinned to herself. 
+A faint chime sounded in the back. The man slid down from his stool, cast a glance at Dawn, and took down his cane. He limped out from behind the counter, cane thumping and creaking on the warped hardwood floor, and vanished through the curtains underneath the two-faced man. Some time later the customer emerged, with a book, leather-bound, large, ragged gilt edges. The sort of book Dawn had grown up reading. A minute later, the shopkeeper followed. Dawn didn't look up, but listened to the uneven creaks on the floor. A sideline in magic books, then. Poetry and coffee in the front, grimoires in the back. Open mike night on Wednesday, closed on Sabbat Day. Dawn grinned to herself.
 
 The only downside was that she was no longer certain her refuge would be safe from visits from the Hyperion crew. Wesley at least had to know about this place.
 
@@ -72,11 +72,11 @@ Dawn put the book into her backpack and ran a hand over her hair. She looked up 
 
 "Unqualified to do what? To run a cash register? Make espresso? Handle selling whatever's in the back room to your non-human customers?"
 
-He raised an eyebrow. 
+He raised an eyebrow.
 
 "I have experience with non-humans and retail," she said, still defiant.
 
-The eyebrow stayed up. "You can see the back room," he said, as if thinking aloud. 
+The eyebrow stayed up. "You can see the back room," he said, as if thinking aloud.
 
 "Yeah. Am I not supposed to? Is there a glamour on it?"
 
@@ -84,7 +84,7 @@ The shop owner gazed at her and stroked his jaw. "There is, but quite a simple o
 
 He looked at her again, meeting her eyes, and Dawn felt herself spinning dizzy for a long second. Then the man blinked, and she wondered if she'd imagined it. But his face had changed. He reached below the counter and came out with a xeroxed form, with the logo of the shop on top. Angel City Books and Cafe. Peter Martin, proprietor.
 
-"Fill this in for me, would you? 
+"Fill this in for me, would you?
 
 Dawn filled out the form quickly, printing neatly with block capitals. She'd learned some time ago some tricks for making her writing appear older than it was. No loopy script and rounded dots. Her name. Address of the Hyperion, and the phone number of the front desk, where that moronic vampire chick might or might not answer, and might or might not remember Dawn's name. She slid the form back to the man. His face did not change as he glanced down the form, up at her, then back down again.
 
@@ -94,17 +94,17 @@ Dawn shrugged. "I've got experience. At a, a shop in that line of business. Not 
 
 "You'll learn in five minutes. Sorting out my inventory system will take you longer."
 
-"I doubt it," said Dawn, before she could catch herself. 
+"I doubt it," said Dawn, before she could catch herself.
 
 The shop owner didn't seem to mind. His face transformed in an easy smile. "I would pay minimum wage, but given that you can help with the, ah, more esoteric side of things, shall we say seven dollars an hour?"
 
-Dawn nodded, on uncertain ground suddenly. Was that good or bad? Should she negotiate? "Do you need references?" she said. 
+Dawn nodded, on uncertain ground suddenly. Was that good or bad? Should she negotiate? "Do you need references?" she said.
 
 Giles would probably do it just to make Buffy happy, and not mention the shoplifting. That was a different person who'd done that, anyway. Not the person Dawn was turning herself into now.
 
 "I have my own means of determining reliability." The laugh once again chased itself across his face and vanished.
 
-He stuck out his hand, and Dawn shook it. 
+He stuck out his hand, and Dawn shook it.
 
 "Well, then. Welcome to Angel City Books. You're my first employee, Miss Summers."
 
@@ -114,15 +114,15 @@ He stuck out his hand, and Dawn shook it.
 
 <hr />
 
-Dawn hadn't been certain she'd show up in the morning. Even if Mr Rayne didn't know who she was, she knew who he was. She'd worn one of his costumes, a burglar getup with a mask, and had a deep and intimate knowledge of safecracking and lockpicking as a result. She'd heard all about the demon thing, too. 
+Dawn hadn't been certain she'd show up in the morning. Even if Mr Rayne didn't know who she was, she knew who he was. She'd worn one of his costumes, a burglar getup with a mask, and had a deep and intimate knowledge of safecracking and lockpicking as a result. She'd heard all about the demon thing, too.
 
 Then she'd watched Giles pour Buffy's coffee and smile at her in that way that said there was no one else in their universe. And Wesley was doing the same thing with this Texas chick. Angel was all over Cordelia, still weak from her magical coma-thing, or whatever the hell it was. Xander hadn't paid attention to her in days, except to ruffle her hair and ask her to pass him the wrench for whatever it was he was fixing now. Nobody was going to notice her. Nobody <em>did</em> notice her. To hell with them all.
 
-Dawn didn't even bother to mention that she'd gotten a job. She just got herself dressed-- black shirt for the poetry crowd, colorful vest over the top, hair tied back for the espresso machine part, sensible shoes on her feet-- and walked. Rush-hour traffic roared along Santa Monica Boulevard. Nine in the morning, and she had her sunglasses on. The summer heat shimmered up from the asphalt. She ducked over onto the side street of shops where Angel City was. A broad green shade had been pulled down behind the plate-glass window, nearly down to the low sill. The sign in the door said "closed". Dawn laid her hand on the doorknob. 
+Dawn didn't even bother to mention that she'd gotten a job. She just got herself dressed-- black shirt for the poetry crowd, colorful vest over the top, hair tied back for the espresso machine part, sensible shoes on her feet-- and walked. Rush-hour traffic roared along Santa Monica Boulevard. Nine in the morning, and she had her sunglasses on. The summer heat shimmered up from the asphalt. She ducked over onto the side street of shops where Angel City was. A broad green shade had been pulled down behind the plate-glass window, nearly down to the low sill. The sign in the door said "closed". Dawn laid her hand on the doorknob.
 
-It was locked. 
+It was locked.
 
-A chime sounded within. Mr Rayne appeared at the door and let her in. It was cool inside the shop. The cat sat in the patch of sunlight from the half-shaded window. It groomed its face. 
+A chime sounded within. Mr Rayne appeared at the door and let her in. It was cool inside the shop. The cat sat in the patch of sunlight from the half-shaded window. It groomed its face.
 
 Mr Rayne drew Dawn back to the doorway with a gentle hand on her elbow.
 
@@ -178,13 +178,13 @@ That last dig went home; Buffy had never made that much at the burger place. To 
 
 "Sorry, gonna be late. See you at dinner."
 
-Dawn took off, and didn't hear whatever else Buffy had to say. That evening Giles gave her a mild catechism about the job, while Buffy hovered. When he heard the name Angel City and Peter Martin, he relaxed. 
+Dawn took off, and didn't hear whatever else Buffy had to say. That evening Giles gave her a mild catechism about the job, while Buffy hovered. When he heard the name Angel City and Peter Martin, he relaxed.
 
 "Oh! Yes, yes. Quite famous. Associated with the Black Mountain school, at one time. You should meet some interesting people there. Well done, Dawn."
 
-And that was the end of it. Dawn was almost angry to realize that they would allow her to pursue her summer plans in peace, that they trusted her. Which surely they could not. Surely it was that they didn't care. Or they would have found out that Giles' old enemy Ethan Rayne was really her employer. She was aware, at some level, that she was being unfair to them. But it didn't matter. she'd been simmering on this for nearly three years. Nearly as long as she'd been in existence. 
+And that was the end of it. Dawn was almost angry to realize that they would allow her to pursue her summer plans in peace, that they trusted her. Which surely they could not. Surely it was that they didn't care. Or they would have found out that Giles' old enemy Ethan Rayne was really her employer. She was aware, at some level, that she was being unfair to them. But it didn't matter. she'd been simmering on this for nearly three years. Nearly as long as she'd been in existence.
 
-And their opinion didn't matter. She was being responsible. Adult. She was taking charge of her own life, and it felt good. It felt good to get to know the regulars, and make easy jokes with them. It felt good to read poetry during the slack hours of the early afternoon, with Loki the cat dozing on the shelf next to her. To teach her employer a few new tricks, while learning from him. And getting to know him. 
+And their opinion didn't matter. She was being responsible. Adult. She was taking charge of her own life, and it felt good. It felt good to get to know the regulars, and make easy jokes with them. It felt good to read poetry during the slack hours of the early afternoon, with Loki the cat dozing on the shelf next to her. To teach her employer a few new tricks, while learning from him. And getting to know him.
 
 He was amiable for a guy who made Giles go non-linear the way he did if you even said his name. She guessed he was fifty-ish, but it was hard to tell. He looked older than Giles, more worn. Fine lines radiated out from his eyes and down from the corners of his mouth, and his hair was shot with gray at the temples. His left leg troubled him, and he often retreated to his stool to take his weight off it. He was restless otherwise, in constant motion, drumming a pencil on the desk, fidgeting. He was happiest when there were customers for him to flirt with and seduce into buying, or when he was actively using magic. He seemed to have a mail-order business in small magical objects, charged devices, usually small animal fetishes of wood and stone.
 
@@ -198,7 +198,7 @@ Dawn asked him what they did, once, several weeks into their arrangement. Rayne 
 
 Mostly. Rayne was strangely careful with the truth. Dawn watched him rub oil into a tiny wooden carving of a sleeping cat. His long mobile face was still for once, intent on the task. He favored dark clothing, and was in wine red and black today. His sleeves were rolled to the elbow. He wore silver rings on his thumbs.
 
-He looked up and met her eyes. Dawn looked away quickly. 
+He looked up and met her eyes. Dawn looked away quickly.
 
 "You've been staring at me all day. Why?"
 
@@ -208,19 +208,19 @@ Dawn blushed hot. "I dunno. Wondering."
 
 "Well, you. Everything. I know almost nothing about you."
 
-"What on earth might be interesting to you about a man more than thirty years your senior, I cannot guess. No, wait. I can. I am a fascinating fellow." 
+"What on earth might be interesting to you about a man more than thirty years your senior, I cannot guess. No, wait. I can. I am a fascinating fellow."
 
-Then he laughed and turned what ought to have been a display of ego into a joke against himself. 
+Then he laughed and turned what ought to have been a display of ego into a joke against himself.
 
 Dawn said, "Well, yeah."
 
-"Ask!" he said, sweeping out his arms. 
+"Ask!" he said, sweeping out his arms.
 
 "What happened to your leg?"
 
 "The American government happened to it," Mr Rayne said, and then was silent. His arms curled in, around his chest, as if he were cold. Or defending himself against something.
 
-Dawn thought about what had happened to him after he'd turned Giles into a demon. Riley had arrested him. Though what authority the Initiative had to arrest anybody-- Mr Rayne stared at her, and Dawn realized she'd said it out loud. His face darkened. 
+Dawn thought about what had happened to him after he'd turned Giles into a demon. Riley had arrested him. Though what authority the Initiative had to arrest anybody-- Mr Rayne stared at her, and Dawn realized she'd said it out loud. His face darkened.
 
 "How do you know about the Initiative? What are you doing here? Are you--"
 
@@ -246,13 +246,13 @@ Rayne sobered. "I don't recall seeing you before. I'd remember your face. Your h
 
 "What?"
 
-And that was how Dawn came to tell Mr Rayne all about how she came into existence, about glowing green balls of light, and insane Hellgods. He listened and took her entirely seriously. Somehow she forgot she'd wanted to ask him questions, and instead answered his. He asked questions she didn't have the answers to: What was her earliest memory, fake or otherwise? When did they think she'd come into being? How was Buffy able to close the gate that had been opened with her blood? Was she really Buffy's sister? How had she come into being as a human being with a soul? How had the monks achieved such a monstrous spell, the alteration of the memories of thousands of people? 
+And that was how Dawn came to tell Mr Rayne all about how she came into existence, about glowing green balls of light, and insane Hellgods. He listened and took her entirely seriously. Somehow she forgot she'd wanted to ask him questions, and instead answered his. He asked questions she didn't have the answers to: What was her earliest memory, fake or otherwise? When did they think she'd come into being? How was Buffy able to close the gate that had been opened with her blood? Was she really Buffy's sister? How had she come into being as a human being with a soul? How had the monks achieved such a monstrous spell, the alteration of the memories of thousands of people?
 
 They talked until long after closing, until long past dinnertime. Dawn's stomach rumbled, and she lurched back to a sense of herself and the world. She looked at the clock, and almost panicked. Buffy would kill her. She lunged for the phone, and got Buffy in her room. Buffy hadn't noticed the time, either.
 
 "Yeah, we got busy doing inventory. I get overtime, though!" The lie came easily. "Not coming home just yet. Mr Martin is buying me dinner. Yeah, yeah. I won't be too much later. See ya!"
 
-Dawn pushed a finger down over the hook. Mr Rayne took the handset from her with a graceful turn of his wrist, and dialed something quickly. "Yes, hello, Mike. It's Rayne. My usual, please, double order. Cash. Deliver to the shop. Thanks." 
+Dawn pushed a finger down over the hook. Mr Rayne took the handset from her with a graceful turn of his wrist, and dialed something quickly. "Yes, hello, Mike. It's Rayne. My usual, please, double order. Cash. Deliver to the shop. Thanks."
 
 He hung up and turned to her, eyebrow up. "Mr Martin?"
 
@@ -262,7 +262,7 @@ Rayne laughed that relaxed laugh he had. "Good judgment on your part, I suspect.
 
 "Penchant?"
 
-"For men, for violence, for, you tell me, his Slayer. That last, oh, it's marvelous. Truly rich." Rayne laughed quietly. 
+"For men, for violence, for, you tell me, his Slayer. That last, oh, it's marvelous. Truly rich." Rayne laughed quietly.
 
 "Men? You mean, oh. You and him?"
 
@@ -314,13 +314,13 @@ They gave up the attempts after a few days, because Dawn complained it had begun
 
 The customer left, and the shop was quiet. It was the post-lunch lull, and they might or might not see anybody before three o'clock. Dawn settled to read a translation of some Norse poetry. She wasn't liking it very much. The Beats had been more her style.
 
-The guardian of the main door glowed red, and made a sound Dawn had not heard from Quartus before. A woman was standing outside the shop door, with her hand over the doorknob. It was apparently not turning to admit her. 
+The guardian of the main door glowed red, and made a sound Dawn had not heard from Quartus before. A woman was standing outside the shop door, with her hand over the doorknob. It was apparently not turning to admit her.
 
 "My my," Ethan murmured. "Quartus, she may pass, but this once only."
 
 The woman walked into the shop. Dawn wasn't much of a judge of designers, but she recognized expensive when she saw it. Stockings, heels, gray suit with conservative side-slash, the buttery calfskin of the case she carried. High-powered professional. She oozed corporate gloss of the faked Hollywood kind: someone's idea of what a lawyer should look like. Dawn had met real lawyers, from her father's firm, and they tended to be rumpled. Nebbishy sharks. This woman had had any lurking nebbish groomed right out.
 
-She certainly had a presence. One that set Dawn's nerves jumping. Her feet made no noise on the wooden floor. Neither clack nor creak. Dawn looked again. 
+She certainly had a presence. One that set Dawn's nerves jumping. Her feet made no noise on the wooden floor. Neither clack nor creak. Dawn looked again.
 
 The woman was non-corporeal.
 
@@ -336,9 +336,9 @@ Eventually the bell over the door rang. Dawn returned from the back of the shop 
 
 "I've seen that woman before," Dawn said, as she flipped through file folder tabs. "At the Hyperion. Talking to Angel. And to Wesley, before Fred started going all--" Dawn made a clawing gesture.
 
-"She made me an offer I cannot refuse," Ethan said, eventually. 
+"She made me an offer I cannot refuse," Ethan said, eventually.
 
-He said no more, as a customer came in at the moment. He smoothly rose to his feet, cane in hand, to tend to it. The customer was Vahrall, with a glamour cast around its head so it looked more or less human, and in search of a compendium of demon religions. Ethan made a sale, a rather hefty one, and returned to the front of the shop. Dawn pulled a ristretto, marked it with a dab of milk, put it on a saucer with a twist of lemon peel and a single cube of sugar. She carried it over to him. 
+He said no more, as a customer came in at the moment. He smoothly rose to his feet, cane in hand, to tend to it. The customer was Vahrall, with a glamour cast around its head so it looked more or less human, and in search of a compendium of demon religions. Ethan made a sale, a rather hefty one, and returned to the front of the shop. Dawn pulled a ristretto, marked it with a dab of milk, put it on a saucer with a twist of lemon peel and a single cube of sugar. She carried it over to him.
 
 "So? Tell me about this offer."
 
@@ -384,7 +384,7 @@ Ethan smiled, slowly, his eyes never leaving hers. "I'll need to think, love. Bu
 
 The next day was Sunday. Dawn spent the morning swimming in the Hyperion pool with Willow, while her sister caught up on sleep after a night's patrol with Angel and Giles. Dawn had been hoping that maybe Angel was brooding about the sight of Buffy hanging all over Giles, but he seemed not to mind. He seemed to have moved on. She was frustrated to see it, because it meant her first plan, getting them all thrown out by a jealous Angel, was a non-starter.
 
-In the afternoon, she got dressed more casually than she would for the store, but still nice enough to look good. Not so nice that she looked like she was trying. Sometimes Dawn thought that judging clothing required more brainpower than differential calculus. No makeup. Never makeup, like Buffy's heavy-handed raccoon eyes thing. Ethan had mocked the tendency of the American woman to cake it on once while Dawn had been listening, and she'd been determined ever since to look like she wasn't wearing anything, ever. 
+In the afternoon, she got dressed more casually than she would for the store, but still nice enough to look good. Not so nice that she looked like she was trying. Sometimes Dawn thought that judging clothing required more brainpower than differential calculus. No makeup. Never makeup, like Buffy's heavy-handed raccoon eyes thing. Ethan had mocked the tendency of the American woman to cake it on once while Dawn had been listening, and she'd been determined ever since to look like she wasn't wearing anything, ever.
 
 "Shopping," she said to Buffy, on her way out. "Spending some of the loot."
 
@@ -392,7 +392,7 @@ Buffy grinned. That motivation, she understood. Dawn waved back, smile fixed in 
 
 Ethan lived over the shop. He owned the whole building, he explained to her. He smiled in a way that didn't reach the eyes when he explained that he'd earned the building and business in payment of a sorcerer's debt. A deep one. The expression on his face was the one Dawn knew meant that lives had been involved, had likely been taken. That was rare with him. He preferred overturning to demolishing, change to destruction. He liked replacing a winner with whatever had been losing before. Killing was inelegant and inefficient, and therefore Ethan avoided it. When expedient.
 
-He was also a private man. Dawn had never been upstairs. 
+He was also a private man. Dawn had never been upstairs.
 
 The entry was on the street, to the side of the building. Stairs rose directly from the doorway to the second floor. The walls were painted white, and a carpet ran up the middle of the worn steps. They creaked even worse than the shop floorboards did. Dawn tiptoed up, trying to step lightly.
 
@@ -402,7 +402,7 @@ His taste was modern but comfortable, and once again Dawn was reminded of Giles,
 
 "Campari," said Ethan. "Perfect for a day like this. And harmless. Go ahead."
 
-Dawn shrugged. It was indeed hot in the apartment, even with the silent fans spinning in the windows. And her walk over had left her sweaty. August had baked into the very bones of the city, and the walls were warm to the touch. 
+Dawn shrugged. It was indeed hot in the apartment, even with the silent fans spinning in the windows. And her walk over had left her sweaty. August had baked into the very bones of the city, and the walls were warm to the touch.
 
 Ethan began. "I've done a little research since last we spoke. I now believe any plan we form must include thwarting the lawyer's scheme, whatever it may be. As well as achieving your freedom from the Watcher and your, er, sister. Buffy. Thus we serve both sides at once. Heaven and hell."
 
@@ -410,21 +410,21 @@ Ethan began. "I've done a little research since last we spoke. I now believe any
 
 "There is an angel in me whom I'm constantly shocking," Ethan said. Dawn recognized it; the book she'd bought the day she met him. "Besides, apocalypses have rather a way of interfering with my pleasures. Civilization aflame means no grapes are pressed, no music is played. I disapprove."
 
-He lifted the glass in his hand and drank. It was Campari and not wine, but Dawn took the point. 
+He lifted the glass in his hand and drank. It was Campari and not wine, but Dawn took the point.
 
 "Apocalypse, huh?"
 
 "It is their little penchant. Well, no. It's their raison d'être. They seem to be the arm of some of the princes of hell. They've been operating rather a long time. Nearly as long as Rupert's bunch of white hats. We thwart them, cleverly, and indirectly, because that is how we prefer to operate."
 
-The word "we" gave Dawn a little thrill. 
+The word "we" gave Dawn a little thrill.
 
 "They impress me, rather. The requirements document is most clear about what constitutes an acceptable fulfillment of contract. Killing the pair is out, for some reason. Pity."
 
-Dawn glared at him, and he grinned at her. 
+Dawn glared at him, and he grinned at her.
 
 "Not that we would consider such crude measures. But we have many options. The file they gave me on Angel's current operation was quite complete. For instance, they know more about your existence than you do."
 
-Ethan set his glass on the coffee table. Dawn stared at it blankly for a moment, watching the condensation drip down its sides. She felt Ethan's gaze on her. Apparently she was about to get some answers to the questions. She wasn't sure, now, that she wanted them. 
+Ethan set his glass on the coffee table. Dawn stared at it blankly for a moment, watching the condensation drip down its sides. She felt Ethan's gaze on her. Apparently she was about to get some answers to the questions. She wasn't sure, now, that she wanted them.
 
 "Such as?" she asked, cautiously.
 
@@ -436,7 +436,7 @@ He took the lemon slice from the rim of his drink and squeezed it into the glass
 
 "I don't... like that. At all."
 
-"Can't blame you. I didn't like it when it was done to me. However briefly." 
+"Can't blame you. I didn't like it when it was done to me. However briefly."
 
 Dawn's hands were shaking. She hated to admit it, but they were. "What else was in the file?"
 
@@ -454,11 +454,11 @@ Dawn shoved herself out of the couch and leaned over him dangerously. He didn't 
 
 "Ethan. I value your judgment, but I think I have a right to know. May I please have the file?"
 
-"Fetch it yourself if you are able. It's in my desk drawer." Ethan pointed to the desk set against the far wall of his living room. 
+"Fetch it yourself if you are able. It's in my desk drawer." Ethan pointed to the desk set against the far wall of his living room.
 
 Dawn strode over and tugged at the side drawer. Locked, of course. Locked. She knew what to do with locks. She laid a hand on the little brass plate, and explored. It hurt. It hurt in ways Dawn had never imagined hurting before. Somewhere deep inside, not her head, not her gut, somewhere in her body that she hadn't known existed. Something creaked and pinged... and gave, just a little.
 
-The lock on the drawer clicked. 
+The lock on the drawer clicked.
 
 Dawn stopped straining against whatever it was. She reached out a shaking hand, and slid the drawer open. She took her reward, the manila envelope with all the secrets in it. She didn't open it, but carried it back to the couch where Ethan was sitting, knees crossed. She stood over him. It didn't feel like victory.
 
@@ -511,13 +511,13 @@ She also reasoned that the firm had chosen Ethan because a twisty approach serve
 
 In reaction, Dawn's plan was simple and straightforward. She would tell Angel what she wanted. Angel would do it. He would ask Giles and Buffy to leave, and he would not give Wolfram and Hart whatever they had asked for. He would be on his guard.
 
-She and Ethan bickered about this suggestion for several days. He, quite reasonably, pointed out that it gave them one shot at success. If the attempt failed, the parties involved would be on their guard. She, in turn, shot down his various suggestions for petty harassment campaigns as unlikely to even be noticed by the pair, who were in the sickeningly besotted phase. The minor compulsion spells were out; Willow had detected the ones Wolfram and Hart had tried to put on the Angel Investigations team, and swatted them away like gnats. 
+She and Ethan bickered about this suggestion for several days. He, quite reasonably, pointed out that it gave them one shot at success. If the attempt failed, the parties involved would be on their guard. She, in turn, shot down his various suggestions for petty harassment campaigns as unlikely to even be noticed by the pair, who were in the sickeningly besotted phase. The minor compulsion spells were out; Willow had detected the ones Wolfram and Hart had tried to put on the Angel Investigations team, and swatted them away like gnats.
 
 They were at an impasse, and the lawyer's deadline was approaching. Finally Ethan agreed to let her try, and she would let him execute some more major harassment if she failed.
 
 Dawn geared herself up make her pitch. Sophisticated. Adult. Cool. Calm. In control. A little bit like Lilah Morgan had been, if she could manage it. Though she sure didn't have the wardrobe.
 
-Dawn found Angel in what had once been the back offices of the Hyperion Hotels. His office was cramped and messy, littered with file folders and weapons. When Dawn knocked, he was sorting through a pile of wooden stakes. He was in black, as usual. Black trousers, black coat, heedless of the weather. But then, he was undead. The heat only troubled him if it damaged the flesh he animated. 
+Dawn found Angel in what had once been the back offices of the Hyperion Hotels. His office was cramped and messy, littered with file folders and weapons. When Dawn knocked, he was sorting through a pile of wooden stakes. He was in black, as usual. Black trousers, black coat, heedless of the weather. But then, he was undead. The heat only troubled him if it damaged the flesh he animated.
 
 Angel held up two stakes, comparing their length. He tossed the shorter one into the pile.
 
@@ -579,7 +579,7 @@ Angel blinked again, very slowly. Yellow flashed in his eyes. "You've talked to 
 
 "You need me to resist." Angel laughed. "What's the plan, Dawnie?"
 
-The world spun around Angel's face. Dawn's hands shook, just a little, and she saw green light on the inside of her eyelids. She held it down. 
+The world spun around Angel's face. Dawn's hands shook, just a little, and she saw green light on the inside of her eyelids. She held it down.
 
 "Cut the condescending crap. I'm older than Buffy was when you slept with her. When you smashed her heart to little pieces because you were too <em>stupid</em> to investigate your own curse. Just like you're too stupid now."
 
@@ -593,7 +593,7 @@ Angel flashed a grin at her, intended to disarm her, but his eyes were still yel
 
 "If Giles doesn't like it, it's bad. He's stodgy, but he's reliable about apocalypses and who's evil and who's not. He's kinda... trustworthy."
 
-Angel wasn't smiling any more. She'd been right; he still felt guilty. She could use that. "Are you all right, Dawn? You look..." 
+Angel wasn't smiling any more. She'd been right; he still felt guilty. She could use that. "Are you all right, Dawn? You look..."
 
 "I'm just wondering what it would take to convince you."
 
@@ -617,7 +617,7 @@ The shopfront was dark, the shades pulled, of course. Dawn laid her hand on the 
 
 Light shone under the door at the top of the stairs, and she could hear music playing, solo piano, something austere. She raised her hand to knock, then deliberately lowered it.
 
-Secundus resisted her for a moment, then yielded to her persuasion. 
+Secundus resisted her for a moment, then yielded to her persuasion.
 
 She stepped confidently into the apartment. Ethan was on his sofa, a book in one hand, and a crystalline object in the other. He had been coiled tense, but he relaxed when he saw it was her. He set the object aside, and smiled crookedly.
 
@@ -659,7 +659,7 @@ Ethan slapped the counter, not hard, but just loud enough to get Dawn's attentio
 
 "Not a woman. Not yet."
 
-Ethan did not laugh. If he'd laughed, she might have run from the apartment and never come back. Instead he very deliberately stepped forward to her. He laid his hands on her shoulders, leaned forward, and kissed her forehead. He reached behind her, moving slowly, and removed the brooch from her hair. 
+Ethan did not laugh. If he'd laughed, she might have run from the apartment and never come back. Instead he very deliberately stepped forward to her. He laid his hands on her shoulders, leaned forward, and kissed her forehead. He reached behind her, moving slowly, and removed the brooch from her hair.
 
 "If that is all, my love, it is easily dealt with. It would be my honor to guide you through this passage."
 
@@ -671,7 +671,7 @@ He rested his hands on her shoulders, and caressed. "One might almost say, my du
 
 Ethan's voice was in her ear, husky and rough, like heavy silk under her hand. "I might have an inclination, a preference, but Janus requires that his servants have two faces. Male and female. Dawn, love, I serve the god of doorways. You open doors. How can I not be drawn to you?"
 
-It wasn't who she was. It was what she was. Dawn was pretty, she knew that, but if she'd been an ordinary girl he wouldn't have looked twice. Too young, too naive, too inexperienced. But his hands were everywhere, gentle, skilled. Her breath came short. He held her hand as he guided her to his bedroom. 
+It wasn't who she was. It was what she was. Dawn was pretty, she knew that, but if she'd been an ordinary girl he wouldn't have looked twice. Too young, too naive, too inexperienced. But his hands were everywhere, gentle, skilled. Her breath came short. He held her hand as he guided her to his bedroom.
 
 Dawn stood in the dark room, waiting. A match flared, and he lit candles. Many candles. The room was hot, and the flames made it hotter, but Dawn shivered anyway. Fear. She was really going to do this. Whatever else happened, even if it was a big fizzle, she'd be a different person when she left this room..
 
@@ -687,7 +687,7 @@ That gave her a moment of pause, but she pushed past it. "I don't care. It's wha
 
 "Are you aware that I might be wrong? That it might mean the end of your existence as a self-aware being?"
 
-Her stomach flipped. Dawn looked at Ethan unsteadily. His eyes gleamed in the candlelight. Dawn wondered if he'd mind that outcome. Maybe at first. Later, his grief would fade as he learned to enjoy possession of her power. Or enjoy the reward from his god for his service: Janus held a key in his right hand. Maybe Janus wanted to hold her. Maybe. 
+Her stomach flipped. Dawn looked at Ethan unsteadily. His eyes gleamed in the candlelight. Dawn wondered if he'd mind that outcome. Maybe at first. Later, his grief would fade as he learned to enjoy possession of her power. Or enjoy the reward from his god for his service: Janus held a key in his right hand. Maybe Janus wanted to hold her. Maybe.
 
 "I'll risk it."
 
@@ -697,11 +697,11 @@ And he reached out to her. Dawn flinched. He seemed to know she was terrified. H
 
 He knelt over her, as well as he was able. She'd never been naked in front of anyone else before. His eyes were on her, and a smile crinkled their edges. He liked what he saw. The candlelight flickered on his slim chest. The hair dusting his nipples was gray, and so was the hair on his belly. She was in bed with somebody older than her father. He knew what he was doing; oh, did he know. She thought back to those kisses in the back seat of the car, with a teenager who didn't seem to be entirely sure where anything was. She was as excited as she'd ever been in her life. Despite the fear in her throat.
 
-Ethan held his palms together and muttered something. He winced. He pulled his hands apart with difficulty. Blood dripped from his palms onto the sheets, onto Dawn's legs. He smeared blood over his palms and hers. His forehead, hers. His chest, hers. He invoked Janus in Latin that Dawn was too distracted to follow. His faithful and unfaithful son. Ethan lifted the glass of whisky high, and poured it into the shallow dish next to the statue. It caught fire and burned blue. 
+Ethan held his palms together and muttered something. He winced. He pulled his hands apart with difficulty. Blood dripped from his palms onto the sheets, onto Dawn's legs. He smeared blood over his palms and hers. His forehead, hers. His chest, hers. He invoked Janus in Latin that Dawn was too distracted to follow. His faithful and unfaithful son. Ethan lifted the glass of whisky high, and poured it into the shallow dish next to the statue. It caught fire and burned blue.
 
-Dawn felt the presence of the god. Ethan addressed something to him, again in Latin, with respect in his voice that Dawn had never heard before. And then he awkwardly rolled himself onto her. 
+Dawn felt the presence of the god. Ethan addressed something to him, again in Latin, with respect in his voice that Dawn had never heard before. And then he awkwardly rolled himself onto her.
 
-Despite all his care, it hurt. Dawn froze, and would have drawn breath to cry out, but all the air seemed to have left the room. Windows shattered outside. Something in the distance exploded. The lights went out and the building sighed to silence around them. 
+Despite all his care, it hurt. Dawn froze, and would have drawn breath to cry out, but all the air seemed to have left the room. Windows shattered outside. Something in the distance exploded. The lights went out and the building sighed to silence around them.
 
 Ethan cried out against her neck, and Dawn felt him shudder. She was too distracted by pain, by upheaval, by whatever was being overturned inside her. It was almost done. The last step was hers to take.
 
@@ -713,7 +713,7 @@ The memory spell was dead. But Dawn remembered everything exactly as she had bef
 
 The spell was dead, and its energy was Dawn's. It twitched and throbbed in her hands. It wasn't a firehose. It was delicate, for fine work. Like opening doors, picking locks, untangling knots. Or fixing damaged bone and cartilage in a man's knee. Dawn did it, and then fell back, limp on the bed, wet with sweat and Ethan's blood. Her hands and feet buzzed, but the current had faded. She'd have to work to learn to use this power, to twist it to her will. And she would.
 
-Ethan kissed her mouth, then her brow, heedless of the mess. He sat up and made a sound of deep pleasure. He ran his hands over his knee and bent his leg experimentally. He got out of bed and walked with only a hint of the limp, over to the window. He pulled the drape aside. The sky was dark red, and the wind coming through the window hotter than the air inside the room. 
+Ethan kissed her mouth, then her brow, heedless of the mess. He sat up and made a sound of deep pleasure. He ran his hands over his knee and bent his leg experimentally. He got out of bed and walked with only a hint of the limp, over to the window. He pulled the drape aside. The sky was dark red, and the wind coming through the window hotter than the air inside the room.
 
 "The power's gone out," he said. "All over. And the hills are burning."
 

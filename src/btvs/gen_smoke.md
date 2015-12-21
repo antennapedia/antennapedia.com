@@ -8,15 +8,15 @@ summary: "Ripper's thinking clearly for the first time in years."
 altlink: 'http://antennapedia.livejournal.com/64777.html'
 tags:
   - authors-favorite
-  - 'c:giles'
-  - 'c:ripper!giles'
+  - c:giles
+  - c:ripper!giles
   - cigarettes
-  - 'episode:band-candy'
-  - 'season:03'
+  - episode:band-candy
+  - season:03
   - swords
   - tagfic
-  - 'f:btvs'
-  - 'p:gen'
+  - f:btvs
+  - p:gen
 rating: mature
 pairing: gen
 ---

@@ -8,15 +8,15 @@ notes: null
 summary: "Xander wants to carry his memories with him. Giles isn't sure."
 altlink: 'http://antennapedia.livejournal.com/374202.html#comments'
 tags:
-  - 'c:giles'
-  - 'c:xander'
+  - c:giles
+  - c:xander
   - cleveland
   - commentary
-  - 'genre:angst'
+  - genre:angst
   - post-series
   - tattoos
-  - 'f:btvs'
-  - 'p:giles/xander'
+  - f:btvs
+  - p:giles/xander
 rating: mature
 pairing: giles/xander
 ---

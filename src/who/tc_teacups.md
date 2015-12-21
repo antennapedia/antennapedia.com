@@ -8,14 +8,14 @@ summary: "He was a teacup that could be dropped. He knew it because he'd been dr
 altlink: 'http://archiveofourown.org/works/5358149'
 tags:
   - aging
-  - 'c:clara-oswald'
-  - 'c:twelfth-doctor'
+  - c:clara-oswald
+  - c:twelfth-doctor
   - genre:cuddlecore
-  - 'genre:hurt/comfort'
+  - genre:hurt/comfort
   - "post-witch's-familiar"
   - tea
-  - 'f:doctor_who'
-  - 'p:twelve/clara'
+  - f:doctor_who
+  - p:twelve/clara
 rating: general
 pairing: twelve/clara
 ---

@@ -8,14 +8,14 @@ notes: null
 summary: "Uncle Charles's last will and testament, the rackety old bastard."
 altlink: 'http://antennapedia.livejournal.com/434490.html#comments'
 tags:
-  - 'c:giles'
+  - c:giles
   - genre:crossover
-  - 'f:forsyte-saga'
-  - 'f:peter-wimsey'
+  - f:forsyte-saga
+  - f:peter-wimsey
   - guns
-  - 'season:07'
-  - 'f:btvs'
-  - 'p:gen'
+  - season:07
+  - f:btvs
+  - p:gen
 rating: general
 pairing: gen
 ---

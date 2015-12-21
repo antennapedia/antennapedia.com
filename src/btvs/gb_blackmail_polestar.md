@@ -9,28 +9,28 @@ summary: Giles is happy that his loyalties and desires finally align. Buffy does
 altlink: 'http://antennapedia.livejournal.com/230429.html#comments'
 tags:
   - award-winner
-  - 'c:buffy'
-  - 'c:dom!buffy'
-  - 'c:giles'
-  - 'c:riley'
-  - 'c:sub!giles'
-  - 'c:tara'
-  - 'c:willow'
-  - 'c:xander'
-  - 'genre:kink'
-  - 'kink:bondage'
-  - 'kink:dom/sub'
-  - 'kink:hypnosis'
-  - 'kink:knifeplay'
-  - 'kink:pain'
-  - 'season:04'
-  - 'f:btvs'
-  - 'p:buffy/riley'
-  - 'p:xander/anya'
-  - 'p:willow/tara'
-  - 'p:giles/buffy'
-  - 'p:giles/jenny'
-  - 'p:giles/ethan'
+  - c:buffy
+  - c:dom!buffy
+  - c:giles
+  - c:riley
+  - c:sub!giles
+  - c:tara
+  - c:willow
+  - c:xander
+  - genre:kink
+  - kink:bondage
+  - kink:dom/sub
+  - kink:hypnosis
+  - kink:knifeplay
+  - kink:pain
+  - season:04
+  - f:btvs
+  - p:buffy/riley
+  - p:xander/anya
+  - p:willow/tara
+  - p:giles/buffy
+  - p:giles/jenny
+  - p:giles/ethan
 rating: adult
 pairing: giles/buffy
 ---

@@ -7,12 +7,12 @@ notes: 'Comment fic for myhrmaid, who prompted with Buffy/Giles - Depressed, ann
 summary: A moment of being all Poe together in a cemetery.
 altlink: 'http://antennapedia.livejournal.com/481663.html?thread=4264831#t4264831'
 tags:
-  - 'c:buffy'
-  - 'c:giles'
-  - 'genre:angst'
-  - 'f:btvs'
-  - 'p:giles/buffy'
-  - 'p:giles/jenny'
+  - c:buffy
+  - c:giles
+  - genre:angst
+  - f:btvs
+  - p:giles/buffy
+  - p:giles/jenny
 rating: general
 pairing: giles/buffy
 ---

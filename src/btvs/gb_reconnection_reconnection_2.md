@@ -8,25 +8,25 @@ notes: 'For <b><a href="http://clavally.livejournal.com/">clavally</a></b>, who 
 summary: 'Dark magic has been unleashed, and a price must be paid. By whom?'
 altlink: 'http://antennapedia.livejournal.com/67983.html'
 tags:
-  - 'c:anya'
-  - 'c:buffy'
-  - 'c:giles'
-  - 'c:spike'
-  - 'c:tara'
-  - 'c:willow'
-  - 'c:xander'
+  - c:anya
+  - c:buffy
+  - c:giles
+  - c:spike
+  - c:tara
+  - c:willow
+  - c:xander
   - sex:first-time
-  - 'genre:romance'
+  - genre:romance
   - magic
   - proposal
-  - 'season:06'
+  - season:06
   - slayers
   - souls
   - watchers
-  - 'f:btvs'
-  - 'p:xander/anya'
-  - 'p:willow/tara'
-  - 'p:giles/buffy'
+  - f:btvs
+  - p:xander/anya
+  - p:willow/tara
+  - p:giles/buffy
 rating: mature
 pairing: giles/buffy
 ---
