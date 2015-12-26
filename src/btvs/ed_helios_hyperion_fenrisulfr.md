@@ -26,21 +26,21 @@ notes: >
 summary: "Dawn escapes from a boring summer at the Hyperion by finding a job. The job isn't quite what it appears. That's okay: neither is Dawn."
 altlink: 'http://antennapedia.livejournal.com/275373.html#comments'
 tags:
-  - authors-favorite
-  - award-winner
-  - c:angel
-  - c:dawn
-  - c:ethan
+    - authors-favorite
+    - award-winner
+    - c:angel
+    - c:dawn
+    - c:ethan
     - genre:adventure
-  - los-angeles
-  - magic
-  - norse-legend
-  - poetry
-  - post-series
-  - sex:ritual
-  - f:btvs
-  - p:ethan/dawn
-  - p:giles/buffy
+    - los-angeles
+    - magic
+    - norse-legend
+    - poetry
+    - post-series
+    - sex:ritual
+    - f:btvs
+    - p:ethan/dawn
+    - p:giles/buffy
 rating: mature
 pairing: ethan/dawn
 ---

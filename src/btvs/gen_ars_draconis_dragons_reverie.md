@@ -8,19 +8,19 @@ notes: '<b>For:</b> <b><a href="http://katekat1010.livejournal.com/">katekat1010
 summary: Giles finds that wielding a legend is not a trivial matter.
 altlink: 'http://antennapedia.livejournal.com/73982.html'
 tags:
-  - c:buffy
-  - c:giles
-  - c:willow
-  - c:xander
-  - dragons
+    - c:buffy
+    - c:giles
+    - c:willow
+    - c:xander
+    - dragons
     - genre:adventure
-  - magic
-  - remixed
-  - roadtrip
-  - season:05
-  - swords
-  - f:btvs
-  - p:gen
+    - magic
+    - remixed
+    - roadtrip
+    - season:05
+    - swords
+    - f:btvs
+    - p:gen
 rating: general
 pairing: gen
 ---

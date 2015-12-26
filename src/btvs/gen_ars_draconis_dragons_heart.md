@@ -8,21 +8,21 @@ notes: "The stories in this series are inspired by BPAL scents from the <a href=
 summary: 'The sword dreams, and Giles dreams with it. Of what? And to what end?'
 altlink: 'http://antennapedia.livejournal.com/181344.html'
 tags:
-  - c:anya
-  - c:buffy
-  - c:dawn
-  - c:giles
-  - c:spike
-  - c:willow
-  - c:xander
-  - dragons
+    - c:anya
+    - c:buffy
+    - c:dawn
+    - c:giles
+    - c:spike
+    - c:willow
+    - c:xander
+    - dragons
     - genre:adventure
-  - magic
-  - season:05
-  - swords
-  - vampires
-  - f:btvs
-  - p:gen
+    - magic
+    - season:05
+    - swords
+    - vampires
+    - f:btvs
+    - p:gen
 rating: general
 pairing: gen
 ---
