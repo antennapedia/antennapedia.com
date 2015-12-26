@@ -13,6 +13,6 @@ Story source is in `src/`. Site is generated into `build/`.
 
 ## LICENSE
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="css/creative_commons_88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://github.com/antennapedia/antennapedia.com/blob/master/static/css/creative_commons_88x31.png" /></a>
 
 This work is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
