@@ -17,6 +17,7 @@ block content
 	#threecolumn
 		- each year in list
 			h2= year.year
+			p #{year.wordcount} words.
 			- each month in year.months
 				h3= month.name
 				- each story in month.data

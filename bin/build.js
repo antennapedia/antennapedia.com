@@ -87,16 +87,13 @@ metalsmith
 		typographer: true,
 		html: true
 	}))
+	.use(wordcount())
 	.use(archive({
 		dateFields: ['published'],
 		collections: ['who', 'thick', 'rpf', 'hour', 'btvs', 'holmes']
 	}))
-	.use(dateFormatter({
-		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
-	}))
-	.use(autotoc({selector: 'h2, h3, h4'}))
-	.use(wordcount())
 	.use(totalWords)
+	.use(autotoc({selector: 'h2, h3, h4'}))
 	.use(collections({
 		recent: {
 			pattern: '*/*.html',
@@ -119,6 +116,9 @@ metalsmith
 		'layout': 'tag.jade',
 		'sortBy': 'idtag'
 	}))
+	.use(dateFormatter({
+		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
+	}))
 	.use(layouts({
 		'engine': 'jade',
 		'default': 'story.jade',
@@ -139,8 +139,19 @@ function totalWords(files, ms, done)
 	{
 		total += parseInt(files[f].wordCount || 0, 10);
 	});
-	metadata.storycount = fnames.length - 4; // magic number
+	metadata.storycount = fnames.length - 6; // magic number
 	metadata.wordcount = total;
+
+	var archive = metadata.archive;
+	archive.forEach(function(year)
+	{
+		year.wordcount = 0;
+		year.data.forEach(function(s)
+		{
+			year.wordcount += parseInt(s.wordCount || 0, 10);
+		});
+	});
+
 	done();
 }
 
