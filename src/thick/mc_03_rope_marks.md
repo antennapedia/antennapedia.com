@@ -22,7 +22,7 @@ tags:
     - kink:bondage
     - kink:snowballing
     - kink:pegging
-altlink: http://archiveofourown.org/works/9204787
+altlink: http://archiveofourown.org/works/4086808
 ---
 Clara had a weekly routine with Malcolm Tucker now. Strange, bizarre, unpredictable, but true: she and the holy terror of the Party, the PM's enforcer, were not exactly dating, not in the conventional sense. They played together. Had sex of an unconventional kind. And because Clara had a clear head about this and wanted no scandal, as far as the outside world was concerned, they *were* dating. On Tuesdays they did something quiet and then went to Malcolm's home to do something less quiet. And on Fridays they did something more public, the sort of thing that a man in Malcolm's position would be expected to do with a partner. It was a good routine, one that had made her week a lot more interesting. The sex was turning out to be more fun than she'd thought. All in all, taking that ridiculous risk and pushing him to confess to her, instead of just rescuing him, had worked out rather well.
 

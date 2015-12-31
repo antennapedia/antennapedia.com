@@ -7,12 +7,12 @@ notes: null
 summary: "He was a teacup that could be dropped. He knew it because he'd been dropped before. He was a teacup that had been mended over and over."
 altlink: 'http://archiveofourown.org/works/5358149'
 tags:
-  - aging
+  - telepathy
   - c:clara-oswald
   - c:twelfth-doctor
   - genre:cuddlecore
   - genre:hurt/comfort
-  - "post-witch's-familiar"
+  - post-witch's-familiar
   - tea
   - f:doctor_who
   - p:twelve/clara

@@ -6,7 +6,7 @@ title: Blindr.com, or, the importance of coconut-milk lattes to long-term succes
 summary: |
   Giles owns a third-wave coffee shop and bean roastery. His loyal staff thinks he should start dating again. He thinks it would be a disaster. He's right.
 
-  Featuring Oz, Anya, Tara, Xander, Willow and the incomparable Ethan Rayne in supporting roles."
+  Featuring Oz, Anya, Tara, Xander, Willow and the incomparable Ethan Rayne in supporting roles.
 altlink: http://archiveofourown.org/works/4378676
 tags:
   - c:buffy
