@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var Metalsmith = require('metalsmith'),
+	archive       = require('metalsmith-archive'),
 	autotoc       = require('metalsmith-autotoc'),
 	beautify      = require('metalsmith-beautify'),
 	buildDate     = require('metalsmith-build-date'),
@@ -17,8 +18,8 @@ var Metalsmith = require('metalsmith'),
 	sass          = require('metalsmith-sass'),
 	sitetitle     = require('metalsmith-page-titles'),
 	static        = require('metalsmith-static'),
-	tags          = require('metalsmith-tags'),
-	wordcount     = require('metalsmith-word-count')
+	tags         = require('metalsmith-tags'),
+	wordcount    = require('metalsmith-word-count')
 	;
 
 var start = Date.now();
@@ -36,11 +37,9 @@ var argv = require('yargs')
 	})
 	.argv;
 
-var metalsmith = new Metalsmith('.');
-
 if (argv.static)
 {
-	metalsmith
+	new Metalsmith('.')
 		.clean(false)
 		.use(static({
 			'src': 'static',
@@ -54,6 +53,8 @@ if (argv.static)
 		});
 }
 
+var metalsmith = new Metalsmith('.');
+
 if (argv.changed)
 {
 	metalsmith
@@ -65,7 +66,6 @@ if (argv.changed)
 }
 
 metalsmith
-	.concurrency(50)
 	.metadata({
 		site: {
 			title: 'Antennapedia',
@@ -82,10 +82,14 @@ metalsmith
 	.use(rootpath())
 	.use(sitetitle({ separator: ' :: ' }))
 	.use(buildDate())
-	.use(sass({'outputStyle': 'expanded'}))
+	.use(sass({outputStyle: 'expanded'}))
 	.use(markdownit({
-		'typographer': true,
-		'html': true
+		typographer: true,
+		html: true
+	}))
+	.use(archive({
+		dateFields: ['published'],
+		collections: ['who', 'thick', 'rpf', 'hour', 'btvs', 'holmes']
 	}))
 	.use(dateFormatter({
 		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
@@ -98,12 +102,14 @@ metalsmith
 			pattern: '*/*.html',
 			sortBy: 'published',
 			reverse: true,
-			limit: 15
+			limit: 15,
+			refer: false
 		},
 		all: {
 			pattern: '*/*.html',
 			sortBy: 'published',
-			reverse: true
+			reverse: true,
+			refer: false
 		}
 	}))
 	.use(feed({ collection: 'recent' }))
@@ -118,7 +124,7 @@ metalsmith
 		'default': 'story.jade',
 		'pattern': ['**/*.html' ]
 	}))
-	.use(identifiers())
+	.use(beautify())
 	.use(static({
 		'src': 'static',
 		'dest': '.'
@@ -138,7 +144,7 @@ function totalWords(files, ms, done)
 	done();
 }
 
-if (!argv.static)
+if (!argv.static && !argv.year)
 {
 	metalsmith.build(function(err)
 	{

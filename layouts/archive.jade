@@ -1,0 +1,25 @@
+extends basic.jade
+
+mixin capsule(story)
+	if !rootPath
+		- rootPath = ''
+			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
+			a.storytitle(href=fullpath) #{story.title} - #{story.pairing}
+
+block title
+	title= pageTitle
+
+block topmatter
+	h1= title
+
+block content
+	- var list = archive
+	#threecolumn
+		- each year in list
+			h2= year.year
+			- each month in year.months
+				h3= month.name
+				- each story in month.data
+					+capsule(story)
+					br
+			
