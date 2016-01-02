@@ -1,5 +1,5 @@
 ---
-idtag: mct_couldnt_be_helped
+idtag: mct_s1_helped
 title: Couldn't be helped
 author: antennapedia
 summary: "Malcolm Tucker's second life aboard the TARDIS isn't all about smashing oppressive states. Sometimes it's about sex pollen in canisters."
@@ -19,7 +19,6 @@ tags:
     - trope:sex-pollen
     - sex:anal
     - sex:threesome
-notes: Probably not entirely canonical in the series.
 altlink: http://archiveofourown.org/works/5542241
 ---
 The canister rolled to a halt at their feet, hissing. Malcolm kicked it away immediately and finished his assigned job of launching the escape pods, the pods with all the refugees on them. They'd follow the homing beacons to the planet below; mission accomplished. Lives saved.
