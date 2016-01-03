@@ -19,6 +19,7 @@ tags:
     - alcohol
     - sex:first-time
     - rain
+    - authors-favorite
 altlink: http://archiveofourown.org/works/3195071
 ---
 Malcolm gave the switch on the telephone a healthy jiggle, marveling at the concept that anyone in this day and age would still own, let alone use, an old-style rotary telephone, but the receiver remained silent. The phone was dead.

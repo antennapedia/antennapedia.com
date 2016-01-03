@@ -14,6 +14,7 @@ tags:
     - genre:fantasy
     - chess
     - au:feudal
+    - authors-favorite
 altlink: http://archiveofourown.org/works/4227189
 ---
 Her men carried in a man trussed up in chains. "Something to entertain you this evening, my queen," her bodyguard said. "A Thornsman soldier for you."

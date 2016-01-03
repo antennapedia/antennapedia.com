@@ -19,6 +19,7 @@ tags:
     - dreams
     - genre:hurt/comfort
     - c:hurt!twelve
+    - authors-favorite
 altlink: http://archiveofourown.org/works/4621527
 ---
 In they ran, through the TARDIS door, hand in hand, stumbling as the gravity changed, laughing and coughing in equal measures, waving goodbye to their latest set of best friends ever whom they'd never see again. The Doctor pulled Clara through, waited until she'd turned from the door, then snapped his fingers. The door swung shut; the air cleaner whisked away the last of the smoke. It was over at last. His smiled died. He ran his hand over his face. That had been a long and weary combat with the Venturi navy; ultimately successful, with the war at a likely end for this pass of the comet, but it had been a close thing. They'd lost their engines and had only been saved by eighteen hours of hard labor from him and the engineering crew. And it had been tricky, figuring out how their engines were powered, what the best way to redesign them on the fly was, and then fabricating the parts.

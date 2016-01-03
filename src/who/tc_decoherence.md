@@ -15,6 +15,7 @@ tags:
     - mourning
     - aging
     - genre:angst
+    - authors-favorite
 altlink: http://archiveofourown.org/works/3310592
 ---
 Sixty-two years. Sixty-two years is an entire lifetime for many humans. Sixty-two years is an eyeblink for a Time Lord in one mental mode. It is an eternity for a Time Lord who has slowed down his perception of time so that he might savor every last one of the seconds of those sixty-two years. Nearly two billion seconds. (He cannot help but enumerate them.)

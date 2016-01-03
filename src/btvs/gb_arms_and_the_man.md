@@ -24,16 +24,17 @@ tags:
   - vampires
   - f:btvs
   - p:giles/buffy
+  - authors-favorite
 rating: mature
 pairing: giles/buffy
 ---
-Buffy slammed the stake in with precision, shattering ribs and spattering cold blood everywhere. Vampire and blood and stake dissolved into a scream and were gone, revealing Giles with his sword raised against mere dust. Buffy grinned at him. 
+Buffy slammed the stake in with precision, shattering ribs and spattering cold blood everywhere. Vampire and blood and stake dissolved into a scream and were gone, revealing Giles with his sword raised against mere dust. Buffy grinned at him.
 
 "And the throw goes from Watcher to Slayer for the put-out at first."
 
 Giles stared at her in bewilderment for a moment, then his eyes went wide "Behind you!"
 
-Buffy went down on her hand and kicked out behind herself at where he'd been looking. She connected with undead flesh with a satisfying crack. Coil to a crouch, spring up, catch the stake Giles tossed to her, and spin again. There it was: vamp, fangy, with the vacant yellow eyes of the new-fledged and confused. Confused, but strong and hungry and driven. And tragically, dust. 
+Buffy went down on her hand and kicked out behind herself at where he'd been looking. She connected with undead flesh with a satisfying crack. Coil to a crouch, spring up, catch the stake Giles tossed to her, and spin again. There it was: vamp, fangy, with the vacant yellow eyes of the new-fledged and confused. Confused, but strong and hungry and driven. And tragically, dust.
 
 "Weak grounder to short, out number two!" she said. "Not that I'm implying I'm short or anything like that."
 
@@ -74,7 +75,7 @@ Who was standing with his hands on his hips, looking annoyed. "I have a bone to 
 "I think your evil sensors are not as finely-tuned as you claim." He pointed with his chin at something behind her, but made no move to draw his sword. Buffy made a face at him and turned.
 
 Quentin Travers stood at the edge of the path, watching. Behind him a limo idled quietly, headlamps off. As Buffy and Giles walked over to him, Travers raised his hands and clapped, slowly.
-    
+
 "Miss Summers," he said, and he sounded polite. "It is always an inspiration to see you work."
 
 "What are you doing here?" Buffy said.
@@ -83,7 +84,7 @@ Quentin Travers stood at the edge of the path, watching. Behind him a limo idled
 
 "Yes, thanks. I, er, sorry, but I very much doubt you just dropped by."
 
-"Ah. Rupert. I wasn't talking to you." 
+"Ah. Rupert. I wasn't talking to you."
 
 "That's a comfort," Giles said, under his breath. Buffy suppressed her urge to snort.
 
@@ -99,7 +100,7 @@ Quentin Travers stood at the edge of the path, watching. Behind him a limo idled
 
 "Your circumstances, yes. The Slayer's, however, are our entire business."
 
-Travers tugged as his cuffs as he said this. Business. Something about it made Buffy want to push his teeth through the back of his head, but she restrained herself nobly. Giles was always after her to find non-violent solutions to problems. 
+Travers tugged as his cuffs as he said this. Business. Something about it made Buffy want to push his teeth through the back of his head, but she restrained herself nobly. Giles was always after her to find non-violent solutions to problems.
 
 "Not your business, either, remember?" Buffy said.
 
@@ -111,7 +112,7 @@ Buffy widened her stance ever so slightly. "You're not getting the message. I fi
 
 Travers shook his head. "You need a Watcher, Miss Summers. You know this. Someone to translate the prophecies for you. Someone to do your thinking for you. Rupert won't be doing that for you any more."
 
-"Read my lips. No. Freaking. Way." And then what he'd said hit her, and she saw red. Giles's hand closed around her arm for an instant, just long enough to get her grounded again. She breathed in once, twice. 
+"Read my lips. No. Freaking. Way." And then what he'd said hit her, and she saw red. Giles's hand closed around her arm for an instant, just long enough to get her grounded again. She breathed in once, twice.
 
 Travers was watching her closely. She met his gaze and he nodded in satisfaction. "You may expect to meet your new Watcher next week. Please do be here to welcome him. We should take it amiss if you chose to abandon your post in favor of chasing Rupert. Your, ah, devotion to each other is touching, but ill-placed."
 
@@ -129,7 +130,7 @@ Buffy turned to Giles, hands on hips. "So. That was unexpected."
 
 "Not here," he said. "Home." He wasn't looking at her directly, which made her uneasy.
 
-They walked back to Giles's apartment side-by-side, silent. The summer night had gone chilly as the marine layer had drawn in. Buffy zipped her hoody up to her neck. July on the California coastline: not so hot without the sun part. Giles's arm brushed warm against hers every now and then as they walked. It was, aside from the visit from Travers, exactly like almost every night they'd spent since the unification spell had done its strange thing to them. They patrolled together, trained together, meditated together. They had been in each other's pockets since that night. 
+They walked back to Giles's apartment side-by-side, silent. The summer night had gone chilly as the marine layer had drawn in. Buffy zipped her hoody up to her neck. July on the California coastline: not so hot without the sun part. Giles's arm brushed warm against hers every now and then as they walked. It was, aside from the visit from Travers, exactly like almost every night they'd spent since the unification spell had done its strange thing to them. They patrolled together, trained together, meditated together. They had been in each other's pockets since that night.
 
 Buffy hadn't minded a minute of it. More than that, she'd been enjoying it. She was more than a little upset to think about this situation ending for any reason. Even more upset to think about Giles not being her Watcher any more, about going off to do other things.
 
@@ -137,7 +138,7 @@ Giles stood aside to allow her to precede him down the brick steps to his courty
 
 Giles hung his baldric on the coat rack. Buffy kicked off her Chucks and padded barefoot over to the couch. She tucked her feet under herself. On a normal night, what would happen next was they'd debrief from the patrol, then Giles would work on any specific issues he'd spotted during the fights. They'd talk and do the mental side of training until three in the morning, usually, sometimes later. Sometimes until dawn. Night-time studying, on the Slayer's schedule. Then maybe she'd run home to her mother's place, taking advantage of the cool night and the empty streets to run intervals, Slayer-style. Or she'd stay here and sleep on Giles's couch until noon, when they'd both wake up and spar before lunch. She'd spent the last couple of nights away from him, so maybe she'd stay here tonight.
 
-He wouldn't mind. She knew that. The unification spell had done some strange things, starting with that shared dream and not ending there in the least. She'd carried that awakened Slayer spirit within ever since. That unruly Slayer spirit that had been troubling her dreams and driving her out to hunt at night, but Buffy was at peace with that drive now. She was doing it right, sitting here with her Watcher now. The Slayer spirit liked Giles. It liked her being close to him. Her inner Slayer had good taste. 
+He wouldn't mind. She knew that. The unification spell had done some strange things, starting with that shared dream and not ending there in the least. She'd carried that awakened Slayer spirit within ever since. That unruly Slayer spirit that had been troubling her dreams and driving her out to hunt at night, but Buffy was at peace with that drive now. She was doing it right, sitting here with her Watcher now. The Slayer spirit liked Giles. It liked her being close to him. Her inner Slayer had good taste.
 
 Was he really thinking about finding a job somewhere else? It didn't feel like he was thinking about leaving her, not with how much time they'd been spending together. Not since he'd agreed to be her Watcher again, formally.
 
@@ -145,7 +146,7 @@ Giles sat on the other end of his little couch. Like her, he'd removed his shoes
 
 She'd have been wigged out about that once upon a time, a time before the unification spell. Now... well. She grooved.
 
-"You know what I regret?" she said, dreamily. 
+"You know what I regret?" she said, dreamily.
 
 "What?"
 
@@ -162,10 +163,10 @@ He made a little harrumphing sound in response. They didn't need to discuss what
 He took his glasses off and tossed them onto the coffee table. "Ah," he said. "He seemed to have the wrong end of the stick."
 
 Which was a stuffy British way of saying Travers was wrong. Buffy let out a breath she hadn't realized she was holding. But the next question was, what was at the other end of the stick? She opened her mouth to ask Giles. And the phone rang. What was it? One in the morning? Later than that.
-    
-It rang again. Giles stared at it without moving through a third ring, then he scooped up his glasses and went to answer. Buffy listened in shamelessly, because phone calls after midnight were generally important, in the sense of requiring Slayage eventually. 
 
-"Hullo? This is he. Whiting, good lord, we haven't spoken in donkey's years. What's the occasion?" Giles paused and his brows came together. "Oh. I see." 
+It rang again. Giles stared at it without moving through a third ring, then he scooped up his glasses and went to answer. Buffy listened in shamelessly, because phone calls after midnight were generally important, in the sense of requiring Slayage eventually.
+
+"Hullo? This is he. Whiting, good lord, we haven't spoken in donkey's years. What's the occasion?" Giles paused and his brows came together. "Oh. I see."
 
 Whatever Whiting said next made him look even more puzzled. "Thanks, that's very kind of you, but I'm afraid we weren't very close. I--"
 
@@ -235,7 +236,7 @@ Buffy snapped her mouth shut and kept it shut. His voice was sharp in a way it h
 
 "No doubt are experiencing something similar, and unique to them."
 
-And that shut her right back up again. When had she last seen either of them? Willow was on vacation somewhere with Tara. Xander was-- he'd left town too. Not Giles. She and Giles had spent time together every single day since the unification spell but not an hour with the others. That was interesting. The Unification had sent Xander and Willow away to discover who they were, but it had driven them together. If she read this right. Except that Giles had something else going on. 
+And that shut her right back up again. When had she last seen either of them? Willow was on vacation somewhere with Tara. Xander was-- he'd left town too. Not Giles. She and Giles had spent time together every single day since the unification spell but not an hour with the others. That was interesting. The Unification had sent Xander and Willow away to discover who they were, but it had driven them together. If she read this right. Except that Giles had something else going on.
 
 What did it mean to be a Watcher? Was it her Watcher he was thinking about being, or just a Watcher? Was the job something that needed a Slayer? But even as she formed the question, she knew it was silly. A Watcher needed someone to watch.
 
@@ -253,7 +254,7 @@ Buffy reached out and took his hands in hers and squeezed for a second. To her s
 
 "We're a team."
 
-Giles shook his head, but did not argue his point further. He didn't need to. She knew what he was getting at. She did the fighting; he provided support. One thing Travers had said had been true: she needed somebody with Watcher skills. She would be in deep trouble without Giles, as she'd learned over the last year. She needed him happy, sober, and fully functional. What was good for him was good for her, in a roundabout way. Though she was suspicious of funky old organizations. If they were evil, she was going to tell him no. She knew he wouldn't go against her wishes, though he might be miserable about it. She'd seen him do it. Not that she wanted a repeat of that. She'd rather see her Watcher happy. 
+Giles shook his head, but did not argue his point further. He didn't need to. She knew what he was getting at. She did the fighting; he provided support. One thing Travers had said had been true: she needed somebody with Watcher skills. She would be in deep trouble without Giles, as she'd learned over the last year. She needed him happy, sober, and fully functional. What was good for him was good for her, in a roundabout way. Though she was suspicious of funky old organizations. If they were evil, she was going to tell him no. She knew he wouldn't go against her wishes, though he might be miserable about it. She'd seen him do it. Not that she wanted a repeat of that. She'd rather see her Watcher happy.
 
 She had a swig of tea.
 
@@ -317,7 +318,7 @@ From the delayed flight, the traffic on the M-something-or-other dinky sub-freew
 
 The twilight had just begun to shade into night when they got themselves checked into their inn. The room had two narrow beds and had its own bathroom attached, which looked ridiculously tiny to Buffy but that Giles seemed to think was a major feature in an inn like this. Buffy was a strange combination of exhausted and wired, not ready to sleep yet. Besides, she was hungry.
 
-They dropped their luggage onto their beds, unopened, and went downstairs to the pub. Giles ordered himself a pint of something and Buffy, stabbing wildly at the confusing list of names on the chalk board behind the bar, ordered cider. Giles's beer came in a tall straight glass and was black with creamy foam on top. She tasted it; it was warm like they all said English beer was and it was bitter and sweet at the same time. Giles snagged his glass back while she was pulling a face and drank deeply from it. He set it down on the table between them with a thump. He looked relaxed, sitting there slouched on the bench across from her, satisfied with himself. He'd been in a strange mood all day, alternating between being happy to be in his home country and anxious about something. At the moment he'd settled on happy. The beer left a bit of foam on his upper lip, which he licked off. Buffy watched his tongue and thought about how long she'd known Giles and how much she knew about him, and how comfortable they'd become with each other, that she could steal sips of whatever he was drinking so casually. 
+They dropped their luggage onto their beds, unopened, and went downstairs to the pub. Giles ordered himself a pint of something and Buffy, stabbing wildly at the confusing list of names on the chalk board behind the bar, ordered cider. Giles's beer came in a tall straight glass and was black with creamy foam on top. She tasted it; it was warm like they all said English beer was and it was bitter and sweet at the same time. Giles snagged his glass back while she was pulling a face and drank deeply from it. He set it down on the table between them with a thump. He looked relaxed, sitting there slouched on the bench across from her, satisfied with himself. He'd been in a strange mood all day, alternating between being happy to be in his home country and anxious about something. At the moment he'd settled on happy. The beer left a bit of foam on his upper lip, which he licked off. Buffy watched his tongue and thought about how long she'd known Giles and how much she knew about him, and how comfortable they'd become with each other, that she could steal sips of whatever he was drinking so casually.
 
 Buffy's own drink looked like carbonated apple juice. It was sweet and completely nummy. She drank as deeply as Giles had, and sputtered.
 
@@ -335,9 +336,9 @@ Giles was always telling her to eat more to fuel the Slayer metabolism. Her inne
 
 Buffy flapped a hand at him. "Anything. Delight me with the cuisine of your people."
 
-Giles made a face at her, then called over the waitress for a brief conversation. She saw them looking at her a couple of times, but she resolutely ignored them in favor of sipping at her cider. She was determined to demonstrate to Giles that she'd moved on from last year's beer incident and had indeed learned to hold her liquor. Though he probably wouldn't want to know how she'd learned, and she honestly wasn't all that proud of it, either. Her first year of college had featured stupidity, study, and slayage in about equal measures. Probably it had been a typical freshman year, aside from the blood and mayhem. 
+Giles made a face at her, then called over the waitress for a brief conversation. She saw them looking at her a couple of times, but she resolutely ignored them in favor of sipping at her cider. She was determined to demonstrate to Giles that she'd moved on from last year's beer incident and had indeed learned to hold her liquor. Though he probably wouldn't want to know how she'd learned, and she honestly wasn't all that proud of it, either. Her first year of college had featured stupidity, study, and slayage in about equal measures. Probably it had been a typical freshman year, aside from the blood and mayhem.
 
-Buffy turned her cider glass around and around, watching the bubbles rise against the glass. 
+Buffy turned her cider glass around and around, watching the bubbles rise against the glass.
 
 "Everything all right?"
 
@@ -367,7 +368,7 @@ Giles nodded. "The Order trains men to be demon hunters. From childhood, usually
 
 "But they don't get along."
 
-"Apparently not, given how my father reacted to my cousin's choice. There is a fierce rivalry. There often is between these groups. Seems counter-productive, but there it is." 
+"Apparently not, given how my father reacted to my cousin's choice. There is a fierce rivalry. There often is between these groups. Seems counter-productive, but there it is."
 
 He shrugged and drank more of his strange beer. Dodgers versus Giants, then, no sense to it, just ritual hatred. Buffy turned her attention to her cider again, which continued to be alcoholic yet tasty, and thought about rivalries and baseball teams. Did they compete for the star players? Was Giles a star player?
 
@@ -375,7 +376,7 @@ He shrugged and drank more of his strange beer. Dodgers versus Giants, then, no 
 
 The waitress chose that moment to arrive with their dinners. Giles leaned back in his chair and waited until she'd gone to answer.
 
-"I don't know. They weren't a group I attempted to send feelers to. They must have heard somehow. Otherwise they'd have recruited me immediately after our break with the Council." Giles shrugged. 
+"I don't know. They weren't a group I attempted to send feelers to. They must have heard somehow. Otherwise they'd have recruited me immediately after our break with the Council." Giles shrugged.
 
 They'd find out, she supposed. Buffy looked down at the strange food on her plate, and was surprised to realize it was perfectly ordinary roast beef in sauce, with veggies and a potato. One hundred percent normal food. She found Giles waiting for her reaction with a cocked eyebrow, so she decided not to play his little game. She ate like the starving Slayer she was and said nothing at all to him about the food.
 
@@ -385,15 +386,15 @@ Giles emerged from the bathroom with his toiletry bag in hand. He bent and repla
 
 "No vamps," she said and it came out a little whiny.
 
-Giles made a sympathetic noise. He yanked the bedding free from his mattress and climbed in. Buffy left the window open and turned off the light at the door. She sat cross-legged at the end of his bed. Giles didn't object, but he drew up his knees and clasped his arms around them. The blankets covered him up to his waist. Dark red blankets, his arms pale against them, his t-shirt shimmering white behind. She'd seen Giles in various states of undress, but she'd never spent the night with him like this. She'd spent the night in his apartment, had slept on Xander's basement floor with him and the gang, but she'd never been alone with him in a tiny little room, thousands of miles away from home. She wasn't sure why that mattered, but it did. 
+Giles made a sympathetic noise. He yanked the bedding free from his mattress and climbed in. Buffy left the window open and turned off the light at the door. She sat cross-legged at the end of his bed. Giles didn't object, but he drew up his knees and clasped his arms around them. The blankets covered him up to his waist. Dark red blankets, his arms pale against them, his t-shirt shimmering white behind. She'd seen Giles in various states of undress, but she'd never spent the night with him like this. She'd spent the night in his apartment, had slept on Xander's basement floor with him and the gang, but she'd never been alone with him in a tiny little room, thousands of miles away from home. She wasn't sure why that mattered, but it did.
 
 She was strangely aware of his body, of his masculinity. And he was definitely male to her just then. And he had gray at his temples, and was nearsighted, and stammered when he was nervous, and had to hide in his flat alone after too much time spent with their noisy friends. But he never seemed to mind her company. She was maybe as much as a refuge for him as he was for her.
 
-Something flared hot in her chest and she reached out and took his left hand. She'd done it without thinking, but it felt right. He squeezed her in return for a moment then let his hand relax in hers. 
+Something flared hot in her chest and she reached out and took his left hand. She'd done it without thinking, but it felt right. He squeezed her in return for a moment then let his hand relax in hers.
 
 This was the hand Angel had damaged. There were thin scars along the fingers he'd broken. It was Giles's sword hand. He'd made a good recovery, but even now he was still working to build the gripping strength he'd used to have. He'd told her that just recently, when she'd resumed weapons training with him. This hand, callused and scarred. It was suddenly unbearably desirable to her, this man's hand in hers. She held herself completely still, mind controlling her body's impulses for now. Only her thumb moved, stroking over his.
 
-"Buffy--" he said. 
+"Buffy--" he said.
 
 Buffy braced herself for the moment when he distanced himself, but he was gazing at her steadily and silently. His eyebrows came together and he studied her for an uncomfortably long time. Buffy didn't flinch. She continued to stroke his hand with her thumb. Eventually he seemed to find whatever he'd been looking for, and he looked down at their joined hands. He shifted and leaned forward. His fingers grazed her palm, and she breathed in. He raised her hand, turned it in his, and brushed a kiss against her knuckles. He lingered there for a moment, then released her.
 
@@ -403,7 +404,7 @@ Buffy opened her mouth to object, but he shook his head and she stayed silent. *
 
 Buffy lay in her own bed and watched him sleep with Slayer-sharp eyes. Something in her stirred, the same thing that made her hunt, but this time it wasn't driving her out into the moonless night. *That belongs to you,* it said. And it came along with a tickle of desire. Honor those impulses, he'd said. Honor the Slayer within. What would Giles make of this impulse? Would he tell her to honor this one too?
 
-Buffy woke first, troubled by the time shift, and she slipped into the room's tiny bathroom to get in a fast shower. When she came out, Giles was sitting up and rubbing at his face. His hair was rumpled and his chin stubbly. He could sometimes be slow waking up, she'd noticed, so she gave him his space. She filled the room's electric kettle and plugged it in. Tea from bags, which Giles had taught her to sniff at. He'd gulp it down anyway. But then, she'd drink instant coffee in a pinch, herself. 
+Buffy woke first, troubled by the time shift, and she slipped into the room's tiny bathroom to get in a fast shower. When she came out, Giles was sitting up and rubbing at his face. His hair was rumpled and his chin stubbly. He could sometimes be slow waking up, she'd noticed, so she gave him his space. She filled the room's electric kettle and plugged it in. Tea from bags, which Giles had taught her to sniff at. He'd gulp it down anyway. But then, she'd drink instant coffee in a pinch, herself.
 
 Giles got himself out of bed when the kettle whistled. She poured his authentically inauthentic morning cup of tea, with two units of sugar for the Watcher with the sweet tooth. He came over to collect it from her.
 
@@ -433,11 +434,11 @@ Buffy stood and straightened his jacket collar for him. She brushed a bit of ima
 
 Giles glanced at his wristwatch. "In an hour. If you're in the mood, we could take a walk around the village. The church isn't far."
 
-"Sounds good." 
+"Sounds good."
 
 Buffy was in need of some motion after being cooped up in the plane and in the car for so long. She snagged her sunglasses and was ready to go.
-    
-They'd driven through town like this yesterday but she hadn't managed to get a good look at them. They'd been on main roads and this town was all about the little winding streets off the main road. It was utterly gorgeous to her eyes, everything green and growing. It had rained some time in the night and the grass was wet. Rain, in summertime, so strange. The houses looked like a picture-book, like they were from a movie not from real life. There was another inn, a pub, a grocer, a shop aimed at tourists, and a collection of houses where people lived. There wasn't much more: they'd walked all the way across the place in ten minutes. 
+
+They'd driven through town like this yesterday but she hadn't managed to get a good look at them. They'd been on main roads and this town was all about the little winding streets off the main road. It was utterly gorgeous to her eyes, everything green and growing. It had rained some time in the night and the grass was wet. Rain, in summertime, so strange. The houses looked like a picture-book, like they were from a movie not from real life. There was another inn, a pub, a grocer, a shop aimed at tourists, and a collection of houses where people lived. There wasn't much more: they'd walked all the way across the place in ten minutes.
 
 It made Sunnydale look huge. Sunnydale was a one Starbucks town and this place was... Buffy hoped it never had a Starbucks, ever. It was too pretty for that.
 
@@ -445,7 +446,7 @@ The church they were heading to was outside the town proper, a short walk along 
 
 The church itself was old, though Buffy had no way to make any guesses about how old. It was more of a weird agglomeration of little buildings than what Buffy thought of as a church, though it had a tall steeple and a bell. Its gray stone walls were flecked by lichen and broken by narrow arched windows. The steep roofs were shingled with wood. There were old grave sites right next to the walkway, with dates on them in the 1600s. So it was at least that old. She'd have to ask Giles later. It was also larger than she expected, given the tiny size of the village.
 
-"Goodness," Giles said. He was leaning back and looking at the roof of the church, which fascinated him for some reason Buffy couldn't guess at. She was more interested in looking for signs of Travers or anybody else obnoxious. There were more people going inside than she had expected, somehow. Standing on the steps was a man who was looking around just like she was. Buffy saw him spot Giles and react. This had to be the Whiting guy they were there to meet. He came forward and shook hands with Giles. 
+"Goodness," Giles said. He was leaning back and looking at the roof of the church, which fascinated him for some reason Buffy couldn't guess at. She was more interested in looking for signs of Travers or anybody else obnoxious. There were more people going inside than she had expected, somehow. Standing on the steps was a man who was looking around just like she was. Buffy saw him spot Giles and react. This had to be the Whiting guy they were there to meet. He came forward and shook hands with Giles.
 
 "Rupert," he said. "It's been a long time."
 
@@ -455,7 +456,7 @@ Whiting turned to Buffy and hesitated, only for an instant but long enough that 
 
 "Buffy Summers," Giles said, without bothering to explain who she was or why she was here. If Whiting knew Giles was a Watcher, which he almost certainly did, he'd know who she was already.
 
-Whiting extended a hand to her. Buffy shook his hand and said what you were supposed to say when meeting somebody at a funeral, but only with the back half of her brain. The front half was furiously trying to parse this guy. He made her spidey sense tingle, but not in the creepy way. He looked like what she'd expect: suit and tie, conservative haircut gone a little shaggy and gray-shot, a face that was all character and once-broken nose. He had a handshake of surprising firmness, an upright stance and wide shoulders. An athlete in a suit, like Giles, only unlike Giles he wasn't bothering to hide it. 
+Whiting extended a hand to her. Buffy shook his hand and said what you were supposed to say when meeting somebody at a funeral, but only with the back half of her brain. The front half was furiously trying to parse this guy. He made her spidey sense tingle, but not in the creepy way. He looked like what she'd expect: suit and tie, conservative haircut gone a little shaggy and gray-shot, a face that was all character and once-broken nose. He had a handshake of surprising firmness, an upright stance and wide shoulders. An athlete in a suit, like Giles, only unlike Giles he wasn't bothering to hide it.
 
 Giles was speaking. "You were close? Forgive me if I'm prying. I hadn't seen him to speak to since I was in prep school."
 
@@ -467,9 +468,9 @@ Giles was speaking. "You were close? Forgive me if I'm prying. I hadn't seen him
 
 "May I ask how he died? On the phone you said it was a heart condition, but--"
 
-Whiting glanced around them, at the people walking past into the church. "Come walk with me," he said, and he headed off to the left. 
+Whiting glanced around them, at the people walking past into the church. "Come walk with me," he said, and he headed off to the left.
 
-They walked clockwise around the church, following a stone-flagged path in a grassy lawn. The grass and the stones were in the shadow of the church and still wet from the rain last night. The railing along the path looked new. 
+They walked clockwise around the church, following a stone-flagged path in a grassy lawn. The grass and the stones were in the shadow of the church and still wet from the rain last night. The railing along the path looked new.
 
 When they were out of easy earshot of the front, Whiting said, "I'm not entirely comfortable discussing this before outsiders, but--"
 
@@ -523,17 +524,17 @@ Whiting laughed. "Forgive me, but I doubt you have any idea."
 
 Buffy bit down on her urge to let him have it. "Oh, do I."
 
-"Miss Summers is the Slayer," Giles said to Whiting. 
+"Miss Summers is the Slayer," Giles said to Whiting.
 
 Whiting rocked back onto his heels. "Oh! Oh. The Slayer. We hadn't realized that you were still working with Rupert. I mistook-- Well. Forgive me. You would indeed know a warrior when you saw one."
 
-Whiting seemed genuinely apologetic. Buffy was mollified. 
+Whiting seemed genuinely apologetic. Buffy was mollified.
 
 Giles said, "Sorry to surprise you like this. I thought you knew. Buffy left the Council shortly after I did."
 
 Whiting shook his head and said, "We assumed that when the Council sacked you it retained the Slayer for itself. I'm frankly shocked they've allowed this."
 
-Buffy said, "It was up to me, not to them." 
+Buffy said, "It was up to me, not to them."
 
 She let some acid creep into her tone, maybe too much, because Giles almost stuttered as he said, "Miss Summers considers me to be her Watcher still."
 
@@ -557,15 +558,15 @@ Giles looked at Buffy before answering, which surprised her. She shrugged ever s
 
 Whiting nodded. "I'll come round to fetch you at about seven and we'll have a bit of dinner first. I know where you're staying."
 
-"Of course you do," Buffy said, under her breath. 
+"Of course you do," Buffy said, under her breath.
 
 "Best you enter the church on your own. Discretion." And he was off without another word, trotting away from them along the path.
 
-She turned to head back the way they'd come, but Giles beckoned her to follow Whiting. "Never walk around a church widdershins, Buffy," he said, solemnly. 
+She turned to head back the way they'd come, but Giles beckoned her to follow Whiting. "Never walk around a church widdershins, Buffy," he said, solemnly.
 
 "Widderwhat?"
 
-"The wrong way round," he said, twiddling a finger counterclockwise. "It's bad luck." He tilted his head and then she saw the smile on the corner of his mouth. They let Whiting get a good lead on them, then started walking. 
+"The wrong way round," he said, twiddling a finger counterclockwise. "It's bad luck." He tilted his head and then she saw the smile on the corner of his mouth. They let Whiting get a good lead on them, then started walking.
 
 "All this sneaking around," she said.
 
@@ -583,7 +584,7 @@ Giles's voice had gone serious and he looked uneasy, so Buffy gave in. If Traver
 
 A cluster of people were heading toward the front more slowly. They were grouped around a short older guy. Buffy saw first his white hair, then that he was in a wheelchair. It was a modern chair, lightweight, high-tech, with the wheels canted inward. The man seated in it didn't look as if he were about to play hoops, though. He was as well-dressed as the rest of them. He parked himself in a space alongside the row full of football players. Once he was settled, the funeral began, as if they'd been waiting for him.
 
-The funeral was nothing like any of the ones Buffy had been to, and she'd been to too many. She watched Giles and did what he did, stood with him, sat again when he did. It caught her by surprise when he slipped down to kneel on the little stool in front of their bench. Other people were too, she saw, mostly older ones. Giles's head wasn't down, though. Instead he was staring in the direction of the coffin. His eyebrows were together and he looked almost angry. Thinking hard about something, Buffy knew, turning something important over in that huge brain. What conclusions he'd reach he might or might not ever tell her. 
+The funeral was nothing like any of the ones Buffy had been to, and she'd been to too many. She watched Giles and did what he did, stood with him, sat again when he did. It caught her by surprise when he slipped down to kneel on the little stool in front of their bench. Other people were too, she saw, mostly older ones. Giles's head wasn't down, though. Instead he was staring in the direction of the coffin. His eyebrows were together and he looked almost angry. Thinking hard about something, Buffy knew, turning something important over in that huge brain. What conclusions he'd reach he might or might not ever tell her.
 
 Then she saw that he wasn't actually staring at the coffin. He was staring at a group of people at the far side of church, near the front. Buffy narrowed her eyes and took a good look at the row of well-tailored backs, and then she spotted him. Quentin Travers, the toad with a beard. Next to him was another old guy, taller than the QT. Flanking them was a pair of broad-shouldered thick-necked hunks of meat. Travers had his back to them, and if they were lucky, he wouldn't turn around.
 
@@ -591,13 +592,13 @@ She rolled her eyes at Giles. Giles half-smiled at her in response, then turned 
 
 Buffy let her eyes drift up, to the funny arched ceiling. The church itself was pretty old, way older than anything that existed in the US. At moments like this she wished she'd paid more attention in history class, but it was one of those subjects she'd never managed to be interested in, not even after she'd figured out that college could be good. For instance, she wanted to know about all those shields that were on every wall of the church, some high up in the air. They each had a colorful design on them that shone out bright in the dim light of the church. What were they supposed to mean?
 
-Eventually the service ended and the coffin was carried slowly out of the church by six of the burly men from the group in the front row. Resting on the coffin was, she saw, another one of those shields with a nearly-glowing design on it. Was it for the dead guy's family? She would ask Giles later. 
+Eventually the service ended and the coffin was carried slowly out of the church by six of the burly men from the group in the front row. Resting on the coffin was, she saw, another one of those shields with a nearly-glowing design on it. Was it for the dead guy's family? She would ask Giles later.
 
 She and Giles filed out to the churchyard at the very back of the crowd, dawdling even more to let them all get ahead. Buffy wasn't sure Travers had seen them, but she wouldn't bet against it. Giles offered her his arm. Buffy took it and allowed him to lead her away from the main crowd, away from the church and into the cemetery proper, with the procession pulling ahead of them. Had Giles ever offered her his arm before? It was a strange gesture, an intimate one in some ways but it let him keep his formal distance. Maybe he was trying to hint to her that he was interested. Maybe he was nervous. Maybe he was feeling extra-English. Maybe it was nothing. To experiment, she squeezed his arm a little bit. He responded by pressing her hand.
 
 They meandered away from the church and deeper into the maze of greenery. This was the sunny side of the church, away from the buildings and the trees. It was warm and bright and there were flowers blooming everywhere around the graves. Cemeteries were cheerful places in the sunlight. Or so she thought. Maybe she wasn't mainstream on this topic. She spent so much time in them that she had developed some pet theories about them. This one was nice. Old by Sunnydale standards, maybe a little overgrown and untended. The dates on the monuments were a hundred years back, a hundred and fifty. Victorian. There were no vampires in it that she could sense. No unquiet dead wandered here, just squirrels and birds and bugs. Bees blundering around among the flowers. And people, though there were none in sight. Not far away she could hear a man's voice speaking in the cadences of a ceremony. She couldn't make out the words but it had to be the funeral, reaching the last part, where they put the body into the ground.
 
-Giles came to a halt and perched himself against the back of a bench. He tugged at the knot of his tie then snugged it back up again. He was gazing at a marble monument of the gaudy kind she was familiar with from certain older Sunnydale graves. An upright sword was cut into the stone. Alongside it was a man's name. He'd died at age twenty-five in 1961. One of the knights, perhaps, cut down before he had a chance to have a life. He'd lived longer than the average Slayer. Buffy shivered. She'd had enough of meditating about death. Good things never happened when she let herself get all self-pitying and maudlin. 
+Giles came to a halt and perched himself against the back of a bench. He tugged at the knot of his tie then snugged it back up again. He was gazing at a marble monument of the gaudy kind she was familiar with from certain older Sunnydale graves. An upright sword was cut into the stone. Alongside it was a man's name. He'd died at age twenty-five in 1961. One of the knights, perhaps, cut down before he had a chance to have a life. He'd lived longer than the average Slayer. Buffy shivered. She'd had enough of meditating about death. Good things never happened when she let herself get all self-pitying and maudlin.
 
 "Nice ceremony," she said, and was surprised to realize that it had been. It had felt sincere, the right mix of pomp and people.
 
@@ -605,12 +606,12 @@ Giles came to a halt and perched himself against the back of a bench. He tugged 
 
 "Guessing those were the knights of Saint Jerry. Not to mention Mr Don't You Dare Attend, right up at the front. What's up with that?"
 
-Giles frowned. "The man with him was my uncle, here to see his son buried. He's always been a staunch Councilman. I wonder." He pinched the bridge of his nose for a moment, thinking, then shook his head. 
+Giles frowned. "The man with him was my uncle, here to see his son buried. He's always been a staunch Councilman. I wonder." He pinched the bridge of his nose for a moment, thinking, then shook his head.
 
-Politics. Family politics, Council politics, all the nonsense Giles had once told her about while attempting to explain what it had been like for him when he'd rejoined the Council after his breakdown. It hadn't been fun. It probably wouldn't have been fun even if he hadn't needed to prove himself to them constantly. Buffy had liked Travers even less after Giles had told her that story. 
+Politics. Family politics, Council politics, all the nonsense Giles had once told her about while attempting to explain what it had been like for him when he'd rejoined the Council after his breakdown. It hadn't been fun. It probably wouldn't have been fun even if he hadn't needed to prove himself to them constantly. Buffy had liked Travers even less after Giles had told her that story.
 
 Giles straightened suddenly. "You might yet get your wish," he said. He pointed past her with his chin. Buffy turned and Travers headed their way, the two goons behind him.
-    
+
 Buffy touched Giles's arm to reassure him. She took one step to the side to give herself enough room to move if she needed it. She could sense Giles shifting his own stance as well. She found herself flexing her left hand without realizing she was doing it. Feint with the left, block his counter with the right, and then kick to break his nose. That was assuming he could counter. Travers's rounded shoulders signaled desk jockey all the way.
 
 She grinned at Travers as he came closer, thinking about the crunch and how it would feel. That was the thing about the Slayer spirit. It totally enjoyed the violent solution to problems.
@@ -649,7 +650,7 @@ Travers chuckled dutifully. "In a manner of speaking. She is our charge. Our dut
 
 "Hello! Right here. In front of you. Slayer with opinion about her own life. And here's my opinion: you can bite me."
 
-Travers looked at her, blinked once, and turned to face Giles squarely. It was so very obviously a dismissal that anger burned her chest immediately. She ruthlessly tamped it down, as Giles had taught her, and looked for the threat beyond the taunt. Goons. Right. They were in motion and one of them looked like he was maneuvering behind Giles. 
+Travers looked at her, blinked once, and turned to face Giles squarely. It was so very obviously a dismissal that anger burned her chest immediately. She ruthlessly tamped it down, as Giles had taught her, and looked for the threat beyond the taunt. Goons. Right. They were in motion and one of them looked like he was maneuvering behind Giles.
 
 "Giles, step back," she said. He immediately obeyed. The goons froze in place.
 
@@ -693,7 +694,7 @@ Travers turned to the still-functional gorilla and muttered something. The man r
 
 "Very well. That was your last chance."
 
-And that was it. Travers turned tail and left. The three of them returned along the path back to the churchyard. Widdershins, Buffy noticed. She bent and picked up the knuckledusters where the meat-man had dropped them. Good quality, actual brass, nice and heavy. Worn smooth by use, or maybe by years sitting in somebody's pocket. Too big for her hand. She gave them to Giles, who examined them as carefully as she had and also tried them on. 
+And that was it. Travers turned tail and left. The three of them returned along the path back to the churchyard. Widdershins, Buffy noticed. She bent and picked up the knuckledusters where the meat-man had dropped them. Good quality, actual brass, nice and heavy. Worn smooth by use, or maybe by years sitting in somebody's pocket. Too big for her hand. She gave them to Giles, who examined them as carefully as she had and also tried them on.
 
 "You're wrong, you know," he said, examining his fist. "About these things and, er, bad guys."
 
@@ -739,7 +740,7 @@ They spoke the same language here, but they did things differently. Those shield
 
 Everything was so old. All those churches they looked at, older than everything in Sunnydale except the Spanish mission. The Order was pretty ancient too, as these things went. Like the Order of Taraka, though Giles had said that was thousands of years old, plural, while this one was only about a thousand years old, singular. Babies! Compared to the line of Slayers, definitely babies.
 
-Giles capped his pen and wrapped up his journal with its funky leather strap. Back into his suitcase it went, then he turned to her. "Whiting said he'd be by in an hour. I trust that will be enough time for you to dress." 
+Giles capped his pen and wrapped up his journal with its funky leather strap. Back into his suitcase it went, then he turned to her. "Whiting said he'd be by in an hour. I trust that will be enough time for you to dress."
 
 "What do I wear? Funeral clothes again? Dress to impress?"
 
@@ -763,13 +764,13 @@ Giles drove them in the little rental car. He followed Whiting's directions out 
 
 Whiting had Giles drive along a winding road until he reached a rambling stone house. Two stories, older than Victorian but not crazy old, and some parts were newer than that. Buffy didn't have much time to gawk at the suits of armor standing in the hallway, because Whiting was leading them into a dimly lit side room. The walls were hung with antique weapons and the furniture was the solid wood and leather kind Buffy'd seen in period films.
 
-The white-haired man in the wheelchair was there, holding a glass of something. There was an older man standing smoking by an empty fireplace. A few younger men, one of whom Buffy remembered seeing at the funeral, stood by an open window. The one she'd remembered popped out because of his hair, which was magnificent and long, as if Braveheart had been more into shampoo than blue body paint. It was a little odd seeing a man with that much hair in a gorgeous suit like that one. The cascade of hair was caught in a band at his thick neck. The guy was huge. He wasn't fat; those were muscles on his muscles. The guy he was talking to was a burly guy too, but he looked like a waif next to Braveheart. He was exactly the sort of man Buffy could imagine wearing real armor and riding one of those giant horses into a muddy, bloody battlefield, with a rippling banner on his lance. 
+The white-haired man in the wheelchair was there, holding a glass of something. There was an older man standing smoking by an empty fireplace. A few younger men, one of whom Buffy remembered seeing at the funeral, stood by an open window. The one she'd remembered popped out because of his hair, which was magnificent and long, as if Braveheart had been more into shampoo than blue body paint. It was a little odd seeing a man with that much hair in a gorgeous suit like that one. The cascade of hair was caught in a band at his thick neck. The guy was huge. He wasn't fat; those were muscles on his muscles. The guy he was talking to was a burly guy too, but he looked like a waif next to Braveheart. He was exactly the sort of man Buffy could imagine wearing real armor and riding one of those giant horses into a muddy, bloody battlefield, with a rippling banner on his lance.
 
-Buffy's nostrils flared. The inner Slayer liked that one. 
+Buffy's nostrils flared. The inner Slayer liked that one.
 
 The man in the wheelchair was Sir John Conway. Whiting introduced her first as the Slayer and then mentioned her name. Conway nodded to her. She wasn't sure what that meant. Giles he introduced as the candidate they'd come to meet, and Giles was immediately the center of attention. Buffy could see that he wasn't happy about that. He'd made himself shorter than he actually was, somehow. His shoulders were a little curled in. He was nervous and instead of responding by sticking his chin out he was hiding. Buffy wanted to help but had no idea how. She wasn't sure if helping was a good idea. He had to figure it out himself.
 
-Somebody offered her a drink, and Buffy shook her head. Giles accepted a glass of Scotch. He sniffed at it and said something appreciative, and there followed a bit of discussion of whisky, which Buffy ignored. 
+Somebody offered her a drink, and Buffy shook her head. Giles accepted a glass of Scotch. He sniffed at it and said something appreciative, and there followed a bit of discussion of whisky, which Buffy ignored.
 
 The upside of Giles being the center of attention and not her was that Buffy felt free to observe as much as she could without feeling rude. Seven men in the room. She was the only woman. Conway was the oldest person there, going by the white hair. He was in a wheelchair, yes, but he still had the athleticism of everybody associated with the Order she'd seen. He looked as if he could land a punch hard enough to knock her teeth out without needing to stand up. There was something about him that said he'd done some punching in his time and was willing to do it some more. The jaw, maybe. He had one that could rival Giles's, which had always ranked as the stoniest cliff of a jaw she'd ever seen.
 
@@ -797,11 +798,11 @@ Buffy saw Giles's knuckles whiten where he gripped the arm of his chair. He was 
 
 "I suspect that you can guess what we are. We train our men and women, we induct the worthy candidates into our number by granting them the dub, and then we send them out into the world to fight evil as they see fit. When they need aid, those of us who wish to aid go. We are all knights-errant."
 
-Buffy wasn't sure what that was, other than a general adventuring sort of guy with a sword and a giant horse. She had a vague memory of *The Boy's King Arthur* and a painting of Lancelot with his armor chopped up pretty unrealistically. But Giles seemed to get him exactly, and to be pleased by the term. 
+Buffy wasn't sure what that was, other than a general adventuring sort of guy with a sword and a giant horse. She had a vague memory of *The Boy's King Arthur* and a painting of Lancelot with his armor chopped up pretty unrealistically. But Giles seemed to get him exactly, and to be pleased by the term.
 
 "We have changed little in our means and even less in our motive. In this we resemble the Slayer." Finally Conway turned to her and seemed to acknowledge her presence in the room. "She fights with little more than a wooden stake, if I understand it correctly."
 
-"Usually," Buffy said. "I've tried to go high-tech but it didn't work out." Bullets worked against demons only sometimes, and against vampires never. The simple, timeless weapons were the ones Buffy used. Stakes. Swords. Flames. 
+"Usually," Buffy said. "I've tried to go high-tech but it didn't work out." Bullets worked against demons only sometimes, and against vampires never. The simple, timeless weapons were the ones Buffy used. Stakes. Swords. Flames.
 
 "So we have found as well. When one goes to slay a dragon, bring a sword and shield."
 
@@ -833,7 +834,7 @@ Conway's indifference seemed to annoy Giles for some reason. He had his jaw set 
 
 Whiting spoke up. "The Slayer does not need the sort of assistance the saint offers. She already has her own power, if I understand the myths. She is bound to a different Power. As you know."
 
-Like hell she knew that. How did Whiting know something about herself that she didn't? And why did he sound a little snippy? Buffy shot a glare at Giles, who glared right back. Another one of those things she was supposed to have learned from the Slayer handbook, then. She'd make him tell her later. If she cared enough. What mattered was her relationship with the Slayer spirit inside, not with any of this other crap. Besides, Giles would have told her already if it had mattered, in one of those intense Slayer training sessions they'd had recently. 
+Like hell she knew that. How did Whiting know something about herself that she didn't? And why did he sound a little snippy? Buffy shot a glare at Giles, who glared right back. Another one of those things she was supposed to have learned from the Slayer handbook, then. She'd make him tell her later. If she cared enough. What mattered was her relationship with the Slayer spirit inside, not with any of this other crap. Besides, Giles would have told her already if it had mattered, in one of those intense Slayer training sessions they'd had recently.
 
 Giles subsided back into his chair. He picked up his tumbler and hid his face behind it for a second. He set it back down and glanced over at Buffy. She wrinkled her nose at him, trying to make him smile. He didn't bite, however.
 
@@ -855,7 +856,7 @@ Giles caught her glance briefly. He'd once told her that the Council had dozens 
 
 "Would I be among your support staff?"
 
-"You would take the dub as one of our knights or not join us at all." That was as blunt as it got. 
+"You would take the dub as one of our knights or not join us at all." That was as blunt as it got.
 
 "What obligations would you lay upon me?"
 
@@ -897,7 +898,7 @@ Mr Braveheart was out of his chair again. "We don't give a ruddy damn about book
 
 "Such a pity." Giles had been stammery to start with, but his retort was all sharp around the edges.
 
-"Eric? Perhaps you'd care to explain. Politely, if you are able." 
+"Eric? Perhaps you'd care to explain. Politely, if you are able."
 
 Dust-dry sarcasm in turn, and was that the ghost of a smile Buffy could see on Conway's face? The Braveheart-hair guy didn't seem fazed by it. He stepped into the middle of the circle. Buffy looked him over from shoes to the top of that shaggy head and just barely refrained from licking her lips. He said, "We need warriors, not librarians. You don't look like much. Can you fight?"
 
@@ -907,7 +908,7 @@ Giles pushed his glasses further up on his nose. "I like to know what I'm fighti
 
 "Neither do I," Giles said, and his voice had gone quiet in the scary way.
 
-"He'll be tested with weapons, Eric. We shan't skimp on it." Conway turned to Giles and said, "You will forgive the nuisance, but we had trouble with the last adult candidate we dealt with." 
+"He'll be tested with weapons, Eric. We shan't skimp on it." Conway turned to Giles and said, "You will forgive the nuisance, but we had trouble with the last adult candidate we dealt with."
 
 Conway didn't say any more, though Buffy was dying of curiosity. More than one Council refugee? Wesley had been fired too, but he'd ended up on Angel's team. Somebody else, then. Mr Hair nodded as if satisfied, then turned to look at Whiting. Everybody was looking at Whiting, in fact, waiting for something they knew to expect.
 
@@ -957,7 +958,7 @@ Giles said, "This is acceptable."
 
 Her page? What page? Buffy grimaced at him, because she couldn't manage to think of anything polite to say that wasn't also sarcastic. They all stood, except Conway who could not. Giles gave him an odd little half-bow. Whiting headed to the door, and they followed him out into the hallway. The door clicked shut behind them. Buffy let out a long breath. It had been oddly stuffy in there despite the open window.
 
-"That went better than I expected," Whiting said to Giles, quietly. 
+"That went better than I expected," Whiting said to Giles, quietly.
 
 "Did it?"
 
@@ -971,11 +972,11 @@ Buffy spoke up. "His opinion rules? I thought Saint George was the decider there
 
 Whiting waved a hand as if to say "whatever." Buffy was seriously confused by this guy. His attitude toward her was one of cool respect, like he'd prefer her to be on the other side of the world fighting vampires and not over here. She also couldn't tell if he liked Giles or not. That morning he'd seemed to be Giles's biggest ally but just now he'd played hard-ass.
 
-"Young Ellen is here to take care of you, I see. I leave you in her capable hands." 
+"Young Ellen is here to take care of you, I see. I leave you in her capable hands."
 
 And with that Whiting was gone, vanished back into the room they'd come from. Buffy turned to look for the person he'd mentioned. There were two teenagers standing in the hallway, dressed in some kind of dark uniform, a dark boy and a girl with red hair. The girl was built about the way the field hockey players at Sunnydale High had been. The boy next to her looked like he played football, though probably he didn't. If what she'd just learned was right, these two kids were in training to be demon-hunters, and their sport was sword-fighting. They were maybe sixteen at most, about the age she'd been when she'd started. The girl straightened up and came toward them as they approached. Giles raised an eyebrow.
 
-"Ma'am, sir. My name is Ellen. I'm assigned to you during your stay." She ducked her head to Buffy awkwardly. The boy hovered against the wall and didn't introduce himself. 
+"Ma'am, sir. My name is Ellen. I'm assigned to you during your stay." She ducked her head to Buffy awkwardly. The boy hovered against the wall and didn't introduce himself.
 
 "Hi, Ellen," Buffy said. "I'm Buffy."
 
@@ -991,21 +992,21 @@ Giles cleared his throat. "I'm afraid we'll need to return to town to our inn fo
 
 "Settled, sir. We have an arrangement with that inn."
 
-"Carry on, then." That appeared to have been what Giles was annoyed about, because he relaxed in a way Buffy couldn't, really, knowing that somebody else had packed her makeup bag for her. Ellen the page girl and that page boy over there loitering against the wall, packing her makeup. She imagined the guy with an actual pageboy haircut and had to cover her mouth to keep herself from laughing out loud. 
+"Carry on, then." That appeared to have been what Giles was annoyed about, because he relaxed in a way Buffy couldn't, really, knowing that somebody else had packed her makeup bag for her. Ellen the page girl and that page boy over there loitering against the wall, packing her makeup. She imagined the guy with an actual pageboy haircut and had to cover her mouth to keep herself from laughing out loud.
 
 The kid with the perfectly normal haircut vanished back into the hallway somewhere without ever having spoken. Ellen scurried off to hold open the big doors for them.
 
-They followed Ellen across the grounds in twilight. There were several buildings separated from each other by broad green lawns, linked by a wandering gravel lane. The buildings looked like the older buildings on her college campus in some ways. No, they looked like what her campus buildings were imitating. Gorgeous and stately in the midsummer twilight, vine-covered, peaceful. Beyond them Buffy could see fields and past that, trees. 
+They followed Ellen across the grounds in twilight. There were several buildings separated from each other by broad green lawns, linked by a wandering gravel lane. The buildings looked like the older buildings on her college campus in some ways. No, they looked like what her campus buildings were imitating. Gorgeous and stately in the midsummer twilight, vine-covered, peaceful. Beyond them Buffy could see fields and past that, trees.
 
 The page led them up broad shallow steps to the doorway of something she said was the knight's dormitory. Buffy was fearing a dreary college dorm like the one she'd been in the last year, cheap carpet and cheaper paint job, furniture that fell apart if you jumped on it, but this place looked more like a nice hotel, the old-fashioned kind. Inside was a staircase covered in carpet that switchbacked up to a hallway that ran the length of the house, with numbered doors along it. Somewhere in the middle Ellen stopped.
 
-"This is Miss Summers's room. Mr Giles is next door. I'll be by in the morning with breakfast." She unlocked the door and opened it for her, then handed the key to her. She bowed and turned away. Giles shrugged at Buffy then followed. 
+"This is Miss Summers's room. Mr Giles is next door. I'll be by in the morning with breakfast." She unlocked the door and opened it for her, then handed the key to her. She bowed and turned away. Giles shrugged at Buffy then followed.
 
 The room they'd given her reminded her of her dorm room, sort of, only it was larger and had much better furniture. It looked more like a place where an adult lived, if that adult needed a walk-in closet with a gun rack in it. And beside the gun rack was something that looked a lot like the rack where Giles hung all the bladed weapons. Empty, unfortunately, and she had nothing to put into it. Buffy hadn't taken much with her in her bags, out of a general fear that some customs official inspecting her luggage might get the wrong idea about pointy objects.
 
 That luggage sat unopened on the end of the bed. Buffy stared at it a second, then went to the side door. The knob turned easily under her hand. She opened it onto a little corridor with a bathroom to one side and a door at the other end. She peeked in at the bathroom: nice deep old-fashioned tub, solid medical kit under the sink. Then she went through the far door and was surprised to find a second bedroom, smaller than hers. Giles stood in the middle of it with his hands on his hips.
 
-Buffy said, "Huh. Our rooms are joined." 
+Buffy said, "Huh. Our rooms are joined."
 
 Giles rolled his eyes at her. He opened his suitcase on the bed and poked at something inside. Buffy checked out the room he'd been given. His bed was a narrow iron cot tucked against the wall between her room and his. There was a writing desk underneath the two broad windows. The furniture was plain wood, obviously nice stuff but spare. The windows made it light and airy, but it was definitely second class compared to hers, like they were making a point of reminding him he was her squire. Or maybe it was just a room where he wasn't expected to spend any time.
 
@@ -1015,7 +1016,7 @@ Giles rolled his eyes at her. He opened his suitcase on the bed and poked at som
 
 A squire's room, then. "My room is much nicer than yours. Come see."
 
-Her windows were doors that opened onto a little balcony covered with flowers growing from heavy red pots. And she had a double bed with high posts, very old-fashioned, not huge but plenty of room for two. She hoped that she'd be able to coax Giles into sharing it with her. 
+Her windows were doors that opened onto a little balcony covered with flowers growing from heavy red pots. And she had a double bed with high posts, very old-fashioned, not huge but plenty of room for two. She hoped that she'd be able to coax Giles into sharing it with her.
 
 Giles opened the windows and stepped out onto the balcony. Buffy followed.
 
@@ -1023,11 +1024,11 @@ It was midsummer, near the solstice. The sky was still light off to one side, bu
 
 What else was here? She closed her eyes and drew on that Slayer within, tapped into her deeper senses, reached out into the night air. When she opened her eyes again, she found Giles watching her closely.
 
-"Anything?" 
+"Anything?"
 
 Buffy shook her head. "No vamps for miles and miles and miles."
 
-The sound of horse and rider grew louder. Buffy looked for it and saw the rider approaching along the lane. First she saw the white star on the horse's forehead, then she saw that the rider was a woman. And that she was carrying a long spear in her right hand, a spear with a little flag on the end. It didn't look like lances as shown in those *Boy's King Arthur* illustrations, but that had to be what it was. The horse was trotting and the pennon on the end fluttered as the lance rose and fell. The pair went past the balcony and the horse snorted and shied. The woman said something to it that Buffy couldn't catch. Then they were past, heading away from the cluster of buildings and toward the stubby remains of the castle. 
+The sound of horse and rider grew louder. Buffy looked for it and saw the rider approaching along the lane. First she saw the white star on the horse's forehead, then she saw that the rider was a woman. And that she was carrying a long spear in her right hand, a spear with a little flag on the end. It didn't look like lances as shown in those *Boy's King Arthur* illustrations, but that had to be what it was. The horse was trotting and the pennon on the end fluttered as the lance rose and fell. The pair went past the balcony and the horse snorted and shied. The woman said something to it that Buffy couldn't catch. Then they were past, heading away from the cluster of buildings and toward the stubby remains of the castle.
 
 "This is quite the place," she said.
 
@@ -1107,11 +1108,11 @@ He was silent again for some time. "It's different for me, but I think, I believ
 
 "Not if I can help it."
 
-He seized her and pulled her into a rough embrace. Before she could react to that he was kissing her. His eyes were closed, and he'd tangled his fingers in her hair. Buffy closed her own eyes and let him hold her. Her body was responding to him so fast that she was almost weak at the knees. She laid her hands on his chest and leaned against him. His hand slid down to her waist and pressed her close. 
+He seized her and pulled her into a rough embrace. Before she could react to that he was kissing her. His eyes were closed, and he'd tangled his fingers in her hair. Buffy closed her own eyes and let him hold her. Her body was responding to him so fast that she was almost weak at the knees. She laid her hands on his chest and leaned against him. His hand slid down to her waist and pressed her close.
 
 All she could think was, at last. At last.
 
-Then Giles let go and stepped back. 
+Then Giles let go and stepped back.
 
 "Forgive me," he said. Buffy's impulse was to pout and protest, but she held onto the urge and instead simply looked her question at him. "I, this is too much for me."
 
@@ -1123,9 +1124,9 @@ Buffy made her way back into the room slowly. She left the balcony doors open be
 
 ***
 
-The time change had reached the stage of screwing Buffy up entirely. She woke when the birds started their morning conversation outside her open balcony doors. She listened to them for some time while the sky lightened, then gave up and rolled out of bed. She found Giles in the bathroom already, already showered, shaving. He did not shy away from her. He met her gaze directly and colored but returned her brief hug without hesitation. 
+The time change had reached the stage of screwing Buffy up entirely. She woke when the birds started their morning conversation outside her open balcony doors. She listened to them for some time while the sky lightened, then gave up and rolled out of bed. She found Giles in the bathroom already, already showered, shaving. He did not shy away from her. He met her gaze directly and colored but returned her brief hug without hesitation.
 
-She couldn't figure out what was going on in that giant head of his. A lot, as usual, and it was a little maddening to realize that she couldn't know. Not until he told her, and that was assuming he had a clue. He might take a long time to deal with whatever he was feeling and she was losing patience. But would pushing him get her what she wanted? Pushing him right now might be stupid. Honor what her inner Slayer wanted, sure, but she didn't need to pay attention to how it told her to get it. She pondered this while showering but reached no conclusion. 
+She couldn't figure out what was going on in that giant head of his. A lot, as usual, and it was a little maddening to realize that she couldn't know. Not until he told her, and that was assuming he had a clue. He might take a long time to deal with whatever he was feeling and she was losing patience. But would pushing him get her what she wanted? Pushing him right now might be stupid. Honor what her inner Slayer wanted, sure, but she didn't need to pay attention to how it told her to get it. She pondered this while showering but reached no conclusion.
 
 Ellen showed up at eight sharp and seemed surprised to find them both awake and dressed. She had a tray with plates of breakfast food for all three of them, and it was what Buffy called real food. She dumped half the yogurt over the granola and dug in. Giles fussed over the tea.
 
@@ -1147,7 +1148,7 @@ Ellen ticked it off on her fingers: Keep their knight's arms in good condition, 
 
 That was as near a description of what Watchers did as any she'd heard, minus the research and translation side. Well, and the Watcher was supposed to be a better technical fighter than she was, so he could train her. Giles still had a technique advantage, though she'd always been able to overpower it.
 
-Ellen cleared away the breakfast dishes and vanished with them off somewhere. When she came back, she had Whiting behind her, striding in as if he owned the room. He had circles under his eyes and looked more or less like hell, but he seemed to be in a good mood. 
+Ellen cleared away the breakfast dishes and vanished with them off somewhere. When she came back, she had Whiting behind her, striding in as if he owned the room. He had circles under his eyes and looked more or less like hell, but he seemed to be in a good mood.
 
 "Ellen taking care of you? Good, good. Has she boasted of her shooting yet? She was training for the biathlon before she came to us."
 
@@ -1169,7 +1170,7 @@ Unless he wanted to give her up. That thought gave her a pang, then she remember
 
 Whiting said, "Ellen will be looking for a knight to squire for soon enough, won't you? About a year from now."
 
-"I'm sure you'll find somebody, with those skills," Giles said, politely. 
+"I'm sure you'll find somebody, with those skills," Giles said, politely.
 
 Whiting rubbed his nose. Buffy got the impression Giles hadn't answered properly. He said nothing about it, but merely stood and said, "Shall we tour the grounds? Do let me show us off."
 
@@ -1189,13 +1190,13 @@ The morning was bright and sunny, as it had been yesterday. There were little fl
 
 "Civil War. The Order were Royalist."
 
-Giles said, "The Council were Roundheads." 
+Giles said, "The Council were Roundheads."
 
 This seemed to amuse the two of them. Buffy could tell Giles was curious about the castle fragment, but Whiting led them away from the entry road and toward a little cluster of buildings beside an open field with soccer goals at either end.
 
-"Athletic facilities. Rather important to us." 
+"Athletic facilities. Rather important to us."
 
-Whiting led them inside the nearest building, which turned out to be a gym. It made Buffy's fingers twitch with longing. It was small, but it had all the equipment a Slayer could want: gymnastics equipment, bars and rings, free weights, and a three-story climbing wall constructed like the side of a stone building. Some of the equipment looked new and some looked old, but it was all in good condition. There were a few people in the gym working out. They mostly ignored the little tour group passing through, though some of them took second looks at Giles. There was a man hanging on a bar, pulling himself up to touch chest to bar over and over. He had a big colorful plastic brace on his foot and a crutch lay on the floor beneath him, but it wasn't slowing down his pull-ups at all. 
+Whiting led them inside the nearest building, which turned out to be a gym. It made Buffy's fingers twitch with longing. It was small, but it had all the equipment a Slayer could want: gymnastics equipment, bars and rings, free weights, and a three-story climbing wall constructed like the side of a stone building. Some of the equipment looked new and some looked old, but it was all in good condition. There were a few people in the gym working out. They mostly ignored the little tour group passing through, though some of them took second looks at Giles. There was a man hanging on a bar, pulling himself up to touch chest to bar over and over. He had a big colorful plastic brace on his foot and a crutch lay on the floor beneath him, but it wasn't slowing down his pull-ups at all.
 
 Injuries. She remembered when the vampire Sunday had broken her wrist. A day later she was punching with that hand again with no fears. It wasn't so easy for the knights.
 
@@ -1225,7 +1226,7 @@ Giles reached out and hovered his hand over the nearest. He felt it too, then. S
 
 Next door to the smithy was the armory, where all the toys were kept. Buffy was amused to see that all four of them were excited to see all that sharp metal hanging in racks, all those wonderful ways of skewering demons ready to be used. Deadly. No Hollywood weapons, these, just clean blades, beautiful in their simplicity. Her senses gave her no eerie signals in here; they were just metal swords. Giles hovered before a particularly amazing sword, a bastard sword with a two-handed grip. It was as long as Buffy was tall. Giles would be able to wield it, though.
 
-"You like the two-handers?" somebody said. Buffy turned. The questioner was a man in a leather apron and gloves, coming toward them from behind the racks. A pair of safety googles hung around his neck. He wore an eyepatch and there was scarring on his face below the patch. Buffy wasn't sure what from, but it looked as if it had gone deep. 
+"You like the two-handers?" somebody said. Buffy turned. The questioner was a man in a leather apron and gloves, coming toward them from behind the racks. A pair of safety googles hung around his neck. He wore an eyepatch and there was scarring on his face below the patch. Buffy wasn't sure what from, but it looked as if it had gone deep.
 
 He nodded to Whiting. "This the fellow?"
 
@@ -1241,7 +1242,7 @@ Whiting clapped a hand on Giles's shoulder. "Here's where I betray you, old boy.
 
 Giles stopped in his tracks. "What on earth?"
 
-"It's time. Your first trial is now. The examiner's waiting." 
+"It's time. Your first trial is now. The examiner's waiting."
 
 Buffy stood down from the alert, but she shared the grievance in Giles's voice. He said, "You might have warned me."
 
@@ -1281,7 +1282,7 @@ Giles straightened himself. "Right," he said. He stood and held the crossbow in 
 
 "Take your time," the examiner said. He held a stopwatch up and pressed the button at the top.
 
-Giles turned and lifted the crossbow to his shoulder. His thumb nudged the safety off. Buffy watched him breathe out, then the crossbow released. The shot was good but not in the center of the target. Giles paused to readjust the sight. His next shot was better. He took his time about the shots, in a way they never could when they were fighting for real. Even so, she could tell he was nervous. Ellen ran down the range, retrieved the target paper, and handed it to the examiner. He looked even more nervous after the examiner made a grumpy sound, wrote something down, and said nothing. 
+Giles turned and lifted the crossbow to his shoulder. His thumb nudged the safety off. Buffy watched him breathe out, then the crossbow released. The shot was good but not in the center of the target. Giles paused to readjust the sight. His next shot was better. He took his time about the shots, in a way they never could when they were fighting for real. Even so, she could tell he was nervous. Ellen ran down the range, retrieved the target paper, and handed it to the examiner. He looked even more nervous after the examiner made a grumpy sound, wrote something down, and said nothing.
 
 Ellen brought over the next weapon and handed it to Giles. Buffy recognized this one: it was an air rifle, the same model Giles owned. Buffy had learned to shoot with that rifle, with Giles leaning over her adjusting her stance. Once she'd learned how it worked it was easy. The Slayer hand-eye coordination was a scary thing. Giles was good at this, she knew, and she watched him group five darts around and inside the heart of the demon-shaped target, no fuss no muss. He was calmer now than he'd been during the crossbow test.
 
@@ -1291,9 +1292,9 @@ Giles's body language was confident for the first time that day. He removed the 
 
 "Have you competed in this sport?" the examiner asked. The target was in his hands.
 
-"Yes," Giles said, but he didn't offer any details. 
+"Yes," Giles said, but he didn't offer any details.
 
-He did nearly as well with the handgun test that followed. 
+He did nearly as well with the handgun test that followed.
 
 Conway and the examiner were conversing about something. Giles was watching them and she could see the nerves starting to creep out again. She went and stood next to him and nudged him with her shoulder.
 
@@ -1327,15 +1328,15 @@ He cast a glance sideways at Buffy and said, "To some extent, yes. The basics ar
 
 "Wetworks," Conway said. "You were an assassin."
 
-"Briefly." 
+"Briefly."
 
-That was news to Buffy. Giles offered no further details and Conway didn't seem to want to pump him, which surprised her. She would be pumping him if she could. She would be pumping him later, no doubt about that. 
+That was news to Buffy. Giles offered no further details and Conway didn't seem to want to pump him, which surprised her. She would be pumping him if she could. She would be pumping him later, no doubt about that.
 
 Conway had already dropped the topic, it seemed. He was saying, "It is traditional for our squires to participate in tournaments. They spar with each other, with their equals. Our knights do so as well. One of our knights has requested that you participate in this tradition."
 
 "Ah. I should be delighted." Giles sounded wary, not delighted, but Buffy couldn't blame him. This was just more of Conway putting him on the spot, no warning, boom, perform. "Is this a group tournament, or?"
 
-"It is a personal challenge to single combat. Five minute rounds until one of you is no longer able to continue. There are usually stakes to be won, but not in this case." 
+"It is a personal challenge to single combat. Five minute rounds until one of you is no longer able to continue. There are usually stakes to be won, but not in this case."
 
 "Why not?"
 
@@ -1345,7 +1346,7 @@ Giles's head shot up and he stared at Conway. It was just short of an outright g
 
 Conway merely smiled. "Eric Twombly has asked for the honor of combat with you. Eric won the prize at last year's games."
 
-Eric. Buffy remembered that name from last night. And yes, it was Mr Braveheart, the man with the hair. Buffy needed to write a Homeric epithet for that guy and his hair. Homer would have dug him, would have written all about his epic battle with a myriad Trojans. Buffy sort of dug him, or at least what she had been able to see of his delts and lats under his coat. He was, however, the guy who'd objected to Giles's language skills, and that made him officially unsexy. Because brains were sexy, as were any skills Giles employed in her defense and preparation. But unsexy didn't matter and neither did that Homeric hair. What mattered were the muscles. Even if he weren't supernaturally juiced, he'd have been capable of dismantling Giles twice before breakfast. She wondered how many demons he'd killed. Probably more than Riley and his entire squad had ever dreamed of. 
+Eric. Buffy remembered that name from last night. And yes, it was Mr Braveheart, the man with the hair. Buffy needed to write a Homeric epithet for that guy and his hair. Homer would have dug him, would have written all about his epic battle with a myriad Trojans. Buffy sort of dug him, or at least what she had been able to see of his delts and lats under his coat. He was, however, the guy who'd objected to Giles's language skills, and that made him officially unsexy. Because brains were sexy, as were any skills Giles employed in her defense and preparation. But unsexy didn't matter and neither did that Homeric hair. What mattered were the muscles. Even if he weren't supernaturally juiced, he'd have been capable of dismantling Giles twice before breakfast. She wondered how many demons he'd killed. Probably more than Riley and his entire squad had ever dreamed of.
 
 Not as many as she had.
 
@@ -1355,7 +1356,7 @@ Conway said, blandly, "You may request another opponent if you wish. We could co
 
 "I wouldn't dream of asking for special treatment," Giles said. His chin was still stuck out in a way that Buffy knew meant he wouldn't be giving in until knocked out, and maybe not even then.
 
-"Excellent," Conway said, and he sounded pleased. Buffy gave him a sharp look. "Three o'clock in the sparring pit. Your page will give you what you need." 
+"Excellent," Conway said, and he sounded pleased. Buffy gave him a sharp look. "Three o'clock in the sparring pit. Your page will give you what you need."
 
 He turned and spun himself off without another word. Buffy glared at the vanishing backs of his retinue but contained her urge to say bad things to them. She didn't want to bring Giles down. Now that he didn't have to put on a brave face for the onlookers, the chin came in and his shoulders slumped. He was looking a little nervy. Buffy was sympathetic. Pre-battle jitters were a thing she knew.
 
@@ -1363,7 +1364,7 @@ He turned and spun himself off without another word. Buffy glared at the vanishi
 
 Shortly after two, Buffy and her page rousted Giles out and led him to the sparring pit. "Pit" was the right word for it, Buffy decided as she looked down into it. It was a ten-foot deep hole in the ground, maybe fifty feet in diameter. Old-fashioned wooden bleachers loomed around it on three sides. It wasn't a crude hole, though. The walls were padded with something plastic and tough that had been patched more than once with black tape. The floor was plain dirt, though, nothing fancy there. Good footing, she decided. The only way you'd get hurt in here was from being smacked by your opponent. There were two padded wooden doors on opposite sides of the pit. Each doorway opened onto a short narrow passage leading to a arming room that looked like a tiny gym locker room more than anything else. Unlike any gym she'd been in, though, its walls were stone and the windows were mere slits at ground level. She saw that the light fixtures were powered by cables run along the walls held in place with metal brackets. This place was old, maybe nearly as old as the castle fragment. No wonder it felt primitive. It was.
 
-The weapon racks weren't primitive, though. They were modern and they held a completely modern selection of sparring weapons. Buffy made a beeline for the nearest. Lances, swords, bo staves, polearms. The full array of demon-fighting weaponry in neutered form for practice, just like Giles had at home. She lifted out the plastic and foam broadsword and ran her hands all over it. She wondered where they'd bought this, or if they had them made. It was nicer than the ones Giles had, though the edges of the blade were battered from heavy use. It weighed maybe three pounds. Buffy knew from experience that getting hit by it would hurt. Weight didn't matter as much as how hard and fast your opponent could swing it. This one had nice pop and the right amount of flex. It also made a hugely satisfying smack when she hit the bench with it. 
+The weapon racks weren't primitive, though. They were modern and they held a completely modern selection of sparring weapons. Buffy made a beeline for the nearest. Lances, swords, bo staves, polearms. The full array of demon-fighting weaponry in neutered form for practice, just like Giles had at home. She lifted out the plastic and foam broadsword and ran her hands all over it. She wondered where they'd bought this, or if they had them made. It was nicer than the ones Giles had, though the edges of the blade were battered from heavy use. It weighed maybe three pounds. Buffy knew from experience that getting hit by it would hurt. Weight didn't matter as much as how hard and fast your opponent could swing it. This one had nice pop and the right amount of flex. It also made a hugely satisfying smack when she hit the bench with it.
 
 "That's the weapon for the match today," Ellen told her. She took the sword from her and laid it out on the bench. She turned to Giles and said, "Sir, you need to change into your sparring clothing now."
 
@@ -1401,7 +1402,7 @@ Buffy wasn't wearing much jewelry, just some silver rings and the usual stuff in
 
 "Fight club time," she said.
 
-Ellen led them along the passage to the pit. She opened the door but did not head through. Buffy saw people in the bleachers, more than she might have expected. Maybe twenty, thirty people, more than had been at the funeral. She looked for the wheelchair and the white hair but didn't spot it. Then she saw what Giles was looking at: Twombly, standing in the doorway opposite, also armed and ready. He seemed almost larger than the door, with shoulders wide enough to brush both sides. 
+Ellen led them along the passage to the pit. She opened the door but did not head through. Buffy saw people in the bleachers, more than she might have expected. Maybe twenty, thirty people, more than had been at the funeral. She looked for the wheelchair and the white hair but didn't spot it. Then she saw what Giles was looking at: Twombly, standing in the doorway opposite, also armed and ready. He seemed almost larger than the door, with shoulders wide enough to brush both sides.
 
 Buffy said, "What do you think?"
 
@@ -1427,13 +1428,13 @@ That was the moment he started fighting for real, she decided afterward, because
 
 A bell rang somewhere and Twombly froze. Giles took an uncertain step forward, then the men's pages were in the pit, pulling them to the sides and off their feet. Buffy leapt down to the dirt and to Giles's side.
 
-"Fabulous fighter," Giles said. He was breathing hard. He flexed his sword hand and rubbed at his forearm. Ellen stuck a water bottle nozzle into his mouth and squirted water into it. Buffy took the water bottle away from the kid. She gave Giles another mouthful, which he swished around and spat onto the ground. 
+"Fabulous fighter," Giles said. He was breathing hard. He flexed his sword hand and rubbed at his forearm. Ellen stuck a water bottle nozzle into his mouth and squirted water into it. Buffy took the water bottle away from the kid. She gave Giles another mouthful, which he swished around and spat onto the ground.
 
 Ellen toweled sweat off Giles's neck and face. Buffy wasn't sure what to do. Rub his shoulders? Pep-talk him?
 
 "Hold out another five minutes," she said. "Survival."
 
-"Easier said than done." 
+"Easier said than done."
 
 So much for pep. She fell back to the shoulder-rub plan. Sixty seconds of rest wasn't nearly enough time. Mouthguard back in, sword back into his hand, up on his feet again, and Ellen was vanishing into the tunnel with the stool and the water bottle. Buffy followed reluctantly, to join her perched atop the little wooden door.
 
@@ -1463,7 +1464,7 @@ Buffy unbuckled his armguards and threw them aside. Out of the corner of her eye
 
 His nose was bleeding. And there was a weal across his upper arm, right about where his elbow guards would have ended. It was wet with blood. "Your arm," she said.
 
-"Really?" 
+"Really?"
 
 Giles looked down at his arm in surprise. Couldn't tell what was hurting and what wasn't, she guessed. She'd been like that after particularly nasty fights sometimes. Adrenaline, Giles would explain, usually while shoving her down so he could bandage her up. She shoved him down to the ground-- sauce for the gander-- and beckoned the page back.
 
@@ -1475,9 +1476,9 @@ Ellen took one look at the blood and ran out. She returned very shortly with a g
 
 "I'll be the judge of that."
 
-But Giles held his arm out to the medic to be swabbed clean obediently enough. His breathing had gone back to normal already. He really was fitter than Buffy had realized. She always beat him up so easily in training that it was hard sometimes for her to think of him as in shape or strong. But she had to think about normal human levels of ability here. 
+But Giles held his arm out to the medic to be swabbed clean obediently enough. His breathing had gone back to normal already. He really was fitter than Buffy had realized. She always beat him up so easily in training that it was hard sometimes for her to think of him as in shape or strong. But she had to think about normal human levels of ability here.
 
-The medic taped some gauze into place. He was done and packing up already. Buffy went to check his work, because she wasn't trusting anybody else with her guy. Giles nudged her aside, however, and struggled to his feet. Buffy was about to complain and shove him back down again, but then she saw that Conway was approaching down the narrow hallway. Not just Conway, but his whole entourage, including the guy with the clipboard. He had the thing tucked under his arm for once, no pencil in evidence, though he had the same cool detached look of indifference he'd maintained all day. Buffy stepped to the side to watch. It was, as before, Giles's show. 
+The medic taped some gauze into place. He was done and packing up already. Buffy went to check his work, because she wasn't trusting anybody else with her guy. Giles nudged her aside, however, and struggled to his feet. Buffy was about to complain and shove him back down again, but then she saw that Conway was approaching down the narrow hallway. Not just Conway, but his whole entourage, including the guy with the clipboard. He had the thing tucked under his arm for once, no pencil in evidence, though he had the same cool detached look of indifference he'd maintained all day. Buffy stepped to the side to watch. It was, as before, Giles's show.
 
 As usual, Conway wasted no time on courtesies. He said, without preamble, "I congratulate you, Mr Giles. You acquitted yourself well."
 
@@ -1485,7 +1486,7 @@ Giles inclined his head. "Thank you."
 
 "You have the physical skills we require. We had some worries on this point, as you know, since not all of the Council-trained candidates we've seen have been so well-prepared."
 
-Buffy glanced over at Giles after that bombshell, but he wasn't looking her way. His attention was completely on Conway. 
+Buffy glanced over at Giles after that bombshell, but he wasn't looking her way. His attention was completely on Conway.
 
 "I trust your injury is minor."
 
@@ -1509,13 +1510,13 @@ Conway continued staring at him without saying anything. Giles looked down at hi
 
 "We might, however, wish to know that our newest candidate is the sort of man who would choose to mark himself as a demon's vessel."
 
-Conway leveled a glare at Giles that was megawatt intensity, the sort of glare Giles used to aim at her when she was slacking off. Now was the time to say something in his own defense. But Giles said nothing. Buffy opened her mouth to say it herself: he'd just been a kid when he'd done it, but then she shut it. It was his business, not hers. 
+Conway leveled a glare at Giles that was megawatt intensity, the sort of glare Giles used to aim at her when she was slacking off. Now was the time to say something in his own defense. But Giles said nothing. Buffy opened her mouth to say it herself: he'd just been a kid when he'd done it, but then she shut it. It was his business, not hers.
 
 Then Giles said, quietly, "You are quite right. I ought to have told you."
 
 "Yes." The glare subsided, but Conway's next words weren't any kinder. "There is some argument about whether we understand your character well enough to take you into our order. Ordinarily we'd have watched your development for a period of years in our school. I had been arguing in your favor. Now, however--"
 
-Giles said nothing. He stood very still and his face was carefully blank. Buffy knew that look. 
+Giles said nothing. He stood very still and his face was carefully blank. Buffy knew that look.
 
 "You'll spend tomorrow squiring properly for your Slayer. You may rest in your room until then." Conway looked at her for a moment, and Buffy wondered how much he knew about their sleeping arrangements. "The refectory is open for dinner any time between five and eight."
 
@@ -1549,7 +1550,7 @@ Just then a pair of women came up to their table, trays in hand, and asked if th
 
 This was the first time Buffy had met other women who could talk about crossbows with her. Other than Faith, and she'd never hit it off with Faith. Partly her fault, partly Faith's fault, partly just the phase she'd been in. Right now she was in an Initiative-backlash phase. No more bands of testosterone-soaked brothers who didn't get that women could do this stuff too.
 
-Speaking of testosterone, here came the victor of the day, Mr Braveheart Twombly and his mane. Buffy couldn't help but track him as he came across the room, and one of the other women was doing the same. She wondered if Twombly was dating or if he was into women or not. He beelined toward them and folded himself into another chair at the table, right next to Giles. To her surprise, Giles seemed happy to see the guy. They shook hands and immediately started talking to each other in low voices. Buffy couldn't hear and didn't really want to eavesdrop. She shrugged and went back to discussing the problem of finding weaponry made for short people with the woman next to her. 
+Speaking of testosterone, here came the victor of the day, Mr Braveheart Twombly and his mane. Buffy couldn't help but track him as he came across the room, and one of the other women was doing the same. She wondered if Twombly was dating or if he was into women or not. He beelined toward them and folded himself into another chair at the table, right next to Giles. To her surprise, Giles seemed happy to see the guy. They shook hands and immediately started talking to each other in low voices. Buffy couldn't hear and didn't really want to eavesdrop. She shrugged and went back to discussing the problem of finding weaponry made for short people with the woman next to her.
 
 Some time later Giles touched her arm. "I'm off with Twombly here for a talk."
 
@@ -1561,17 +1562,17 @@ Buffy watched the pair of them head toward the refectory door together. Giles wa
 
 ***
 
-There was no one in her room when she finally got back. She went through the passageway between their rooms, tapped on Giles's door, and opened it. She peeked in: Giles was sitting in the little armchair. He was in a pair of loose jeans and a baggy t-shirt, and was barefoot. He looked tired but he smiled at her when she came over to him. 
+There was no one in her room when she finally got back. She went through the passageway between their rooms, tapped on Giles's door, and opened it. She peeked in: Giles was sitting in the little armchair. He was in a pair of loose jeans and a baggy t-shirt, and was barefoot. He looked tired but he smiled at her when she came over to him.
 
 "Thought I'd find you asleep."
 
-"Couldn't manage it. Been reading to relax." 
+"Couldn't manage it. Been reading to relax."
 
 He held up a little battered hardcover book she'd seen him with before. The Aeneid, untranslated, his usual comfort reading. Only Giles would read something written in Latin to relax. Though now that she thought about it, not only Giles. She could picture poor Wesley doing the same. Maybe anybody raised as a Watcher, as that rare intersection of warrior and scholar.
 
 "Did you have a good talk with Fabio?"
 
-"Fabio? Oh, Twombly. Yes. Most informative." 
+"Fabio? Oh, Twombly. Yes. Most informative."
 
 Giles didn't seem to be in the mood to share whatever information he'd learned, however, so Buffy prodded. "About... hair care?"
 
@@ -1579,7 +1580,7 @@ There was the flash of amusement she'd wanted to see. "We talked about training,
 
 "Any tips?"
 
-"Nothing earthshattering. Lift heavy weights and run." 
+"Nothing earthshattering. Lift heavy weights and run."
 
 Buffy made a face. She never lifted weights if she could help it. Running, on the other hand, she liked. She hadn't been for a run in nearly a week, come to think of it.
 
@@ -1617,7 +1618,7 @@ Aha. Buffy controlled her impulse to leap on him and kept it light. He was feeli
 
 Giles's face changed. "Oh! That reminds me."
 
-He stood and dug deep into his hip pocket. He opened his hand to her to reveal her necklace. It glittered in the lamplight. 
+He stood and dug deep into his hip pocket. He opened his hand to her to reveal her necklace. It glittered in the lamplight.
 
 "Thank you for the luck of your favor. It was not sufficient to bring me victory, but it was solace in my defeat."
 
@@ -1625,9 +1626,9 @@ He was all formal and husky as he said that. Buffy came closer and touched his o
 
 "May I?" he said.
 
-Buffy handed it back to him and turned around. He fumbled for a moment with the clasp then it was around her neck. He touched it, adjusted it so the the little cross was centered. She felt his breath on the back of her neck. Then every so gently, his lips, on her nape. Buffy held her breath. He lingered. His lips were warm and soft against her neck. Buffy wanted to shiver. She held herself completely still, so she wouldn't scare him away. His hand came down and rested on her waist. Another kiss, tentative, on her shoulder. She breathed out unsteadily. 
+Buffy handed it back to him and turned around. He fumbled for a moment with the clasp then it was around her neck. He touched it, adjusted it so the the little cross was centered. She felt his breath on the back of her neck. Then every so gently, his lips, on her nape. Buffy held her breath. He lingered. His lips were warm and soft against her neck. Buffy wanted to shiver. She held herself completely still, so she wouldn't scare him away. His hand came down and rested on her waist. Another kiss, tentative, on her shoulder. She breathed out unsteadily.
 
-He stepped back and Buffy wondered for a moment if he'd turn and flee from this one as well. But no: he turned her in his arms and bent to kiss her again. He was licking at her lips. He said her name as if he were pleading with her. Buffy clasped him tight in response. He gasped in pain and she let go instantly, shocked. 
+He stepped back and Buffy wondered for a moment if he'd turn and flee from this one as well. But no: he turned her in his arms and bent to kiss her again. He was licking at her lips. He said her name as if he were pleading with her. Buffy clasped him tight in response. He gasped in pain and she let go instantly, shocked.
 
 He had a hand on his ribcage, where he'd been kicked. "Sorry, I'm a bit, ah, battered."
 
@@ -1651,11 +1652,11 @@ Buffy left the bedside light on low. She stretched out on the bed, on top of the
 
 "I read your massage book. And I have some practice."
 
-"Don't want to be torn limb from limb," he muttered. 
+"Don't want to be torn limb from limb," he muttered.
 
 He was taking his shirt off anyway. He pulled it over his head and winced. Buffy could see why; he had broad red marks on his rib cage that would blossom into alarming bruises. The fight had been more brutal than she'd thought while watching it. He rolled onto his face and folded his arms under his head. Buffy knelt up next to him. She touched his back, stroked him to let him know she was there, then began to explore.
 
-Solid muscles. Something to dig into with her fingers. There was more muscle there than she'd expected. He had muscles after all; he'd just been hiding them. Where from? Weightlifting? She didn't know what Giles did to keep himself in shape, other than the jogging, but he obviously did something. Had to, to have earned himself lats like those. Riley had felt like this under her hands, though he'd had more sheer bulk. Angel had been bulkier as well. Giles was less sculpted but more brutal. It was beyond wonderful to discover that Giles had been hiding this body. 
+Solid muscles. Something to dig into with her fingers. There was more muscle there than she'd expected. He had muscles after all; he'd just been hiding them. Where from? Weightlifting? She didn't know what Giles did to keep himself in shape, other than the jogging, but he obviously did something. Had to, to have earned himself lats like those. Riley had felt like this under her hands, though he'd had more sheer bulk. Angel had been bulkier as well. Giles was less sculpted but more brutal. It was beyond wonderful to discover that Giles had been hiding this body.
 
 "So, weightlifting and running, huh," she said.
 
@@ -1665,7 +1666,7 @@ Solid muscles. Something to dig into with her fingers. There was more muscle the
 
 "I left my cowboy costume at home."
 
-Buffy stifled a giggle. She straddled his thighs and leaned forward to get proper leverage. She found the pressure points on his trapezius that had always been the important spots for Riley, and was rewarded by a soft grunt of pleasure. Slayer strength came in handy at strange times. He sighed underneath her and stretched. 
+Buffy stifled a giggle. She straddled his thighs and leaned forward to get proper leverage. She found the pressure points on his trapezius that had always been the important spots for Riley, and was rewarded by a soft grunt of pleasure. Slayer strength came in handy at strange times. He sighed underneath her and stretched.
 
 "You have wonderful hands," he said, into his folded arms.
 
@@ -1675,7 +1676,7 @@ Buffy stifled a giggle. She straddled his thighs and leaned forward to get prope
 
 "Took a workshop. Couples massage, bring your own sweetie. During that gooey phase with Riley, you know the one."
 
-"Oh." 
+"Oh."
 
 Mentioning Riley had been a mood-killer, judging by his voice. Buffy cursed herself for a second, then set it aside. Concentrate on his shoulders. Nice shoulders. He had a little scarring across the left one that she'd never seen before. Didn't look like knife cuts, more like claws. What had clawed him? There had been that thing right after her eighteenth, when he'd been all overcompensating. For Giles, overcompensating meant throwing himself in front of a hellbeast to distract it for her. A wave of affection ran through Buffy and she had to restrain herself from leaning forward to kiss his back. Shoulders. Concentrate on those delts.
 
@@ -1694,12 +1695,12 @@ That explained some of the hesitation, maybe. Maybe it was simply Giles being un
 His breathing was shifting, slowing. Buffy slowed and softened her touch against his skin. His eyes were closed again. He'd fallen asleep. Buffy smiled at him and stroked the hair at his temples. Turnabout. She tugged a light blanket over him so he wouldn't wake up cold, then turned the light out. She could see perfectly well without it. She sat on the armchair by the bed for a while, looking at him. It had taken her a long time to see that he was gorgeous. Time and the push from that Slayer spirit coiled inside her, her spirit sister. The strong jaw, the eyes, the crinkle-marks from smiling. The little line between his brows from worrying, maybe about her, or about the world in general. Not a pretty man, but a handsome one, and he would be hers.
 
 Buffy knew she should be satisfied for now. She was satisfied, except that something wasn't settled. She was restless. Not ready for sleep even with this handsome guy half-undressed in her bed. Not even in the least. It was time to hunt.
-    
+
 She changed into dark clothing. Her hair she tied back and hid under a black watch cap. It wasn't that she was sneaking, except she was totally sneaking. She tucked a stake up her sleeve by habit, and also because something was bothering her. Vampires, here? Every time she'd done the honing thing here the answer had been a resounding nothing. Utter safety, for miles and miles and miles. Now... Buffy stood on her balcony and honed, and wasn't sure.
 
 Buffy climbed over the railing and got a grip on the vines. Solid vines, a good hundred years of growth, more than up to supporting her weight. Getting up again would be easy. She let herself drop about ten feet up from the grassy lawn and rolled to take the impact. She followed through and bounced to her feet.
 
-The lane wound around the dormitory building directly to the front gate. The gate looked impressive, all heavy iron. She maneuvered herself around to a spot where she could see inside the kiosk. Inside was a guy in uniform, no doubt with sword like the night before. The stone wall looked easily climbable, but she didn't feel like it. They didn't guard anything beside the front gate, according to what she'd been told, because who would attack a building full of heavily armed extra-strong people? And what did they have that was worth stealing, anyway? Buffy could see the point of not bothering to defend the place. And whatever was troubling her wasn't here. Which way was the town? Vaguely east, and not all that far if she cut across the fields and woods of the order's estate. 
+The lane wound around the dormitory building directly to the front gate. The gate looked impressive, all heavy iron. She maneuvered herself around to a spot where she could see inside the kiosk. Inside was a guy in uniform, no doubt with sword like the night before. The stone wall looked easily climbable, but she didn't feel like it. They didn't guard anything beside the front gate, according to what she'd been told, because who would attack a building full of heavily armed extra-strong people? And what did they have that was worth stealing, anyway? Buffy could see the point of not bothering to defend the place. And whatever was troubling her wasn't here. Which way was the town? Vaguely east, and not all that far if she cut across the fields and woods of the order's estate.
 
 She set off at an easy run.
 
@@ -1723,7 +1724,7 @@ The second person, the man. Buffy squinted and recognized him. It was the boy wh
 
 Buffy listened until they were well out of the orchard, then made herself stay where she was for a little longer. Then she scrambled down from the tree. She brushed dirt and bark from her jeans and trotted off back the way she'd came. The town would have to wait. She'd been silly enough already tonight. Maybe she'd just needed the run. The last few days had featured way less activity than usual for her, and she hadn't hunted at all since she'd left Sunnydale. She should try to get in a workout in that yummy gym.
 
-She scampered up the vines to her balcony and popped over the railing again. She slipped inside and pulled the balcony door nearly shut. Giles was in her bed, rolled onto his face with his arms under his pillow. She undressed silently and crawled back into bed with him as quietly as she could. Giles shifted and turned toward her, awake after all. He flung an arm over her and pressed himself against her. 
+She scampered up the vines to her balcony and popped over the railing again. She slipped inside and pulled the balcony door nearly shut. Giles was in her bed, rolled onto his face with his arms under his pillow. She undressed silently and crawled back into bed with him as quietly as she could. Giles shifted and turned toward her, awake after all. He flung an arm over her and pressed himself against her.
 
 "C'mere," he said. "Wondered where you'd got off to."
 
@@ -1733,7 +1734,7 @@ Buffy smiled. The wakeful Giles might be nervous, but the half-asleep one was al
 
 Buffy slept in, curled up cozily with Giles. She woke once when rain began to spatter against the balcony doors, but when she woke again it had stopped. The skies were cloudy but clearing. The air smelled fantastic, all damp and green and fresh in a way that Sunnydale never smelled at this time of year. When she got out of her shower, Giles was in her rooms talking with Ellen, who had circles under her eyes. Buffy held her urge to giggle in check, remembering Ellen in the orchard and remembering her own adventures in sneaking out to see boyfriends. She'd been up late, but Ellen had probably been up later.
 
-Ellen was holding a bundle of clothing for Giles. His uniform for the day, she explained. 
+Ellen was holding a bundle of clothing for Giles. His uniform for the day, she explained.
 
 "Uniform?" Giles said.
 
@@ -1753,7 +1754,7 @@ Buffy wasn't sure she cared about that, but then Giles looked at her and she cou
 
 There were more people at the sparring pit than there had been yesterday. Buffy counted a couple dozen people then stopped bothering. It was as Ellen had said. Most of the knights were there, lounging on the bleachers watching the sparring, or heading into the pit to take their turn. Buffy could see a few pairs dotted throughout the crowd, full knights in athletic clothing with their dark-clad squires beside them. A handful of pages were there fetching water and wrangling the combatants.
 
-Buffy watched a pair of women fence in the pit, facing off against in each other in 5-minute rounds as Giles had done with Twombly the day before. They held practice swords and wore full body armor, but it was as violent as her vamp fights usually were. Buffy pulled her feet up under herself, hugged her knees to her chest, and watched with an analytical eye. They had good skills and were evenly matched. Buffy couldn't decide which one was likely to win. She thought she'd met the one with the blonde ponytail last night, but she hadn't seen the woman with the dreadlocks before. 
+Buffy watched a pair of women fence in the pit, facing off against in each other in 5-minute rounds as Giles had done with Twombly the day before. They held practice swords and wore full body armor, but it was as violent as her vamp fights usually were. Buffy pulled her feet up under herself, hugged her knees to her chest, and watched with an analytical eye. They had good skills and were evenly matched. Buffy couldn't decide which one was likely to win. She thought she'd met the one with the blonde ponytail last night, but she hadn't seen the woman with the dreadlocks before.
 
 "German school," Giles murmured in her ear. "Fairly standard European style. Vulnerable to mixed-mode fighting. Think what a kick would do right now."
 
@@ -1795,9 +1796,9 @@ Twombly won. Of course he won. He always won. He accepted the congratulations fr
 
 Buffy stole a quick look back at Giles to see what he made of this challenge, but his face was completely blank. What did she want? Oh, heck, she knew what she wanted.
 
-"Okay," Buffy said, and she grinned. 
+"Okay," Buffy said, and she grinned.
 
-"Wonderful! I'll wait for you." He leapt out of the ring into the viewing stands and sat himself down in the front row, still wearing all his gear. 
+"Wonderful! I'll wait for you." He leapt out of the ring into the viewing stands and sat himself down in the front row, still wearing all his gear.
 
 The next sparring match began while Buffy headed back to the locker room, Giles and Ellen in tow. Now there were more people in it, changing, stretching, men and women both. Ellen gave Buffy her own gear, extracted from her locker. It was a little big but stretchy tights were more or less one size fits all. She tried to refuse the protective gear, but Ellen insisted she wear it, claiming it was a rule that none of them dared break. Giles in turn insisted that he be the one who strapped her into it. He double-checked every strap and fastening, strangely zealous.
 
@@ -1807,15 +1808,15 @@ Their names were announced by a guy standing in the place where Conway had sat f
 
 "Oh my god, he's huge," she said.
 
-"You don't have to fight," Ellen said. "You're not one of us. You're not a knight." 
+"You don't have to fight," Ellen said. "You're not one of us. You're not a knight."
 
 She blushed bright red but Buffy gave her the stink-eye anyway. "As if."
 
 "She is the Slayer," Giles said. Ellen didn't seem to get it. She would soon enough, or so Buffy hoped. Twombly looked even bigger to her now than he had yesterday.
 
-"See you on the flip." 
+"See you on the flip."
 
-Buffy vaulted over the door without bothering to wait for Ellen to open it. She trotted to the center of the ring. It had rained off and on that morning and the sand in the sparring pit was damp and heavy under her feet. It wasn't soggy, though. There must be good drainage under here, secretly. 
+Buffy vaulted over the door without bothering to wait for Ellen to open it. She trotted to the center of the ring. It had rained off and on that morning and the sand in the sparring pit was damp and heavy under her feet. It wasn't soggy, though. There must be good drainage under here, secretly.
 
 "Hail," Twombly said to her, gravely.
 
@@ -1825,15 +1826,15 @@ The referee or whatever he was stood between them and explained the rules of the
 
 The referee vanished and a bell rang. It was on.
 
-Giles had warned her. The guy was huge and fast and strong, inhumanly so. Not at vamp levels, but then he was trained in a way vamps almost never were. It took her by surprise anyway. He was on her and inside her guard instantly. Buffy parried and backpedaled, watching and thinking. He was huge. She was fast. Faster than him? She attacked and an instant later regretted it. That was her sword, held in the relaxed grip Giles taught her, flying out of her hand. Her sword was way the hell over on the opposite side of the ring. Forget about it. Buffy scrambled but he was chasing her and she had nothing to use to defend herself. 
+Giles had warned her. The guy was huge and fast and strong, inhumanly so. Not at vamp levels, but then he was trained in a way vamps almost never were. It took her by surprise anyway. He was on her and inside her guard instantly. Buffy parried and backpedaled, watching and thinking. He was huge. She was fast. Faster than him? She attacked and an instant later regretted it. That was her sword, held in the relaxed grip Giles taught her, flying out of her hand. Her sword was way the hell over on the opposite side of the ring. Forget about it. Buffy scrambled but he was chasing her and she had nothing to use to defend herself.
 
 He struck like lightning in a clear sky. She dodged but he kicked and caught her in the face. Physics was what it was. She went down and saw stars in the blue mid-day sky. Into them loomed a helmeted head, peering down at her.
 
-He laughed. He *laughed*. It wasn't a mean laugh. It was an "I'm going to win just like I always do" laugh. 
+He laughed. He *laughed*. It wasn't a mean laugh. It was an "I'm going to win just like I always do" laugh.
 
 She called on the Slayer inside and pulled on the power lurking there, the way she had sometimes in the past in emergencies. Fighting the Master, fighting Angelus. It had taken fear of death to get her in touch with that power before, but now it was hers in all ways. She'd accepted it. She knew who she was. She was the Slayer. And that meant no penny-ante knight of Saint Curious George was going to kick her in the face.
 
-"Now I'm mad," she told him. 
+"Now I'm mad," she told him.
 
 He spun his sword lazily and stepped forward to administer the mock coup. Buffy sprang to her feet and kicked the sword out of his hands mid-spin. Her second kick was aimed at his face, but he blocked high. Buffy dropped low and kicked up. And if her foot accidentally caught him in the athletic supporter area, who could blame her? Just passing through. Backwards roll and she was on her feet. He was bent double, but an uppercut to the jaw straightened him up fast. Time to finish him off.
 
@@ -1843,15 +1844,15 @@ Whatever that meant.
 
 Buffy bent over him to check that she hadn't overdone it. His eyelids fluttered open. She said, "Yeah, not so much with the cracks about hiding behind little girls, huh? Do you get it now?"
 
-"You are magnificent!" 
+"You are magnificent!"
 
 Twombly's voice was slurred despite the enthusiasm. Buffy hauled him to his feet, but he went right down again onto his butt. Then he turned and puked. Oops. She'd definitely overdone it.
 
-"Little help here?" she said. But the medical guy was already in the ring with her, flinging himself on the man trying to breathe again while he writhed on the ground. Buffy wondered briefly if she ought to regret it, but Giles gave her the tiniest of smiles as he came up to her. She followed him out of the ring to the locker room. He knelt at her feet and unlaced her protective gear and that's when he let the smile flash out full-strength. So the man-crush didn't overcome his dedication. Revenge was sweet, and it was okay with him if she was the one to get it for him. 
+"Little help here?" she said. But the medical guy was already in the ring with her, flinging himself on the man trying to breathe again while he writhed on the ground. Buffy wondered briefly if she ought to regret it, but Giles gave her the tiniest of smiles as he came up to her. She followed him out of the ring to the locker room. He knelt at her feet and unlaced her protective gear and that's when he let the smile flash out full-strength. So the man-crush didn't overcome his dedication. Revenge was sweet, and it was okay with him if she was the one to get it for him.
 
 Giles did all the work of removing her armor while she stood distracted, talking to people. Everybody was pleased she'd kicked Twombly's ass, though not in a mean way. He didn't seem to have any enemies. What you saw with him was what you got, apparently: big muscle-bound guy who lived to fight evil. It was refreshing to think about that, refreshing to talk to other people about the fight. They were fellow enthusiasts, in some ways, fellow warriors, fellow practitioners of a dangerous art. For these people it was as it was for her and for Giles, about the defense of humanity.
 
-By the end of the afternoon, she'd seen each of the knights at least once in the ring, some more than once. They fought with swords, with knives, with staves, bare-handed. Buffy felt no need to accept any further offers to fight, but lounged in the bleachers with Giles and Ellen, watching the matches and commenting. It was one of the best afternoons she'd ever spent, and when it ended for tea in their rooms she was disappointed. 
+By the end of the afternoon, she'd seen each of the knights at least once in the ring, some more than once. They fought with swords, with knives, with staves, bare-handed. Buffy felt no need to accept any further offers to fight, but lounged in the bleachers with Giles and Ellen, watching the matches and commenting. It was one of the best afternoons she'd ever spent, and when it ended for tea in their rooms she was disappointed.
 
 Giles-brewed tea was almost enough of a consolation. She hadn't realized how hungry she was after that workout.
 
@@ -1877,13 +1878,13 @@ Dinner was in the great hall next to the castle fragment. Giles led her there at
 
 The hall was old. Buffy knew this without having to be told. The heavy wooden beams arching across the ceiling told her that, as did the simplicity of the stone walls of the building. So did the castle tower just beyond it. This was the oldest part of the grounds. The knights had been meeting and feasting there for centuries. And they were ignoring it all: wandering in, talking to each other, absent-mindedly handing glasses to pages darting around among them. And it wasn't just the young knights, the ones who had come in from wherever their questing had taken them. She saw the armorer there, with his patch and his long gray braid, talking to Whiting.
 
-Buffy spotted other men and women in the uniform of squires, each of them following their knight around. An evening of high ceremony, Conway had said, much higher ceremony than usual. They celebrated two events in their lives with ritual: the knight's dubbing and his or her death. Both events got the order's full attention. 
+Buffy spotted other men and women in the uniform of squires, each of them following their knight around. An evening of high ceremony, Conway had said, much higher ceremony than usual. They celebrated two events in their lives with ritual: the knight's dubbing and his or her death. Both events got the order's full attention.
 
 Dinner wasn't quite what she'd expected. It was neither the whole roasted pig carousing thing movies showed, nor a white tie restrained thing with six different kinds of fork. The knights ate a lot of food and talked a lot, but were perfectly well-mannered about it. The dinner seemed better attended than the funeral. Buffy counted chairs. Forty people, maybe, seated at the long table that ran down the middle of the hall. And then more: about a third of the people at the table had people in dark clothing standing behind them. Buffy was the youngest person with a squire present. Most of the squires were young, more like Buffy's age than Giles's. She was doing the role reversal, as usual.
 
 Buffy was aware of Giles behind her through the whole thing. Two hours, standing behind her chair, coming forward to pour water for her or to refill her wineglass. He held her chair for her again when she stood up when it was all finally over. She wasn't sure which one of them it was more of an ordeal for. He'd only had to pay attention to her, while she'd had to talk to the guy who'd taken her into dinner about how much he liked archery. It hadn't been all bad; the archer had been friendly and enthusiastic, like Xander on a tear about Babylon 5. The woman across from her had been one of the people she'd met in the refectory and she'd been friendly too. The older guy to her left hadn't talked to her at all. After a while she placed him as one of the men who'd been in the room when they'd met Conway the first time. She had no idea what his name was, but it didn't seem to matter.
 
-After dinner they all filed out of the dining hall and into another, smaller room further down the hall. This room had a different flavor. There were benches, old battered wooden things, lined up facing a dais. Behind the dais was a huge painting of a man in armor fighting an odd, coiled-up dragon. He was shown thrusting a long spear into it from horseback. Saint George himself. Buffy slipped herself into a back bench for lack of any better idea. She wasn't sure she was supposed to be there. The pages and squires weren't; Giles had vanished along with them. 
+After dinner they all filed out of the dining hall and into another, smaller room further down the hall. This room had a different flavor. There were benches, old battered wooden things, lined up facing a dais. Behind the dais was a huge painting of a man in armor fighting an odd, coiled-up dragon. He was shown thrusting a long spear into it from horseback. Saint George himself. Buffy slipped herself into a back bench for lack of any better idea. She wasn't sure she was supposed to be there. The pages and squires weren't; Giles had vanished along with them.
 
 Conway spun silently along the aisle and levered himself up the shallow steps onto the dais. The conversation fell silent.
 
@@ -1891,7 +1892,7 @@ Conway spun silently along the aisle and levered himself up the shallow steps on
 
 "What is there to discuss?" someone said. He stood and Buffy saw it was the man with the long braid, from the workshop, the one who'd been making a shield.
 
-"The Slayer." 
+"The Slayer."
 
 That was Whiting, standing up from a spot in the very front row. Buffy shifted on her own bench in embarrassment and considered booking out. Nobody was staring at her, though, tucked away in the back the way she was. She hoped it didn't look like she was sneaking, because she wasn't. Not this time.
 
@@ -1989,7 +1990,7 @@ Whiting cleared his throat. "We cannot have this conversation with an outsider i
 
 Conway sounded, as usual, as if he were not in the least sorry but at least this time he was bothering to be polite. Buffy bore no grudge against him for it, however. She waved to him and to Twombly, ignored Whiting, and made her way out of the hall.
 
-Giles wasn't in their rooms. She dug up the mystery paperback she'd brought for plane reading and sprawled out in the armchair Giles had been reading in the night before. She found the page she'd dogeared on the plane. She was about at the part where the detective, a thick-necked weightlifter named for a poet, would inevitably discover he was completely wrong about who'd done it or possibly even what the real mystery was. Normally it would be sort of comforting to read a story where the bad guys always lost and justice always prevailed. But she couldn't sink in. Giles wasn't back yet, and somewhere a bunch of knights in a room were debating whether he should be allowed to join them. Or try to join them. And something was itching at the back of her neck. It wasn't a vamp tingle like she got in Sunnydale every night. It was more that she was reminded that vampires existed after a few days of blessed silence and peace. England had to have them, she supposed. Where was the nearest big city? She should dig up a map. Giles had one in his bag. 
+Giles wasn't in their rooms. She dug up the mystery paperback she'd brought for plane reading and sprawled out in the armchair Giles had been reading in the night before. She found the page she'd dogeared on the plane. She was about at the part where the detective, a thick-necked weightlifter named for a poet, would inevitably discover he was completely wrong about who'd done it or possibly even what the real mystery was. Normally it would be sort of comforting to read a story where the bad guys always lost and justice always prevailed. But she couldn't sink in. Giles wasn't back yet, and somewhere a bunch of knights in a room were debating whether he should be allowed to join them. Or try to join them. And something was itching at the back of her neck. It wasn't a vamp tingle like she got in Sunnydale every night. It was more that she was reminded that vampires existed after a few days of blessed silence and peace. England had to have them, she supposed. Where was the nearest big city? She should dig up a map. Giles had one in his bag.
 
 Just as she stood up from the armchair to go find it, the doorknob rattled. The door opened to reveal Giles. They smiled at each other. He looked a little goofy and sappy, in fact, not that Buffy minded.
 
@@ -2013,13 +2014,13 @@ His gaze flickered to her and hovered. His hand was on the door to his room, but
 
 "Change and come back here to me."
 
-"Ah," he said and dipped his head to her. He went into his little bedroom and shut the door. 
+"Ah," he said and dipped his head to her. He went into his little bedroom and shut the door.
 
 Buffy changed into something she could sleep in or easily take off if things went that way. Pajamas seemed like they'd set the wrong mood. She didn't go for the negligee, though she'd packed one. Giles had never seemed to appreciate that side of her, or register it, really. He'd always reacted more to her Slayerness, if that made sense. Which it suddenly did. That was a puzzle piece snicking into place in her head. Watchers needed Slayers as much as Slayers wanted Watchers.
 
 She pulled out a tank top she'd been saving to wear on a hot day. It showed off her shoulders and arms. She considered them in the mirror of her bathroom as she brushed her teeth. She wasn't a bulky chick by any measure, but those arms had visible muscle in them. She had to end up with a guy who liked that. With a guy who didn't mind that she'd always put demon-hunting first. With a guy who also put it first.
 
-Giles returned to her wearing the same pajama bottoms and t-shirt he'd worn the night before. He favored her with that shy smile and paused with his hand on the light switch. He clicked it off and leapt toward her. Buffy met him halfway and they were kissing hungrily. 
+Giles returned to her wearing the same pajama bottoms and t-shirt he'd worn the night before. He favored her with that shy smile and paused with his hand on the light switch. He clicked it off and leapt toward her. Buffy met him halfway and they were kissing hungrily.
 
 What was it like to kiss her Watcher at last? At last, at last, that's what the Slayer spirit inside her was saying in its wordless language. He was hers and he ought to have been hers before now. She took a fistful of his t-shirt and pulled him against her hard. He groaned.
 
@@ -2051,13 +2052,13 @@ Giles held himself very still. Buffy licked where she'd bitten him and he moaned
 
 "God," he said, and he shuddered. She was close to his thing, then. She tried kissing him again, this time with a little tongue involved. He seemed to like that a lot. She had this plan to seduce him right away, get to the mutual happies phase so it wasn't looming or taking up too much of her attention. The way it was right now, matter of fact, with that feeling of wanting him constantly tugging at her.
 
-Then she realized Giles wasn't kissing her back any more. 
+Then she realized Giles wasn't kissing her back any more.
 
 "Buffy?" His voice was tentative. She let go of his wrists immediately. "Would you mind terribly if-- that is, I can't concentrate."
 
 "What's wrong?"
 
-"Bad case of nerves." 
+"Bad case of nerves."
 
 Buffy shifted herself off of his hips and knelt on the bed next to him. She should have guessed that what she'd been hoping for wasn't going to happen just then. It probably wouldn't happen until the situation with the knights had been resolved one way or the other.
 
@@ -2071,7 +2072,7 @@ Buffy shifted herself off of his hips and knelt on the bed next to him. She shou
 
 "Are teasing the hell out of me. It's okay. I'll return the favor some day."
 
-"I shan't complain," Giles said, under his breath, but Buffy heard him clearly, no doubt as he'd intended. 
+"I shan't complain," Giles said, under his breath, but Buffy heard him clearly, no doubt as he'd intended.
 
 They got out of bed to get under the sheets properly. Buffy folded the blankets down. Giles pulled his t-shirt over his head and winced. He dropped the shirt onto the floor and turned back to her. Buffy laid a hand on his side gently. Last night's red marks had blossomed black and purple. She made a sympathetic noise.
 
@@ -2083,7 +2084,7 @@ She gave him one last slow kiss, then turned around so they could sleep spooned 
 
 Giles shifted his hand to lift her tank top. His fingers traced around her belly button, right on the edge between ticklish and erotic. Buffy drew in a shaky breath. Make that a lot turned on. He trailed his fingers down her stomach, down to the waistband of her panties. Inside, further down, until his fingers rested just over her sex. Buffy moved, then, and pressed her own hand over his.
 
-"May I? I'd like to." 
+"May I? I'd like to."
 
 Soft voice, breathy, tempting. But Buffy tugged his hand up and back to its resting place against her stomach. "No. I want to wait for you."
 
@@ -2107,7 +2108,7 @@ Buffy slept late into the morning in the deep sleep of a safe Slayer, a Slayer w
 
 "A message, sir, from Sir John."
 
-Giles opened the door. Buffy pulled her head out from under the pillow. It was the black-haired boy who'd been hanging around Ellen, dressed in the neat uniform of the pages. He stepped just inside the door but did not come in any further. Buffy yanked the blankets up to neck level anyway. 
+Giles opened the door. Buffy pulled her head out from under the pillow. It was the black-haired boy who'd been hanging around Ellen, dressed in the neat uniform of the pages. He stepped just inside the door but did not come in any further. Buffy yanked the blankets up to neck level anyway.
 
 In daylight, she could see why Ellen would sneak out to be with this kid. He was handsome, with straight black hair falling into his face and nice broad shoulders.
 
@@ -2161,7 +2162,7 @@ Giles said nothing, but there went the hands deep into the pockets again. He pro
 
 "Tonight, at sunset. You have today to rest and prepare. You will need to learn your part in the ritual. It's all here."
 
-Conway pushed a little book across the desk. Giles picked it up and opened it to a page at random. He closed it again and thrust it into his trouser pocket. 
+Conway pushed a little book across the desk. Giles picked it up and opened it to a page at random. He closed it again and thrust it into his trouser pocket.
 
 "We'll send someone round about five to get things started. The rest of the day is yours. I suggest you read the advice to aspirants and take it straight away. Do not break your fast. That will be all."
 
@@ -2191,7 +2192,7 @@ Giles pulled one foot up onto the chair and tucked it underneath himself. He sai
 
 "Your judges do have those funny wigs."
 
-A flash of a smile from Giles to that. "As you say." 
+A flash of a smile from Giles to that. "As you say."
 
 "Conway's giving you the dub?"
 
@@ -2217,7 +2218,7 @@ Giles's face changed and he touched his fingers to his lips. When he spoke again
 
 Though Giles had chosen it. Twice, more, if this counted as a separate choice. Over and over, even though he lost friends and lovers and risked himself. Sometimes she thought he had as much free will as she did about this. If somebody had asked her now if she wanted to stay the Slayer or move on, she'd pick being the Slayer. And wasn't that a trip.
 
-"Does the Council do anything like this?" 
+"Does the Council do anything like this?"
 
 Giles snorted in answer.
 
@@ -2243,7 +2244,7 @@ Giles shook his head. "Hardly. It's more of a symbolic gesture. A spot of doing 
 
 "I was thinking of going off and trying out that climbing wall. Want to come with?"
 
-"No. I, I think I'd rather stay here alone. I should like some time to meditate. I feel unprepared. It's all so, so sudden." 
+"No. I, I think I'd rather stay here alone. I should like some time to meditate. I feel unprepared. It's all so, so sudden."
 
 "You're nervous."
 
@@ -2269,11 +2270,11 @@ The ceremony for Giles's vigil of arms began when the sun dipped below the horiz
 
 Buffy waited inside the church with Ellen. They had seats in benches that ran alongside the altar. Conway waited behind the altar. His sash was wider and brighter than the others and a little medal was attached to it over his heart. The sign of the head of the Order, perhaps. Or maybe it was like a military medal.
 
-Somewhere high in the church tower a single bell rang and silence fell. 
+Somewhere high in the church tower a single bell rang and silence fell.
 
 Giles led the procession into the church. He was bare-handed and bare-footed, in a white tunic with a red and black surcoat over the top. His hair had been cut in the hours since they'd parted. Behind him walked Twombly and Whiting, carrying his arms: sword, shield, spurs.
 
-The shield they laid on the altar, the spurs beside it. The sword Giles held before himself, sheathed, with the tip resting on the flagstones before the altar. 
+The shield they laid on the altar, the spurs beside it. The sword Giles held before himself, sheathed, with the tip resting on the flagstones before the altar.
 
 A woman Buffy had met once, whose name she couldn't remember at all, stepped forward. She was dressed in long robes of red velvet. The sword in her hand was a fighting weapon but it also dripped with magic. She paced around the circle clockwise, starting in the east and ending there.
 
@@ -2281,9 +2282,9 @@ Buffy watched quietly from her place beside Ellen. This was real magic in action
 
 The knights of the order left the church in solemn procession. Conway followed them slowly and Buffy trailed along behind him. She was reluctant to leave Giles alone all night.
 
-Whiting and Twombly were there on the church steps, as well as Ellen. She stood at attention outside the door. Like Giles, she was dressed in antique uniform, with a surcoat and belt. She grasped a polearm twice her height. Buffy wondered if it was a practical weapon or if she were there merely as an honor guard. Or if it were part of her own path to knighthood, eventually, another task performed in the service of the candidate she'd been assisting. 
+Whiting and Twombly were there on the church steps, as well as Ellen. She stood at attention outside the door. Like Giles, she was dressed in antique uniform, with a surcoat and belt. She grasped a polearm twice her height. Buffy wondered if it was a practical weapon or if she were there merely as an honor guard. Or if it were part of her own path to knighthood, eventually, another task performed in the service of the candidate she'd been assisting.
 
-Twombly touched his hand to his forehead as she approached. 
+Twombly touched his hand to his forehead as she approached.
 
 She said, "Sorry about the, you know, pounding."
 
@@ -2295,11 +2296,11 @@ Twombly simply laughed. "Now I understand why he was so set on recruiting your W
 
 "Bah. A man with that courage cannot fail."
 
-"It is out of our hands now," Conway said. 
+"It is out of our hands now," Conway said.
 
 Whiting sighed. "The ceremony seems diminished to me. Sad, almost. In other times we would have ridden here. Two dozen men on horseback, surrounding the fellow they would make one of their own. Now we are driven in vans."
 
-Conway said, "And our cripples are with us instead of home in bed. Or dead in the field." 
+Conway said, "And our cripples are with us instead of home in bed. Or dead in the field."
 
 Whiting made a sound Buffy couldn't interpret and gave Conway a half bow. "I do not argue with all your innovations."
 
@@ -2309,13 +2310,13 @@ Whiting made a sound Buffy couldn't interpret and gave Conway a half bow. "I do 
 
 "It's why I tolerate you, Gerald. Anyway. Miss Summers. Come with me."
 
-Conway spun his chair in place with a single quick hand motion and moved away without waiting for a response. Buffy shrugged at Twombly then followed Conway back into the church. He led her through a door on the side that went through an odd little chapel. There was a statue of a man with a sword fighting a lizard, with a lot of candles in a rack before it. About half of them were lit. They were the only light in the chapel. Behind the statue was a tiny wooden door in the stone wall. Behind it was a narrow spiral staircase that wound upward. Three-quarters of the steps' width was covered by a ramp just wide enough for Conway's chair. 
+Conway spun his chair in place with a single quick hand motion and moved away without waiting for a response. Buffy shrugged at Twombly then followed Conway back into the church. He led her through a door on the side that went through an odd little chapel. There was a statue of a man with a sword fighting a lizard, with a lot of candles in a rack before it. About half of them were lit. They were the only light in the chapel. Behind the statue was a tiny wooden door in the stone wall. Behind it was a narrow spiral staircase that wound upward. Three-quarters of the steps' width was covered by a ramp just wide enough for Conway's chair.
 
-Buffy wondered if she should push him, just to be polite, but he seemed to have no trouble powering himself up the ramp. He was still a knight, though no longer a fighting one, and the saint's strength was with him. 
+Buffy wondered if she should push him, just to be polite, but he seemed to have no trouble powering himself up the ramp. He was still a knight, though no longer a fighting one, and the saint's strength was with him.
 
-The staircase opened up onto a tiny balcony at the very top of the church. Buffy went to the railing immediately and looked down over the space. The floor was beautiful from above. Now Buffy noticed that it was patterned in the same double-barred cross shown in the diagram in the ritual book, only it was more decorative than that. A tourist could walk right across it and not notice that was a stylized sword, hilt in the east under the altar. The glittering dome exactly covered it. And inside that dome was Giles, enduring whatever it was the saint wanted him to endure. He was on his knees now, in a completely different place in the circle. He was leaning forward, head down, weight on his right fist. He was rubbing his chest with his left hand. 
+The staircase opened up onto a tiny balcony at the very top of the church. Buffy went to the railing immediately and looked down over the space. The floor was beautiful from above. Now Buffy noticed that it was patterned in the same double-barred cross shown in the diagram in the ritual book, only it was more decorative than that. A tourist could walk right across it and not notice that was a stylized sword, hilt in the east under the altar. The glittering dome exactly covered it. And inside that dome was Giles, enduring whatever it was the saint wanted him to endure. He was on his knees now, in a completely different place in the circle. He was leaning forward, head down, weight on his right fist. He was rubbing his chest with his left hand.
 
-"Hang in there, tiger," Buffy said under her breath. 
+"Hang in there, tiger," Buffy said under her breath.
 
 Conway came up beside her. She didn't take her gaze off Giles. "Nice view," she said.
 
@@ -2335,7 +2336,7 @@ Conway came up beside her. She didn't take her gaze off Giles. "Nice view," she 
 
 She didn't feel like going into details with Conway. Not that she disliked him, because he had good vibes in all ways to the Slayer sensors within. It was more that it was a private thing. It was her business and Giles's business, and Giles didn't like parading his relationships in public.
 
-"Would you have a problem with that?" Buffy said. 
+"Would you have a problem with that?" Buffy said.
 
 "No," Conway said. "I was attempting to make small talk."
 
@@ -2371,7 +2372,7 @@ Buffy went to the other end of the balcony and leaned over. There were shields h
 
 The scent of the candles reached her: warm sweet beeswax, with incense below.
 
-Buffy pulled away from the railing and paced over to Conway. He considered her, head tilted. 
+Buffy pulled away from the railing and paced over to Conway. He considered her, head tilted.
 
 "What?"
 
@@ -2415,7 +2416,7 @@ She felt a little pang. She might get smashed by a dragon the same way, but her 
 
 "I wish."
 
-"It's a dangerous life we lead," Conway said, and he shrugged. 
+"It's a dangerous life we lead," Conway said, and he shrugged.
 
 Buffy scratched the back of her neck. Her nerves were seriously on edge now. She paced along the little balcony and gave serious thought to doing a high-wire routine on the railing. She was that tense. Worried about Giles? What would Giles say if he were with her now? He'd tell her to hone, duh.
 
@@ -2423,7 +2424,7 @@ Buffy closed her eyes and honed. And then she got mad. She stomped over and stoo
 
 "There's a vampire out there," she told him. "You send that to make his vigil more exciting? Give his test some *teeth*?"
 
-"The trials he faces are emotional. Daggers of the mind. If there is a vampire out there--" 
+"The trials he faces are emotional. Daggers of the mind. If there is a vampire out there--"
 
 "There is." Buffy wrinkled her nose.
 
@@ -2449,13 +2450,13 @@ Giles scrambled to his feet as the dome shimmered. He turned and saw there was s
 
 The vampire reached for him. Giles stepped back, and again. The vampire would have him pinned against the altar in another instant. Giles held the cross steady before him, however.
 
-The vamp lashed out and the cross went flying. Buffy forced herself not to jump. But Giles didn't need it. He braced himself against the altar and kicked. The sword was in his hand and the next moment was raised. It flashed in the torchlight and darkened, and there was a spray of blood that turned to dust in the air and was gone. Giles stood frozen in place for a moment, then he turned slowly, sword still overhead in a guard position. He was breathing hard, but his posture was solid, ready. 
+The vamp lashed out and the cross went flying. Buffy forced herself not to jump. But Giles didn't need it. He braced himself against the altar and kicked. The sword was in his hand and the next moment was raised. It flashed in the torchlight and darkened, and there was a spray of blood that turned to dust in the air and was gone. Giles stood frozen in place for a moment, then he turned slowly, sword still overhead in a guard position. He was breathing hard, but his posture was solid, ready.
 
 He'd done it. He'd killed it.
 
-Giles knelt before the altar and returned the sword to its place. He touched a hand to his forehead and bowed it, then backed away, still on his knees. His posture had changed from what it had been when he'd first entered the circle, she decided. His head was up, now, shoulders back. Did he believe he'd faced what he was supposed to face? Was that what he was supposed to face? 
+Giles knelt before the altar and returned the sword to its place. He touched a hand to his forehead and bowed it, then backed away, still on his knees. His posture had changed from what it had been when he'd first entered the circle, she decided. His head was up, now, shoulders back. Did he believe he'd faced what he was supposed to face? Was that what he was supposed to face?
 
-Buffy slid down from the railing and tried to make herself relax. Her palms were sweaty. Adrenaline rush, even though she hadn't been the one fighting. 
+Buffy slid down from the railing and tried to make herself relax. Her palms were sweaty. Adrenaline rush, even though she hadn't been the one fighting.
 
 "He has been accepted," Conway said. "Look." He pointed. The shield resting on the altar was shimmering. While she watched, it rippled through the rainbow, then settled into a deep green. It shimmered again, and something appeared on it. Stylized lances. Three silver lances on a green shield.
 
@@ -2505,23 +2506,23 @@ The vampire smiled, or rather, bared its teeth. They were already bloody. Buffy 
 
 The situation outside wasn't good. Somebody was slumped face-down on the church steps. Somebody else was struggling with a vampire. Ellen. She had her polearm wedged up between her body and the vamp, but it was a losing battle.
 
-Buffy tapped the vamp on the shoulder. 
+Buffy tapped the vamp on the shoulder.
 
 "Can I have this dance?" she said.
 
 It responded by tossing Ellen away down the steps. Buffy swore and kicked its feet out from under it in revenge. It went down and came up snarling.
 
-What happened next was what happened every night of the week in Sunnydale: a bare-fisted brawl with a demon. It didn't feel like she was fighting for her life, though if she screwed up badly enough it would turn into one fast. It was tactical. Dance with the vamp until it revealed its weaknesses to her, then take it out. The young ones died fast. The old and canny ones took more work. This one was canny indeed. It had been playing with Ellen when it could have eaten her. 
+What happened next was what happened every night of the week in Sunnydale: a bare-fisted brawl with a demon. It didn't feel like she was fighting for her life, though if she screwed up badly enough it would turn into one fast. It was tactical. Dance with the vamp until it revealed its weaknesses to her, then take it out. The young ones died fast. The old and canny ones took more work. This one was canny indeed. It had been playing with Ellen when it could have eaten her.
 
 Buffy realized two minutes into the dance that it was nearly an equal adversary. Three minutes in she admitted to herself that it was fun. She could screw up and die at any moment but God, this was exciting. Her blood was pumping and every single little bit of her was alive. She laughed and launched herself into the air at it in complete joy.
 
 It met her mid-air, snarling, and they fell together in a heap. It recovered first. Buffy felt it grip her throat and lift her into the air. Before she could get her stake hand in motion, it had flung her.
 
-Buffy hit the step railing so hard she bounced. Her vision went strange and her knees wobbly. She tried to stand and couldn't. Uh oh. 
+Buffy hit the step railing so hard she bounced. Her vision went strange and her knees wobbly. She tried to stand and couldn't. Uh oh.
 
 "Ah, little Slayer," the vamp said. It closed in with triumph on its face. Buffy could smell the blood on its breath. It wrapped a fist in her shirt and lifted her from the ground. "Such a pity. I was enjoying our dance."
 
-"I wasn't. You stepped on my foot." 
+"I wasn't. You stepped on my foot."
 
 "I could turn you," it said to her. "You and I could do this every night forever."
 
@@ -2533,13 +2534,13 @@ The buzzing faded and Buffy's feet started working again. And the stake was in h
 
 Buffy jabbed up with the stake. It looked shocked. Its face transformed to human again and dissolved into dust.
 
-She sprang up to a crouch, stake still at the ready, but there was nothing left to fight. Standing up straight hurt. Buffy made a face and gingerly touched where she'd hit the railing. That was going to be one deep bruise. It might even last until morning. And of course she had vamp dust on her face. 
+She sprang up to a crouch, stake still at the ready, but there was nothing left to fight. Standing up straight hurt. Buffy made a face and gingerly touched where she'd hit the railing. That was going to be one deep bruise. It might even last until morning. And of course she had vamp dust on her face.
 
 She walked slowly up the church steps to where the body of a man lay face-down. She could see Conway there, parked beside it, with Ellen sitting on the ground beside. Ellen was crying.
 
 Buffy turned the body over gently. Whiting. Dead, with a stake still in his hand.
 
-Buffy had long since moved past sentimentality about vampire victims. She felt sorry for them, and that went double for the ones she'd known. But there were things she had to do as a Slayer, and she had to do them now. There was blood on Whiting's mouth and the faintest aura of demon about him. But not enough. The vamp who'd killed him had started to turn him but stopped for reasons she couldn't guess at. Or it had been interrupted. Maybe Whiting had fought back. Fighting back usually did no good for ordinary humans, and sometimes no good even for a Slayer involuntarily turned, but it should have worked for a Knight of St George. 
+Buffy had long since moved past sentimentality about vampire victims. She felt sorry for them, and that went double for the ones she'd known. But there were things she had to do as a Slayer, and she had to do them now. There was blood on Whiting's mouth and the faintest aura of demon about him. But not enough. The vamp who'd killed him had started to turn him but stopped for reasons she couldn't guess at. Or it had been interrupted. Maybe Whiting had fought back. Fighting back usually did no good for ordinary humans, and sometimes no good even for a Slayer involuntarily turned, but it should have worked for a Knight of St George.
 
 Buffy tossed her stake, caught it, and considered the puzzle of Whiting. The Council had to have somebody on the inside of the Order. Conway had as good as admitted he had somebody on the inside over there. It wasn't Whiting. They wouldn't have killed him. Not unless he'd disobeyed orders for some reason, if he'd turned out to be a good guy after all. Either way, she'd have to warn Giles that the Council was out to get them for real now.
 
@@ -2555,7 +2556,7 @@ Buffy stood and went to Conway. "He won't rise," Buffy told him. She handed him 
 
 "You will, I think. Remember me when you do."
 
-And that was the oddest thing he'd said yet. Buffy didn't know what to do with it, or with the exhaustion on his face. The Slayer spirit inside her was restless yet. Buffy stood on the church steps and reached out into the night with those senses, searching. Nearby but fading fast. And nearby, a car engine revving high. 
+And that was the oddest thing he'd said yet. Buffy didn't know what to do with it, or with the exhaustion on his face. The Slayer spirit inside her was restless yet. Buffy stood on the church steps and reached out into the night with those senses, searching. Nearby but fading fast. And nearby, a car engine revving high.
 
 Around the curve came a van being driven by a maniac. Buffy coiled herself, ready to fling Conway bodily away from its path if necessary, but it slewed to a stop half on the walkway. The side door slammed open and six knights leapt out, one of them Twombly. They were all carrying swords. The cavalry, about ten minutes too late. Conway signalled them and they ran off into the church, swords drawn. The van's driver trotted up to the group at the top of the steps.
 
@@ -2581,7 +2582,7 @@ The church doors opened. Twombly and another man emerged. Their swords were shea
 
 "The Church is secure," he said. "The ritual is undisturbed."
 
-"The Slayer took care of that before you arrived," Conway said, sharply. 
+"The Slayer took care of that before you arrived," Conway said, sharply.
 
 "He has his device."
 
@@ -2599,7 +2600,7 @@ Conway made a frustrated noise. "I predicted a breach, but not this violent or d
 
 Buffy said, "Have you ever met Quentin Travers?"
 
-"Not yet," Conway said. 
+"Not yet," Conway said.
 
 So that was what he sounded like when he was angry. Buffy shivered. She wanted to be there to see it when it happened. Could the Knights of St George take human life if they had to? Giles could. Giles had. She hadn't done the deed directly before, though she'd let people die, had watched them hoist on their own petards. Could she do it? The Slayer spirit was silent on this one.
 
@@ -2615,7 +2616,7 @@ Twombly said, "I'll guard him for the rest of the night, little Slayer."
 
 "She is?" Twombly laughed in pure delight. Apparently he knew who "she" was. Neither of them seemed inclined to clue Buffy in. "Come on, Slayer. Let's rest while we can. Let the old man stay up all night watching. We'll do the fighting for him tomorrow."
 
-"Go," Conway said, and Buffy didn't mind that it felt like an order. She was tired, and a guy who'd broken his body slaying a dragon had all the credibility anybody needed with her. 
+"Go," Conway said, and Buffy didn't mind that it felt like an order. She was tired, and a guy who'd broken his body slaying a dragon had all the credibility anybody needed with her.
 
 Twombly drove her back to the great house, where a worried-looking teenager with a handsome dark face and black hair barred her way through the door with a polearm gripped white-knuckled. It was the boy she'd seen hanging around Ellen, the boy she'd been smooching in the orchard. He held a cross up to her face.
 
@@ -2627,9 +2628,9 @@ He bowed to her and lifted the polearm aside and she went in and up to her room 
 
 She took a three-minute shower and came out again in leggings and a tank top. They had a knighting to participate in. It was more high ritual, more magic, and a serious occasion. And for the knights, that meant dress armor, old-fashioned armor, of the kind they would never wear again to real battle. Ellen began dressing her in the armor, silently, robotically. She looked as under-slept as Buffy was. More than that, she looked thrashed.
 
-"Hey," she said. "You doing okay?" 
+"Hey," she said. "You doing okay?"
 
-Ellen nodded, but she wasn't looking at her straight on. Her chin was set in a way Buffy had seen before. On Giles, mostly, though sometimes on Xander. 
+Ellen nodded, but she wasn't looking at her straight on. Her chin was set in a way Buffy had seen before. On Giles, mostly, though sometimes on Xander.
 
 "You knew Whiting?"
 
@@ -2649,13 +2650,13 @@ Ellen nodded again.
 
 The first thing that came to mind was something all Harrison-Ford-y about how the kid should calm her jets or something. But Buffy restrained herself. What was Ellen, four years younger than she was, tops? So she shut up and stuck out her hand to shake on it with her. Ellen had a solid grip and wasn't afraid to look her in the eye.
 
-Ellen was done, and Buffy was dressed in chain mail. Over the top of it was a white surcoat with a red double-barred cross on it, and a silk belt over that that hung down over the surcoat. It jingled. And it was heavy. It didn't fit exactly right, but it didn't need to. It was for show, not for actual battle. She could walk, that was the important thing. Giles had told her once that armor that didn't fit could make it impossible for the wearer to move. 
+Ellen was done, and Buffy was dressed in chain mail. Over the top of it was a white surcoat with a red double-barred cross on it, and a silk belt over that that hung down over the surcoat. It jingled. And it was heavy. It didn't fit exactly right, but it didn't need to. It was for show, not for actual battle. She could walk, that was the important thing. Giles had told her once that armor that didn't fit could make it impossible for the wearer to move.
 
-Buffy stared at herself in the mirror. She almost didn't recognize herself. It didn't feel quite right, either. The Slayer within was itchy about it; it was never comfortable wearing protective gear. It would go naked if Buffy let it, not that she would. Could she move properly if she had to fight? 
+Buffy stared at herself in the mirror. She almost didn't recognize herself. It didn't feel quite right, either. The Slayer within was itchy about it; it was never comfortable wearing protective gear. It would go naked if Buffy let it, not that she would. Could she move properly if she had to fight?
 
 No fighting this morning, though. Not with the full assembly of knights in one place, every single one of them armed. This morning was about watching Giles be knighted.
 
-"You remember what to do?" Ellen asked, and Buffy could hear the anxiety. 
+"You remember what to do?" Ellen asked, and Buffy could hear the anxiety.
 
 "Yeah, we rehearsed."
 
@@ -2677,17 +2678,17 @@ The dub was to be given in the New Hall, before the assembled Order. Buffy met T
 
 Buffy nodded. She had no idea what it meant, other than that Twombly took it seriously. His expression was solemn.
 
-Giles came through the door behind the dark boy who was Ellen's friend. He was dressed differently than he'd been last night. He was in bright chainmail exactly like hers, only his surcoat was completely white. Leather boots, leather belt with an empty sword hanger. Bare hands. He wasn't wearing his glasses. There was nothing to reveal that he was a twentieth century man. There was nothing in this room that would not have been there three centuries ago, save Conway's wheelchair. 
+Giles came through the door behind the dark boy who was Ellen's friend. He was dressed differently than he'd been last night. He was in bright chainmail exactly like hers, only his surcoat was completely white. Leather boots, leather belt with an empty sword hanger. Bare hands. He wasn't wearing his glasses. There was nothing to reveal that he was a twentieth century man. There was nothing in this room that would not have been there three centuries ago, save Conway's wheelchair.
 
-He looked tired but confident. He'd conversed with the Power, or whatever it was, faced his death and found peace with it, and killed a vampire. Had he finally decided he was an okay guy who deserved this? Probably not. Probably he'd be angsting about his past right up until the moment he died bravely. Which he wouldn't do one instant before Buffy herself did, no matter what he said about defending her. They'd have to compete on that one. 
+He looked tired but confident. He'd conversed with the Power, or whatever it was, faced his death and found peace with it, and killed a vampire. Had he finally decided he was an okay guy who deserved this? Probably not. Probably he'd be angsting about his past right up until the moment he died bravely. Which he wouldn't do one instant before Buffy herself did, no matter what he said about defending her. They'd have to compete on that one.
 
-Buffy smiled at him and he returned it with one of those brilliant grins that were so rare in him. 
+Buffy smiled at him and he returned it with one of those brilliant grins that were so rare in him.
 
 "Shall we?" she said.
 
 "Let's shall."
 
-Buffy and Twombly led Giles down the long stone-flagged hallway to the hall. Twombly was setting a measured, slow pace, which Buffy tried to match. 
+Buffy and Twombly led Giles down the long stone-flagged hallway to the hall. Twombly was setting a measured, slow pace, which Buffy tried to match.
 
 A pair of pages swung the doors open and the trio stepped inside. Buffy saw a full hall, rows of benches filled with men and women, familiar faces, all standing. And in front of them all, on the dais, was a woman sitting on a throne. Buffy recognized her from photographs and the news, though she was older than Buffy had expected.
 
@@ -2695,19 +2696,19 @@ She could tell the moment Giles saw that the real, actual Queen of England was i
 
 Giles bowed deeply. Buffy didn't bow. She was an American, after all. Her nose twitched and she breathed in deep, trying to sense it. Power. The Queen had power. And it was a mixed thing, a tangled mess. There was more than one presence there inside her, though how Buffy didn't know. The presences were overall good, nothing she needed to fight, but they went deep and into dark places. That was... interesting.
 
-Leaning against the throne were Giles's sword and shield. The shield glowed in the morning sunlight. 
+Leaning against the throne were Giles's sword and shield. The shield glowed in the morning sunlight.
 
-Giles straightened from his bow then knelt on the pillow before her, his hands pressed together. She took her hands in his, and he swore an oath. It wasn't the one in the book, to Buffy's surprise, though it was close. For one thing, after he swore fealty to the Order of St George, he swore it to the Slayer. To her. To Buffy. He swore to lighten her burdens by carrying what he was able. See her name honored after her death. At least they didn't flinch away from that one. And finally, he swore not to traffic with traitors. 
+Giles straightened from his bow then knelt on the pillow before her, his hands pressed together. She took her hands in his, and he swore an oath. It wasn't the one in the book, to Buffy's surprise, though it was close. For one thing, after he swore fealty to the Order of St George, he swore it to the Slayer. To her. To Buffy. He swore to lighten her burdens by carrying what he was able. See her name honored after her death. At least they didn't flinch away from that one. And finally, he swore not to traffic with traitors.
 
 All this he swore upon his immortal soul. His voice was steady and clear. Tears had started in Buffy's eyes and she was grateful that she didn't have to speak.
 
 Then the Queen stood and drew her sword. She drew it as if she knew what to do with it, as if she had drawn it with purpose earlier in her life. Or lives, Buffy thought. She held the sword out flat and Giles bent his head.
 
-The sword struck his right shoulder. "In remembrance of honor and bravery." 
+The sword struck his right shoulder. "In remembrance of honor and bravery."
 
-His left. "In remembrance of your oath and obligations." 
+His left. "In remembrance of your oath and obligations."
 
-"Be thou a good and wise knight." The Queen touched the crown of his head with the sword, and held it there. 
+"Be thou a good and wise knight." The Queen touched the crown of his head with the sword, and held it there.
 
 "Rise now, Sir Knight."
 
@@ -2731,9 +2732,9 @@ Buffy stuffed a forkful of fruit into her mouth to prevent herself from giggling
 
 "I had heard your name before, of course, as the champion of the Slayer. It is good that you will remain her champion."
 
-"It is my earnest hope that this change will assist me in that task." Giles was stammering. His hand went up to his face to reach for glasses that were not there. 
+"It is my earnest hope that this change will assist me in that task." Giles was stammering. His hand went up to his face to reach for glasses that were not there.
 
-The Queen said, "What will be your first act?" 
+The Queen said, "What will be your first act?"
 
 "I plan to return immediately to the Hellmouth with the Slayer, ma'am. The vampire population must not be allowed to rise."
 
@@ -2763,7 +2764,7 @@ The Queen was silent for a moment. She and Conway stared at each other. He was b
 
 At last the Queen said, "Blood calls for blood. We acknowledge your grievance. Both the general and the personal."
 
-Conway reacted to that, to Buffy's surprise. She saw his fist clench upon nothing where it rested on the table. 
+Conway reacted to that, to Buffy's surprise. She saw his fist clench upon nothing where it rested on the table.
 
 But all he said was, "May we expect the favor of your support in this matter?"
 
@@ -2783,7 +2784,7 @@ They followed the Queen through the great doors and out. The doors closed on the
 
 Waiting in the entry hall for them was a man who Buffy's senses told her to be a sorcerer of very great power indeed, and a pair of broad-shouldered men in quiet dark suits. Conventional security and magical security side by side. The Queen nodded to them, then turned to Giles.
 
-"You two are causing sensations yet again, I see." Not the royal we, not the collective. 
+"You two are causing sensations yet again, I see." Not the royal we, not the collective.
 
 "I am afraid so, ma'am. But my duty is clear."
 
@@ -2813,17 +2814,17 @@ Giles ducked his head. "Yes. Save Travers."
 
 Giles smiled with half of his mouth, all sardonic because he knew where she was going with this. "Trust in myself."
 
-She poked him in the arm. "Just what some wise man has always been telling me." 
+She poked him in the arm. "Just what some wise man has always been telling me."
 
-"Shall we go back in?" 
+"Shall we go back in?"
 
-Giles offered her his arm again. Buffy took it solemnly. This time as they walked they were dressed up like they were at an SCA tournament, except their swords were sharp. Buffy's hand rested on a fine metal mesh instead of fine wool. But it was the same Giles beside her, the same Watcher who'd been at her side for years now. 
+Giles offered her his arm again. Buffy took it solemnly. This time as they walked they were dressed up like they were at an SCA tournament, except their swords were sharp. Buffy's hand rested on a fine metal mesh instead of fine wool. But it was the same Giles beside her, the same Watcher who'd been at her side for years now.
 
 ***
 
-It was hours before Buffy could see Giles again. There was the rest of the feast, then then a demonstration of jousting outside in the fields and other demonstrations of feats with old-fashioned arms. These were not things the knights used in the field, but skills they preserved out of sentiment. Buffy liked the impulse; it made a charming contrast to how deadly serious they were about their daily weapons. They even coaxed her onto a horse and showed her how to hold the lance. Then they all went back in for tea. This was all allegedly in Giles's honor, but he had slipped off sometime in the middle of the jousting to sleep and recover from his vigil. 
+It was hours before Buffy could see Giles again. There was the rest of the feast, then then a demonstration of jousting outside in the fields and other demonstrations of feats with old-fashioned arms. These were not things the knights used in the field, but skills they preserved out of sentiment. Buffy liked the impulse; it made a charming contrast to how deadly serious they were about their daily weapons. They even coaxed her onto a horse and showed her how to hold the lance. Then they all went back in for tea. This was all allegedly in Giles's honor, but he had slipped off sometime in the middle of the jousting to sleep and recover from his vigil.
 
-The mood of the knights was odd. They were happy to welcome the newcomer but they talked among themselves in grim little clumps. Buffy spotted Twombly and Amanda with their heads bent together over a map she recognized as being L.A. War was coming. She couldn't avoid it because half of it was about her. Hers was the face that had launched the ships. Which was about as hilarious as it got. All she wanted to do, really, was settle down and become the best staker of vampires that ever held a stake and did the jabbing thing. 
+The mood of the knights was odd. They were happy to welcome the newcomer but they talked among themselves in grim little clumps. Buffy spotted Twombly and Amanda with their heads bent together over a map she recognized as being L.A. War was coming. She couldn't avoid it because half of it was about her. Hers was the face that had launched the ships. Which was about as hilarious as it got. All she wanted to do, really, was settle down and become the best staker of vampires that ever held a stake and did the jabbing thing.
 
 No such luck. At least she had a few days of vacation before it started. A few days to spend with Giles.
 
@@ -2867,7 +2868,7 @@ She said, "I like it. It's the kind of thing you can use every day."
 
 "Yes. The shield I'll hang on my wall, but the sword I will live with."
 
-That was a good way to put it. 
+That was a good way to put it.
 
 Giles was standing watching her, alert and erect, his hands folded behind his back. It was the squiring posture he'd been in earlier. That was interesting, very interesting indeed.
 
@@ -2885,9 +2886,9 @@ Buffy took the ring back. "I can't reach. You'll have to kneel."
 
 Giles's face changed when she said that. His eyes went dark and his lips parted. And then she got it. That was what he needed. She hadn't imagined it. He wanted it just as much as she did, and in exactly the same way.
 
-Giles went to his knees gracefully, at her feet. He folded his hands in front of himself and bowed his head, just like he had when waiting for the dub. He was looking up at her this time, though, and breathing as if he'd been running. 
+Giles went to his knees gracefully, at her feet. He folded his hands in front of himself and bowed his head, just like he had when waiting for the dub. He was looking up at her this time, though, and breathing as if he'd been running.
 
-Buffy flexed the metal and let the captive bead drop into her hand. She took his earlobe in her fingers and found the place where it was pierced. He hadn't worn anything in it recently, by the look. She set the end of her ring in place pushed it into his lobe. It was a thicker than whatever he'd been wearing before, but it threaded through with only a little resistance. Buffy popped the little gold bead into place and rotated the earring so it hung properly. It looked good on him, not gaudy at all. Understated. 
+Buffy flexed the metal and let the captive bead drop into her hand. She took his earlobe in her fingers and found the place where it was pierced. He hadn't worn anything in it recently, by the look. She set the end of her ring in place pushed it into his lobe. It was a thicker than whatever he'd been wearing before, but it threaded through with only a little resistance. Buffy popped the little gold bead into place and rotated the earring so it hung properly. It looked good on him, not gaudy at all. Understated.
 
 She gave it a sharp tug and he sucked in a breath and tensed up. She waited until his shoulders dropped again.
 
@@ -2905,7 +2906,7 @@ She gripped his shirt and tugged him closer to her. "You're mine now."
 
 He hadn't moved from his knees. That was good.
 
-"Do you like kneeling for me?" 
+"Do you like kneeling for me?"
 
 "Yes." Very softly, but he'd spoken with no hesitation. She stroked his head again and thought about what to do with him now. She'd told him it would be tonight, and it was going to happen for sure, but she hadn't thought it would happen like this. But now she knew what he wanted-- wow. Her heart was hammering and her body was awake.
 
@@ -2921,17 +2922,17 @@ She bent to him and whispered, "No more nerves?"
 
 "Good. Undress for me."
 
-Buffy stepped back from him. He closed his eyes for a moment and breathed. Then he stood up and pulled his shirt over his head. There it was, the wince because of his ribs, but neither one of them was going to worry about that tonight. Shoes kicked off to the side, socks following. He turned away from her to shed his trousers and his boxers. Buffy frowned, but then he turned back to her. He knelt again on the bedroom floor and folded his arms behind his back without being asked. 
+Buffy stepped back from him. He closed his eyes for a moment and breathed. Then he stood up and pulled his shirt over his head. There it was, the wince because of his ribs, but neither one of them was going to worry about that tonight. Shoes kicked off to the side, socks following. He turned away from her to shed his trousers and his boxers. Buffy frowned, but then he turned back to her. He knelt again on the bedroom floor and folded his arms behind his back without being asked.
 
 There were bruises on his ribs and shoulder, dark blue shading to red. From the sparring, mostly, though maybe some were from the vampire. They were neither sexy nor off-putting. They were a fact of life for them. Places on his body she had to be careful of. Honorable marks of honorable combat. Combat he'd won.
 
-He was also magnificently hard. 
+He was also magnificently hard.
 
 God, she wanted him. She wanted him whatever he looked like, whatever he was wearing. Tweed. Leather and mail. Or naked as he was now.
 
 She knelt before him and wrapped her arms around his waist, pressed herself tight against his bare chest. She liked men. Not boys, men. Strong men, muscled men, intelligent men, headstrong men. Men who'd fight alongside her. Men who weren't frightened of who she was. A man who'd kneel like this for her and hold himself still when she cupped her fingers around his balls and lifted them. Heavy, solid, a good handful. Giles tipped his head back but otherwise did not move. She could feel him trembling, though, and his breath was coming fast.
 
-Buffy left him kneeling there and sat on the bed to undress. She took her time about it, though unfortunately she didn't have much to take off. His eyes were down mostly, but she saw that he was sneaking glances at her. She smiled to herself. 
+Buffy left him kneeling there and sat on the bed to undress. She took her time about it, though unfortunately she didn't have much to take off. His eyes were down mostly, but she saw that he was sneaking glances at her. She smiled to herself.
 
 Buffy sometimes worried about what she looked like. Too much muscle, not enough cleavage. She was wiry rather than slender and it was obvious when she was nude. The first boy she'd been to bed with hadn't reacted well. Riley had eventually revealed his ambivalence about it, about her ability to pick him up and throw him. But Giles, Giles's face was avid. He liked what he saw. The expression on his face was triumph and no amount of bowing his head could disguise it. She turned away so he couldn't see the mirror on her face. The Slayer spirit inside was exulting and it was all she could do to keep it contained.
 
@@ -3001,9 +3002,9 @@ Giles shifted next to her. His hand on her hip tightened for a moment. "Mmm," he
 
 "Next time." He sighed. "An astonishing week. Who could have seen this end to it?"
 
-"Not me," she murmured. Her Slayer spirit could have, Buffy wanted to say, but she couldn't have predicted more than ending up in bed with him. The rest of it-- the Order of St George, the fighting, the encounter with royalty, the honor done Giles-- none of that could she have seen coming. 
+"Not me," she murmured. Her Slayer spirit could have, Buffy wanted to say, but she couldn't have predicted more than ending up in bed with him. The rest of it-- the Order of St George, the fighting, the encounter with royalty, the honor done Giles-- none of that could she have seen coming.
 
-Giles sat up and stretched. He ran his hands over his thighs and rolled his shoulders. 
+Giles sat up and stretched. He ran his hands over his thighs and rolled his shoulders.
 
 "So strange," he said. "My body feels strange to me."
 

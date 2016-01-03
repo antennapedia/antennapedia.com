@@ -16,6 +16,7 @@ tags:
     - episode:death-in-heaven
     - sex:first-time
     - pining
+    - authors-favorite
 altlink: http://archiveofourown.org/works/2574320
 ---
 The Doctor straightened up and reached out for the levers, painfully. He had to get away from there, away from the great gulf of nothingness where she'd said Gallifrey would be. The levers were broken. Sparks shot from the console rhythmically. His doing, of course. He tugged the stubs of the levers over, using his good hand. Nothing happened.

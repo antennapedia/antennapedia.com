@@ -15,6 +15,7 @@ tags:
     - marriage
     - sex:first-time
     - genre:romance
+    - authors-favorite
 altlink: http://archiveofourown.org/works/2574320
 ---
 The ceremony concluded with a great cheer. The giggling children of the village circled around Clara and the Doctor, then linked hands and skipped in a line away from the fountain. The children each had a glowing spark orbiting their head; the globes looked like tiny stars in the gathering dusk. The Doctor took her hand and they followed the children across the grass. They were leading the way toward the great tree in the center.

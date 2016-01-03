@@ -17,6 +17,7 @@ tags:
   - pining
   - f:rpf
   - p:peter/jenna
+  - authors-favorite
 rating: mature
 pairing: peter/jenna
 ---
