@@ -15,15 +15,18 @@ block banner
 block topmatter
 	h2= title
 	p= summary
-	.info
-		a(href='#{altlink}') discussion
-		br
-		if tags
-			| tags:
-			- for (i = 0; i < tags.length; i++)
-				- urltag = tagsUrlSafe[i]
-				- tag = tags[i]
-				a(href='../tags/#{urltag}.html') #{tag},&nbsp;
+	p #{wordCount} words; reading time #{readingTime}
+	p: a(href='#{altlink}') first posted here
+	if tags
+		- var tagl = []
+		- for (i = 0; i < tags.length; i++)
+			- urltag = tagsUrlSafe[i]
+			- tag = tags[i]
+			- tagl.push("<a href='../tags/" + urltag + ".html'>" + tag + "</a>")
+		- var tagstring = tagl.join(', ')
+		.info 
+			| tags:&nbsp;
+			!= tagstring
 				
 block content
 	#storybody
