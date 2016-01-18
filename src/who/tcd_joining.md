@@ -8,7 +8,7 @@ pairing: Twelve/Clara/Danny
 published: 2015-07-27T12:10:00-08:00
 tags:
     - p:twelve/clara/danny
-    - f:doctor_who
+    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
     - c:danny-pink

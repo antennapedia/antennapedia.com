@@ -8,7 +8,7 @@ pairing: gen
 published: 2015-07-27T12:06:00-08:00
 tags:
     - p:gen
-    - f:doctor_who
+    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
     - genre:humor

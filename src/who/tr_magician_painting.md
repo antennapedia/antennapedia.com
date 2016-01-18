@@ -8,7 +8,7 @@ pairing: Twelve/Rose
 published: 2015-10-04T13:00:00-08:00
 tags:
     - p:twelve/rose
-    - f:doctor_who
+    - f:doctor-who
     - c:rose-tyler
     - c:twelfth-doctor
     - genre:romance

@@ -8,7 +8,7 @@ notes: Written for Remix Redux 2010. A remix of <a href="http://archiveofourown.
 pairing: gen
 published: 2010-05-16T00:01:00-08:00
 tags:
-    - f:doctor_who
+    - f:doctor-who
     - p:gen
     - c:zoe-heriot
     - c:second-doctor

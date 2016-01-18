@@ -10,8 +10,8 @@ published: 2016-01-01T22:00:00-08:00
 tags:
     - genre:crossover
     - p:malcolm/clara/twelve
-    - f:the_thick_of_it
-    - f:doctor_who
+    - f:the-thick-of-it
+    - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
     - c:twelfth-doctor

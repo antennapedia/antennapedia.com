@@ -8,7 +8,7 @@ published: 2015-10-17T12:00:00-08:00
 rating: mature
 tags:
     - p:twelve/clara
-    - f:doctor_who
+    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
     - sex:first-time

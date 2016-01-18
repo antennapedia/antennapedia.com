@@ -8,7 +8,7 @@ pairing: Twelve/Clara
 published: 2015-05-30T12:05:00-08:00
 tags:
     - p:twelve/clara
-    - f:doctor_who
+    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
     - genre:fantasy

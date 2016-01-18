@@ -16,7 +16,7 @@ tags:
   - season:04
   - timetravel
   - f:btvs
-  - f:doctor_who
+  - f:doctor-who
   - p:gen
   - p:giles/ethan
 rating: mature

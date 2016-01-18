@@ -7,7 +7,7 @@ rating: general
 pairing: Twelve/Clara
 published: 2015-05-30T12:00:00-08:00
 tags:
-    - f:doctor_who
+    - f:doctor-who
     - p:twelve/clara
     - c:clara-oswald
     - c:twelfth-doctor

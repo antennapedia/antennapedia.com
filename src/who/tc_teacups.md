@@ -14,7 +14,7 @@ tags:
   - genre:hurt/comfort
   - post-witch's-familiar
   - tea
-  - f:doctor_who
+  - f:doctor-who
   - p:twelve/clara
 rating: general
 pairing: twelve/clara

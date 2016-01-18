@@ -11,8 +11,8 @@ tags:
     - s:owned
     - genre:crossover
     - p:malcolm/clara
-    - f:the_thick_of_it
-    - f:doctor_who
+    - f:the-thick-of-it
+    - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
     - kink:dom/sub

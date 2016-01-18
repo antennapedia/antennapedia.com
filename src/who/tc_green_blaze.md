@@ -7,7 +7,7 @@ notes: 'My Whouffaldi Secret Santa gift for shinebluelikeatardis! I listened to 
 summary: The town is called Mistletoe. Clara objects, because those are tumbleweeds, not mistletoe, and she can tell the difference.
 altlink: 'http://archiveofourown.org/works/5532407'
 tags:
-  - f:doctor_who
+  - f:doctor-who
   - p:twelve/clara
   - c:clara-oswald
   - c:twelfth-doctor

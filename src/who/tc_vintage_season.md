@@ -8,7 +8,7 @@ published: 2015-10-10T12:10:00-08:00
 rating: general
 tags:
     - p:twelve/clara
-    - f:doctor_who
+    - f:doctor-who
     - f:forsyte-saga
     - c:clara-oswald
     - c:twelfth-doctor

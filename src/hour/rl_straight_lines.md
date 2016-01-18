@@ -11,7 +11,7 @@ tags:
   - c:randall-brown
   - genre:angst
   - trope:wingfic
-  - f:the_hour
+  - f:the-hour
   - p:randall/lix
 rating: general
 pairing: randall/lix

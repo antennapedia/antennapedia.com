@@ -14,7 +14,7 @@ tags:
   - marriage
   - pregnancy
   - proposal
-  - f:the_hour
+  - f:the-hour
   - p:randall/lix
 rating: general
 pairing: randall/lix

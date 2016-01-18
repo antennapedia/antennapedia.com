@@ -22,7 +22,7 @@ tags:
   - timetravel
   - watchers
   - f:btvs
-  - f:sherlock_holmes
+  - f:sherlock-holmes
   - p:gen
 rating: general
 pairing: gen

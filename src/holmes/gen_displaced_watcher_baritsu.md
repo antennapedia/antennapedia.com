@@ -17,7 +17,7 @@ tags:
   - tagfic
   - timetravel
   - f:btvs
-  - f:sherlock_holmes
+  - f:sherlock-holmes
   - p:gen
 rating: general
 pairing: gen

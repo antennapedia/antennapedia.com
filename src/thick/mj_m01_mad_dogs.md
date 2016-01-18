@@ -10,7 +10,7 @@ banner: ../css/malcolm_tux_header.jpg
 tags:
     - s:maddogs
     - p:malcolm/jamie
-    - f:the_thick_of_it
+    - f:the-thick-of-it
     - c:jamie-macdonald
     - c:malcolm-tucker
     - genre:romance

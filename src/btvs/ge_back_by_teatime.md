@@ -16,7 +16,7 @@ tags:
   - school
   - timetravel
   - f:btvs
-  - f:doctor_who
+  - f:doctor-who
   - p:giles/ethan
 rating: mature
 pairing: giles/ethan

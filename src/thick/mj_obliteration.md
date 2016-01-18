@@ -9,7 +9,7 @@ banner: ../css/malcolm_tux_header.jpg
 published: 2016-01-16T12:00:00-08:00
 tags:
     - p:malcolm/jamie
-    - f:the_thick_of_it
+    - f:the-thick-of-it
     - c:jamie-macdonald
     - c:malcolm-tucker
     - genre:kink

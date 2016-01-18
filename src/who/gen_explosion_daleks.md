@@ -8,7 +8,7 @@ pairing: gen
 published: 2015-02-07T12:00:00-08:00
 tags:
     - p:gen
-    - f:doctor_who
+    - f:doctor-who
     - c:clara-oswald
     - c:twelfth-doctor
     - c:ace-mcshane

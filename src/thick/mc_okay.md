@@ -10,8 +10,8 @@ published: 2015-10-01T12:00:00-08:00
 tags:
     - p:malcolm/clara
     - genre:crossover
-    - f:the_thick_of_it
-    - f:doctor_who
+    - f:the-thick-of-it
+    - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
     - pregnancy

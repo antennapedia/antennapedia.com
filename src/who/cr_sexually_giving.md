@@ -7,7 +7,7 @@ rating: mature
 pairing: pilfrey/clara
 published: 2015-06-27T12:02:00-08:00
 tags:
-    - f:doctor_who
+    - f:doctor-who
     - p:clara/pilfrey
     - c:clara-oswald
     - c:ronnie-pilfrey

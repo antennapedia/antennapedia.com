@@ -17,7 +17,7 @@ tags:
   - issues:sexual-assault
   - recovery
   - telepathy
-  - f:doctor_who
+  - f:doctor-who
   - p:twelve/clara
 rating: mature
 pairing: twelve/clara

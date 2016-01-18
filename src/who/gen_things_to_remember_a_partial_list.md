@@ -10,7 +10,7 @@ tags:
   - c:twelfth-doctor
   - memory-loss
   - episode:hell-bent
-  - f:doctor_who
+  - f:doctor-who
   - p:gen
 rating: general
 pairing: gen
