@@ -10,10 +10,10 @@ block topmatter
 	p There are #{chars.length} character tags.
 				
 block content
-	#fivecolumn
+	#fivecolumn.tags
 		- each tag in chars
 			- full = tags[tag]
-			a(href='tags/#{full.urlSafe}.html')= tag.substring(2)
+			a(href='tags/#{full.urlSafe}.html')= tag.substring(2).replace(/\-/g, ' ')
 			if full.length === 1
 				|  1 story
 			else

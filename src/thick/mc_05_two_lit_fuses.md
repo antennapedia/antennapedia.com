@@ -20,7 +20,7 @@ tags:
     - kink:dom/sub
     - kink:bondage
     - issues:childhood-abuse
-    - alcoholism
+    - issues:alcoholism
     - authors-favorite
 warnings: none
 altlink: http://archiveofourown.org/works/3782719

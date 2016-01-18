@@ -6,7 +6,7 @@ block topmatter
 	p There are #{tagl.length} tags.
 				
 block content
-	#fivecolumn
+	#fivecolumn.tags
 		- each tag in tagl
 			if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
 				- full = tags[tag]

@@ -10,7 +10,7 @@ block topmatter
 	p There are #{pairings.length} pairings.
 				
 block content
-	#fivecolumn
+	#fivecolumn.tags
 		- each tag in pairings
 			- full = tags[tag]
 			a(href='tags/#{full.urlSafe}.html')= tag.substring(2)
