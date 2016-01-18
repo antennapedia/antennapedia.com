@@ -20,7 +20,7 @@ tags:
     - genre:fluff
 altlink: http://archiveofourown.org/works/4968199
 ---
-## One
+## One: Announcements
 
 Malcolm changed into a fresh suit in his office, with the door closed and Sam guarding it. New set of clothes right down to his boxers. Thank God Sam was all business about these things, but he hadn't been home in three days and the shower (gents only) couldn't do anything for his half-melted shirts. It had been a hellish streak. Stress, shouting, tense meetings, the PM fighting for his political life, the Party in a shambles, an utter blood-soaked shambles. It was so bad he'd had to put off Clara and the dinner date she desperately wanted for three nights running.
 
@@ -130,7 +130,7 @@ Clara ran her fingers through his hair. "Could have my height and your nose."
 
 She laughed. Okay. This was going to be okay.
 
-## Two
+## Two: Jamie
 
 Malcolm kissed Clara at the door of his office, then walked out with her through Sam's domain to the outer door. He kissed her again there and let her fingers trail out of his as she headed off. He bit at his thumb and turned around to see Sam looking at him speculatively. He yanked his thumb out of his mouth and shoved his hands into his trouser pockets.
 
@@ -177,3 +177,75 @@ Then Jamie said, "Feel a lot better about this one than the last time."
 Malcolm would have winced at that reminder of his first marriage before now. Now he didn't fucking care. He was with Clara. Clara, who was the breath in his lungs, the blood in his veins. "Yeah," he said.
 
 "Get the fuck out of here and to a fucking jeweler. Go! I'll gut Baldy when he shows up."
+
+## Three: Evening sickness
+
+"I thought it was morning sickness," Malcolm said. "Mornings. Not evenings." Not during nice dinners he'd cooked for her while half out of his mind with nerves.
+
+Clara's hair escaped from him when she shook her head, and Malcolm hastily gathered it up again, held it away from her face while she retched. She spat into the sink and said, "Right, that's it for the caprese you so thoughtfully made."
+
+"I thought you liked tomatoes."
+
+"I do. I guess Junior doesn't. Today. Tomorrow I'll probably want about five hundred tomatoes."
+
+Malcolm snagged a wine glass and filled it with fizzy water. Clara drank, swished some around in her mouth, and spat into his kitchen sink again. This was all his fault. He'd done this to her.
+
+"This is normal?"
+
+She sighed. "Apparently it could be a lot worse. I only lose it about half the time I eat."
+
+"I don't need to fetch a doctor?"
+
+"No, you idiot. Am I going to have to get you a book on how this all works?"
+
+"Fuck no, darling. I've got it under control. Just checking." Malcolm made a mental note to get Sam to recommend a good book for him so he wouldn't be caught flat-footed again. He followed at her elbow back to the table, and held her chair for her.
+
+Clara picked up her fork and jabbed it at him. "What?"
+
+"What do you mean, what?"
+
+"You're hovering. Stop hovering. I don't need hovering. I'm fine. I'm hungry again, even."
+
+"Yeah, okay, calm yer tits, darling, I'm not hovering. I just--"
+
+"What?"
+
+Malcolm opened his mouth, shut it, shoved his hands into his trouser pockets. In the right pocket was a little velvet box. He'd had it for days, since Jamie had shooed him out of his office to a jeweler's. He'd been carrying the damn thing in his pocket for all those days, absolutely unable to do what he needed to do with it. It was supposed to end up on her finger and then he'd have to shell out ungodly amounts of dosh for a lavish wedding. That was how it was supposed to go. But what if she didn't want him? What if the stone was wrong? How was he supposed to ask? Was he supposed to go to one knee? Both knees? Would Clara want him to do what he was supposed to do or something iconoclastic or should he just do what one of those repressed twats in one of her Austen novels would do?
+
+He took the box out of his pocket. Went down on one knee. Snapped the box open. Held it out to her. His stomach felt about the way it did the first time he got grilled by a panel of MPs, the first time he'd watched a prime minister deliver a speech he'd written, the first time he'd bullied a minister into resigning.
+
+"Malcolm--"
+
+“You’re everything to me. Thought you should fuckin’ know. The world should fuckin’ know. That’s my wee bairn and I– Fuck me.” He snapped his mouth shut before he made it worse, ground his teeth, looked everywhere but at her.
+
+“Okay.”
+
+Malcolm's heart stopped. “Okay?”
+
+“Yeah, okay.”
+
+## Four: His
+
+Sleep was a dim memory. Dreaming was a dim memory. He was wearing a t-shirt and stained track pants. He couldn't remember the last time he'd put on a tie. Thank fuck for parental leave. He'd have hated trying to terrorize idiot politicians with spit-up on his coat. Malcolm's life was nappies and walking around the house singing to a tiny thing that would spit up on his shoulder when he least expected it. He paced with wee Dougan on his shoulder so that Clara could sleep. Three weeks old. Couldn't do a thing but eat, shit, and wail. Malcolm was already wrapped around Dougan's tiny tiny finger.
+
+The bairn was asleep at last. He tiptoed his way up the stairs and into their bedroom. Cot was by the side of their bed.  He laid Dougan down on his back and breathed out a sigh of relief. Still asleep. Sometimes he woke when set down.
+
+Clara sat up in their bed and yawned.
+
+"Sorry," he said. "Didn't mean to wake you."
+
+"My turn, Malc," Clara said. "He's asleep. You sleep."
+
+"You sure?"
+
+"I just got in three hours. I'm good."
+
+Malcolm needed no further invitation. He fell face-down onto the bed. His eyes were closed and he was in REM sleep before he had time to remember he hated sleeping on his stomach.
+
+He woke some time later. Dark out, by the lights in the windows. He stretched, yawned, rolled over. Clara was standing the bed, her shirt open, wee Dougan against her breast. The sight did something to him every time, no matter how many times he'd seen it. His wife, his child. His heart aching in his chest so fiercely it was a wonder no one else could hear it whimpering.
+
+"Come here, darling. Let me hold you. Hold both of you."
+
+Malcolm sat up against the headboard and opened his arms to her. She scooted around to sit between his thighs. She leaned back against him until she was settled. He slipped his arms around her, found the hand she had braced under Dougan's bottom and laced his fingers with hers.
+
+Yeah. He was a dad. This was what she'd done to his life. He had a family. He'd thought he'd die without one. No legacy, no children, nobody in his corner, but here he was, watching his son suckle. Murky gray blue eyes open, looking up his wife. His son. His wife. His. They were his. His tears on his face, dripping from the end of his nose. All his.
