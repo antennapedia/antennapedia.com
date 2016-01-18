@@ -1,0 +1,22 @@
+extends basic.jade
+
+block topmatter
+	h2 Characters
+	- var tagl = Object.keys(tags).sort()
+	- var chars = []
+	- each tag in tagl
+		if (tag.indexOf('c:') === 0)
+			- chars.push(tag)
+	p There are #{chars.length} character tags.
+				
+block content
+	#fivecolumn
+		- each tag in chars
+			- full = tags[tag]
+			a(href='tags/#{full.urlSafe}.html')= tag.substring(2)
+			if full.length === 1
+				|  1 story
+			else
+				|  #{full.length} stories
+			br
+			

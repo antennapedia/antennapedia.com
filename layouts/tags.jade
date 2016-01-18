@@ -8,11 +8,12 @@ block topmatter
 block content
 	#fivecolumn
 		- each tag in tagl
-			- full = tags[tag]
-			a(href='tags/#{full.urlSafe}.html')= tag
-			if full.length === 1
-				|  1 story
-			else
-				|  #{full.length} stories
-			br
+			if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
+				- full = tags[tag]
+				a(href='tags/#{full.urlSafe}.html')= tag
+				if full.length === 1
+					|  1 story
+				else
+					|  #{full.length} stories
+				br
 			

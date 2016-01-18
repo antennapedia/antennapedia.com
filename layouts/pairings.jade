@@ -1,0 +1,22 @@
+extends basic.jade
+
+block topmatter
+	h2 Pairings
+	- var tagl = Object.keys(tags).sort()
+	- var pairings = []
+	- each tag in tagl
+		if (tag.indexOf('p:') === 0)
+			- pairings.push(tag)
+	p There are #{pairings.length} pairings.
+				
+block content
+	#fivecolumn
+		- each tag in pairings
+			- full = tags[tag]
+			a(href='tags/#{full.urlSafe}.html')= tag.substring(2)
+			if full.length === 1
+				|  1 story
+			else
+				|  #{full.length} stories
+			br
+			
