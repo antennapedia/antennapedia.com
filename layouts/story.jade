@@ -16,7 +16,9 @@ block topmatter
 	h2= title
 	p= summary
 	p #{wordCount} words; reading time #{readingTime}
-	p: a(href='#{altlink}') first posted here
+	p 
+		a(href='#{altlink}') first posted here
+		| on #{published}
 	if tags
 		- var tagl = []
 		- for (i = 0; i < tags.length; i++)

@@ -88,8 +88,12 @@ metalsmith
 		html: true
 	}))
 	.use(wordcount())
+	.use(dupePubDate)
+	.use(dateFormatter({
+		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
+	}))
 	.use(archive({
-		dateFields: ['published'],
+		dateFields: ['publishedRaw'],
 		collections: ['who', 'thick', 'rpf', 'hour', 'btvs', 'holmes']
 	}))
 	.use(totalWords)
@@ -116,9 +120,6 @@ metalsmith
 		'layout': 'tag.jade',
 		'sortBy': 'idtag'
 	}))
-	.use(dateFormatter({
-		dates: [{ key: 'published', format: 'YYYY/MM/DD' }]
-	}))
 	.use(layouts({
 		'engine': 'jade',
 		'default': 'story.jade',
@@ -129,6 +130,23 @@ metalsmith
 		'src': 'static',
 		'dest': '.'
 	}));
+
+function dupePubDate(files, ms, done)
+{
+	var metadata = metalsmith.metadata();
+	var total = 0;
+	var fnames = Object.keys(files);
+	fnames.forEach(function(f)
+	{
+		var story = files[f];
+		if (story.published)
+		{
+			story.publishedRaw = story.published;
+		}
+	});
+
+	done();
+}
 
 function totalWords(files, ms, done)
 {
