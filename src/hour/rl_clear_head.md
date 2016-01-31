@@ -94,6 +94,44 @@ The couple spent a quiet week in a cottage on the coast, and returned to London 
 
 Lix had, to her surprise and Randall's continued disbelief, a serene pregnancy, an easy pregnancy, a boring pregnancy. She'd done it once before, little though she liked to dwell on that. She knew what she was in for. And when her water broke and labor was on her, she was perfectly calm as she informed Randall that he might want to fetch a cab.
 
+## Interlude
+
+Sophia's birthday. Randall knew the date, of course. He knew that Lix knew it. He did not dare mention it to her. She was heavy with their second child, the one that would be born with his name, the one neither one of them would run from. He didn't want to trouble her by reminding her of their loss, the grief he had barely allowed himself to feel. Mere hours to feel it before he'd had to function as a producer, to fret over the life that might yet be saved, of his young reporter. Repress it, hide it, button it away into his breast pocket where everything else was hid.
+
+Her birthday today. He might have had an adult daughter now but for his drinking, the ruin of a man he was. How he frightened Lix with his fidgeting when sober. He was to blame.
+
+His fidgeting was out of control again today. He paced from board to board, rearranging the notices, the thumbtacks. He rearranged the bookshelves of a reporter he was chastising mildly for failing to pursue a source. And when he appeared in Lix's office to take her off to their house, he found himself twitching around the objects on her desk.
+
+"Randall, dear, do stop."
+
+"Sorry," he said, and stuck his hands into his pockets.
+
+"Are you well?"
+
+"Yes, quite. Shall we?"
+
+He offered her his arm. Comforting to feel her squeeze, to walk together to the doors, slowing his pace to match hers. Another month to go, she said, and it was beginning to burden her.
+
+He fidgeted again in the cab, touching everything there was to touch and move, rubbing at his knees. His fault. He'd lost her. He'd never known her. Never held her in his arms. Did he deserve this child Lix was bearing for him now? Did he deserve to have married her?
+
+No.
+
+"Randall. Talk to me."
+
+"It's nothing."
+
+"I know what day it is, dear."
+
+"Of course you do," he murmured, and allowed her to take his hand.
+
+Lix was on his arm again as they made their way up the walk to their front door, but he knew that she was supporting him more than he her. Inside, taking her coat off, helping her to a seat where she could put her feet up. He knelt before her and laid his head in what remained of her lap. He rested a hand on her great belly, where their child turned and kicked. She, he ought to have a sister. It was an injustice. One of the many great injustices of the war, but he must also bear the guilt of this one.
+
+"I'm sorry," he said.
+
+"I know, dear. It's all right now."
+
+Her fingers in his hair, stroking the back of his neck, sneaking their way into his shirt collar. He'd never deserve any of this, but he'd been given it, and he would accept it gratefully.
+
 ## Three
 
 Randall had command of himself in a crisis. He told himself this but he knew it was true from his experience through two wars. Was pregnancy a crisis or normality? He asked himself that question as he helped Lix-- his wife, his Lix, his life-- into the cab. She was calm enough in the minutes between bouts of labor pains, but he could not be. Her face, her bitten lip, her hand tightening on his-- Lix ought not feel pain ever, never mind that much. And he could do nothing but give the cabbie directions in the steadiest voice he could summon.
