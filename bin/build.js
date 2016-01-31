@@ -9,6 +9,7 @@ var Metalsmith = require('metalsmith'),
 	collections   = require('metalsmith-collections'),
 	dateFormatter = require('metalsmith-date-formatter'),
 	feed          = require('metalsmith-feed'),
+	humanize      = require('humanize-number'),
 	identifiers   = require('metalsmith-headings-identifier'),
 	layouts       = require('metalsmith-layouts'),
 	markdownit    = require('metalsmith-markdownit'),
@@ -18,8 +19,8 @@ var Metalsmith = require('metalsmith'),
 	sass          = require('metalsmith-sass'),
 	sitetitle     = require('metalsmith-page-titles'),
 	static        = require('metalsmith-static'),
-	tags         = require('metalsmith-tags'),
-	wordcount    = require('metalsmith-word-count')
+	tags          = require('metalsmith-tags'),
+	wordcount     = require('metalsmith-word-count')
 	;
 
 var start = Date.now();
@@ -158,7 +159,7 @@ function totalWords(files, ms, done)
 		total += parseInt(files[f].wordCount || 0, 10);
 	});
 	metadata.storycount = fnames.length - 6; // magic number
-	metadata.wordcount = total;
+	metadata.wordcount = humanize(total);
 
 	var archive = metadata.archive;
 	archive.forEach(function(year)
@@ -168,6 +169,7 @@ function totalWords(files, ms, done)
 		{
 			year.wordcount += parseInt(s.wordCount || 0, 10);
 		});
+		year.wordcount = humanize(year.wordcount);
 	});
 
 	done();
