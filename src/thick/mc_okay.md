@@ -18,7 +18,10 @@ tags:
     - announcements
     - proposal
     - genre:fluff
+    - sex:beach
+    - wine
 altlink: http://archiveofourown.org/works/4968199
+autotoc: true
 ---
 ## One: Announcements
 
@@ -249,3 +252,113 @@ He woke some time later. Dark out, by the lights in the windows. He stretched, y
 Malcolm sat up against the headboard and opened his arms to her. She scooted around to sit between his thighs. She leaned back against him until she was settled. He slipped his arms around her, found the hand she had braced under Dougan's bottom and laced his fingers with hers.
 
 Yeah. He was a dad. This was what she'd done to his life. He had a family. He'd thought he'd die without one. No legacy, no children, nobody in his corner, but here he was, watching his son suckle. Murky gray blue eyes open, looking up his wife. His son. His wife. His. They were his. His tears on his face, dripping from the end of his nose. All his.
+
+## Five: Barcelona
+
+Spain. Barcelona, to be precise. Not full height of the tourist season, which never ended in Barcelona, but it was warm enough. They weren't in the city itself but east of it, on a private beach, in a house in a cluster of private guest houses. Or so Clara had pitched it to him.
+
+A glorious sunset glowed from the west. He had his eyes turned away from it, though, and turned toward Clara's backside in a little sundress and bare legs. She turned back to him and stretched out a hand. He took it. She had the blanket; he had the wine bottle. Down the path, onto the beach, right down over onto the white, white sand. Cool under his feet, but the breeze from the Mediterranean was warm. A warm night with a moon just shy of full hovering to the east. Lights and voices and music floated dimly over the hills at the edge of the beach, but faded as they got closer to the water.
+
+He followed Clara further down. No dunes here, just smooth beach, slanting down into the sea. It was dark, save for the moonlight on the water. Tide on the way out, a line of salty wrack at the high water mark, cold wet sand below.
+
+Clara retreated a few feet back up and laid the blanket out. Malcolm stretched himself out next to her and held out the bottle. No glasses. He'd had the forethought to open it while they were back at the cottage.
+
+Clara took it and giggled at him. "To us!" She took a swig and giggled again. It was adorable. "Oh, that's nice. Try it." She passed it to him.
+
+"To us," he said, raising the stem toward the moon. "Fuck, yes, that's good. Almost sweet, but not too much."
+
+"Sipping wine."
+
+"For a moonlit night."
+
+Another pass of the bottle back and forth, then he screwed it firmly into the sand by their heads. He laid a hand on her hip, leaned in, and kissed her. Wine on her lips, perfume in her hair, oh yes. This was what he'd hoped for when he'd planned this little getaway. No fucking interruptions, nothing to do in the morning but shag some more. It wasn't a five-star hotel, but it was the next best thing: a fucking gorgeous private Mediterranean beach on a fucking gorgeous evening with the most fucking gorgeous woman he'd ever kissed.
+
+He'd already taken a fat blue pill to ensure best results for the evening-- not that he would ever admit that to her, but he did it so he could keep up-- and he had a threesome of rubbers in his pocket. The pill was good for at least three, he'd learned from previous evenings of excess with her. Clara herself was often good for more than that, but that's what God had given him a tongue for. That was running ahead of himself, though. Right now it was time to talk, and kiss, and flirt.
+
+They'd been dating for a few months now, but this was their first time away together, and Malcolm was kicking himself for not having taken the time to do it sooner, because it was magic. Talking to her, laughing with her, sharing the bottle with her, looking into her dark eyes in the moonlight: magic. The spin doctor and the school teacher, yeah, that's what the twat at the Mirror had written, and let them write. The spin doctor's head was spinning and the school teacher had him schooled. Fuck, he was simple in the head about her.
+
+"Malcolm?"
+
+"Yeah?"
+
+"You okay? You just broke off in the middle of a sentence and went glassy-eyed."
+
+He blinked, focused on her, and grinned. "You're fucking gorgeous, you know that? And have as many brains as the entire cabinet smashed together into a single skull."
+
+"Wow, quite an image there, but thanks."
+
+"It's true, though." He fumbled until he'd found her hand and kissed it. "Fucking crazy about you."
+
+"I know. I'm crazy about you too."
+
+"Fuck knows why, but I'll take it."
+
+"Seriously, Malcolm? Because of how much you care about everything you care about."
+
+That made his face flush with emotion, and that wasn't something he could bear much of. So rather than answer he laid her back on the blanket, hand behind her head, and kissed her deeply. Got a knee between her thighs and settled in for the serious snogging of the evening, the snogging that would end in shagging on the beach. Fucking fantasy life he lived, a Motherwell boy in a place like this with a woman like this who was crazy about him. He was well hard now, and it felt good to press himself against her, to know she appreciated it. Appreciated him.
+
+Clara sat up and wriggled and slid her knickers down her legs. Showed them to him for an instant, then tucked them behind herself. Malcolm lost no time getting his hand up her skirt again, let his middle finger press into her cunt while his thumb rested on her clit. Work her up fully this way, get her near coming, get her open and soft and wet, then ask her if he could fuck her, not that she'd said no to him yet. A long series of enthusiastic yeses starting with that second date. The first date he'd just kissed her at her door, all nerves and questions he wasn't ready to ask yet. He'd asked most of them now. Could he take her out to dinner again? Would she consent to make love with him? Would she come to see a film with him? Would she allow him to go down on her? Did she like Sunday morning lie-ins with coffee, croissants, and swearing at a stack of newspapers? Could he touch her there? Would she come to this Party event as his plus one? Would she suck him off if he asked nicely? If he begged obscenely? Would she come away with him to Spain for a long weekend together?
+
+Yes, yes, she'd always said yes to him, and he'd always done his best to make sure she never regretted it. And now he was about to make her come in his arms in the open air on a beach. He eased off before she got there, kissed her again, and rubbed his nose against hers.
+
+"Yeah, darling, may I take you? I love to take you now. Take you right here, on the fucking beach. Yeah?"
+
+"Mmm, okay. Get your trousers off."
+
+She fumbled with his zip then abandoned him to it and got her skirt up. Malcolm didn't take his trousers off, just shoved them down far enough to be out of the way. There was no one about to mind the sight of his pasty white arse, at least. The beach was private, and no one was in sight and Malcolm was as turned on as he ever got. He levered himself up over her and let her guide him home. "Yeah," he said, "yeah, fuck, that's good." A tiny part of his mind might have reminded him that it felt too good, skin on skin, that he had gone into her bare, but he ignored it. He was dizzy with wine, lust, love, and a thousand other emotions. Didn't have words for any of them, but he didn't need to. He had her name, which he whispered in her ear. A magic name.
+
+"Love the way you say it," she said. "The way you almost roll the R but then don't."
+
+"You mocking me? Mocking the Weegie?"
+
+"Wouldn't dream of it. Not when you have me in this position."
+
+"You like this position."
+
+"Oh, I do."
+
+Malcolm rewarded her by biting at her throat, gently, just enough to get her to moan instead of talking. He did love it when she talked. Loved everything she did. Loved the way she was squeezing him then, the way her heels were digging into the backs of his knees, the way she was so slick around him. He told her so, maybe not in the most graceful of phrases, but sincere ones. The filthier he got, the more she moaned, so he let himself wax obscene on the magic of cock in cunt, of Malcolm inside Clara, of what she made him feel and how long he would feel that way and how many kingdoms he would topple for her sake, for the sake of coming inside her, but only after she'd come first for him, would she? would she please? And there she went, shaking for him, throwing her head back for him and baring her neck for another bite. He let her ride it out and then let himself be selfish, let himself drive hard and fast, until he was the one shaking and gasping and digging his fingers into the sand.
+
+Cooling down, still inside her, unmoving, kissing her, licking at the place on her neck he'd bitten. Softer words now, pet names, kisses on the end of her nose, her hand stroking his back. At last he slipped out of her and rolled away. A moment of mourning, because he always wanted that feeling to last forever. Tucking himself back inside his trousers, zipping up. Head back, looking up at the starry sky, an ever-deepening blue. He was in love. Why was she with him? Fucked if he knew.
+
+Malcolm sat up and found the bottle, shook it. Another mouthful of wine for each of them, and then it was dry. Malcolm kissed Clara's wet lips and ran his fingers over her bare thigh, around and between, where her skin was wet. He brought his fingers to his lips and tasted. Salt, cunt, come. Fucking amazing. He was going to be turned on again if he wasn't careful. She was watching him lick his fingers, a glint in her eye, so he slowed down and licked his middle finger luxuriously, obscenely, finishing with a flicker of his tongue that he was sure she understood.
+
+She grinned at him and he grinned back.
+
+"Let's go back to the cottage, Clara, darling. Do this like civilized people."
+
+"I was enjoying being a pair of teenagers, there."
+
+Clara poked at his soft midsection. She was laughing at him, and he felt himself blushing. He got his revenge by lunging across her to snag her knickers before she remembered to look for them. He held them up between them, and when she grabbed for them snatched them away. He stuffed them into his trouser pocket. She stuck her tongue out at him.
+
+"Sand in them," he said. "You don't want to put 'em on.'"
+
+"True. I already have sand in places I don't want to discuss."
+
+"Cottage has a hot tub," he said. He picked up the empty bottle. Clara shook sand out of the blanket and folded it.
+
+"And another bottle of wine in a bucket of ice."
+
+"Now that was pure brilliant, whoever planned ahead like that."
+
+Clara took his hand and tugged him after her, and they retraced their steps up the beach. It was fully dark now, and the stars were out. The sand was cooling under his bare feet. The air was warm. He was tipsy, and it was marvelous.
+
+"Stop fishing for compliments," she said.
+
+"Don't need your fuckin' compliments. Got better ways to wring them out of you anyway."
+
+Clara paused and cocked an eyebrow at him. "Oh?"
+
+"I'll have you begging me to let you compliment me."
+
+"What does that even mean?"
+
+He ignored that. "Fuckin' have you begging. On your hands and knees, me behind you, I'm thinking. Best position for fingering and fucking."
+
+"Sounds complicated."
+
+"Dead simple. You'll see what I mean."
+
+"You'll have to catch me first. And you run like a penguin."
+
+And Clara let go of his hand and ran up the walkway to the cottage, laughing ridiculously. Taunting him. Malcolm stared after her, then grinned and chased her through the door.

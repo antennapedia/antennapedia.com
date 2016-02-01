@@ -4,7 +4,7 @@ mixin renderToc(items)
 	ol(class='toc')
 		- each item in items
 			li
-				a(href='')= item.text
+				a(href='#item.id')= item.text
 				if (item.children.length > 0)
 					+renderToc(item.children)
 
@@ -18,7 +18,7 @@ block topmatter
 	p #{wordCount} words; reading time #{readingTime}
 	p 
 		a(href='#{altlink}') first posted here
-		| on #{published}
+		|  on #{published}
 	if tags
 		- var tagl = []
 		- for (i = 0; i < tags.length; i++)
