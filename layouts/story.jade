@@ -4,7 +4,7 @@ mixin renderToc(items)
 	ol(class='toc')
 		- each item in items
 			li
-				a(href='#item.id')= item.text
+				a(href="##{item.id}")= item.text
 				if (item.children.length > 0)
 					+renderToc(item.children)
 
