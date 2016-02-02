@@ -6,7 +6,7 @@ summary: Clara has some news for Malcolm. Malcolm takes it in his stride. His pe
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: 2015-10-01T12:00:00-08:00
+published: 2016-01-31T12:00:00-08:00
 tags:
     - p:malcolm/clara
     - genre:crossover
@@ -301,7 +301,7 @@ Clara sat up and wriggled and slid her knickers down her legs. Showed them to hi
 
 Yes, yes, she'd always said yes to him, and he'd always done his best to make sure she never regretted it. And now he was about to make her come in his arms in the open air on a beach. He eased off before she got there, kissed her again, and rubbed his nose against hers.
 
-"Yeah, darling, may I take you? I love to take you now. Take you right here, on the fucking beach. Yeah?"
+"Yeah, darling, may I take you? I'd love to take you now. Take you right here, on the fucking beach. Yeah?"
 
 "Mmm, okay. Get your trousers off."
 
