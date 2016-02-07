@@ -2,7 +2,6 @@
 idtag: gj_watchers_child_aftermath
 author: antennapedia
 published: '2007-11-26T14:13:00-08:00'
-series: watchers_child
 title: Aftermath
 notes: null
 summary: 'The Master is dead, and they all survived. Giles and Jenny celebrate.'
@@ -14,6 +13,7 @@ tags:
   - season:01
   - f:btvs
   - p:giles/jenny
+  - s:watchers_child
 rating: mature
 pairing: giles/jenny
 ---

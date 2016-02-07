@@ -2,7 +2,6 @@
 idtag: gx_cloud_animals_slow_rise
 author: antennapedia
 published: '2007-04-06T08:08:00-07:00'
-series: cloud_animals
 title: Slow Rise
 notes: "Post-\"Chosen\" AU; <a href=\"http://antennapedia.livejournal.com/211202.html?mode=reply\">Cloud Animals 'verse</a>."
 summary: 'The Head of Council enjoys cross-referencing, baking, and many other relaxing hobbies.'
@@ -20,6 +19,7 @@ tags:
   - rupertus-domesticus
   - f:btvs
   - p:giles/xander
+  - s:cloud_animals
 rating: mature
 pairing: giles/xander
 ---
@@ -49,13 +49,13 @@ Rupert held up a strip of little packets. "Yeast. They eat sugar and excrete, er
 
 "Why do I ask you these questions? The answers are always gross."
 
-Xander leaned against the counter to watch what Rupert did next. He poured a little honey into a bowl of warm water, then wiped the edge of the jar with his thumb. He tasted it, then stuck it out for Xander. Xander licked Rupert's thumb. Good stuff. Like everything in this kitchen. Xander had been re-learning how to eat over the last months. A lifetime of takeout Chinese and pizza and soup from a can hadn't prepared him for this. This was real food. Fresh stuff. Raw ingredients. Fresh eggs from the Giles hens. Honey from the lady two miles down the road. Milk from the dude just past her. 
+Xander leaned against the counter to watch what Rupert did next. He poured a little honey into a bowl of warm water, then wiped the edge of the jar with his thumb. He tasted it, then stuck it out for Xander. Xander licked Rupert's thumb. Good stuff. Like everything in this kitchen. Xander had been re-learning how to eat over the last months. A lifetime of takeout Chinese and pizza and soup from a can hadn't prepared him for this. This was real food. Fresh stuff. Raw ingredients. Fresh eggs from the Giles hens. Honey from the lady two miles down the road. Milk from the dude just past her.
 
 Xander licked Rupert's fingers clean of honey, then kept on licking. And then sucking.
 
 Rupert groaned and pulled his hand away. "Bloody hell, Xan. Don't. We'll never get this finished."
 
-"You started it. You with your delicious fingers, all sticky and sweet." 
+"You started it. You with your delicious fingers, all sticky and sweet."
 
 "Later. When the dough is rising." Rupert's voice was all ragged and husky, full of promise. Xander grinned. He had this guy wrapped around his little finger. Pretty soon he'd have him in bed. All the kissing and the tentative groping had them both right on the edge all the time. Rupert was not going to last another day with this "let's take it slowly" plan.
 
@@ -101,15 +101,15 @@ Twenty minutes of kneading later, Xander had something that looked like dough an
 
 Xander pushed him gently back against the counter. Rupert might be nervy about his first time in bed with another man, but he was not nervy about the kissing. And damned if he wasn't amazing with the kissing. Xander'd had his share of other people's tongues shoved in his mouth by overeager partners, and his share of hot makeout sessions with total strangers. This was different. When Rupert finally let you taste him, it was after ten minutes of teasing, little flicks along your lips, diversions to kiss the edge of your jawline all the way to your ear and back down your throat, then finally giving you the deep slow open-mouthed kiss you'd been begging for all along, the kiss that taught you you'd only been kissed by dilettantes before now.
 
-Xander pressed his hips against Rupert's, seeking that bulge to grind against. There it was. He seriously wanted to see Rupert naked. Soon. Now. Wanted to taste him. Though maybe that would be moving too fast. Keep it slow. Make Rupert beg. Zeus in a swan suit, Xander was about out of patience. He needed this man. Needed him more than he'd ever needed anybody. 
+Xander pressed his hips against Rupert's, seeking that bulge to grind against. There it was. He seriously wanted to see Rupert naked. Soon. Now. Wanted to taste him. Though maybe that would be moving too fast. Keep it slow. Make Rupert beg. Zeus in a swan suit, Xander was about out of patience. He needed this man. Needed him more than he'd ever needed anybody.
 
-Rupert's cellphone buzzed in his hip pocket. 
+Rupert's cellphone buzzed in his hip pocket.
 
 "Bugger." Rupert disengaged just enough to dig it out. "Giles here. Oh, hello, Armitage. Yes, yes."
 
 Rupert listened for a minute. Xander tilted his head. Armitage was Rupert's estate caretaker, the guy who'd done all the work while Rupert was in Sunnydale. Retired Watcher. Sounded like demon business, in fact.
 
-"Oh dear. I'll be along directly to clear it up." Rupert snapped the phone closed and said another one of those weird Brit swear words. 
+"Oh dear. I'll be along directly to clear it up." Rupert snapped the phone closed and said another one of those weird Brit swear words.
 
 "There's something in the fountain in the village center. It just frightened a a pensioner. Probably a Grummitch. The village has a colony somewhere." Rupert sighed. "It's not particularly dangerous. I'll call Buffy. She's in Bath, shopping or drinking mochas or possibly both."
 
@@ -149,7 +149,7 @@ Rupert put down the book. "Only ten minutes. Then we pop them in the oven. And t
 
 The two men grinned at each other. Two hearts beating as one, Xander thought. Or two other body parts, maybe. If he was lucky.
 
-About fifteen minutes later, he was feeling pretty lucky. Rupert slid the pans into the oven and levered the door shut decisively. Xander untied the apron and hung it on the wall hook where Rupert's was. They stood poised, looking at each other, for about ten seconds. And then they slammed into each other. Game over. Hands everywhere and frantic kissing. Rupert pushed Xander against the table and swept out a hand. Xander's books went flying. Xander fell backwards onto the table, pulling Rupert down with him. He wrapped his legs around Rupert's waist. Rupert was half on top of him, biting at his neck. 
+About fifteen minutes later, he was feeling pretty lucky. Rupert slid the pans into the oven and levered the door shut decisively. Xander untied the apron and hung it on the wall hook where Rupert's was. They stood poised, looking at each other, for about ten seconds. And then they slammed into each other. Game over. Hands everywhere and frantic kissing. Rupert pushed Xander against the table and swept out a hand. Xander's books went flying. Xander fell backwards onto the table, pulling Rupert down with him. He wrapped his legs around Rupert's waist. Rupert was half on top of him, biting at his neck.
 
 Clothes. Bad. Clothes had to go. He began pulling Rupert's shirt out of his jeans, so he could get his hands on that chest.
 
@@ -163,13 +163,13 @@ Rupert stopped then, and raised his head enough to glare at Buffy. "What?"
 
 "You know, sacred duty? That thing you're always on me about doing? I stopped off to check out that Gromit thing you said was such a pain."
 
-Rupert stood up and tugged at the tails of his shirt. Xander pushed himself upright and attempted to adjust himself in his jeans without being too obvious. 
+Rupert stood up and tugged at the tails of his shirt. Xander pushed himself upright and attempted to adjust himself in his jeans without being too obvious.
 
 "I took care of that an hour ago, Buffy." Rupert had that tone in his voice, the one that said he had infinite wells of patience that somehow his Slayer had managed to run dry.
 
 "Yeah, well, there's another demon in the fountain now. An M'Fashnik. It's smashing the statue of that guy, admiral ha-ha." Buffy did the Nelson laugh perfectly. You forgot Buffy had a brain at your peril.
 
-"Bloody fucking *hell*!" Rupert let loose a long streak of invective, only some of which was in English. 
+"Bloody fucking *hell*!" Rupert let loose a long streak of invective, only some of which was in English.
 
 Buffy put her hands on her hips. "Xan, you are corrupting my Watcher."
 
@@ -189,9 +189,9 @@ Rupert was pulling on a sweater. He headed for the back door, then turned around
 
 It was past ten. The bread had long since finished baking and cooling. It was only a little burnt. One loaf, anyway. The others had been fine. Xander had eaten about six slices with marmalade for dinner. Eventually he gave up trying to study Latin in the kitchen and took himself upstairs to check out Rupert's bedroom. Move some clothes in, maybe. He grabbed a few necessities and went down the hallway to the door Rupert went into every night. He slowly creaked open the door and stepped in.
 
-Rupert's bedroom was nicer than Xander's. Xander suspected he'd been sleeping in the room that had been Rupert's when he'd been a kid. Single bed, a lot of bookshelves, a desk that was a just a bit too small for Xander to feel comfortable at. Rupert's room felt different. It was no kid's bedroom: this was the official head-of-household bedroom. Much bigger, with east-facing windows and a huge cushioned window seat. Older furniture. 
+Rupert's bedroom was nicer than Xander's. Xander suspected he'd been sleeping in the room that had been Rupert's when he'd been a kid. Single bed, a lot of bookshelves, a desk that was a just a bit too small for Xander to feel comfortable at. Rupert's room felt different. It was no kid's bedroom: this was the official head-of-household bedroom. Much bigger, with east-facing windows and a huge cushioned window seat. Older furniture.
 
-He inhaled. It smelled like Rupert did. Sandalwood and leather and tea and books, and the sweet summer air from the open windows. Yeah. Xander was going to like sleeping here. He grinned. If sleeping was what they did. He had a suspicion there'd be a lot of other stuff going on for a while. 
+He inhaled. It smelled like Rupert did. Sandalwood and leather and tea and books, and the sweet summer air from the open windows. Yeah. Xander was going to like sleeping here. He grinned. If sleeping was what they did. He had a suspicion there'd be a lot of other stuff going on for a while.
 
 Most importantly, this room had a huge bed. Plush. Lots of pillows. Xander stripped to boxers and t-shirt and arranged three-quarters of the pillows in a mound at the headboard. He propped himself up on them and resumed reading the squad tactics book. He tried not to worry too much. Buffy killed regular demons in her sleep these days; her Slaying stat was what Andrew called a natural 18. Eventually he dozed off, the book face-down on his lap, all the lights still on.
 

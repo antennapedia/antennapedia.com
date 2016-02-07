@@ -1,10 +1,8 @@
 ---
-idtag: gb_legacies_breakfast_in_bed
+idtag: gb_legacies_3_breakfast_in_bed
 author: antennapedia
 published: '2010-04-11T12:47:00-07:00'
-series: legacies
 title: Breakfast in Bed
-notes: null
 summary: Toast racks are abused; bathrobes are stolen; crosswords are left undone.
 altlink: 'http://antennapedia.livejournal.com/478555.html#comments'
 tags:
@@ -19,6 +17,7 @@ tags:
   - toast
   - f:btvs
   - p:giles/buffy
+  - s:legacies
 rating: mature
 pairing: giles/buffy
 ---
@@ -30,15 +29,15 @@ Buffy sat up, clutching the sheets to her body. "Mmm. What time is it?"
 
 "Half ten."
 
-"That early?" 
+"That early?"
 
 Giles laughed, and leaned toward her with a coffee cup and saucer in his hand. Buffy let an undignified whimper escape her lips, and reached out more greedily than was compatible with Slayer dignity. They'd been up late, late even for a Slayer. So late it probably counted as early.
 
 The coffee was good, and that was real cream in it. The right amount of sugar, too. Giles had been getting her coffee right for years, though he groused about the sugar, and she had been getting his tea right. Some things didn't change, even though they were in a ridiculous house in the Wiltshire countryside instead of in a school library in southern California. She wondered if Giles still favored the Darjeeling, if he still abused a dart board to practice with his throwing knives, if he sharpened the knives on the nights when he didn't clean his guns. She'd wager her best boot knife he did.
 
-Buffy drank the coffee Giles had made her, and reflected with no little satisfaction that she'd be sharpening blades with Giles again soon. And probably getting to use them. Rome had been lovely, but it had no vampires. The only demons were the safe civilized urbane kind, well-dressed and tame in bed and eventually boring. Though she'd miss the clothes. The leather pants she'd had made just before she'd flown here were the most amazing things. For the first time in her life, she got the fitting like a glove thing. Giles hadn't seen her in those pants yet. 
+Buffy drank the coffee Giles had made her, and reflected with no little satisfaction that she'd be sharpening blades with Giles again soon. And probably getting to use them. Rome had been lovely, but it had no vampires. The only demons were the safe civilized urbane kind, well-dressed and tame in bed and eventually boring. Though she'd miss the clothes. The leather pants she'd had made just before she'd flown here were the most amazing things. For the first time in her life, she got the fitting like a glove thing. Giles hadn't seen her in those pants yet.
 
-Buffy smiled from behind the shelter of her coffee cup, and drank the sugary dregs. 
+Buffy smiled from behind the shelter of her coffee cup, and drank the sugary dregs.
 
 "Coffee to your liking, then?"
 
@@ -90,7 +89,7 @@ Buffy pouted. "We'll have to stay inside."
 
 "I'm sure we'll think of something."
 
-And they shared a look that convinced her that their two hearts beat as one on this topic. Giles had exactly as many regrets as she had about last night. Which was to say, zero. The Geiger regrettage counter was completely failing to click. Though, wait. Where was her dress? She liked that dress. Right, the floor of Giles's study. Her panties? She couldn't remember where those had ended up. She hadn't done a lot of thinking in the minutes after Giles had taken them off her. 
+And they shared a look that convinced her that their two hearts beat as one on this topic. Giles had exactly as many regrets as she had about last night. Which was to say, zero. The Geiger regrettage counter was completely failing to click. Though, wait. Where was her dress? She liked that dress. Right, the floor of Giles's study. Her panties? She couldn't remember where those had ended up. She hadn't done a lot of thinking in the minutes after Giles had taken them off her.
 
 "I think," she said, slowly, as if pondering the question deeply, "that you should take off that robe and get back into bed. We can wing it from there."
 
@@ -120,13 +119,13 @@ Giles capped his pen. "I braced for your usual morning ritual. An hour and my ho
 
 "Had an incentive to make it fast this morning."
 
-"Oh?" 
+"Oh?"
 
 An eyebrow raised, completely and utterly suggestively. Buffy matched it as best as she could.
 
 "Yeah."
 
-Giles set pen and newspaper aside, not breaking her gaze. He reached for the end of the sash and this time she let him get it. He pulled slowly and it came untied. Buffy shimmied and let the robe slide off her shoulders and down to the floor. Oh yes, she had him. 
+Giles set pen and newspaper aside, not breaking her gaze. He reached for the end of the sash and this time she let him get it. He pulled slowly and it came untied. Buffy shimmied and let the robe slide off her shoulders and down to the floor. Oh yes, she had him.
 
 Buffy slipped into bed next to Giles and pulled the blanket up over her shoulders. She trailed her hand down his chest to his navel, down lower. She ran her fingertips through the fuzz on his belly, which, thank God, was not another one of those ridged washboard abs deals, waxed bare weekly. It was plush, like his robe.
 
@@ -162,7 +161,7 @@ Making love in the warm Roman mornings, drinking wine in the warm Roman nights, 
 
 "Why on earth are *you* interested in my clothes? You only ever snark about them. Cats on my feet, forsooth. No, I haven't forgotten that one. And wait, why not in Rome? I know a place."
 
-Giles shifted his weight away from her and rocked himself up to kiss the end of her nose. "This can't be something outré. Simple, white, properly English, with lace in the usual places." 
+Giles shifted his weight away from her and rocked himself up to kiss the end of her nose. "This can't be something outré. Simple, white, properly English, with lace in the usual places."
 
 Lace in the usual-- "What, are you writing our marriage vows already?"
 
@@ -186,11 +185,11 @@ Buffy pointed a toe at the ceiling in a nice slow stretch, then delicately place
 
 Giles bent his head down to kiss her toes, then trailed his fingers down her leg, from ankle to thigh, and further. His gaze followed his fingers. Along, around, between, to the secret places. He liked what he was seeing. Uncomplicated appreciation for her body. Giles liked all of her. That was good. Sometimes men had been freaked out by how strong she was, how obvious the muscles were when she took her clothes off. By the idea that she could beat them up if she wanted. She and Giles had moved past that one, because she'd beaten him up at least twice before.
 
-God, they were weird. 
+God, they were weird.
 
-He entered her slowly this time, a hand guiding himself in, the other bracing himself, his eyes on her body. Buffy watched his face. He was intent, solemn, completely unaware she was watching him. He rocked his hips to settle himself inside her body and there it was, what she'd been waiting for, that eyes-closed surrender to pleasure thing she'd seen him doing last night. That was the biggest surprise of all. 
+He entered her slowly this time, a hand guiding himself in, the other bracing himself, his eyes on her body. Buffy watched his face. He was intent, solemn, completely unaware she was watching him. He rocked his hips to settle himself inside her body and there it was, what she'd been waiting for, that eyes-closed surrender to pleasure thing she'd seen him doing last night. That was the biggest surprise of all.
 
-He seemed content to stay just like that, kneeling between her thighs, joined with her, eyes closed. Buffy ran her hands up his thighs, from his knees to the place where her legs were wrapped around him. Fuzzy legs, nice legs, and a firm butt. He'd look good in a morning coat and those striped trousers, assuming he was thinking mega-traditional. Any excuse to see him dressed up. Not at the moment, though. Naked was good right now. Fancy clothes for weddings, no clothes for sex. 
+He seemed content to stay just like that, kneeling between her thighs, joined with her, eyes closed. Buffy ran her hands up his thighs, from his knees to the place where her legs were wrapped around him. Fuzzy legs, nice legs, and a firm butt. He'd look good in a morning coat and those striped trousers, assuming he was thinking mega-traditional. Any excuse to see him dressed up. Not at the moment, though. Naked was good right now. Fancy clothes for weddings, no clothes for sex.
 
 "You going to buy me a ring?"
 
@@ -218,7 +217,7 @@ Buffy counted, and was surprised by the answer. "Eight years."
 
 "We've taken our sweet time."
 
-And they were taking it now. Leisurely morning sex. Had she done this before? Not exactly. She'd always been too impatient, or her partner had, or there'd been some excuse for why it had to be over fast. Giles seemed to be prepared to take all day. Which, okay, would probably be too long, but why not spend the rest of the morning like this? Slow slow simmer. She sighed and ran her fingers through Giles's hair. A nice haircut he had these days. What had he called it? Posh, and he'd shaken his head dismissively. Dawn would squee over it when she saw him, though. 
+And they were taking it now. Leisurely morning sex. Had she done this before? Not exactly. She'd always been too impatient, or her partner had, or there'd been some excuse for why it had to be over fast. Giles seemed to be prepared to take all day. Which, okay, would probably be too long, but why not spend the rest of the morning like this? Slow slow simmer. She sighed and ran her fingers through Giles's hair. A nice haircut he had these days. What had he called it? Posh, and he'd shaken his head dismissively. Dawn would squee over it when she saw him, though.
 
 Uh oh. Dawn.
 
@@ -242,7 +241,7 @@ His face had changed completely, and he looked uncertain of himself for the firs
 
 That was what he'd needed to hear. He clutched her to him almost hard enough to hurt, touched his forehead to hers and just held her like that for a while. Then he abruptly let go of her and pulled away. He knelt straight up in the bed and wiped a hand over his face. Too much emotion too fast; Giles hadn't changed in that department either. He'd need more time to process everything.
 
-Buffy stretched her arms up to him and he lay down with her again. On top of her this time, in the traditional manner, her legs wrapped around his waist. A warm solid weight over her, inside her, around her, kissing her hard now. He was moving with intent, intent to give her pleasure, to take pleasure in her, to bring them both to the edge and over. Buffy met him halfway, lifting her body to meet his, her arms tight around his shoulders. 
+Buffy stretched her arms up to him and he lay down with her again. On top of her this time, in the traditional manner, her legs wrapped around his waist. A warm solid weight over her, inside her, around her, kissing her hard now. He was moving with intent, intent to give her pleasure, to take pleasure in her, to bring them both to the edge and over. Buffy met him halfway, lifting her body to meet his, her arms tight around his shoulders.
 
 He shifted and buried his face in her neck. Kissing, licking, kissing again. He found the place where every vampire she'd ever slept with and some she hadn't had bitten her, just there on the side of her neck. And he bit her. That sent Buffy right over the way it always did, her big secret that Giles had apparently taken one night and one morning to discover, and he was biting hard, oh boy oh boy, Mister Hidden Depths was taking her on a ride. And going right on it with her.
 

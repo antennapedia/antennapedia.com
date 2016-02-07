@@ -2,7 +2,6 @@
 idtag: gj_watchers_child_tragedy_in_six_holidays
 author: antennapedia
 published: '2006-08-27T23:55:00-07:00'
-series: watchers_child
 title: A Tragedy In Six Holidays
 notes: null
 summary: Ethan contemplates the ruin of the disreputable Ripper.
@@ -18,6 +17,7 @@ tags:
   - tagfic
   - f:btvs
   - p:giles/jenny
+  - s:watchers_child
 rating: general
 pairing: giles/jenny
 ---

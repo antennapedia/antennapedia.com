@@ -2,7 +2,6 @@
 idtag: gj_watchers_child_confessions
 author: antennapedia
 published: '2008-03-07T17:48:00-08:00'
-series: watchers_child
 title: Confessions
 notes: null
 summary: "It's Valentine's Day, and Giles and Jenny don't have the conversation he was expecting."
@@ -15,6 +14,7 @@ tags:
   - season:01
   - f:btvs
   - p:giles/jenny
+  - s:watchers_child
 rating: general
 pairing: giles/jenny
 ---

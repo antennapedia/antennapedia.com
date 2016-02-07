@@ -2,7 +2,6 @@
 idtag: gx_cloud_animals_complete_set
 author: antennapedia
 published: '2006-12-23T16:07:00-08:00'
-series: cloud_animals
 title: The Complete Set
 notes: 'For <b><a href="http://drsquidlove.livejournal.com/">drsquidlove</a></b> and the Drunken!Giles ficathon 2006! A sequel to "Cloud Animals", so first Christmas post-Chosen. Thanks to <b><a href="http://twilightofmagic.livejournal.com/">twilightofmagic</a></b> for the fast beta-read.'
 summary: Eggnog is dangerous. Very dangerous.
@@ -21,16 +20,17 @@ tags:
   - scoobies
   - f:btvs
   - p:giles/xander
+  - s:cloud_animals
 rating: mature
 pairing: giles/xander
 ---
 Giles's eggnog was deadly. Dead-ly. Buffy didn't know what he made it with. Okay, sure, eggs and ultra-heavy fresh cream and spice things, yeah delicious, but Buffy suspected he used magic as well. Thank goodness for the Slayer metabolism: this stuff put pounds on if you sniffed it. Was that rum? Whisky? Both? She had another drink.
 
-Giles was already on his second glass. About three-quarters of the way through his first he'd favored them with a version of "Silent Night, Holy Night" that had made Buffy want to cry. Then he'd spoiled the effect by giggling at her. 
+Giles was already on his second glass. About three-quarters of the way through his first he'd favored them with a version of "Silent Night, Holy Night" that had made Buffy want to cry. Then he'd spoiled the effect by giggling at her.
 
-Giggling? Not a shocker from Giles these days. The thing with Xander had totally made Giles lighten up. Once Buffy had stopped wigging at being the only entirely (no, really, entirely!) straight Scooby, she'd had to admit it had worked out. They'd rubbed off on each other. Xander was confident and competent; Giles was relaxed and happy. Win. 
+Giggling? Not a shocker from Giles these days. The thing with Xander had totally made Giles lighten up. Once Buffy had stopped wigging at being the only entirely (no, really, entirely!) straight Scooby, she'd had to admit it had worked out. They'd rubbed off on each other. Xander was confident and competent; Giles was relaxed and happy. Win.
 
-Christmas was at Giles' farmhouse this year, with real snow on the fields outside. This was the first time Buffy had had a natural white Christmas, one where the snow lasted for more than fifteen minutes of vampire-preserving divine intervention. She liked this one better. It was real. The air was cold in her nose when she was outside, the fire hot on her back when she came in. And she was with the people she loved best. 
+Christmas was at Giles' farmhouse this year, with real snow on the fields outside. This was the first time Buffy had had a natural white Christmas, one where the snow lasted for more than fifteen minutes of vampire-preserving divine intervention. She liked this one better. It was real. The air was cold in her nose when she was outside, the fire hot on her back when she came in. And she was with the people she loved best.
 
 This evening they were sprawled on the floor by the fireplace, warm and giddy with their glasses of eggnog. The hearth was huge and the fire high. Dawn was off caroling with her village friends. It was just the adults tonight.
 
@@ -80,7 +80,7 @@ Buffy made a little whimpering sound. "Yeah. Oh do I see. How much practice, any
 
 "No way. You didn't with Ethan?"
 
-"He wanted to, but I was uninterested. In him, anyway. Bloody psychopath." Giles had another swig of eggnog. Xander took the glass from him, tasted it and made a thoughtful face. Xander had never been much into drinking, in Buffy's experience. He'd been sipping from a bottle of water instead. 
+"He wanted to, but I was uninterested. In him, anyway. Bloody psychopath." Giles had another swig of eggnog. Xander took the glass from him, tasted it and made a thoughtful face. Xander had never been much into drinking, in Buffy's experience. He'd been sipping from a bottle of water instead.
 
 "Which do you like better? Men or women?"
 
@@ -114,7 +114,7 @@ Buffy wanted to giggle again at the contrast of Giles' flushed face with his rea
 
 Giles giggled. "Know everything 'bout my Slayer."
 
-"I don't think so," said Buffy, giggling back at him. 
+"I don't think so," said Buffy, giggling back at him.
 
 "Oh? What don't I know? Tell your Watcher."
 

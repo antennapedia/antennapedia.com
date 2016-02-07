@@ -1,8 +1,7 @@
 ---
-idtag: gb_legacies_memorable
+idtag: gb_legacies_5_memorable
 author: antennapedia
 published: '2011-09-29T08:34:00-07:00'
-series: legacies
 title: Memorable
 notes: null
 summary: "Giles has an engagement ring in his pocket, but he's stuck in interminable meetings. His scheme to wriggle out of them might have just backfired on him. Oh dear."
@@ -18,6 +17,7 @@ tags:
   - watchers
   - f:btvs
   - p:giles/buffy
+  - s:legacies
 rating: general
 pairing: giles/buffy
 ---
@@ -29,7 +29,7 @@ His mobile burbled discreetly from its hiding place in a breast pocket. He took 
 
 Giles stood. "Excuse me," he said, "but apparently there's a demon on the loose in Somerset. It's torn up some footballer's hobby farm. Duty calls. Oh, er, Mr Smith. I will be marrying her in September. Cope."
 
-He left the conference room and smiled only once the door was closed behind him. It was not a particularly happy smile. He made his way to his office in a funk. Stopping in London before heading to Rome had been a dreadful mistake. At least he'd managed to find a ring. It rested safely in his pocket in a little box. Giles slipped his hand in and brushed fingertips over the velvet. It had taken him some doing, in fact, but he was satisfied he'd found something that suited Buffy's current taste: a diamond in a clean, practical, rugged setting. He himself was partial to emeralds, but what few gems Buffy had in her jewelry, that he'd been able to see, were diamonds. Nothing ridiculous or flashy, thank goodness. She seemed to have abandoned her costume jewelry just as she had abandoned her thrift shop fashions. Rome and society and a bit of money had done well by her. She hadn't let it go to her head at all. 
+He left the conference room and smiled only once the door was closed behind him. It was not a particularly happy smile. He made his way to his office in a funk. Stopping in London before heading to Rome had been a dreadful mistake. At least he'd managed to find a ring. It rested safely in his pocket in a little box. Giles slipped his hand in and brushed fingertips over the velvet. It had taken him some doing, in fact, but he was satisfied he'd found something that suited Buffy's current taste: a diamond in a clean, practical, rugged setting. He himself was partial to emeralds, but what few gems Buffy had in her jewelry, that he'd been able to see, were diamonds. Nothing ridiculous or flashy, thank goodness. She seemed to have abandoned her costume jewelry just as she had abandoned her thrift shop fashions. Rome and society and a bit of money had done well by her. She hadn't let it go to her head at all.
 
 His smile turned genuine. He'd take the ring as a victory and ignore the rest of the nonsense.
 
@@ -53,7 +53,7 @@ Giles breathed in and out once before answering. "We'll be there within three ho
 
 He straightened and looked at his team. "Right. I'll take care of contacting Slayer, er, Prime. Assemble transportation for us, would you? We'll be moving as soon as she's arrived."
 
-Styles stuck her pencil behind her ear and nodded. She was out of his office instantly, his assistant trailing behind. Giles reached for the phone again, this time with the speaker off. He rang Buffy's mobile. 
+Styles stuck her pencil behind her ear and nodded. She was out of his office instantly, his assistant trailing behind. Giles reached for the phone again, this time with the speaker off. He rang Buffy's mobile.
 
 "Buffy? There's a bit of a demon incident going on. They tell me it's a Polgara and I wondered-- You would? Lovely. See you here, then. Quick as you can."
 
@@ -83,13 +83,13 @@ Giles grimaced. "A team is leaving for the site as soon as transport is ready."
 
 Parker wedged an absurd hat onto his head-- a Tilley hat. He was the perfect image of a birder, with checklist in pocket. "Ready now," Parker replied, mildly, and Giles nodded in approval. Back up to his office, collecting his team along the way, moving faster now, to wait impatiently for Buffy to arrive.
 
-He hadn't long to wait. She swept in without knocking and pulled him down into a swift kiss without bothering to look to see if anyone else was there. Giles kissed her back avidly and hoped it shocked someone. Alas, Parker was phlegmatic and Styles unshockable so it went unremarked. 
+He hadn't long to wait. She swept in without knocking and pulled him down into a swift kiss without bothering to look to see if anyone else was there. Giles kissed her back avidly and hoped it shocked someone. Alas, Parker was phlegmatic and Styles unshockable so it went unremarked.
 
 Buffy was wearing black leather trousers and black leather boots over them. Her legs went all the way up. All the way up to-- Giles dragged his eyes away from there, because it was unseemly to stare at a woman in public that way, even a woman who was his fiancée. He cleared his throat and set aside boyhood fantasies of Diana Rigg with some effort.
 
 "Is that getup, er, practical?"
 
-"Custom-made for the prepared Slayer. Check it." 
+"Custom-made for the prepared Slayer. Check it."
 
 Buffy opened her jacket to show him the lining. Five neat loops inside the jacket held wooden stakes, with the white gleam of freshly-cut points. Practical indeed. He squeezed his right arm against his side just enough to remind himself of his own concealed weapon. It was almost a habitual gesture at this point in his life. Possibly it was a tell he should suppress.
 
@@ -97,7 +97,7 @@ Buffy opened her jacket to show him the lining. Five neat loops inside the jacke
 
 There certainly wasn't. Giles flushed and forced himself to look away again. Damnable woman. The smirk on her face said she knew just what sort of effect she was having upon him.
 
-The team headed down to the car park under the building: Buffy, Parker, a new-minted Watcher named Smith, and himself. Giles commandeered the keys to the van. It was no sports car, but he was nervy and in need of some task to distract himself from Buffy's legs in that leather. The drive out was uneventful and smooth, thanks to the usual quiet behind-the-scenes easing of the way. Styles was doing her job and doing it well. Giles made a mental note to give her a commendation. Pay raise if possible. 
+The team headed down to the car park under the building: Buffy, Parker, a new-minted Watcher named Smith, and himself. Giles commandeered the keys to the van. It was no sports car, but he was nervy and in need of some task to distract himself from Buffy's legs in that leather. The drive out was uneventful and smooth, thanks to the usual quiet behind-the-scenes easing of the way. Styles was doing her job and doing it well. Giles made a mental note to give her a commendation. Pay raise if possible.
 
 He knew they'd reached the site before Parker could confirm it on the sat nav. A dark plume of smoke rose from beyond a line of trees. And Buffy had grown restless and edgy in seat next to him. He turned the van into the long drive into the estate proper and the devastation became clear as they approached. The demon had partially demolished the barn and lit fires with the wood it had wrested free. Giles could smell smoke. Was that meat charring? Too foul for that.
 
@@ -119,7 +119,7 @@ Giles sighed. No sense berating the boy for being here without backup. He wasn't
 
 "Is that, is that Slayer Prime?"
 
-Giles looked at Buffy, who shrugged at him. She said, "Yup, the one and no longer only." 
+Giles looked at Buffy, who shrugged at him. She said, "Yup, the one and no longer only."
 
 "Honor to meet you," the boy said, from his position on the ground. His arms were wrapped around his knees and he showed no signs of being willing to stand up any time soon.
 
@@ -129,9 +129,9 @@ Giles looked at Buffy, who shrugged at him. She said, "Yup, the one and no longe
 
 Giles gritted his teeth. Patience, patience with the trainees. If Pryce had developed into a solid demon-hunter, this lad could too. His annoyance would be better directed at Fanthorpe. Smith came by and issued him a hand-held radio. Xander's idea, the short-range radios, and a good one. Every situation team used them now. Giles tucked his away in his pocket. Buffy stared at hers, opened her jacket and fumbled, and then gave up. She handed it to the boy on the ground. Giles covered his mouth with his hand; it would not do to mock that outfit, because she might decline to wear it again and then where would he be? He turned his back on the trainee and went to see for himself what the demon was about.
 
-Parker was settled at the end of the hedge with his binoculars plastered to his face. He tweaked a knob. Buffy moved beside Parker and held up a hand to keep the drizzle from her face. Giles looked where they were looking and saw the thing in motion for an instant. Then it was behind what remained of the building. A barn, perhaps, now half rubble. Scattered across the grass between the hedge and the buildings were a large number of half-destroyed hay bales, the small rectangular sort, along with wrecked bits of machinery. Beside the barn was what had until recently been a Land Rover. Now it was overturned and half-burned. That was the source of the worst of the stench, Giles thought. 
+Parker was settled at the end of the hedge with his binoculars plastered to his face. He tweaked a knob. Buffy moved beside Parker and held up a hand to keep the drizzle from her face. Giles looked where they were looking and saw the thing in motion for an instant. Then it was behind what remained of the building. A barn, perhaps, now half rubble. Scattered across the grass between the hedge and the buildings were a large number of half-destroyed hay bales, the small rectangular sort, along with wrecked bits of machinery. Beside the barn was what had until recently been a Land Rover. Now it was overturned and half-burned. That was the source of the worst of the stench, Giles thought.
 
-"That is *not* a Polgara," Buffy said. 
+"That is *not* a Polgara," Buffy said.
 
 "What is it?" said Giles.
 
@@ -157,7 +157,7 @@ Giles shook himself back to the problem at hand. "Hack, slash. It'll be slow to 
 
 Buffy grimaced. "I remember."
 
-Just then there was a ruckus from the direction of the house. Buffy noticed first and spun gracefully to defend against any attack. However, it was merely a red-faced man in disheveled clothing, waving his arms and marching away from the front door, down the gravel drive toward them. He was shouting something that Giles couldn't catch. Trailing after him was a man in tweed whom Giles recognized as Fanthorpe, waving his arms just as wildly and shouting right back. Negotiations, it appeared, had broken down. Giles met Buffy's gaze and they rolled their eyes at each other. 
+Just then there was a ruckus from the direction of the house. Buffy noticed first and spun gracefully to defend against any attack. However, it was merely a red-faced man in disheveled clothing, waving his arms and marching away from the front door, down the gravel drive toward them. He was shouting something that Giles couldn't catch. Trailing after him was a man in tweed whom Giles recognized as Fanthorpe, waving his arms just as wildly and shouting right back. Negotiations, it appeared, had broken down. Giles met Buffy's gaze and they rolled their eyes at each other.
 
 Giles walked forward to meet them. The fellow had to be the famous footballer who owned the property. He had a haircut so famous it had been mentioned in *The Times*, which meant even Giles had heard of it, and surely no two men had that haircut. His breath reeked of alcohol. Vodka, Giles thought, flavored vodka. He had a pellet gun in his hand, the kind powered by compressed air.
 
@@ -183,7 +183,7 @@ Giles put every single bit of sniffing Oxbridge authority in his voice that he c
 
 No such luck. He vanished behind the wall of the barn.
 
-"Oh boy," Buffy said, and she was off at a run, sword in hand. Without thought, Giles was in motion and pelting after her. 
+"Oh boy," Buffy said, and she was off at a run, sword in hand. Without thought, Giles was in motion and pelting after her.
 
 The fellow came to a sudden stop in the middle of what remained of his barn. Giles stood beside him. The ettin had the hindquarters of a cow in one huge hand. It held it over a pile of burning wood, roasting it as one might roast a marshmallow. Well. That explained a great deal.
 
@@ -201,11 +201,11 @@ He didn't budge. "And now a troll is eating them. A troll. She'll have my *head*
 
 "I'll take care of it," Buffy said. She spun the sword casually.
 
-"You? You? And that toy sword?" 
+"You? You? And that toy sword?"
 
 He shook his head and without ceremony charged the ettin. Giles wondered, in a moment of shock, if football had been the right sport for him. Rugby would have been more his style.
 
-The ettin put down the cow hindquarters. The fellow stopped and aimed the pellet gun. Giles heard it pop off a few times. Bright splotches of paint bloomed on the wall behind the ettin, and one right in the middle of its broad chest. It roared and was in motion. Giles wanted to close his eyes, because it was going to be awful, but he was a professional so he kept them open. A good thing, too, because that blur was Buffy in motion from the side. She cannonballed into the footballer and knocked him out of the ettin's way. 
+The ettin put down the cow hindquarters. The fellow stopped and aimed the pellet gun. Giles heard it pop off a few times. Bright splotches of paint bloomed on the wall behind the ettin, and one right in the middle of its broad chest. It roared and was in motion. Giles wanted to close his eyes, because it was going to be awful, but he was a professional so he kept them open. A good thing, too, because that blur was Buffy in motion from the side. She cannonballed into the footballer and knocked him out of the ettin's way.
 
 Giles knew his cue. He leapt forward shouting and waving his arms. The ettin lumbered to a halt, turned, and charged him instead. Giles was braced for it. He flung himself toward a pile of rubble. He landed badly but managed to tuck himself into a roll. He regained his footing and scarpered as fast as he could to rejoin Buffy at the smashed Rover. He'd barked his knuckles and he had a stitch in his side. He'd let his physical conditioning lapse. That would never do. He'd have to take up jogging again. Or training a Slayer; that was shockingly effective. He knew where to find one of those.
 
@@ -255,11 +255,11 @@ The radio crackled and Parker's voice said, "Here."
 
 "I read you." He stuck the radio back into his jacket and cursed extensively in Latin.
 
-"Potty mouth," Buffy said. He hadn't realized she knew that much Latin. Or perhaps he'd indulged himself that way once too many times. 
+"Potty mouth," Buffy said. He hadn't realized she knew that much Latin. Or perhaps he'd indulged himself that way once too many times.
 
 He sighed. "Fanthorpe is an utter pillock."
 
-"Duh, not enough field time. But you can whinge about him later. Right now tell me how to kill it." 
+"Duh, not enough field time. But you can whinge about him later. Right now tell me how to kill it."
 
 Giles pinched the bridge of his nose and squeezed his eyes shut. He could just see the page of the book in question. Ettins, three-eyed, weak points. "The third eye is vulnerable, but it won't open unless forced. We need something that can shatter the protection over the two you can see. Something super-hard."
 
@@ -273,13 +273,13 @@ Giles pinched the bridge of his nose and squeezed his eyes shut. He could just s
 
 Buffy snorted in frustration. "I took off all my jewelry and left it in the hotel room. I was trying to be *practical.* See what that gets me."
 
-"Ah," he said again, and this time Buffy turned to look at him. "I, er, might happen to have something." 
+"Ah," he said again, and this time Buffy turned to look at him. "I, er, might happen to have something."
 
-He stood and dug deep into his trouser pocket. He drew out the little velvet box. His knuckles were still oozing blood, it seemed, and it had dripped and smeared over the velvet. Giles rubbed his hand against his shirt and snapped the box open. He went down onto a knee in the mud. What had he planned to say to her? He had no earthly idea. But he had to say something. 
+He stood and dug deep into his trouser pocket. He drew out the little velvet box. His knuckles were still oozing blood, it seemed, and it had dripped and smeared over the velvet. Giles rubbed his hand against his shirt and snapped the box open. He went down onto a knee in the mud. What had he planned to say to her? He had no earthly idea. But he had to say something.
 
-"Miss Summers, er, you have already done me the honor of consenting to become my, my wife. It would please me greatly if you'd wear my ring, as a token of my esteem. And, er, also to punch the demon." 
+"Miss Summers, er, you have already done me the honor of consenting to become my, my wife. It would please me greatly if you'd wear my ring, as a token of my esteem. And, er, also to punch the demon."
 
-Dammit, he was stammering again. Buffy did not comment. She merely held her right hand out to him. Wrong hand for the ring, correct hand for the power she'd need to generate. Her hand was also grubby with ash and sweat and somebody else's blood. Possibly his. He slid the ring onto her finger. He rocked back onto his heels and watched her consider the ring and tilt her hand to get a better view of it. He found himself deeply moved, despite everything. And perversely aroused. She was damnably sexy in those leather trousers. 
+Dammit, he was stammering again. Buffy did not comment. She merely held her right hand out to him. Wrong hand for the ring, correct hand for the power she'd need to generate. Her hand was also grubby with ash and sweat and somebody else's blood. Possibly his. He slid the ring onto her finger. He rocked back onto his heels and watched her consider the ring and tilt her hand to get a better view of it. He found himself deeply moved, despite everything. And perversely aroused. She was damnably sexy in those leather trousers.
 
 Then she removed the ring and shifted it to her middle finger. She made a fist and jabbed it out a few times, then nodded to herself. Giles straightened up.
 
@@ -291,7 +291,7 @@ Then she removed the ring and shifted it to her middle finger. She made a fist a
 
 "Giiiiiiles," she said, and he found himself grinning at her despite himself. "Critique my form *after* we get out of here, okay? Okay."
 
-Giles edged around the front of the Rover. The ettin had returned to its heap of dead cows. It had the hindquarters in its grasp again. Apparently they were charred enough for its liking, because it was now gnawing on the midsection. 
+Giles edged around the front of the Rover. The ettin had returned to its heap of dead cows. It had the hindquarters in its grasp again. Apparently they were charred enough for its liking, because it was now gnawing on the midsection.
 
 Buffy said, "You ready?"
 
@@ -305,7 +305,7 @@ For the third time, Buffy exploded into motion and flung herself at the ettin. I
 
 She leapt into the air and punched. One eye exploded into a gush of black fluid. Buffy dodged a slow, clumsy swing. She danced around, waiting for another opening. Giles advanced with the tiny pistol raised.
 
-Buffy rolled, sprang to her feet, and was in the air again. This time she ran up the ettin's chest. She coiled, unleashed, and punched. The eye went but Buffy was in the ettin's grasp. It gripped her leg and shook her back and forth as if she were a toy. Giles did not let himself react. 
+Buffy rolled, sprang to her feet, and was in the air again. This time she ran up the ettin's chest. She coiled, unleashed, and punched. The eye went but Buffy was in the ettin's grasp. It gripped her leg and shook her back and forth as if she were a toy. Giles did not let himself react.
 
 Out of the corner of his eye Giles saw Buffy's body flung away from the demon. There it was, the third eye, opening now from pure instinct. Ignore her. Ignore the woman who would be his wife, his beloved Slayer, ignore her scream. Aim and fire. Breathe out. Steady. Fire. Bugger it. It turned toward him and his shot came clear and this time he did not miss. The thing bellowed in agony and thrashed. Giles advanced on it and pumped another round into its head at point blank range. His training-- both the boyhood training and the more recent training at Her Majesty's behest-- held and he did not waver until the clip was emptied and he was certain it was in its death throes. One last scan, and the little revolver was holstered again. He flung himself across the ruined floor to where Buffy lay crumpled. If she were dead he would--
 
@@ -335,9 +335,9 @@ It had begun to rain harder. The water beaded on his glasses. Giles ignored it a
 
 "Most likely."
 
-Buffy pouted. It was without heat, for she knew as well as he that within three days she'd be back at full capacity. The Slayer gifts were wonderful indeed. 
+Buffy pouted. It was without heat, for she knew as well as he that within three days she'd be back at full capacity. The Slayer gifts were wonderful indeed.
 
-Fanthorpe approached with a rifle on his shoulder. An elephant gun, by the looks of the thing. What was he doing with one of those? 
+Fanthorpe approached with a rifle on his shoulder. An elephant gun, by the looks of the thing. What was he doing with one of those?
 
 "I'll handle it," he said. "I've convinced the homeowner to head to the nearest pub."
 
@@ -369,11 +369,11 @@ Giles looked up toward the cloudy, rainy heavens until he could manage to speak.
 
 "Miss Summers is right. Six months out of every year in field time for all of us. We'll be setting the example by spending our honeymoon in the field."
 
-"Honeymoon?" Fanthorpe said. He had the same note of semi-hysteria in his voice that the footballer had had. 
+"Honeymoon?" Fanthorpe said. He had the same note of semi-hysteria in his voice that the footballer had had.
 
 This was the most gratifying moment of Giles's day, perhaps, almost worth every moment of being rained upon and used by target practice by a hungry ettin. Almost. He showed all his teeth and said, "Yes, honeymoon."
 
-Parker said, "Congratulations to the both of you." He wedged his hat back onto his head. "Think I'll go photograph the corpse. Come along, boy. Let me show you how to tell an ettin from a Polgara." 
+Parker said, "Congratulations to the both of you." He wedged his hat back onto his head. "Think I'll go photograph the corpse. Come along, boy. Let me show you how to tell an ettin from a Polgara."
 
 Parker ambled off in the direction of the barn, the trainee at his heels. Giles watched them go, then sat himself on the bumper next to his Slayer. He would, he suspected, always think of her as that first and fiancée or wife second. She would think of herself that way first, so it did not trouble him.
 
@@ -381,7 +381,7 @@ Buffy nudged him with a shoulder. "Honeymoon in the field?" she said. "Do I get 
 
 "Of course, darling. I'll show you the location reports tomorrow and you can pick the one that looks most interesting."
 
-"You are the most thoughtful fiancé ever." 
+"You are the most thoughtful fiancé ever."
 
 He'd been thinking the Italian countryside for their honeymoon, since Buffy liked it so much, or perhaps France, but this plan was obviously pleasing her better. And that was all that mattered. Well, that and taking those leather trousers off her as slowly as possible. Perhaps after she'd had her ankle strapped up she'd allow him. Or perhaps he could simply fuss over her. Draw her a hot bath, strew it with flower petals, something along those lines.
 

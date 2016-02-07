@@ -1,6 +1,6 @@
 ---
 idtag: tc_idiot02_begins
-title: The Idiot
+title: "2. It Begins"
 author: antennapedia
 summary: The Doctor thinks he knows when it happens.
 pairing: Twelve/Clara

@@ -1,6 +1,6 @@
 ---
 idtag: tc_tyger02_burning_bright
-title: Burning Bright
+title: "Tyger Tyger: Burning Bright"
 author: antennapedia
 summary: The Doctor sees the future and makes plans.
 rating: mature
@@ -16,6 +16,7 @@ tags:
     - pregnancy
     - grief
     - mourning
+    - s:tyger
 altlink: http://archiveofourown.org/works/4990093
 ---
 The Doctor knew it immediately, not because of anything he observed in the world around him, but because he felt time and the universe and the order of things shift around him and resettle. He lay with Clara on that sofa in the library, sheltering her while she cried, and knew what had happened, would happen, was happening even then in her body. Knew it was a girl. Saw her for a moment, grown to adulthood, standing tall and strong and proud with her siblings. No more was granted him in that moment, and he stopped looking out of respect for the universe, and its wish to determine itself, to rearrange itself.

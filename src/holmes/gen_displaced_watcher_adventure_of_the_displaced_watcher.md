@@ -2,7 +2,6 @@
 idtag: gen_displaced_watcher_adventure_of_the_displaced_watcher
 author: antennapedia
 published: '2006-08-16T17:03:00-07:00'
-series: displaced_watcher
 title: The adventure of the displaced Watcher
 notes: 'Dedicated to <b><a href="http://kivrin.livejournal.com/">kivrin</a></b>, who gave me early encouragement and insisted I finish this. Mr Pedia helped with the lyrics. <b><a href="http://emmessann.livejournal.com/">emmessann</a></b> helped sort out a tricky scene.'
 summary: An accident with a magical artifact sends Giles into the past. Can the specialist in hopeless cases help him before the artifact is lost and he is forever stranded?
@@ -24,6 +23,7 @@ tags:
   - f:btvs
   - f:sherlock-holmes
   - p:gen
+  - s:displaced_watcher
 rating: general
 pairing: gen
 ---

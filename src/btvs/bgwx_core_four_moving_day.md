@@ -2,7 +2,6 @@
 idtag: bgwx_core_four_moving_day
 author: antennapedia
 published: '2006-06-27T10:42:00-07:00'
-series: core_four
 title: Moving day
 notes: null
 summary: A place with a bigger water heater.
@@ -17,6 +16,7 @@ tags:
   - season:04
   - f:btvs
   - p:buffy/giles/willow/xander
+  - s:core_four
 rating: mature
 pairing: buffy/giles/willow/xander
 ---

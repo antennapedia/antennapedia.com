@@ -1,5 +1,5 @@
 ---
-idtag: gb_legacies_ton
+idtag: gb_legacies_4_ton
 author: antennapedia
 published: '2008-12-05T16:21:00-07:00'
 series: legacies
@@ -14,6 +14,7 @@ tags:
   - post-series
   - f:btvs
   - p:giles/buffy
+  - s:legacies
 rating: general
 pairing: giles/buffy
 ---
@@ -37,7 +38,7 @@ Buffy snorted. "It's the most uncomfortable car I've ever sat in. I feel the roa
 
 "The Lotus is pure sportscar. No weight wasted on nonsense like power windows. Steers like a go-cart. Accelerates like a motorcycle."
 
-Not at the moment, however. Giles eased off the accelerator and settled in behind a Volvo estate with three dogs milling about in the back. Sunday driver. 
+Not at the moment, however. Giles eased off the accelerator and settled in behind a Volvo estate with three dogs milling about in the back. Sunday driver.
 
 "You and motorcycles. Are you *sure* this isn't a mid-life crisis?"
 
@@ -49,7 +50,7 @@ Giles made a vague noise. Uncle Charles had died in the explosion that took out 
 
 "What was the condition?"
 
-"That I indulge myself with fast cars and pretty girls. Doing rather well for myself, yes?" 
+"That I indulge myself with fast cars and pretty girls. Doing rather well for myself, yes?"
 
 Buffy giggled. Roundabout ahead, and his opportunity to get round the bloody Volvo. Down to second, slipping the clutch a little, ham-footed idiot.
 

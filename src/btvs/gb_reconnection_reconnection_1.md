@@ -2,7 +2,6 @@
 idtag: gb_reconnection_reconnection_1
 author: antennapedia
 published: '2006-08-22T01:31:00-07:00'
-series: reconnection
 title: Reconnection 1
 notes: 'For <b><a href="http://wide_rider.livejournal.com/">wide_rider</a></b>, who gave me the prompt "mountains/mountain climbing".'
 summary: 'Buffy is back from the dead, but something is wrong. Giles takes steps.'
@@ -20,6 +19,7 @@ tags:
   - watchers
   - f:btvs
   - p:giles/buffy
+  - s:reconnection
 rating: general
 pairing: giles/buffy
 ---

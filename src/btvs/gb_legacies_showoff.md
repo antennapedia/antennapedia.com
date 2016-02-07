@@ -1,8 +1,7 @@
 ---
-idtag: gb_legacies_showoff
+idtag: gb_legacies_2_showoff
 author: antennapedia
 published: '2008-12-13T17:00:00-07:00'
-series: legacies
 title: Show-off
 notes: null
 summary: Giles has just shown off his PPK. He has a few other ways to show off.
@@ -17,12 +16,13 @@ tags:
   - post-series
   - f:btvs
   - p:giles/buffy
+  - s:legacies
 rating: mature
 pairing: giles/buffy
 ---
 Buffy's perfume was driving Giles mad, simply mad, tantalizing him with whiffs of musk and spice. Whatever it was she wore, he could catch only when she leaned close to him. And it was marvelous, whatever it was. It worked perfectly with her body's own scent, with the texture of her skin. She'd learned restraint at some point during her time in Rome, restraint with makeup and with scent. She'd learned restraint with her clothing as well. Gone were the short-short skirts of the girl. A flash of leg beneath her dress as she crossed her knees and a neckline that hinted instead of revealed-- Giles let himself enjoy that glimpse of muscled, graceful calf under cover of her absorbed study of his PPK. What man would not enjoy being tantalized by this woman?
 
-Buffy had been a woman for years, and somehow he hadn't noticed it until this week. When he'd first met her at Simpson's, he hadn't recognized the woman turning so gracefully to allow the headwaiter to take her coat. And when he had recognized her, his reaction had been a flash of jealousy that another man had been the one to touch her. It had taken him aback. Why had he not seen it? Self-protection, perhaps. She wouldn't have welcomed his appreciation, and perhaps would not welcome it now. Unless she-- 
+Buffy had been a woman for years, and somehow he hadn't noticed it until this week. When he'd first met her at Simpson's, he hadn't recognized the woman turning so gracefully to allow the headwaiter to take her coat. And when he had recognized her, his reaction had been a flash of jealousy that another man had been the one to touch her. It had taken him aback. Why had he not seen it? Self-protection, perhaps. She wouldn't have welcomed his appreciation, and perhaps would not welcome it now. Unless she--
 
 Giles drank more whisky and contemplated the possibility. He would not say he knew women-- no man could say that-- but he could say he knew the woman sitting on the arm of his chair. He knew Buffy. And yes, he could not deny it, she was flirting with him. Next question. Would it be welcome to him? Yes, oh yes, since that moment in the restaurant, he'd been desiring her. He flattered himself that he'd made no sign, given her no word or gesture unsuited to the role she'd wanted for him until now. If she wanted him in another role now, he'd play it. To the hilt.
 
@@ -42,7 +42,7 @@ Buffy pulled back from him.
 
 "You're marvelous," he said.
 
-"Good. I like that attitude. More kissing, please." 
+"Good. I like that attitude. More kissing, please."
 
 Buffy did not wait for him to agree, but took what she wanted herself. Giles was deliriously happy to oblige. She slipped two fingers between the buttons of his shirt and caressed his chest. Had he ever been so aroused in his life? And he stayed that aroused through long minutes of kissing her, of exploring and tasting her throat, her shoulders, the fine hairs on the back of her neck. Then back to her sweet and eager mouth.
 
@@ -50,7 +50,7 @@ He slipped a hand inside her skirt and let it rest on her knee, which was so muc
 
 "Show-off."
 
-"Only just begun, I'm afraid," he murmured, and slid his hand up her hip to find the waistband, slide hand and satin down together. She lifted her hips and he admired again her magnificent body, the power she cloaked under high fashion. One leg lifted, then the other, and the scrap of satin was free in his hand, a trophy to be tucked away in his trouser pocket. And she was free in his lap, naked under her skirt, open to his exploration, to his questing fingers. Giles fulfilled the promise he'd made to himself earlier and penetrated her. She let her head fall back on his arm and arched her back. Un-self-conscious, wanton, beautiful, and his, his, now. 
+"Only just begun, I'm afraid," he murmured, and slid his hand up her hip to find the waistband, slide hand and satin down together. She lifted her hips and he admired again her magnificent body, the power she cloaked under high fashion. One leg lifted, then the other, and the scrap of satin was free in his hand, a trophy to be tucked away in his trouser pocket. And she was free in his lap, naked under her skirt, open to his exploration, to his questing fingers. Giles fulfilled the promise he'd made to himself earlier and penetrated her. She let her head fall back on his arm and arched her back. Un-self-conscious, wanton, beautiful, and his, his, now.
 
 He brought her to climax again easily, so responsive was she to his touch. He cradled her against his chest afterward. Her head was on his shoulder. Giles thought he'd like it never to leave. Save that he wanted to give her more. And perhaps, if she were in the mood, to taste a little bit of pleasure himself. He kissed the top of her head.
 
@@ -60,13 +60,13 @@ Buffy sat up and touched her nose to his.
 
 "Of course."
 
-He found the zip in the back and pulled it all the way down. Her bare back was cool under his hand. Nothing underneath the dress, apparently, wicked woman. 
+He found the zip in the back and pulled it all the way down. Her bare back was cool under his hand. Nothing underneath the dress, apparently, wicked woman.
 
 Buffy slipped out of his lap and turned her back to him. Giles was on fire, but he clutched the arms of the chair and stayed still, watching. She let the dress fall from her shoulders, down, caught it with one hand and stepped out of it. Slim, so slim, but the muscles of the Slayer were there, in arms and shoulders, in her taut buttocks, in the sweep of her back. Giles bit his lip. She turned back to him, with her hands covering her breasts. He opened his mouth to ask if she were all right, if they'd gone too fast, but was struck dumb when he saw that she was caressing her own nipples, pinching herself gently. Small breasts, pink nipples, stiffening even as he watched, entranced.
 
 Buffy moaned.
 
-Giles sprang out of the armchair and seized her, bore her across the room to his desk. He laid her back upon it, right across the paperwork he'd taken home for the weekend. He gave one breast, then the other, a proper salute with lips and tongue and just the gentlest bite. Enough to earn that moan from her again, his doing this time, his feat to boast over. Her spicy scent was strong now. She must have scented herself between her breasts. Giles groaned and stilled his hips, lest he spill himself before he was able to take her as he wanted. He slowed down and kissed her throat more gently, allowed himself to cool and regain some of his self-command. He kissed her mouth again, tasted his whisky on her tongue, held her tight and pressed his hips against hers, let her feel him, let her know how much he wanted her now. 
+Giles sprang out of the armchair and seized her, bore her across the room to his desk. He laid her back upon it, right across the paperwork he'd taken home for the weekend. He gave one breast, then the other, a proper salute with lips and tongue and just the gentlest bite. Enough to earn that moan from her again, his doing this time, his feat to boast over. Her spicy scent was strong now. She must have scented herself between her breasts. Giles groaned and stilled his hips, lest he spill himself before he was able to take her as he wanted. He slowed down and kissed her throat more gently, allowed himself to cool and regain some of his self-command. He kissed her mouth again, tasted his whisky on her tongue, held her tight and pressed his hips against hers, let her feel him, let her know how much he wanted her now.
 
 "Your clothes are in the way," Buffy murmured.
 
@@ -80,9 +80,9 @@ She was his, he was hers, and he pursued their shared goal with single-minded in
 
 How glorious was a woman's face when she was in the throes? How glorious was Buffy's now, as her body arched against his and her thighs closed around him? Exquisite control from the Slayer, shivering in orgasm around his flesh, yet enough in command of herself that Giles, mere human that he was, still breathed. How magnificent would it be to allow Buffy to lose that control? Giles let himself imagine that, let himself imagine her completely wild, wrists caught in his grip. That image carried him over to his orgasm, sweet, intense, deeply moving. He said something to her while caught in it, he had no idea what. Her name, repeated? Some wholly inadequate expression of his devotion and desire? God, he'd say anything to her.
 
-He let himself collapse over her on the table. His erection was slow in fading, as it sometimes was when he was intensely excited. He moved inside her slowly while they both came down from it. 
+He let himself collapse over her on the table. His erection was slow in fading, as it sometimes was when he was intensely excited. He moved inside her slowly while they both came down from it.
 
-"Mmmmm," she said. 
+"Mmmmm," she said.
 
 He kissed the end of her nose. "Have I left you inarticulate?"
 
@@ -92,9 +92,9 @@ He kissed the end of her nose. "Have I left you inarticulate?"
 
 "But that was nice. Surprising and nice."
 
-Giles nuzzled her ear. She'd used the scent there as well as between her breasts. Musk and spice and honey, in her hair. His pillows would smell of it in the morning. And every morning from hereafter. And he'd respond to it every time he smelled it, no doubt. 
+Giles nuzzled her ear. She'd used the scent there as well as between her breasts. Musk and spice and honey, in her hair. His pillows would smell of it in the morning. And every morning from hereafter. And he'd respond to it every time he smelled it, no doubt.
 
-Giles at last withdrew from her body reluctantly. Buffy felt as he did and whimpered in protest. He tucked himself away and did up his trousers, so he'd not feel a prat walking about the house with his prick out. 
+Giles at last withdrew from her body reluctantly. Buffy felt as he did and whimpered in protest. He tucked himself away and did up his trousers, so he'd not feel a prat walking about the house with his prick out.
 
 Buffy sat up, delightfully nude and unashamed. Women never looked ridiculous, not like men. Giles watched her and let his pleasure show. She stretched and bent a knee up and rested her chin on it. She smiled at him. Giles kissed her foot, her shin, her mouth, lingered, kissed her again, more deeply. Her lips were full and red now, from his kisses. He'd left his mark on her throat as well, entirely inadvertently. She was so desirable that Giles shivered. Buffy kissed her way back to his throat and suckled on an earlobe. Giles swore he'd never let it be without an earring again, for her to tug on. He shivered again. His body would be awake again soon, ready for her once more.
 

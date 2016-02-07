@@ -1,6 +1,6 @@
 ---
 idtag: tc_tyger01_twist
-title: Twist the sinews of thy heart
+title: "Tyger Tyger: Twist the sinews of thy heart"
 author: antennapedia
 summary: "The Doctor was wrong about the trees and the solar flare. Very very wrong."
 rating: mature
@@ -13,6 +13,7 @@ tags:
     - c:twelfth-doctor
     - genre:angst
     - sex:first-time
+    - s:tyger
 altlink: http://archiveofourown.org/works/3684750
 ---
 The Doctor got them out of there, as fast as he could, given that she had a death-grip on his arm and appeared to be unaware of it. He parked them in geostationary orbit over a planet with a lot of obvious bustling life and spaceport traffic, cloaked the TARDIS, and led her down out of the console room. It was, apparently, pointless to try to pry her hand off his arm, so he didn't try. He knew what this shock felt like. He knew.

@@ -2,7 +2,6 @@
 idtag: gj_watchers_child_mutual_society
 author: antennapedia
 published: '2007-12-26T15:31:00-08:00'
-series: watchers_child
 title: Mutual Society
 notes: null
 summary: Giles and Jenny have a nice church wedding.
@@ -20,6 +19,7 @@ tags:
   - wedding
   - f:btvs
   - p:giles/jenny
+  - s:watchers_child
 rating: general
 pairing: giles/jenny
 ---

@@ -2,9 +2,7 @@
 idtag: gb_blackmail_liegeman
 author: antennapedia
 published: '2008-03-24T23:54:00-07:00'
-series: blackmail
 title: Liegeman
-notes: null
 summary: "Buffy settles into command of her liegeman, but finds that the rest of her life is complicated, and dangerous where she'd expected safety."
 altlink: 'http://antennapedia.livejournal.com/338168.html'
 tags:
@@ -27,6 +25,7 @@ tags:
   - p:xander/anya
   - p:willow/tara
   - p:giles/buffy
+  - s:blackmail
 rating: adult
 pairing: giles/buffy
 ---
@@ -51,13 +50,13 @@ When he returned from the kitchen, he found her seated at his desk, bent over hi
 
 "This guy says all war is based on deception. Is he right?"
 
-"Yes," he said, mildly. He set her mug down on the desk at her elbow, safely away from the papers. She picked it up and sipped absently, continuing to read the translation. 
+"Yes," he said, mildly. He set her mug down on the desk at her elbow, safely away from the papers. She picked it up and sipped absently, continuing to read the translation.
 
 "When capable, seem incapable. When active, seem inactive. When near, appear far away."
 
 "The feint," Giles said. "When your opponent's information is bad, he makes bad decisions. This leads to opportunity for you."
 
-Buffy nodded. Giles cast about for larger examples. Her knowledge of the history of warfare was spotty, but she'd studied the second world war, at least. He explained Operation Fortitude, and the importance of the Allied deceit. The Germans believed the main invasion would be at the Pas de Calais, so they were slow to move their troops to the real site of invasion. 
+Buffy nodded. Giles cast about for larger examples. Her knowledge of the history of warfare was spotty, but she'd studied the second world war, at least. He explained Operation Fortitude, and the importance of the Allied deceit. The Germans believed the main invasion would be at the Pas de Calais, so they were slow to move their troops to the real site of invasion.
 
 "Giles, I'm not going to be commanding troops."
 
@@ -81,7 +80,7 @@ Giles took the tea things away and washed up in the kitchen. They brushed their 
 
 "No pjs. You sleep nude from now on."
 
-He inclined his head to her. "Of course," he murmured. She'd shifted her mood, and now the Slayer was in charge. He felt himself twitch and awaken in his loose trousers. He rose further when he'd bared himself and was moving around the room nude, folding his clothing for the hamper. The stripes on his backside were still visible, and his mistress was pleased to see them. She didn't undress fully, but left on her tank top and knickers. Satin. They were slick under his fingers when she joined him under the covers and suffered him to hold her close, suffered him to kiss her. Long, slow, and deep, kisses with more tenderness than passion. The kisses were enough for him. His body was sated and weary from the effort of satisfying her over the weekend. 
+He inclined his head to her. "Of course," he murmured. She'd shifted her mood, and now the Slayer was in charge. He felt himself twitch and awaken in his loose trousers. He rose further when he'd bared himself and was moving around the room nude, folding his clothing for the hamper. The stripes on his backside were still visible, and his mistress was pleased to see them. She didn't undress fully, but left on her tank top and knickers. Satin. They were slick under his fingers when she joined him under the covers and suffered him to hold her close, suffered him to kiss her. Long, slow, and deep, kisses with more tenderness than passion. The kisses were enough for him. His body was sated and weary from the effort of satisfying her over the weekend.
 
 She pulled back from him and laid her fingers across his lips. "What are you doing tomorrow night? Had an idea."
 
@@ -97,7 +96,7 @@ He shook his head. "Better to ask if he'd mind what's happening now."
 
 Buffy sighed, but did not move away from him. "I know he would. I know. If I'm not careful it's going to end messy. He'll get hurt. He's gonna get hurt any way it works out." He could hear her regret, but also resignation. It puzzled him.
 
-"Why not end it now, if I may ask?" 
+"Why not end it now, if I may ask?"
 
 Though as Giles said the words, he worried that she might take it as instruction from him. Here he did not wish to interfere; there was a corner of him that found pleasure in the knowledge that his mistress was free to be with other men while he was constrained. But Buffy shook her head against him.
 
@@ -121,7 +120,7 @@ He felt that thrill again, the excitement and almost trembling awe that she was 
 
 She reached down and took his half-awake sex in her hand. He tried not to moan, but failed. He wakened fully in the space of three breaths. She stroked a light finger over the tip and he moaned again. "Something doesn't want to go to sleep yet," she said.
 
-"It wants more than is good for it," he said, unsteadily. 
+"It wants more than is good for it," he said, unsteadily.
 
 "Sure you don't want to play?"
 
@@ -137,7 +136,7 @@ She tugged him close. "What else?"
 
 He swallowed. It was easier to talk in the dark, with his face nuzzled into her shoulder, her hands tight in his, her lips on his forehead. She made him feel safe, made him feel he could say these things, confess these desires. They'd never brought him anything but misery and shame before, but now Giles thought it was safe. With her it would be. But when he answered, it was with a voice even rougher with emotion.
 
-"Pain, pleasure, whatever you want. Submitting. Being yours. Anything that proves it to you. Being at your mercy. Handing myself over. Waiting on my knees, oh God, yes, that. Aroused and waiting on your whims. Being brought to the edge and held there. " 
+"Pain, pleasure, whatever you want. Submitting. Being yours. Anything that proves it to you. Being at your mercy. Handing myself over. Waiting on my knees, oh God, yes, that. Aroused and waiting on your whims. Being brought to the edge and held there. "
 
 "Those things are good. I like those things too."
 
@@ -179,7 +178,7 @@ She moved, Slayer-fast, and had him on his back, wrists pinned together over his
 
 He breathed out an unsteady laugh. "Who doesn't?"
 
-Buffy smiled at him again, and brushed a kiss over his lips. So strange, such a gentle caress after the ferocity. He had no idea what she would do next. 
+Buffy smiled at him again, and brushed a kiss over his lips. So strange, such a gentle caress after the ferocity. He had no idea what she would do next.
 
 "How much do you like it? Do you masturbate?"
 
@@ -199,7 +198,7 @@ Giles groaned. She knew. She'd make it hard on him.
 
 "In fact... Yeah. This is what I want. You're going to play with yourself every night until Saturday, but you're not going to let yourself come. You're going to work yourself up into a lather and then stop. If you don't, I'll know."
 
-She would, too. He'd be unable to keep it a secret from her. He'd confess it the moment she fixed her gaze upon him. 
+She would, too. He'd be unable to keep it a secret from her. He'd confess it the moment she fixed her gaze upon him.
 
 "Yes, my Slayer." His voice-- he could barely speak.
 
@@ -217,15 +216,15 @@ She released him and shifted herself away from him. Giles turned to face her. He
 
 Giles closed his eyes and leaned forward and brushed his lips against hers. Buffy turned away from him and nestled back against his chest. What was he? He was hers. He'd hunger until Saturday night and enjoy every moment of it.
 ### Bruises
-Sunnydale had exactly one "authentic" English pub. It was notable for an inauthentic but eatable fish and chips; dart boards with good darts for hire at the bar; a couple of tables unfortunately built for pool instead of snooker; Bass, Harp, and Newcastle in bottles; and the ubiquitous Guinness on tap. It also had a projection television that ran football broadcasts from satellite and consequently it was crowded at odd hours of the day. During the World Cup it was intolerable. Giles had attended one such broadcast during his early homesickness period, but none since. He preferred a quieter dinner and pint followed by a solitary bit of practice with darts or a pool cue. Rarely, when his life was at its most stressful, he'd take his glass out to the back garden, sit at the sun-bleached picnic tables, and have a quiet smoke. 
+Sunnydale had exactly one "authentic" English pub. It was notable for an inauthentic but eatable fish and chips; dart boards with good darts for hire at the bar; a couple of tables unfortunately built for pool instead of snooker; Bass, Harp, and Newcastle in bottles; and the ubiquitous Guinness on tap. It also had a projection television that ran football broadcasts from satellite and consequently it was crowded at odd hours of the day. During the World Cup it was intolerable. Giles had attended one such broadcast during his early homesickness period, but none since. He preferred a quieter dinner and pint followed by a solitary bit of practice with darts or a pool cue. Rarely, when his life was at its most stressful, he'd take his glass out to the back garden, sit at the sun-bleached picnic tables, and have a quiet smoke.
 
 When he'd first taken Xander to the pub, his most shameful secret had been discovered: he'd taken to drinking a local microbrewery's ale instead of anything imported. Xander had ribbed him mercilessly. Giles had revolted and threatened Xander with going macrobiotic for their next weekly night out. Giles was entirely happy to eat brown rice and tofu, especially if Xander would suffer. He'd yielded in the face of miso and sprouts, and agreed never to mention Giles's penchant for colonial beer again.
 
-Tonight, Xander drank Coca Cola and Giles his usual Razorback Brown Ale, and they both crunched into fried cod slathered in tartar sauce. Giles found his appetite was patchy; his mind was more on how his evening would end than on the food or his companion. He shook himself out of it and let himself enjoy his meal. Each pleasure had its time. 
+Tonight, Xander drank Coca Cola and Giles his usual Razorback Brown Ale, and they both crunched into fried cod slathered in tartar sauce. Giles found his appetite was patchy; his mind was more on how his evening would end than on the food or his companion. He shook himself out of it and let himself enjoy his meal. Each pleasure had its time.
 
-Xander dunked a chip into the mess of ketchup and black pepper he'd made in a corner of his plate, held it up, and contemplated it for a moment before biting off the ketchup-coated end. 
+Xander dunked a chip into the mess of ketchup and black pepper he'd made in a corner of his plate, held it up, and contemplated it for a moment before biting off the ketchup-coated end.
 
-"So! Giles. Can't help but notice you're dating again." 
+"So! Giles. Can't help but notice you're dating again."
 
 "Oh. I mean, er, I am?"
 
@@ -237,7 +236,7 @@ Giles smiled into his pint glass. "Compelling evidence indeed, Holmes."
 
 Giles flushed. Well, he'd asked for that, and it was justice that Xander was teasing him now for that stunt.  "Your reasoning is sound. I'm, er, seeing someone new."
 
-"So, who is she? When do I get to meet her?" 
+"So, who is she? When do I get to meet her?"
 
 "Not just yet."
 
@@ -249,13 +248,13 @@ Giles arrested his glass on the way back down to the table. Xander's voice had b
 
 Xander shook his head, and Giles was reminded that Xander's relationship with Buffy had been uneasy at times. The tension was there because Xander was feeling protective. Giles was almost touched, but hid it by rummaging for the vinegar.
 
-Xander ate the last of his chips before he answered. 
+Xander ate the last of his chips before he answered.
 
 "She should finish up that business. Anya hasn't figured it out yet, and neither has Willow, I'm pretty sure. But they will. And so will other people. Uniformed people, if you catch me. I am not one to throw stones here, because of past history that I'm pretty sure you know all about. This stuff gets out."
 
 "I know. And it's painful when it does. I admit it. But can't be helped at the moment."
 
-Xander cocked his head, then seemed to accept that. He lounged back against the back of the booth, his own glass in hand. "On a completely unrelated topic, where's our friend the Buffster tonight?" 
+Xander cocked his head, then seemed to accept that. He lounged back against the back of the booth, his own glass in hand. "On a completely unrelated topic, where's our friend the Buffster tonight?"
 
 Giles blinked. "I believe she's on a date with Riley."
 
@@ -281,9 +280,9 @@ Giles split the bill with Xander, then paid for a couple of hours with a set of 
 
 Xander broke and failed to sink anything. Giles surveyed the table.
 
-"Solids. Three in the side pocket." 
+"Solids. Three in the side pocket."
 
-He leaned a hand on the side of the table and craned down to take a second look at his rather cocky called shot. Xander's hand grasped his arm, and Giles froze. Xander pushed his sleeve further up. Clearly visible on Giles's wrist were bruises from where Buffy had grasped him so hard last night. Her fingerprints, purple and blue on his arm. Giles flushed, and felt a wave of that familiar shame wash over him. The thought of those bruises had been so arousing to him at the time, but now-- Now they were still exciting. He was surprised to learn it. Proofs of her dominance over him, visible proofs. She'd gripped him and told him he couldn't come, and anyone who looked at him could see it. 
+He leaned a hand on the side of the table and craned down to take a second look at his rather cocky called shot. Xander's hand grasped his arm, and Giles froze. Xander pushed his sleeve further up. Clearly visible on Giles's wrist were bruises from where Buffy had grasped him so hard last night. Her fingerprints, purple and blue on his arm. Giles flushed, and felt a wave of that familiar shame wash over him. The thought of those bruises had been so arousing to him at the time, but now-- Now they were still exciting. He was surprised to learn it. Proofs of her dominance over him, visible proofs. She'd gripped him and told him he couldn't come, and anyone who looked at him could see it.
 
 Nonetheless he was afraid of what he'd see in Xander's face. He made himself look anyway. Sympathy. Guileless sympathy. It was almost more painful than revulsion would have been.
 
@@ -295,7 +294,7 @@ Xander stood steady however, eyebrows still raised. "I've had bruises like that,
 
 Giles flushed deeply red, right out to the tips of his ears. "Xander. It's, ah, consensual."
 
-Now it was Xander's turn to flush. "Oh. That kind of bruise. Right." 
+Now it was Xander's turn to flush. "Oh. That kind of bruise. Right."
 
 Xander made a big production with the chalk on the end of his cue. He put too much on then rubbed it off on his sleeve.
 
@@ -305,11 +304,11 @@ Giles breathed out a silent laugh. "I'm content to drop the subject if you are."
 
 "Dropping it now. So long as you're okay."
 
-"Yes, yes, thanks. Am I now allowed to get on with it?" Giles gestured to the table. 
+"Yes, yes, thanks. Am I now allowed to get on with it?" Giles gestured to the table.
 
 "Be my guest. Five in the corner?"
 
-"Three in the side." Giles shook out his shoulders to relax himself and shot. He gloomily watched the ball carom off the corner of the pocket. 
+"Three in the side." Giles shook out his shoulders to relax himself and shot. He gloomily watched the ball carom off the corner of the pocket.
 
 "Ought to have gone for the five," Xander said, cheerfully. Giles glowered at him. Xander made the shot himself, then muffed his next through sheer over-ambition and over-confidence. Giles settled in and set himself to the task of clearing the table.
 
@@ -347,9 +346,9 @@ Xander made a thoughtful noise. "Does this happen a lot? I mean, Watchers and Sl
 
 Giles muffed a perfectly easy straight shot. "It's an intense partnership. Or it was."
 
-"And you're old-fashioned." Xander was silent. "Well. That's why we like you. Hey, look! You didn't beat me without me getting a shot this time." 
+"And you're old-fashioned." Xander was silent. "Well. That's why we like you. Hey, look! You didn't beat me without me getting a shot this time."
 
-Xander went to work on the table and demonstrated how far he'd come since their first evening playing together. But that was Xander: a workman's competence. He'd never be flash, never strut, but Giles trusted him. He rested his cue on his foot and watched. Buffy had chosen her friends well. 
+Xander went to work on the table and demonstrated how far he'd come since their first evening playing together. But that was Xander: a workman's competence. He'd never be flash, never strut, but Giles trusted him. He rested his cue on his foot and watched. Buffy had chosen her friends well.
 
 Xander revisited the topic one last time, as Giles pulled the car up to the curb in front of his parents' house.
 
@@ -357,7 +356,7 @@ Xander revisited the topic one last time, as Giles pulled the car up to the curb
 
 "Now?"
 
-Xander grinned. "I've got Anya. We make each other happy, and she wears the handcuffs. See ya next week, if not before." 
+Xander grinned. "I've got Anya. We make each other happy, and she wears the handcuffs. See ya next week, if not before."
 
 He slammed the passenger door and rapped a goodbye on the window. Giles watched him disappear around the back of his house, then drove himself home. Home where, he would enact in the dark proof of his devotion to his Slayer. Xander wouldn't have wanted what Buffy wanted: Buffy wanted her men in the handcuffs, to be the ones with the bruises.
 
@@ -373,15 +372,15 @@ He loved to be told when he could come and when he could not. This was no secret
 
 How would he approach this? He could use a cock ring. It would slow him down, give him better control. But he thought she might not approve of artificial aids. This was a test of his self-control and his obedience. So Giles knelt on his bed, facing the headboard, and spread his thighs wide. He sometimes masturbated this way, fantasizing that he was on his knees to someone, sometimes women he'd known, sometimes Ethan, more rarely one of his other male lovers. Even more rarely, he would imagine himself dominating one of those lovers, imagine himself wielding the whip instead of writhing under it, though he'd never done so outside of fantasy.
 
-Tonight there was only one lover in his mind: Buffy. Buffy in boots and jeans and that red tank top, nipples erect beneath it, and a riding crop in her hand. She'd begin by striping his backside. Bent over his desk, yes, cheek pressed flat against a book he'd left there, trousers down around his ankles. She'd bring him to tears then kiss him, ask him if he needed more, and he'd beg for more, more, please and she wouldn't spare him, she'd give him what he needed. His bold Slayer. 
+Tonight there was only one lover in his mind: Buffy. Buffy in boots and jeans and that red tank top, nipples erect beneath it, and a riding crop in her hand. She'd begin by striping his backside. Bent over his desk, yes, cheek pressed flat against a book he'd left there, trousers down around his ankles. She'd bring him to tears then kiss him, ask him if he needed more, and he'd beg for more, more, please and she wouldn't spare him, she'd give him what he needed. His bold Slayer.
 
 Where was she tonight? Was she with her soldier boy now? Was he making her come? Something in Giles snarled at the thought. If she was to take pleasure from someone else, he wanted it to be someone he could respect, someone worthy of her. But who was worthy of his Buffy? Who would he want to watch her with?
 
 For a wild moment he imagined himself caught between Ethan and Buffy, suffering for both as they struggled with each other for the right to his attention, to out-do each other. Ethan behind him, Buffy before him, his whole body on fire-- He hadn't known this fantasy had been lurking inside him. It alarmed him, and he turned his mind away from it to memory instead. To Buffy seated on his bed, thighs spread for him, the scent of her arousal and how it had tasted, the burn across his thighs, how hard he'd been. Her moans as he teased her, breaking into cries as he built her up and up toward climax. Her body shuddering around his fingers, shuddering around his cock when she rode him the first time, when she fucked him. Would he ask her to do that again on Saturday? Yes: bind him and straddle him and make him come when he was bound tight, come when he had something to fight against. At her command.
 
-Giles was seeing himself spend now, on her belly, in her mouth, against the headboard. His body shifted and his breathing changed. His hand wanted to move hard and sure on himself, and his hips thrust forward. 
+Giles was seeing himself spend now, on her belly, in her mouth, against the headboard. His body shifted and his breathing changed. His hand wanted to move hard and sure on himself, and his hips thrust forward.
 
-He flung himself onto his side, hands curled up against his chest. He gripped one with the other to help himself resist the temptation to touch himself again, to finish it. So close. Too close. He rolled onto his back and breathed, told himself to think about anything else. Sharpening stakes in the library, Xander asleep on the study table. Shelving books. Weeding the card catalog. He'd done as she asked, and God, how he wanted her. He imagined her somewhere across the town, in bed with solid Riley, groaning in pleasure even as he did without. 
+He flung himself onto his side, hands curled up against his chest. He gripped one with the other to help himself resist the temptation to touch himself again, to finish it. So close. Too close. He rolled onto his back and breathed, told himself to think about anything else. Sharpening stakes in the library, Xander asleep on the study table. Shelving books. Weeding the card catalog. He'd done as she asked, and God, how he wanted her. He imagined her somewhere across the town, in bed with solid Riley, groaning in pleasure even as he did without.
 
 Giles fell asleep sprawled on his back across the blankets, his right hand wrapped around his left wrist.
 ### Telemetry
@@ -447,7 +446,7 @@ Riley took a quick look around the balcony. Then he lifted her skirt and bunched
 
 Buffy eased herself down until Riley was all the way inside and gave him a little squeeze. Giles had taught her to do that. Riley groaned. Buffy started to move. Riley pushed up to meet her, then grasped her hips to coax her into moving faster. Buffy smiled to herself and kept the pace slow. Tease him. Draw it out. It was his fantasy night, after all.
 
-She imagined doing this to Giles. Mister Stuffy, in public, inside her, struggling to keep it off his face when he was close to coming, when he was coming. Giles, coming in public, shuddering underneath her, or maybe in her hand. She thought about how much power she'd have over him, at that moment, how he'd never choose to do it himself, but he'd fall all over himself to make her happy by doing it. 
+She imagined doing this to Giles. Mister Stuffy, in public, inside her, struggling to keep it off his face when he was close to coming, when he was coming. Giles, coming in public, shuddering underneath her, or maybe in her hand. She thought about how much power she'd have over him, at that moment, how he'd never choose to do it himself, but he'd fall all over himself to make her happy by doing it.
 
 Riley's head was tipped back and his eyes were closed. "Yeah, God, so good. Can't believe this. All those people downstairs."
 
@@ -455,13 +454,13 @@ Buffy's eyes were open, so she could watch his face and the balcony stairs both.
 
 Riley was the wrong guy. Buffy knew this for a certainty even while she watched him come underneath her, even while she knew she'd enjoy all the sex they'd have that night, even while she knew she would need to beg his forgiveness when it was all over and she told him about Giles.
 
-Riley finished and slumped under her. "Oh, wow," he said. 
+Riley finished and slumped under her. "Oh, wow," he said.
 
 Buffy tightened her grip around his neck, and snapped out an order. "Put my skirt down. Now."
 
 Riley obeyed without thinking, then bridled. "What?"
 
-"Forrest and Graham." 
+"Forrest and Graham."
 
 He smoothed down the skirt even further, but there was no chance to get disentangled. Buffy grinned at the look on his face. He was still inside her, still half-hard, and Forrest had just punched him in the shoulder.
 
@@ -483,15 +482,15 @@ Buffy smiled down on him. "Was that close enough to getting caught to make you h
 
 "Yeah. Sheesh. Yeah."
 
-Buffy kissed the end of his nose and fussed with his hair. It was just long enough to look mussed by what they'd done. That meant he was overdue for a haircut. 
+Buffy kissed the end of his nose and fussed with his hair. It was just long enough to look mussed by what they'd done. That meant he was overdue for a haircut.
 
 Riley rubbed her back. "Sorry I didn't make you come just then."
 
-"It's okay. We were interrupted. So long as you make it up to me later." 
+"It's okay. We were interrupted. So long as you make it up to me later."
 
 Buffy gave Riley a mock pout and he looked relieved. He tugged her head down so he could reach her mouth and gave her a long kiss, with extra tongue.
 
-"Thanks," he said, really quietly, and kissed her again. 
+"Thanks," he said, really quietly, and kissed her again.
 
 They made out like that for a while. Riley's buddies appeared, with more Cokes instead of beer, as promised, and sat with them. They said hello to Buffy at last, and things felt normal, though Riley's hand was higher up on her thigh than it usually was in public. And she could feel him getting hard again underneath her.
 
@@ -527,7 +526,7 @@ Buffy covered her eyes with a hand for a second. How uber-humiliating. They'd be
 
 "Couldn't help but notice that Mister Square didn't have the stamina to satisfy you. A girl as hot as you deserves better. Why don't you come back to my place? I've been told my oral technique is inhuman."
 
-His tongue flickered in his mouth and Buffy crinkled up her face in disgust. 
+His tongue flickered in his mouth and Buffy crinkled up her face in disgust.
 
 "Sorry," she said. "You've seen what no vamp can see and live."
 
@@ -537,7 +536,7 @@ She kicked him across the room and into a spare drum kit. While he struggled to 
 
 "My job too."
 
-Buffy turned away from Riley and did not say what was on her mind, because it would only end in a breakup sooner than she needed it to happen. "Let's get out of here for real," she said instead. "This place has now pegged the wig meter." 
+Buffy turned away from Riley and did not say what was on her mind, because it would only end in a breakup sooner than she needed it to happen. "Let's get out of here for real," she said instead. "This place has now pegged the wig meter."
 
 Out of the Bronze, across downtown, then back north toward the campus. They walked, because it wasn't far, maybe a mile to the campus edge, and the both of them were in seriously good shape.
 
@@ -575,7 +574,7 @@ It felt better when they were in his room and Riley was watching her undress for
 
 "Still feel like dismissing fetishes?"
 
-She knelt up on Riley's bed, showing her body off a little bit for him, like she had earlier. It was still his fantasy night after all, and it felt way better now that he'd locked his door. Riley ran his hand down her back, then reached around to cup a breast in his big hand. 
+She knelt up on Riley's bed, showing her body off a little bit for him, like she had earlier. It was still his fantasy night after all, and it felt way better now that he'd locked his door. Riley ran his hand down her back, then reached around to cup a breast in his big hand.
 
 "Not sure. The whole thing was just amazingly good. But I feel okay it's over now. Much better to be here in private with you."
 
@@ -615,7 +614,7 @@ Riley turned off the light and pulled up the covers. He tugged her down until he
 
 It wasn't okay. It was one thing to have your friends know it happened, because you ended up more or less knowing what nights were date nights and what nights were sleep-over nights. But it was another thing to think about Professor Walsh knowing. About a roomful of file clerks knowing. And it was bunk to think that they didn't know who it was with. Professor Walsh was seriously interested in the fact that Buffy was the Slayer, and Riley had dropped hints she was happy the two of them were dating.
 
-The other thing she was thinking was that Spike had a chip, too, only his was in his brain. And that one did other things, interesting things, things that Buffy hadn't thought science was up to yet. Mind control stuff. She pulled and tugged at this in her head, pushing around puzzle pieces that weren't fitting together yet. 
+The other thing she was thinking was that Spike had a chip, too, only his was in his brain. And that one did other things, interesting things, things that Buffy hadn't thought science was up to yet. Mind control stuff. She pulled and tugged at this in her head, pushing around puzzle pieces that weren't fitting together yet.
 
 Four times Riley's heart rate had spiked that night. Four entries in the log. Or maybe he'd just say it once: Had hot date with the Slayer. Kept up with the Slayer. Four times in four hours. That was some serious stamina; the vitamins they had him on must be as high-tech advanced as the chip.
 
@@ -669,7 +668,7 @@ Giles closed his eyes for a moment and let himself imagine Buffy in a black dres
 
 "I have the perfect dress. Need to figure out shoes, though."
 
-"Don't wear scent. I have something for you." 
+"Don't wear scent. I have something for you."
 
 "How sweet! This all sounds wonderful, Giles. But not very kinky."
 
@@ -683,7 +682,7 @@ Giles closed his eyes for a moment and let himself imagine Buffy in a black dres
 
 If he were lucky, very lucky, he'd be able to watch Buffy fight while they were out. It didn't matter what she did, stake a vampire, behead a demon. Just so he saw her being what she was. But he wouldn't ask her to fight any more often than Fate itself did.
 
-"I'll take you home again. Here. And strip naked for you. You'll put the collar on me and make me go to my knees and stay there. Deep submission." 
+"I'll take you home again. Here. And strip naked for you. You'll put the collar on me and make me go to my knees and stay there. Deep submission."
 
 "And then?"
 
@@ -695,7 +694,7 @@ He swallowed. "Make me suffer."
 
 Buffy made a sound that he thought might be a groan, but wasn't sure. "Any particular way?"
 
-"Something that leaves marks again, please. The ones from last week are nearly faded and I miss them." 
+"Something that leaves marks again, please. The ones from last week are nearly faded and I miss them."
 
 How easy it was to ask for this, when one was so removed from the reality of enduring it. He'd feel differently when she came to him holding the whip, he was sure. By then it would be too late. His willful cock knew what it wanted, though. As ever. He let his fingers brush against it. Teasing himself, as she wanted.
 
@@ -719,7 +718,7 @@ Giles put his hand behind his head, safely away from his erection and from tempt
 
 "It varies," he said. "When I'm exhausted from our training, or injured, not at all. If I'm in good condition, I might do it every day. There are times when it doesn't come to mind, though. Might run to a fortnight without."
 
-"That's a long time," she said, and he wondered how often she indulged herself. She was at the age when one wanted to almost constantly, if he could extrapolate from his own experiences and those of his university friends. He imagined her touching herself, a hand between her legs, another on her breast, what her face might look like, and his cock twitched against his belly. 
+"That's a long time," she said, and he wondered how often she indulged herself. She was at the age when one wanted to almost constantly, if he could extrapolate from his own experiences and those of his university friends. He imagined her touching herself, a hand between her legs, another on her breast, what her face might look like, and his cock twitched against his belly.
 
 She said, "Do you use any of your toys?"
 
@@ -765,7 +764,7 @@ Giles giggled, though it was half nerves. If she were learning more, she would b
 
 "It's strange how much better I know you now, after two weeks of this, than after three years of hanging out with you."
 
-"Sex is intimate to start with. And this sort even more so." 
+"Sex is intimate to start with. And this sort even more so."
 
 Buffy had, he wagered, paid more attention to him during that first night together than in the entire three years previous. It wasn't an equal relationship, that of the Watcher to his Slayer. He'd spent the those years giving all to her without expectation of anything returned. And why should he expect anything more from a girl who'd end by sacrificing her life for the sake of humanity? She owed him nothing.
 
@@ -799,7 +798,7 @@ Buffy sighed. "I never... Did we ever touch before this? I know we did, but it f
 
 "I do want it. So very much. That ring is in all my fantasies. I had one of you the other night that featured it."
 
-"Tell me." 
+"Tell me."
 
 The sure command in her voice went straight to his cock. His throat closed up and he struggled for the words.
 
@@ -823,7 +822,7 @@ The memory of the fantasy was sweet, and Giles sighed. His hand strayed down to 
 
 "Deeply."
 
-Buffy was silent for a time, and so was he. Ethan, oh Ethan. Giles missed him, longed for him, with a tiny corner of his heart. But it was impossible. They'd grown apart even while they'd been together, and the final betrayal had been too much for even someone as besotted as he to forgive. Too many years of bitterness. And he loved someone else now. He wondered if he'd ever dare tell her. Surely she knew? Surely she would guess, after that confession about Ethan? 
+Buffy was silent for a time, and so was he. Ethan, oh Ethan. Giles missed him, longed for him, with a tiny corner of his heart. But it was impossible. They'd grown apart even while they'd been together, and the final betrayal had been too much for even someone as besotted as he to forgive. Too many years of bitterness. And he loved someone else now. He wondered if he'd ever dare tell her. Surely she knew? Surely she would guess, after that confession about Ethan?
 
 But when she spoke again, she'd moved on to another topic.
 
@@ -833,9 +832,9 @@ But when she spoke again, she'd moved on to another topic.
 
 "Why not?"
 
-Giles shifted and turned onto his side in bed. His erection had softened a little. He took himself in hand again and thought about how to explain it to her. "I'm fussier about men than about women. Sounds a bit silly now I say it, because I've not much been a Lothario with women. But men need to have something that wakens that urge in me." 
+Giles shifted and turned onto his side in bed. His erection had softened a little. He took himself in hand again and thought about how to explain it to her. "I'm fussier about men than about women. Sounds a bit silly now I say it, because I've not much been a Lothario with women. But men need to have something that wakens that urge in me."
 
-The need to strut, to tomcat about, to sink his teeth into their necks, rather than to have his neck bitten. He'd found himself impatient with shallow men who were interested only in his muscles and the size of his prick. He liked difficult men, he'd found, men who frustrated him a bit. 
+The need to strut, to tomcat about, to sink his teeth into their necks, rather than to have his neck bitten. He'd found himself impatient with shallow men who were interested only in his muscles and the size of his prick. He liked difficult men, he'd found, men who frustrated him a bit.
 
 "No guys recently?"
 
@@ -863,7 +862,7 @@ Giles's cock made its wishes most emphatically known again. "Mmm."
 
 "But you'll have to."
 
-"Sweet cruelty." 
+"Sweet cruelty."
 
 Buffy laughed. "I love how happy you sound when you say that. You're frustrated but you're loving every second of it."
 
@@ -925,7 +924,7 @@ Giles smiled in pure joy, halfway across town from his clever Slayer. University
 
 "Yes, rather. She fussed over me ridiculously. Fed me, indulged me, dressed me in soft clothes. Not that she let me come. I had to wait days before she allowed me."
 
-Buffy made a thoughtful sound. "You liked that," she said. It was not a question; he'd managed to make that aspect of his sexuality clear to her. 
+Buffy made a thoughtful sound. "You liked that," she said. It was not a question; he'd managed to make that aspect of his sexuality clear to her.
 
 "Not so much the going without entirely, as that she took control of it, if you take my meaning."
 
@@ -937,7 +936,7 @@ Buffy made a thoughtful sound. "You liked that," she said. It was not a question
 
 Giles shifted himself on the bed. Just the sound of Buffy saying that word make him burn with longing and fear. "Difficult. They're both ways I prove myself to you. But I think-- oh, Lord, confessing this." His voice dropped to a whisper and his breath came fast. "I need the whipping more. Ethan had me right."
 
-"Tell me," she said. Her voice was as quiet as his was. "What's the difference?" 
+"Tell me," she said. Her voice was as quiet as his was. "What's the difference?"
 
 Giles sought for the words. How to make her understand something he only half-understood himself?
 
@@ -953,13 +952,13 @@ Giles rubbed his face and smiled ruefully, though she couldn't see him. "Yes, it
 
 "I'm still getting over the shock that there's somebody who wants the things I want. For so long I've fantasized about this. I wanted to do it to guys. Tie them up and whip them. I was afraid nobody would ever want to do it in real life. And now I've found you."
 
-"Folie a deux," Giles murmured. 
+"Folie a deux," Giles murmured.
 
 "Matched set."
 
 "Indeed we are. Watcher and Slayer."
 
-Buffy giggled, then was silent for a time. Giles listened to her breathe and was content. He turned on his side and pulled a blanket over his legs. When had she been with him last? Monday evening. And in two nights she'd be with him again. He stretched his legs then curled himself around a pillow, with the blanket pulled a bit higher. He wanted her there, in his bed, cradled against his chest, rather more than he wanted any of the things they'd talked about. Sex was not everything. 
+Buffy giggled, then was silent for a time. Giles listened to her breathe and was content. He turned on his side and pulled a blanket over his legs. When had she been with him last? Monday evening. And in two nights she'd be with him again. He stretched his legs then curled himself around a pillow, with the blanket pulled a bit higher. He wanted her there, in his bed, cradled against his chest, rather more than he wanted any of the things they'd talked about. Sex was not everything.
 
 "Hey," Buffy said.
 
@@ -973,7 +972,7 @@ She was silent for a moment, and he was afraid she'd pull away, but then she sai
 
 "I agree. Do what you must. I'll tug on some contacts I have and see what I can learn."
 
-"'Kay. I should get some sleep. Nine am class, and <em>somebody</em> has ordered me to run five miles tomorrow morning." 
+"'Kay. I should get some sleep. Nine am class, and <em>somebody</em> has ordered me to run five miles tomorrow morning."
 
 Giles smiled. "Right, then. Call me when you get in from patrol? It doesn't matter what time."
 
@@ -991,19 +990,19 @@ He waited until he heard the click of her ringing off before he turned off his p
 ### Steel
 The knock came at Buffy's dorm door exactly on time, with the campus clock still chiming the hour. Buffy called out that it was open, and snapped her compact closed. Too late to fuss with it any more.
 
-Giles stepped inside her door silently and closed it. He stood with his back against the door, hands in his trouser pockets, head ducked. He was smiling faintly. He looked marvelous in his dark jacket and striped tie-- buffy had almost forgotten what he looked like dressed like that, he'd been wearing the sloppy sweaters so often. Buffy herself had gone for casually dressy, not formally dressy. A night out in LA, not New York, light on the jewelry, heavy on the natural. 
+Giles stepped inside her door silently and closed it. He stood with his back against the door, hands in his trouser pockets, head ducked. He was smiling faintly. He looked marvelous in his dark jacket and striped tie-- buffy had almost forgotten what he looked like dressed like that, he'd been wearing the sloppy sweaters so often. Buffy herself had gone for casually dressy, not formally dressy. A night out in LA, not New York, light on the jewelry, heavy on the natural.
 
 "You look lovely," Giles said. He cleared his throat. His eyes were on her body, moving from her discreet cleavage down to her high heels. "Is, er, Willow, er?" Giles trailed off.
 
 "She's out. Date, I think, not studying. She put on makeup before she left."
 
-Giles flashed his teeth in a broad smile. "Oh, good for her." 
+Giles flashed his teeth in a broad smile. "Oh, good for her."
 
 He stepped toward her. Buffy met him halfway. She wrapped her fist around his tie, just below the knot. "Have you been obedient?"
 
-"Yes." 
+"Yes."
 
-Buffy could see from his face that he had been. He was smiling and he looked eager, proud of himself. She tugged hard on the tie and pulled him down so she could kiss him. When he tried to take control of the kiss she pushed him back playfully, but hard enough that he staggered backward. He was still smiling. 
+Buffy could see from his face that he had been. He was smiling and he looked eager, proud of himself. She tugged hard on the tie and pulled him down so she could kiss him. When he tried to take control of the kiss she pushed him back playfully, but hard enough that he staggered backward. He was still smiling.
 
 "Did you bring your toys?"
 
@@ -1019,11 +1018,11 @@ Buffy picked up the cock ring and turned it over in her hands. It was plain poli
 
 "Bend over the back of my chair, please."
 
-Giles shuffled around awkwardly with his pants around his ankles. He bent and grasped the back of her chair as instructed. 
+Giles shuffled around awkwardly with his pants around his ankles. He bent and grasped the back of her chair as instructed.
 
 Buffy opened the bottle of lubricant and squeezed out a big blob onto her fingers. She touched him lightly with her slippery fingers. He shivered. Ethan, he'd told her, had been the first person to take him there. Buffy had a flash of jealousy, which surprised her. It had been so long ago, and she couldn't ever have been the first to own him. But she would be the one to own him most completely, she told herself. And on that thought, she pushed her middle finger inside him, all the way up to the knuckle. He breathed in and went tense, and she felt him move around her. Strange feeling, being inside somebody. Soft and warm. What did it feel like to have a penis and have it inside somebody else? She'd never know. That was okay; Buffy liked what she did have. Her Slayer's body, her breasts, her vagina. She had a butt too. Would she like having someone touch her the way she was touching Giles now? She hadn't thought about that before, but she thought about it now, as she pushed two fingers inside him and listened to him gasp. Giles really liked this. He wanted more, he'd said. Wanted to be fucked. By her? Nobody else was going to. He belonged to her now.
 
-Buffy withdrew herself from him and picked up the plug. This was also heavier than she'd expected, though it wasn't large. Like the cock ring, then, all about the sensation of weight. She teased him with it and was gratified to hear his breathing speed up. She slid it into him until it was at its widest point. He made another one of those soft sounds of pleasure and pushed back against her a little bit. She let the plug slide all the way in and settled the base snug against his butt. His glutes flexed, and then Giles let out a long sigh. 
+Buffy withdrew herself from him and picked up the plug. This was also heavier than she'd expected, though it wasn't large. Like the cock ring, then, all about the sensation of weight. She teased him with it and was gratified to hear his breathing speed up. She slid it into him until it was at its widest point. He made another one of those soft sounds of pleasure and pushed back against her a little bit. She let the plug slide all the way in and settled the base snug against his butt. His glutes flexed, and then Giles let out a long sigh.
 
 Buffy washed her hands in the dorm sink. Giles remained in place without needing to be told. He was breathing hard, eyes closed. She laid a hand on his rump and he flinched. Braced for something to happen, then. Buffy grinned, behind him where he couldn't see it. His penis was fully erect now. She liked Giles's penis. She liked that it was uncircumcised. It was a good size, not ridiculously big, but wide enough to feel good when he was inside her, long enough that going down deep on him took skill. Buffy grinned to herself, thinking about how that had felt, how he'd moaned. How he would moan later on when she did that for him again, as a reward. But it was so tempting right now, hanging down like that, with his balls held away from his body by the steel ring. So delicate, so sensitive. So vulnerable.
 
@@ -1031,7 +1030,7 @@ Buffy took his balls in her hand and squeezed, cautiously, with all the careful 
 
 "Stand up and dress yourself."
 
-Giles obeyed. She watched him zip himself up carefully, with his penis held upright inside his briefs. He buckled his belt, then looked up at her. His face was red, but he was otherwise composed and controlled. He adjusted his tie and gave her that shy smile again. He cleared his throat, then stuck his hand into his jacket pocket and inclined his head slightly. 
+Giles obeyed. She watched him zip himself up carefully, with his penis held upright inside his briefs. He buckled his belt, then looked up at her. His face was red, but he was otherwise composed and controlled. He adjusted his tie and gave her that shy smile again. He cleared his throat, then stuck his hand into his jacket pocket and inclined his head slightly.
 
 "I have a present for you."
 
@@ -1039,7 +1038,7 @@ Buffy grinned at him. "You mean besides you?"
 
 "I promised you scent. I know you usually wear florals, but, ah, I thought this might suit. I had it blended specially."
 
-He handed her a small black velvet bag. It held a small glass bottle with a cork stopper in the neck; the bottle was full of a thick red oil. Perfume. Buffy pulled the cork stopper out and sniffed cautiously at the oil. Spicy oranges, and something dark and velvety underneath. With a bite lurking behind it. Her nostrils flared, and she inhaled again, more deeply. 
+He handed her a small black velvet bag. It held a small glass bottle with a cork stopper in the neck; the bottle was full of a thick red oil. Perfume. Buffy pulled the cork stopper out and sniffed cautiously at the oil. Spicy oranges, and something dark and velvety underneath. With a bite lurking behind it. Her nostrils flared, and she inhaled again, more deeply.
 
 "Made for me?"
 
@@ -1087,7 +1086,7 @@ Buffy opened her mouth to explain, then shut it again because she wasn't sure wh
 
 "Maggie Walsh."
 
-Giles held out a hand, and Walsh shook it for what seemed to Buffy to be the minimum polite time. 
+Giles held out a hand, and Walsh shook it for what seemed to Buffy to be the minimum polite time.
 
 "Oh, yes, Rupert Giles. Lieutenant Finn mentioned you once. You were the librarian at the town high school."
 
@@ -1127,9 +1126,9 @@ Buffy's hand curled into a fist around her purse strap, but she kept her mouth s
 
 "And just what is that nature?"
 
-"Slayers," he said, in his driest voice, "have more than a little in common with the demons they're made to slaughter. They're hot-blooded and need a strong hand." 
+"Slayers," he said, in his driest voice, "have more than a little in common with the demons they're made to slaughter. They're hot-blooded and need a strong hand."
 
-"And you're the man to provide it." 
+"And you're the man to provide it."
 
 Giles shrugged. "It's a matter of experience."
 
@@ -1155,7 +1154,7 @@ Walsh addressed her question to Buffy, but again Giles touched her on the elbow 
 
 "Neither do I. And speaking of the time-- we must be off. Have a good evening."
 
-Giles took her elbow again and drew her away down the sidewalk. Once they'd put Walsh and Angleman a good way behind themselves, Giles let go of her. Buffy breathed out a long sigh. That had been some routine he'd pulled just now, but she was pretty sure she knew what he'd been trying to do. Let Walsh think he was bossing her around, the way the Council was supposed to work. Probably that would make Walsh decide she was weak, and underestimate her. She hoped. 
+Giles took her elbow again and drew her away down the sidewalk. Once they'd put Walsh and Angleman a good way behind themselves, Giles let go of her. Buffy breathed out a long sigh. That had been some routine he'd pulled just now, but she was pretty sure she knew what he'd been trying to do. Let Walsh think he was bossing her around, the way the Council was supposed to work. Probably that would make Walsh decide she was weak, and underestimate her. She hoped.
 
 "That was a mood-killer," she said.
 
@@ -1171,11 +1170,11 @@ There was something in his voice that made Buffy turn and stare sharply up into 
 
 "That was not my reading. But it doesn't matter."
 
-Riley'd said more, once, when he'd been angry about something, about one of his squad being reassigned by Walsh without consulting with him. But that was just him grousing about work, the way she'd complain about vampires. Mostly Riley seemed to like Walsh. Was she serious about that job offer? Buffy didn't like the idea, especially because it would mean she would definitely end up joining the Initiative. The idea of investigating it from the inside, of getting her own special implants and monitors, was giving her the creeps. She pondered this until they reached the public parking lot, where Giles's battered car was. 
+Riley'd said more, once, when he'd been angry about something, about one of his squad being reassigned by Walsh without consulting with him. But that was just him grousing about work, the way she'd complain about vampires. Mostly Riley seemed to like Walsh. Was she serious about that job offer? Buffy didn't like the idea, especially because it would mean she would definitely end up joining the Initiative. The idea of investigating it from the inside, of getting her own special implants and monitors, was giving her the creeps. She pondered this until they reached the public parking lot, where Giles's battered car was.
 
-Giles dug for his keys in his pocket and opened the passenger door for her. 
+Giles dug for his keys in his pocket and opened the passenger door for her.
 
-"I do think we learned something worthwhile," he said. 
+"I do think we learned something worthwhile," he said.
 
 "What?" Buffy said. Giles's brows came together, and she held up a hand to keep him silent while she thought it through herself. "She's interested in what makes me the Slayer."
 
@@ -1215,7 +1214,7 @@ Giles shook his head. "If they know, they haven't told me. They keep their secre
 
 "If it would serve our goals, yes."
 
-The thought of Giles working for Walsh made her chest tighten up. A flood of something strange came over her, the feeling she'd had when she'd seen Olivia in Giles's shirt. When she'd seen the photographs of Giles with the professional dominatrix. She hadn't called it jealousy then, but she knew it for what it was now. Maybe it was a bad thing. She'd worry about that later. 
+The thought of Giles working for Walsh made her chest tighten up. A flood of something strange came over her, the feeling she'd had when she'd seen Olivia in Giles's shirt. When she'd seen the photographs of Giles with the professional dominatrix. She hadn't called it jealousy then, but she knew it for what it was now. Maybe it was a bad thing. She'd worry about that later.
 
 She reached out and grabbed a fistful of his shirt and shook him, less gently than she'd meant to. Giles grasped her wrist, but didn't try to pull free.
 
@@ -1225,7 +1224,7 @@ Giles closed his hand over hers and disentangled her grasp from his shirt. He ra
 
 "Never. But that's a tactic I don't want to use. I don't want you wearing their uniform. I need you the way you are."
 
-"I understand," he said, and he stroked her hand. 
+"I understand," he said, and he stroked her hand.
 
 Maybe he even did understand. He hadn't been boasting when he'd told Walsh he knew what Slayers needed. Slayers needed Watchers, or something just like them. Somebody safe, reliable, a place to return to when she needed a refuge and time to think. Advice, analysis, A friend she could trust to support her interests completely. Everybody wanted that, maybe, but for the Slayer it was urgent. Though she felt she'd just been ridiculous and clingy. Wasn't she supposed to be meeting all her own emotional needs? That's what the psych text said, what Maggie Walsh had said in a lecture.
 
@@ -1303,7 +1302,7 @@ Giles shook his head. He hadn't even touched his fork yet. "One doesn't use the 
 
 "Pryce? Not sure. He read economics, I thought, London. He was meant for a government post. He said something to me once about it. The field assignment would be de rigueur for him, if he wanted to rise in the Council."
 
-Giles's voice had gone sarcastic. So she'd been nothing but a routine assignment. At first anyway. Buffy had a bite of her fish, which was melt-on-the-tongue good, and thought about Wesley and how things had worked out with him. 
+Giles's voice had gone sarcastic. So she'd been nothing but a routine assignment. At first anyway. Buffy had a bite of her fish, which was melt-on-the-tongue good, and thought about Wesley and how things had worked out with him.
 
 "That didn't go so well, huh?"
 
@@ -1317,7 +1316,7 @@ Giles's voice had gone sarcastic. So she'd been nothing but a routine assignment
 
 "He's a decent man. Unlike his father."
 
-And now Giles was venomous. There was a story there, she guessed, which she'd save for a rainy day, or a boring patrol. 
+And now Giles was venomous. There was a story there, she guessed, which she'd save for a rainy day, or a boring patrol.
 
 "You should try this," Buffy told him, to change the subject. "It's amazing."
 
@@ -1335,9 +1334,9 @@ Dessert was a small and incredibly intense raspberry chocolate thing, and Buffy 
 
 "I do, but-- It's a bit wasted on me tonight, I'm afraid. My mind is, ah, elsewhere."
 
-Giles's smile at her was almost shy, so Buffy restrained herself from making any of the jokes that came to mind about it. She ate his dessert with pleasure. 
+Giles's smile at her was almost shy, so Buffy restrained herself from making any of the jokes that came to mind about it. She ate his dessert with pleasure.
 
-Giles paid the bill with cash, and vanished into the rest room for a minute on the way out. Buffy stood on the restaurant porch and watched the cold Pacific surf obliterate itself on the rocks below her, and wondered how he managed with that ring on him. She let her Slayer senses wake up and idly reached out in search of evil. No predators nearby. Maybe she'd be allowed a quiet night in bed with her guy. Well, not quiet, exactly. 
+Giles paid the bill with cash, and vanished into the rest room for a minute on the way out. Buffy stood on the restaurant porch and watched the cold Pacific surf obliterate itself on the rocks below her, and wondered how he managed with that ring on him. She let her Slayer senses wake up and idly reached out in search of evil. No predators nearby. Maybe she'd be allowed a quiet night in bed with her guy. Well, not quiet, exactly.
 
 Giles rejoined her on the porch and said, "What are you smiling about?"
 
@@ -1347,13 +1346,13 @@ He rubbed at the back of his head. "Ah. Quite. Shall we, then?"
 
 Buffy stopped him when they reached the car, and held out her hand for his keys. "I'm driving." He stared at her blankly, but made no move to hand them to her.  "I have a permit. I'm in charge. And you'll get one extra stripe for every second you make me wait."
 
-"Promises, promises," Giles murmured. But he bowed over the keys as he handed them over. He held the driver's side door for her with good grace, and got into the passenger seat without any further resistance. 
+"Promises, promises," Giles murmured. But he bowed over the keys as he handed them over. He held the driver's side door for her with good grace, and got into the passenger seat without any further resistance.
 
 "Put your hands on your knees, palms up. Like that. Good. Keep them there. Spread your legs further."
 
 Giles obeyed her without hesitation. Buffy reached between his legs and caressed him as a reward, until he closed his eyes and moaned under his breath. Joy welled up inside her, but she kept it secret for now. She let go of him, and started the car.
 
-She was nervous about driving Giles's antique, which wallowed more than it maneuvered, but she managed to do well enough that she had begun to relax by the time they reached his street. She pulled into the curb space in front of Giles's apartment building, and was secretly grateful that she didn't have to do any fancy parallel parking. She turned off the ignition and set the keys in his upturned palm. His hand was trembling under hers. 
+She was nervous about driving Giles's antique, which wallowed more than it maneuvered, but she managed to do well enough that she had begun to relax by the time they reached his street. She pulled into the curb space in front of Giles's apartment building, and was secretly grateful that she didn't have to do any fancy parallel parking. She turned off the ignition and set the keys in his upturned palm. His hand was trembling under hers.
 
 She said, "As of now, you're not in charge of anything. You make no decisions. You just feel whatever it is I give you to feel."
 
@@ -1367,23 +1366,23 @@ Another deep breath, in and out, and some tension left his shoulders. "Understoo
 
 "Yes, my Slayer," he said.
 
-He got out of the car and held her door for her, as before, and carried her overnight bag. He ducked ahead of her to open his front door, and stood aside with inclined head to let her enter before him. Old-fashioned courtesy, deference, the sort of gestures that annoyed her when other men made them. Buffy watched him bolt the front door behind them. He paused there with his hand on the lock, back turned toward her, and she saw him take another one of those long, deep breaths. Preparing himself. 
+He got out of the car and held her door for her, as before, and carried her overnight bag. He ducked ahead of her to open his front door, and stood aside with inclined head to let her enter before him. Old-fashioned courtesy, deference, the sort of gestures that annoyed her when other men made them. Buffy watched him bolt the front door behind them. He paused there with his hand on the lock, back turned toward her, and she saw him take another one of those long, deep breaths. Preparing himself.
 
 Buffy left him to undress and carried her bag up to the loft. She stepped out of her pumps and set them under the bed, out of the way, but that was as far as she undressed; she wanted him naked long before she took anything off. On his nightstand she saw he'd laid out his collar and one of his riding crops. Not the one she'd used on him their first night together. She picked it up and flexed it in her hands. It was long and thin and had something stiff at its core. A quiet plea for harsher treatment from her, perhaps. Buffy decided that she'd indulge him and give him what he wanted but couldn't ask for directly.
 
-She left the whip where it was. The collar was enough to get them started. No, wait. She slid his nightstand drawers open and rummaged until she found the nipple clamps. 
+She left the whip where it was. The collar was enough to get them started. No, wait. She slid his nightstand drawers open and rummaged until she found the nipple clamps.
 
-Buffy padded downstairs on silent bare feet again to see if Giles had obeyed her. And of course he had. There he was, her handsome man kneeling at her feet, in shirt and trousers, feet bare. She circled him slowly, admiring him. His eyes were half-closed, his mouth open. His head was bent and his wrists were behind his back, crossed. His erection was obvious in his trousers now that his jacket and tie weren't there to distract from it. She came to a halt before him and let her hand rest on his head. He flinched under her hand, though all she did was stroke his hair. 
+Buffy padded downstairs on silent bare feet again to see if Giles had obeyed her. And of course he had. There he was, her handsome man kneeling at her feet, in shirt and trousers, feet bare. She circled him slowly, admiring him. His eyes were half-closed, his mouth open. His head was bent and his wrists were behind his back, crossed. His erection was obvious in his trousers now that his jacket and tie weren't there to distract from it. She came to a halt before him and let her hand rest on his head. He flinched under her hand, though all she did was stroke his hair.
 
-"Unbutton your shirt," she said, and watched as he obeyed. He seemed to have calmed down a little, because his hands were steadier than they'd been in the car. 
+"Unbutton your shirt," she said, and watched as he obeyed. He seemed to have calmed down a little, because his hands were steadier than they'd been in the car.
 
-Shirt opened, tugged out of his trouser waistband. He put his hands behind his back again, and looked at up at her through his lashes. He was so masculine like this, half dressed, on his knees. She liked his bare chest, liked the hair scattered across his pecs. Broad shoulders, broad chest, rising and falling as he breathed. She ran her hands all over that chest, around and up his back. She ended by stroking his hair. It had grown a little long, longer than Giles usually let it, and curled over the back of his collar and his ears. Soft hair, with gray sparking at his temples. A middle-aged man, an academic man, a reserved man, a shy man, a man she would never have met if it hadn't been for her destiny. And his destiny. Her Watcher. The one person in the world whom she'd trust with her life. 
+Shirt opened, tugged out of his trouser waistband. He put his hands behind his back again, and looked at up at her through his lashes. He was so masculine like this, half dressed, on his knees. She liked his bare chest, liked the hair scattered across his pecs. Broad shoulders, broad chest, rising and falling as he breathed. She ran her hands all over that chest, around and up his back. She ended by stroking his hair. It had grown a little long, longer than Giles usually let it, and curled over the back of his collar and his ears. Soft hair, with gray sparking at his temples. A middle-aged man, an academic man, a reserved man, a shy man, a man she would never have met if it hadn't been for her destiny. And his destiny. Her Watcher. The one person in the world whom she'd trust with her life.
 
-She wrapped the collar around his neck and buckled it tight. He closed his eyes and sighed. He'd been wearing this longer than she'd been alive, judging by the grooves worn into it and the place where the buckle tongue had rubbed. Did he ever wear it when he was alone? Or only for a lover? Buffy tucked the end of the collar through, then slipped two fingers into the ring at the front. She tugged Giles gently, and he swayed on his knees. 
+She wrapped the collar around his neck and buckled it tight. He closed his eyes and sighed. He'd been wearing this longer than she'd been alive, judging by the grooves worn into it and the place where the buckle tongue had rubbed. Did he ever wear it when he was alone? Or only for a lover? Buffy tucked the end of the collar through, then slipped two fingers into the ring at the front. She tugged Giles gently, and he swayed on his knees.
 
 "Some day I'm going to take you out in public with this on. Somewhere where people can see you."
 
-Giles swore under his breath, and she knew she'd struck home. He bent and pressed his lips to her foot. As he rose again, Buffy reached down to him and gripped a fistful of his shirt and pulled him up to his knees. Slayer strength, the kind of display he loved so much, a reminder that she was the warrior he worshipped. It was easy to be a warrior in jeans and a leather jacket. It always blew Buffy's mind when she did it in a little black dress. And apparently it blew Giles's mind, too, because he surged up and flung his arms around her waist. He pressed his cheek against her stomach and held her tight. 
+Giles swore under his breath, and she knew she'd struck home. He bent and pressed his lips to her foot. As he rose again, Buffy reached down to him and gripped a fistful of his shirt and pulled him up to his knees. Slayer strength, the kind of display he loved so much, a reminder that she was the warrior he worshipped. It was easy to be a warrior in jeans and a leather jacket. It always blew Buffy's mind when she did it in a little black dress. And apparently it blew Giles's mind, too, because he surged up and flung his arms around her waist. He pressed his cheek against her stomach and held her tight.
 
 He was murmuring her name, over and over, and shaking. Buffy braced a hand on his back and pressed him closer. "Ssh. It's okay."
 
@@ -1405,7 +1404,7 @@ He tightened his arms around her, but didn't answer immediately. When he did, hi
 
 "Yes. Please, my Slayer. Do what you wish with me."
 
-She didn't let go of him but held him close for a little longer, until she felt him relax in her arms. She straightened up. He released her and returned to his waiting position, wrists crossed behind his back. His face was calm again, so Buffy pulled her shoulders back and let herself snap into command mode. Slayer mode. 
+She didn't let go of him but held him close for a little longer, until she felt him relax in her arms. She straightened up. He released her and returned to his waiting position, wrists crossed behind his back. His face was calm again, so Buffy pulled her shoulders back and let herself snap into command mode. Slayer mode.
 
 "I think the first thing I wish is to see you naked. Undress yourself, Watcher."
 
@@ -1417,13 +1416,13 @@ It looked good on him, the cock ring did. Gleaming metal all the way around him,
 
 The metal looked so good on him. Time for some more. She found the nipple clamps where she'd laid them on his coffee table. She held them up to him to see what he'd do. His eyes darkened, and he arched his back to present his chest to her. Buffy had another moment of jealousy, then, thinking about whoever it was who'd taught him to react like that. Ethan Rayne? Jenny Calendar? She hadn't been the first. She could never have been the first. He hadn't been her first, either. But here they were now, together, and she was the one with the clamps in her hand and it was her eyes he was looking into with such desire.
 
-"Please" was what he said when she put the first one on, and "God yes" for the second. She adjusted them until they were snug enough to stay on when she tugged casually, then turned the screw just a little further than that. 
+"Please" was what he said when she put the first one on, and "God yes" for the second. She adjusted them until they were snug enough to stay on when she tugged casually, then turned the screw just a little further than that.
 
 Giles was breathing harder now. The sweat dripped from his temples. She watched his chest rise and fall, the chain between his nipples moving with each breath. His pupils were wide. He was wearing her steel now, inside and out. It was hard to hold herself back, seeing him like that, on his knees by choice, just for her. She wanted to whip him right away, until there were lash marks all over that chest, all over his thighs. But Buffy dug for every scrap of patience she had and held herself still. Watched him breathe, watched his throat work as he swallowed.
 
-"Time to go upstairs," she said. 
+"Time to go upstairs," she said.
 
-He rose to his feet gracefully, hands still behind his back, all the while watching her face. She pointed toward the stairs and he bowed to her slightly and went. She watched him walk upstairs, wrists crossed behind his back, head down, moving slowly, carefully, with that erection preceding him. 
+He rose to his feet gracefully, hands still behind his back, all the while watching her face. She pointed toward the stairs and he bowed to her slightly and went. She watched him walk upstairs, wrists crossed behind his back, head down, moving slowly, carefully, with that erection preceding him.
 
 She turned the lights out and followed him up silently. If his hands were steady now, hers weren't. She was starting to feel almost too excited.
 
@@ -1437,13 +1436,13 @@ Buffy turned her back to Giles and unzipped her dress. One smooth practiced moti
 
 Being nude felt better than wearing the dress had felt, which was strange, because Buffy loved that dress. What was it? She stood in front of Giles, poised and centered, and let herself consider the question. Freedom of motion. Of her body. She wasn't in some kind of mistress role any more. She was herself. Slayer, woman, Buffy. Giles seemed to like it, anyway. His eyes were all pupil. He licked his lips, and Buffy heard the chains squeak as he tugged.
 
-What was he looking at? Her face, her breasts, her bare stomach. 
+What was he looking at? Her face, her breasts, her bare stomach.
 
 "You like my breasts?"
 
 "Yes. Want to kiss them."
 
-Buffy took the chain between his nipple clamps in hand. "You do?" she said, and tugged hard before he could answer. She'd always wondered if there was something wrong with her, that the thought of hurting somebody else turned her on so much. But here was somebody who was just as turned on. She hurt him, and his reaction was a triumphant "yes" and a plea to her to do it again. And that was so unbearably sexy Buffy thought she was going to come right then, without even touching herself. She wanted to come. With Giles watching, struggling to touch her, hard and wanting. 
+Buffy took the chain between his nipple clamps in hand. "You do?" she said, and tugged hard before he could answer. She'd always wondered if there was something wrong with her, that the thought of hurting somebody else turned her on so much. But here was somebody who was just as turned on. She hurt him, and his reaction was a triumphant "yes" and a plea to her to do it again. And that was so unbearably sexy Buffy thought she was going to come right then, without even touching herself. She wanted to come. With Giles watching, struggling to touch her, hard and wanting.
 
 Buffy touched herself. God, she really was close, so and wet and open. She'd been aroused all night, just like Giles had. Just her forefinger resting on her clit was almost enough to do it. She felt herself start to tremble and she leaned close to Giles, let her weight rest on him. Giles bit at her mouth and said her name. The chain squeaked again.
 
@@ -1473,7 +1472,7 @@ She held her slick fingers out to him. He licked them clean, eagerly, and presse
 
 "You asked for something else first. As your reward."
 
-"God, yes," Giles said, and she heard the hunger. 
+"God, yes," Giles said, and she heard the hunger.
 
 "What did you ask for?"
 
@@ -1489,7 +1488,7 @@ She held her slick fingers out to him. He licked them clean, eagerly, and presse
 
 Buffy hopped down from the bed and picked up the whip.
 
-The sound was what she liked best, the whistle in the air then the smack as the crop hit, Giles's gasp. Then the sound of the chain squeaking as he flinched, too late to do himself any good. Again, and again, sometimes just a flick with the tip of the crop, sometimes a sharp stinging bite across his back. Nothing very hard yet. He wanted suffering, he wanted marks, but Buffy wanted to listen to these sounds for a while before she got serious with him. Heat him up, redden his skin, bring him into the state he needed to be in, the one he'd described to her on their first night together. Trance state, endorphins flowing, emotions at the surface, his control over himself stripped. 
+The sound was what she liked best, the whistle in the air then the smack as the crop hit, Giles's gasp. Then the sound of the chain squeaking as he flinched, too late to do himself any good. Again, and again, sometimes just a flick with the tip of the crop, sometimes a sharp stinging bite across his back. Nothing very hard yet. He wanted suffering, he wanted marks, but Buffy wanted to listen to these sounds for a while before she got serious with him. Heat him up, redden his skin, bring him into the state he needed to be in, the one he'd described to her on their first night together. Trance state, endorphins flowing, emotions at the surface, his control over himself stripped.
 
 Buffy listened to him, and when he began to plead with her to show mercy she knew it was time to turn serious. To strike him hard enough to bruise, hard enough to shock him to silence, to wrest from him with the next a single word. Yes. Yes, he said, and Buffy took it as license. Licence to strike again. To give them both what they both wanted. To stand back and wait and watch him writhe and come still again. And then grant him another stripe. Just three, but they would stay with him.
 
@@ -1497,7 +1496,7 @@ She wrapped her arms around his waist, lifted him, and turned him herself. He gr
 
 "Yes. Because you've been good."
 
-Three more, across the front of his thighs this time, lower down to avoid any chance she'd hit anything she didn't want to. This time Giles cried out on each stroke. She hadn't held back. He had his marks now, the ones he'd asked for as part of his fantasy. Buffy touched the stripes she'd left across his legs. They were hot to the touch. He have deep bruises, and if he went running he'd have to wear sweats or everyone would know his secret. Buffy thought that maybe Giles wanted people to know, almost, wanted someone to look at him and know he was her man. If he didn't think that way, then maybe she did. Maybe she wanted someone to see how she'd claimed him. 
+Three more, across the front of his thighs this time, lower down to avoid any chance she'd hit anything she didn't want to. This time Giles cried out on each stroke. She hadn't held back. He had his marks now, the ones he'd asked for as part of his fantasy. Buffy touched the stripes she'd left across his legs. They were hot to the touch. He have deep bruises, and if he went running he'd have to wear sweats or everyone would know his secret. Buffy thought that maybe Giles wanted people to know, almost, wanted someone to look at him and know he was her man. If he didn't think that way, then maybe she did. Maybe she wanted someone to see how she'd claimed him.
 
 "They're gorgeous. Your new whip-marks."
 
@@ -1519,7 +1518,7 @@ He shook his head, then said, "Maybe." He was definitely far into some altered s
 
 Buffy drank first, because the water was hers. Then she held the bottle for him and fed him a few swallows. She wiped his chin for him afterward, and kissed him again. This time he didn't try to take command of the kiss but opened his mouth for her obediently.
 
-Buffy played with the chain that hung between his nipples. Giles made a soft sound that she couldn't decide meant pain or pleasure. 
+Buffy played with the chain that hung between his nipples. Giles made a soft sound that she couldn't decide meant pain or pleasure.
 
 "Does this feel good?" she said, and did it again.
 
@@ -1549,23 +1548,23 @@ Buffy played with the chain that hung between his nipples. Giles made a soft sou
 
 Buffy liked giving head. She had this vague idea that she wasn't supposed to, that it was something women were supposed to be degraded by or something confusing like that. But she liked oral sex. It was a gift, from her to her partner, just like anything else they might do for each other. And it was something they'd all loved. Even jerky Parker, who'd been the first guy she'd given it to, at the same time she'd received it for the first time. Parker had liked it. Riley liked it. They'd all liked giving it as much as getting it.
 
-And Giles, he was loving it. A gentle kiss to the head to start, and he was already moaning. Licking the shaft, getting it wet so she could slide her hand over what she couldn't take into her mouth. And there was a lot of that, because Giles was a big guy. Buffy took her time with this part and listened to him make those amazing sounds. Just as good as the sounds he made when he was being whipped, just as exciting, in a totally different way. 
+And Giles, he was loving it. A gentle kiss to the head to start, and he was already moaning. Licking the shaft, getting it wet so she could slide her hand over what she couldn't take into her mouth. And there was a lot of that, because Giles was a big guy. Buffy took her time with this part and listened to him make those amazing sounds. Just as good as the sounds he made when he was being whipped, just as exciting, in a totally different way.
 
-Buffy flickered her tongue against the head of his cock and felt him tighten in her hand. He'd been hard for so long, and unsatisfied for so much longer than that, that it wasn't going to take much for him. Even with the ring slowing him down. Time to give him release. She shifted and took him into her mouth, let his cock slide over her tongue. His hips shifted. She reached between his legs and found the base of the plug and moved it inside him. He swore and thrust his hips harder. His cock found the back of her throat. Buffy let him in deep, all the way in, using every bit of experience she had. 
+Buffy flickered her tongue against the head of his cock and felt him tighten in her hand. He'd been hard for so long, and unsatisfied for so much longer than that, that it wasn't going to take much for him. Even with the ring slowing him down. Time to give him release. She shifted and took him into her mouth, let his cock slide over her tongue. His hips shifted. She reached between his legs and found the base of the plug and moved it inside him. He swore and thrust his hips harder. His cock found the back of her throat. Buffy let him in deep, all the way in, using every bit of experience she had.
 
 "Gonna come in your mouth," Giles was muttering. "God, can't bear it, gonna come."
 
 Then he was coming, pulsing in her mouth and crying out her name. It was a long orgasm, long and slow and sweet. Buffy let her mouth fill with his come. Not the first time she'd tasted it, but this time she held it without swallowing, waiting for him to finish. When it was finally over and he'd fallen silent, Buffy stood and bent over him. She gripped Giles by the hair and pulled him into a kiss, open-mouthed, letting it all slide into his mouth from hers. He groaned and sucked at her tongue eagerly, and swallowed his own come. She let him lick her lips until it was all gone and he'd calmed.
 
-Buffy released her grip on his hair and studied his face. He looked okay. More than okay. The expression on his face was that strange thing Buffy had seen on him only when they were together like this: serenity. Peace. His face was salty from tears, and he was completely at peace. 
+Buffy released her grip on his hair and studied his face. He looked okay. More than okay. The expression on his face was that strange thing Buffy had seen on him only when they were together like this: serenity. Peace. His face was salty from tears, and he was completely at peace.
 
 "Thank you, my Slayer," he said.
 
 "You're welcome." Buffy kissed him again, deeply, but his body was trembling against hers differently now. He was exhausted, and she needed to give his strained body some relief. Now came the mundane things: taking the plug out and setting it aside with the steel ring. Untying him so he could stretch. And taking off the nipple clamps.
 
-"Brace yourself, sweetie," she said. Giles closed his eyes and nodded. His jaw was clenched, but still he cried out when she released the clamps from his nipples. 
+"Brace yourself, sweetie," she said. Giles closed his eyes and nodded. His jaw was clenched, but still he cried out when she released the clamps from his nipples.
 
-She helped Giles onto the bed and spread the blanket over him. His wrists were locked together again, and he'd clasped his hands and rested them under his cheek. Buffy knelt on the bed next to him and ran her fingers through his sweat-damp hair. All sorts of strange emotions were running through her. She still hadn't come yet, and it almost didn't matter. Stroking Giles's face was more important right now. It was normal, probably, maybe, to feel tenderness for the partner she'd just whipped. Normal to feel all melting inside at the expression on his face. Normal to want to fuss over him. This man, her Watcher, her mentor, her sworn companion, who wasn't her boyfriend exactly, because that word seemed ridiculous for him, and for this relationship, whatever it was. Some time soon she was going to have to figure it out. 
+She helped Giles onto the bed and spread the blanket over him. His wrists were locked together again, and he'd clasped his hands and rested them under his cheek. Buffy knelt on the bed next to him and ran her fingers through his sweat-damp hair. All sorts of strange emotions were running through her. She still hadn't come yet, and it almost didn't matter. Stroking Giles's face was more important right now. It was normal, probably, maybe, to feel tenderness for the partner she'd just whipped. Normal to feel all melting inside at the expression on his face. Normal to want to fuss over him. This man, her Watcher, her mentor, her sworn companion, who wasn't her boyfriend exactly, because that word seemed ridiculous for him, and for this relationship, whatever it was. Some time soon she was going to have to figure it out.
 
 "You feeling okay?" she said, though her head was full of a thousand things she wanted to say instead.
 

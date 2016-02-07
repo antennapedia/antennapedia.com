@@ -2,7 +2,6 @@
 idtag: gx_cloud_animals_cloud_animals
 author: antennapedia
 published: '2006-12-12T15:30:00-08:00'
-series: cloud_animals
 title: Cloud Animals
 notes: 'Written for <b><a href="http://soft_princess.livejournal.com/">soft_princess</a></b> for the <b><a href="http://community.livejournal.com/gilesxander/">gilesxander</a></b> No One Knows ficathon.'
 summary: "Apocalypse has been averted, at a price, and now there's all the time they need."
@@ -19,6 +18,7 @@ tags:
   - post-series
   - f:btvs
   - p:giles/xander
+  - s:cloud_animals
 rating: mature
 pairing: giles/xander
 ---
@@ -42,7 +42,7 @@ Next to him, Giles stretched, then bent one leg. Xander could see his jeans-clad
 
 "Ah. That's complicated. There was in fact a demon, but... I'm not sure how to explain."
 
-Giles didn't seem inclined to go into more detail, and Xander didn't feel like pressing him. 
+Giles didn't seem inclined to go into more detail, and Xander didn't feel like pressing him.
 
 "That one looks like a sheep. Poofy body, legs sticking out that way."
 
@@ -50,11 +50,11 @@ Giles didn't seem inclined to go into more detail, and Xander didn't feel like p
 
 "Be like that."
 
-The minutes flowed by. Giles seemed not to want to do anything more strenuous than lie in this grassy field with him, so Xander let them flow. It had been like this for several months now. Giles' place in Westbury was the loose home base of the Sunnydale survivors. They would appear every couple of weeks for a day or two. Eat Giles' cooking, drink his tea, relax on his comfortable furniture. Then they'd be off again. Sightseeing in Rome, in Buffy's case. Swanning through Paris with her rich girlfriend, in Willow's. 
+The minutes flowed by. Giles seemed not to want to do anything more strenuous than lie in this grassy field with him, so Xander let them flow. It had been like this for several months now. Giles' place in Westbury was the loose home base of the Sunnydale survivors. They would appear every couple of weeks for a day or two. Eat Giles' cooking, drink his tea, relax on his comfortable furniture. Then they'd be off again. Sightseeing in Rome, in Buffy's case. Swanning through Paris with her rich girlfriend, in Willow's.
 
 Of the three friends, only Xander seemed disinclined to wander far from the still center of Giles' farmhouse. He had learned how to help Giles and his single hired hand with the daily chores: mucking out stalls, feeding the horses, feeding the sheep, tending animals and tack. Periodic inspection of the paddocks and fields. Giles had even had him up in the saddle a few times. He'd liked it fine. It wasn't a hobby he needed two eyes for. Unlike shooting a crossbow. He'd never be good at that again.
 
-The work was what Xander needed right now. He'd begun losing the weight he'd gained in Sunnydale-depression, regaining muscle and some amount of physical confidence. He felt better. He wasn't sure what Giles made of it, but Xander had decided that this was what close friendship felt like. Not that it needed a label. 
+The work was what Xander needed right now. He'd begun losing the weight he'd gained in Sunnydale-depression, regaining muscle and some amount of physical confidence. He felt better. He wasn't sure what Giles made of it, but Xander had decided that this was what close friendship felt like. Not that it needed a label.
 
 Dawn stayed near Giles as well, in deference to Buffy's demand that she be locked into a convent. She'd made friends in Giles' village already, and spent the day giggling with them more often than not. Dawn wanted to finish school here in England, as Giles' ward, and it seemed like she'd get her wish. The two of them were good for each other, in Xander's expert opinion.
 
@@ -122,7 +122,7 @@ Xander laughed briefly at the memory and drank.
 
 "Harsh. Wow. I hadn't thought about--" He felt a little ashamed, that he hadn't thought about what had been going on with Giles back in the winter.
 
-"I chose not to talk about it. There would be time for all that after we defeated the First. If we did. And--" Giles spread his hands. "Here we are. With the time." 
+"I chose not to talk about it. There would be time for all that after we defeated the First. If we did. And--" Giles spread his hands. "Here we are. With the time."
 
 Giles' cellphone went. He answered and immediately dove into a conversation about site inspections and demolition. The slow-motion rebuilding of the Council had begun with the dismantling of the remains of the old one. Robson had had a team sifting through the rubble for a couple of months now, attempting to recover what they could of the Council's library and artifacts. They were done; new construction would begin soon.
 

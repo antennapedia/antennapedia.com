@@ -2,7 +2,6 @@
 idtag: gx_cloud_animals_partners
 author: antennapedia
 published: '2007-04-06T14:57:00-07:00'
-series: cloud_animals
 title: Partners
 notes: "Post-\"Chosen\" AU; <a href=\"http://antennapedia.livejournal.com/211202.html?mode=reply\">Cloud Animals 'verse</a>. Continuation on May 26, here at <b><a href=\"http://community.livejournal.com/spring_with_xan/\">spring_with_xan</a></b>!"
 summary: 'A day in the life of Xander Harris, Watcher.'
@@ -22,6 +21,7 @@ tags:
   - slayers
   - f:btvs
   - p:giles/xander
+  - s:cloud_animals
 rating: mature
 pairing: giles/xander
 ---
@@ -37,13 +37,13 @@ Nice. Xander raised a hand to high-five her. Her eyes widened, and she grabbed h
 
 Something hit him on the left side, hard. Xander went down again. Landed hard again, with a whoosh of outgoing breath and then a gasp as he realized that the something had sliced into his left arm but good. Weight on him, bearing down, pain from whatever it was digging into his left arm, then suddenly it was gone. Xander levered himself up with his right hand in time to see Shemsa execute a roundhouse kick at a demon. Buffy'd been going over them in class just this week, and that one was textbook.
 
-The demon staggered, but didn't go down. Xander cataloged it with half his brain while attempting to put the other half to work getting himself back on his feet. Green. Huge. Really huge. Ten feet at least. Too many arms. Weird metal belt around its middle. 
+The demon staggered, but didn't go down. Xander cataloged it with half his brain while attempting to put the other half to work getting himself back on his feet. Green. Huge. Really huge. Ten feet at least. Too many arms. Weird metal belt around its middle.
 
 Shemsa dropped and did a sweep kick that knocked it over. She sprang and came down on its chest with a stake in her hand. Perfect form. Stake driven deep into the chest. A burst of green fluid, a bellow, and Shemsa was flung back. She landed on top of Xander. There went his breath again. The demon was moving off, fast, down the ramp. The alarm finally shut up. Xander heard the demon's heavy footsteps echoing in the parking garage.
 
 Shemsa got off him. Xander stayed where he was. The concrete was cold under his butt. He stared up at the gray concrete and pipes of the ceiling. There was some kind of foamy insulation sprayed all over them. You noticed the strangest things when you were on your back like this.
 
-"You're hurt," Shemsa said to him. 
+"You're hurt," Shemsa said to him.
 
 "I've had worse." She gave him a hand and Xander staggered to his feet, wincing. The arm of his jacket was blood-soaked.
 
@@ -65,7 +65,7 @@ In the motel room, Xander kicked off his boots and flopped back across the bed n
 
 Shemsa fished it out of his jacket pocket and tossed it at him. Xander stabbed a hand into the air and missed. It landed on his chest. He picked it up and hit the first speed-dial button.
 
-"Hey, yeah, it's me. Yeah, I know we're late. Tougher than expected. We're okay. Crashing for the night in a motel. Yeah, I remember. Ten am. And hey, Rupert? There is some weird-ass shit going down in Cardiff. Yeah, you too." Xander flipped the phone closed. 
+"Hey, yeah, it's me. Yeah, I know we're late. Tougher than expected. We're okay. Crashing for the night in a motel. Yeah, I remember. Ten am. And hey, Rupert? There is some weird-ass shit going down in Cardiff. Yeah, you too." Xander flipped the phone closed.
 
 "Wake me up, would ya? Eight am." And Xander was out.
 
@@ -91,13 +91,13 @@ Xander tossed the cellphone at Shemsa without looking at her. He looked over his
 
 ### Eleven AM, Westbury
 
-Rupert was already talking to the assembled Slayers and Watchers when Xander and Shemsa crept into the lecture room. He was all dolled up in suit and tie, full Head of Council mode. His hands were deep in his trouser pockets, and he had his eyes fixed somewhere on the back wall of the room. He met Xander's glance, returned his nod, and kept talking. 
+Rupert was already talking to the assembled Slayers and Watchers when Xander and Shemsa crept into the lecture room. He was all dolled up in suit and tie, full Head of Council mode. His hands were deep in his trouser pockets, and he had his eyes fixed somewhere on the back wall of the room. He met Xander's glance, returned his nod, and kept talking.
 
 Everybody was there. The entire New Council: thirty Slayers and ten would-be Watchers. The Cleveland people had arrived last night, while Xander and Shemsa were on their milk run. Faith turned and gave him the strangest look, then pointed at her chest. Xander looked down, and realized he was still wearing Shemsa's Hello Kitty sweatshirt. It was pink. No wonder the motel clerk had looked at him funny. He grinned at Faith and gave her the finger. She grinned back.
 
 "We don't expect it'll solve the problem immediately," Rupert was saying. "They'll need to be trained, just as you see Dawn and Andrew and Xander training alongside you. A-And it may take them some time to respond to the summons. So, please, be patient. We're, we, uh, we want every one of you to have your own Watcher as quickly as is reasonable. All right? Everybody clear?"
 
-Rupert stepped aside to make room for Willow. 
+Rupert stepped aside to make room for Willow.
 
 "Oh, er, right. Here we go!" she said. She began casting immediately, with little ceremony or mumbo-jumbo. Xander had watched her preparing for this for the last week, rehearsing while Rupert set up travel plans for the Cleveland contingent. She and Rupert had designed this spell from scratch. Nobody had ever cast it before, and they were both nervous about it. Summon everybody with the Watcher destiny. That was it. Simple. Simpler than the Potential-activation spell had been, in some ways, Willow had said. She'd shown him a diagram to prove it. Xander had let his eyes glaze over while he nodded wisely. He didn't understand her when she got into the technical magic stuff.
 
@@ -107,7 +107,7 @@ Willow went silent, and the energy sizzled away, snapping out into the corners o
 
 "Okay, that felt good. Think it worked."
 
-"Oh yes, it worked," said Rupert. 
+"Oh yes, it worked," said Rupert.
 
 Xander nodded, and felt Andrew nodding alongside him. "Yeah, I gotta say, I couldn't be more summoned than I am right now."
 
@@ -125,9 +125,9 @@ Andrew stepped up next, clearing his throat importantly. He was in full tweed. X
 
 Andrew was shaking Sarah's hand, all formal and "Ms Livingstone" and "privilege to work with you." Then Dawn was stepping up to Eiko. That was a bit of a surprise: Dawn had been training with a few of the Slayers, not really settling down with any one of them, but Eiko hadn't been one of her gang. They grinned at each other, both of them looking pleased. So that was all right.
 
-Xander jigged in place. He watched Robson touch Willow then drift over to Megan, the kid who almost never took off her Nomar Garciaparra jersey. Then Stark, one of the other surviving Watchers, got himself hitched up with Leah. That was everybody except him and Travers Junior, and damned if he was going to wait for that jerk. 
+Xander jigged in place. He watched Robson touch Willow then drift over to Megan, the kid who almost never took off her Nomar Garciaparra jersey. Then Stark, one of the other surviving Watchers, got himself hitched up with Leah. That was everybody except him and Travers Junior, and damned if he was going to wait for that jerk.
 
-He stepped forward and gave Willow a hug. 
+He stepped forward and gave Willow a hug.
 
 Magic. Twisting forces inside and around and through. For a second he saw a long line of Slayers, stretching so far back in history he couldn't grasp it. Each one had a Watcher standing behind her. Xander swayed on his feet, then came to earth solidly. He felt planted. He knew his role in this fight. He had a part. No more doubts. He was a Watcher, and his Slayer was nearby.
 
@@ -139,7 +139,7 @@ Xander gave her a big shit-eating grin. "Um, hey. Hello. I'm your new Watcher."
 
 The six of them were in the conference room, a shiny modern room with whiteboards and a computer-friendly projector and comfortable chairs and a telephone system that Rupert had never been able to figure out how to use. Xander stood in the open space in front of the whiteboards, between Rupert and Buffy in a little defensive wedge, facing off against Kennedy. Willow dithered to the side, still fizzing a bit in the magic spectrum.
 
-"That was rather a surprise to all of us," Rupert said, addressing Shemsa, with apology in his voice. 
+"That was rather a surprise to all of us," Rupert said, addressing Shemsa, with apology in his voice.
 
 Shemsa shrugged. Kennedy said, "No kidding."
 
@@ -179,7 +179,7 @@ Buffy snorted. "I get it. She thinks she has to date her Watcher. Who said that?
 
 "I'll talk to her," said Xander. He wasn't looking forward to it, but as of now it was his job. He sighed.
 
-"Give her some time, Xan. She'll chill out in a few hours, and her brain will start working again. She's not a moron. Just a jackass. Oh. Eep! Sorry, Will! Um, I'm audi before I say something even worse." Buffy wound her arm through Shemsa's and the pair left together. 
+"Give her some time, Xan. She'll chill out in a few hours, and her brain will start working again. She's not a moron. Just a jackass. Oh. Eep! Sorry, Will! Um, I'm audi before I say something even worse." Buffy wound her arm through Shemsa's and the pair left together.
 
 Willow sighed. Rupert brushed a hand against her shoulder. "Congratulations. You did well, Willow. It went just as we hoped it would. Aside from, well. Travers and this."
 
@@ -227,23 +227,23 @@ Xander sighed. Time to head back to the Council buildings. They had a pow-wow sc
 
 They were all there in the conference room, spread around the huge table in the comfy chairs, waiting. All the Watchers and their Slayers, and some of the more experienced unattached Slayers. The whole Cleveland contingent was present, Faith and Wood with Rona, Chao-Ahn, and Shannon following them like ducklings.
 
-Xander had been afraid he'd be late, but he'd been on time. Rupert was late. Fifteen minutes late. If he hadn't been known to be on Council grounds, surrounded by about thirty Slayers, Xander might have been nervous. 
+Xander had been afraid he'd be late, but he'd been on time. Rupert was late. Fifteen minutes late. If he hadn't been known to be on Council grounds, surrounded by about thirty Slayers, Xander might have been nervous.
 
 Rona and Shemsa were trying to make themselves sick spinning around on their chairs, only since they were Slayers, it was impossible. They were doing great at making Xander sick from just watching them.
 
-Kennedy was there, about as far from Willow as she could get. Xander had plunked himself down next to her, on her left, where he could start with the making friends project. Only she hadn't spoken to him or to anyone. He tried again. "Hey." 
+Kennedy was there, about as far from Willow as she could get. Xander had plunked himself down next to her, on her left, where he could start with the making friends project. Only she hadn't spoken to him or to anyone. He tried again. "Hey."
 
 She stared at him. "What?"
 
 "Wanna get together for tea after this? Catch up?"
 
-"Sorry, got plans." 
+"Sorry, got plans."
 
 "Tomorrow? Lunch?"
 
 Kennedy stayed stony-faced. "All right. Lunch." She turned away. Well, could have been worse. She hadn't grimaced at him or made fun of him or anything.
 
-The door opened and Rupert strode in, moving fast. He looked harassed. He sat in the open chair next to Buffy. 
+The door opened and Rupert strode in, moving fast. He looked harassed. He sat in the open chair next to Buffy.
 
 "Sorry I'm late. We, er, had a young boy appear at the gate on his bicycle. He was quite definite that he'd been called here." Rupert pinched the bridge of his nose, then resettled his glasses.
 
@@ -363,7 +363,7 @@ At last Rupert was in bed next to him, and the light was off. They lay on their 
 
 "Yeah, I guess. Kinda disappointed. I thought I was with the right Slayer. It felt good. I thought I'd bonded with Shemsa. Guess I was wrong."
 
-"Of course you bonded with her, Xan. People bond with each other all the time without the benefit of magic. You worked together closely. You get along. So you bonded." 
+"Of course you bonded with her, Xan. People bond with each other all the time without the benefit of magic. You worked together closely. You get along. So you bonded."
 
 "Oh."
 
@@ -377,7 +377,7 @@ Rupert slipped a hand up and massaged under the eyepatch strap at Xander's templ
 
 "Naw. I mean, yes. Console me, for I will have a new set of scars." Xander snickered.
 
-"Do shut up," Rupert said. His voice was husky. That all by itself was enough to get Xander hot. 
+"Do shut up," Rupert said. His voice was husky. That all by itself was enough to get Xander hot.
 
 Rupert did all the work tonight, which was fair; he didn't have bruises purpling over his entire left side. Rupert was quiet when he made love. Not silent, but soft. All you heard was quiet moans and gasps, little sounds muffled against Xander's neck. Sometimes words, half-coherent whispers, words like "yes" and "please". And he was completely quiet when he came, all held breath and shuddering and hands trembling even as he tried to keep stroking. He liked simple things in bed. Xander hadn't yet coaxed him into the more complicated stuff. He said he preferred to be face-to-face. And Xander couldn't argue too much with that. Face-to-face allowed kissing, and kissing was good. So good.
 
@@ -409,7 +409,7 @@ Xander came slowly awake. His head was on Rupert's shoulder. The room was dark, 
 
 "Huh?"
 
-Rupert sat up, dislodging him. Now Xander heard it too, the thing that had woken him: hammering on the front door. Somebody shouted. Rupert was out of bed already, moving to the bedroom door while he pulled on his robe. Xander found Rupert's pajama bottoms and yanked them on. He ran downstairs. 
+Rupert sat up, dislodging him. Now Xander heard it too, the thing that had woken him: hammering on the front door. Somebody shouted. Rupert was out of bed already, moving to the bedroom door while he pulled on his robe. Xander found Rupert's pajama bottoms and yanked them on. He ran downstairs.
 
 More pounding and shouting. Male voice. English. "Open up! Let me in."
 

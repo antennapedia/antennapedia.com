@@ -2,7 +2,6 @@
 idtag: gx_cloud_animals_risotto
 author: antennapedia
 published: '2007-01-28T12:18:00-08:00'
-series: cloud_animals
 title: Risotto
 notes: 'Sometime between <a href="http://antennapedia.livejournal.com/148943.html">"Cloud Animals"</a> and <a href="http://antennapedia.livejournal.com/156416.html">"The Complete Set"</a>. Written for the <a href="http://antennapedia.livejournal.com/172787.html">Rupertus Domesticus Ficathon</a>.'
 summary: The Watcher cooks. Xander watches.
@@ -18,6 +17,7 @@ tags:
   - watchers
   - f:btvs
   - p:giles/xander
+  - s:cloud_animals
 rating: general
 pairing: giles/xander
 ---
@@ -25,7 +25,7 @@ Rupert was on a late-afternoon train. He'd been two days in London this time, on
 
 Xander leaned over and kissed him, then reversed out of the parking space.
 
-"Bloody Savile Row," Rupert said. "Bloody endless fittings. Bloody Whitehall. Bloody committees. Bloody stupid architects." 
+"Bloody Savile Row," Rupert said. "Bloody endless fittings. Bloody Whitehall. Bloody committees. Bloody stupid architects."
 
 "I got a Scotch and fizz waiting for you at home, hon." Xander eased through the beginnings of the commute traffic, and onto the road heading east to Westbury and their house. The police driving class the Council had sent him to had been a trip. He'd finally started looking right-left-right instead of left-right-left. And of course he'd achieved the pinnacle of his boyhood ambition: he now knew how to brake a car into a high-speed u-turn. Turned out driving wasn't so bad with only one eye.
 
@@ -39,7 +39,7 @@ It was better when Buffy was in the country. The two of them would go vamp-hunti
 
 That had been Willow's suggestion, following a painful discussion about combat veterans and shellshock and what she'd seen in all of the Slayers. Rupert had vanished for one of those afternoons spent running alongside Otto, then reappeared with new resolutions in hand. He would train and treat Watchers the way he wished he had been handled. As the summer ended, and construction on new Council facilities began, Rupert had started classes going.
 
-Xander and Andrew and Dawn were the first students of the new curriculum, the Giles curriculum. Firearms and swordfighting, Sun Tzu and Clausewitz, martial arts and massage, psychology and Latin. He'd set the three of them to the task of revising the handbook as they learned it. He didn't take all their suggestions, but he'd demonstrated clearly that no past tradition was sacred. 
+Xander and Andrew and Dawn were the first students of the new curriculum, the Giles curriculum. Firearms and swordfighting, Sun Tzu and Clausewitz, martial arts and massage, psychology and Latin. He'd set the three of them to the task of revising the handbook as they learned it. He didn't take all their suggestions, but he'd demonstrated clearly that no past tradition was sacred.
 
 And the further Giles innovation: Watchers and Slayers, next to each other in the classes. Slayers got more weapons training, Watchers got more on adolescent psychology, but otherwise, they were together. But at the moment, the Slayers outnumbered the Watchers four to one, even counting the three survivors of the old Council. They were all housed in the temporary training facilities near Westbury, just a few miles further from Bath than the Giles property was.
 
@@ -101,7 +101,7 @@ Xander shared a wry look with Rupert. Andrew tried, but he still tripped over hi
 
 Xander watched Rupert move at the stove. He'd take a dipper of stock, pour it into the rice, then stir for a while. Then another dipper. It was slow, and took most of his attention, but he looked completely relaxed and content. God, he was sexy, leaning over the stove in that shirt. Xander had it bad, he knew. As bad as he'd ever had it for anybody. It was utterly weird that it was Giles, stuffy Giles, the guy who'd stammered while he tried to explain to Xander that vampires existed, way back when. That had turned out to be partly an act, just one aspect of the man that he'd played up so he could fit in. The real man was more complicated. Smart, yeah, and jam-packed with weird facts, but also sweet. And intense in bed. The guy learned fast.
 
-He liked teaching, too. Lover, boss, mentor. Xander had learned a lot. 
+He liked teaching, too. Lover, boss, mentor. Xander had learned a lot.
 
 Recently, he'd been learning what it meant to be a Watcher, and to support a Slayer. Rupert had a lot to say about that. Trust, he'd said. Trust and affection were the core. What you layered on top of that was up to you and your Slayer. Specific to the pair of you. Complicated and intense no matter what. Rupert had told Xander some weird things that had happened between him and Buffy, from fist-fights through sexual tension so strained Rupert had had to flee to cold sulky hurt that froze for weeks, fetching up at their current comfortably tight friendship. But they got through it because they loved and trusted each other.
 

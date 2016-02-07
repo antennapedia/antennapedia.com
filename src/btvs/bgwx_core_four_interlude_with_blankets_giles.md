@@ -2,7 +2,6 @@
 idtag: bgwx_core_four_interlude_with_blankets_giles
 author: antennapedia
 published: '2007-08-05T19:49:00-07:00'
-series: core_four
 title: 'Interlude with Blankets: Giles'
 notes: null
 summary: 'Giles, in pajamas, thinking.'
@@ -18,6 +17,7 @@ tags:
   - season:04
   - f:btvs
   - p:buffy/giles/willow/xander
+  - s:core_four
 rating: mature
 pairing: buffy/giles/willow/xander
 ---
@@ -25,13 +25,13 @@ There were times when he liked to hang on the periphery, watching. Thinking, as 
 
 And he wouldn't have wanted to.
 
-He was their Mind, so he had done the research, when it had begun to be obvious to the four of them that the spell had wrought lasting change. He'd reached his conclusions, and presented the data to Buffy. Buffy was their tactical thinker, their motive force. Their Hand. She'd absorbed the news, nodded, and said she liked her new team. 
+He was their Mind, so he had done the research, when it had begun to be obvious to the four of them that the spell had wrought lasting change. He'd reached his conclusions, and presented the data to Buffy. Buffy was their tactical thinker, their motive force. Their Hand. She'd absorbed the news, nodded, and said she liked her new team.
 
 Right now he watched her clever hands demonstrate a new skill. He'd given her a book on massage, and she'd conned it for secrets. She exposed her mastery now, in her exploration of Xander's back. Xander had spent a day lifting and carrying rebar onsite, and had fallen into bed more or less fully clothed. Willow and Buffy had undressed him enough to touch skin.
 
 The spiritual union hungered to express itself on the physical plane as well, skin to skin. Not always in sex. Sometimes in simple affection like this, with Buffy's small strong hands tracing the course of Xander's muscles, charting the confluences of tendon and bone.
 
-"Here," Buffy said. "Hot spot." She leaned and wiggled her hand. Xander groaned. 
+"Here," Buffy said. "Hot spot." She leaned and wiggled her hand. Xander groaned.
 
 Willow leaned close to Buffy and rested her hand over Buffy's fingers. A slighter hand, at the end of a sleek arm. Willow lacked Buffy's muscle, but she had another sort of power. Energy. Their Spirit. Her fingers brushed Xander's back, and Giles felt a trickle of power flow. Xander groaned again, more softly.
 
@@ -49,6 +49,6 @@ There were many things he could not understand about the world and humans, the u
 
 Giles watched Buffy and Willow soothe Xander's shoulders. They were wonderful shoulders, broad and strong. Giles liked them. He'd been to bed with a man before, with more than one, in drug- and magic-fueled orgies that had left him fuddled the next morning about exactly what he'd done and whether he'd liked it. Until Xander had possessed him, he'd had no idea he even wanted to be taken. But he had. And did. And he wanted to take. To give. To use and be used.
 
-Scant weeks ago, he'd almost given up the hope of ever being allowed to touch anyone again. It had been the depression speaking, he knew, making maudlin proclamations of eternal loneliness. But that had been how he'd felt. He'd drunk himself to indifference and begun reviewing what he'd ship back to England and what he'd sell here. He hadn't expected to see his three comrades again. 
+Scant weeks ago, he'd almost given up the hope of ever being allowed to touch anyone again. It had been the depression speaking, he knew, making maudlin proclamations of eternal loneliness. But that had been how he'd felt. He'd drunk himself to indifference and begun reviewing what he'd ship back to England and what he'd sell here. He hadn't expected to see his three comrades again.
 
 And here they were, in his bed.

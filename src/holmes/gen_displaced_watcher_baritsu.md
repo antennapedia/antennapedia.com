@@ -2,7 +2,6 @@
 idtag: gen_displaced_watcher_baritsu
 author: antennapedia
 published: '2008-03-11T14:54:00-08:00'
-series: displaced_watcher
 title: Baritsu
 notes: '<b><a href="http://nutterbudgie.livejournal.com/">nutterbudgie</a></b> wants "Holmes! Giles snark at! Maybe w/Buffy being snark-supportive?"'
 summary: Buffy demands an explanation.
@@ -19,6 +18,7 @@ tags:
   - f:btvs
   - f:sherlock-holmes
   - p:gen
+  - s:displaced_watcher
 rating: general
 pairing: gen
 ---
@@ -40,11 +40,11 @@ Buffy came over and perched on the arm of Giles's chair.
 
 "Yeah. He held off at first, until I tagged him hard and got him mad. Sexism gets ya nowhere."
 
-Giles chuckled. Holmes would indeed have difficulty hitting a woman, even one dressed as a boy the way Buffy was at the moment, but once his blood was hot, it had likely been a fight. Buffy examined her nails, casually, while in the background Watson fussed over his man's scuffed face. 
+Giles chuckled. Holmes would indeed have difficulty hitting a woman, even one dressed as a boy the way Buffy was at the moment, but once his blood was hot, it had likely been a fight. Buffy examined her nails, casually, while in the background Watson fussed over his man's scuffed face.
 
 "Good," Giles said, and turned back to Watson's strange revolver. He reloaded it carefully, examining each of the bullets. He was still wroth with Holmes. The incident with the cigarettes in the empty house was on his mind, and he'd yet to achieve his revenge. Though poor Watson would likely object, and Giles had rapidly come to enjoy the warmth of that man's smile, his easy geniality. No, Giles didn't want to upset his friend.
 
-Holmes extracted himself from Watson's attentions and found his coat and waistcoat where he'd flung them over a chair. He began setting his dress back to rights. Buffy slipped down from Giles's chair arm. 
+Holmes extracted himself from Watson's attentions and found his coat and waistcoat where he'd flung them over a chair. He began setting his dress back to rights. Buffy slipped down from Giles's chair arm.
 
 "So where'd you learn to fight?" she asked Holmes. "What's your system?"
 

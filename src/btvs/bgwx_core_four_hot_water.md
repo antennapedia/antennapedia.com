@@ -2,7 +2,6 @@
 idtag: bgwx_core_four_hot_water
 author: antennapedia
 published: '2006-07-21T18:00:00-07:00'
-series: core_four
 title: Hot water
 notes: 'A big dose of schmoop anyway. With thanks to <b><a href="http://fannishnej.livejournal.com/">fannishnej</a></b>, whose <a href="http://fannishnej.livejournal.com/2981.html">plotbunny</a> I took for a quick hop, and to <b><a href="http://secondalto.livejournal.com/">secondalto</a></b> for the beta read.'
 summary: Not everyone thinks these living arrangements are sensible.
@@ -18,6 +17,7 @@ tags:
   - season:04
   - f:btvs
   - p:buffy/giles/willow/xander
+  - s:core_four
 rating: mature
 pairing: buffy/giles/willow/xander
 ---

@@ -100,5 +100,17 @@
         "title": "Tyger Tyger",
         "summary": "Tyger Tyger burning bright: what if In the Forest of the Night had ended very differently?",
         "banner": "../css/twelve_clara_header.jpg"
+    },
+    "s:the-idiot": {
+        "owner": "antennapedia",
+        "title": "The Idiot",
+        "summary": "The Doctor goes into a special kind of heat when he recognizes his soulmate. He's afraid Clara won't like it, though.",
+        "banner": "../css/twelve_clara_header.jpg"
+    },
+    "s:maddogs": {
+        "owner": "antennapedia",
+        "title": "Mad Dogs and Scotsmen",
+        "summary": "Malcolm Tucker and Jamie MacDonald before Downing Street.",
+        "banner": "../css/malcolm_clara_header.jpg"
     }
 }

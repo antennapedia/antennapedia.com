@@ -2,7 +2,6 @@
 idtag: gb_reconnection_reconnection_3
 author: antennapedia
 published: '2007-09-29T18:55:00-07:00'
-series: reconnection
 title: Reconnection 3
 notes: 'Fabulous banner by <b><a href="http://katekat1010.livejournal.com/">katekat1010</a></b>.'
 summary: 'Willow has wagered more than she can comfortably lose, and the conflict has gone hot.'
@@ -23,6 +22,7 @@ tags:
   - p:xander/anya
   - p:willow/tara
   - p:giles/buffy
+  - s:reconnection
 rating: general
 pairing: giles/buffy
 ---

@@ -2,7 +2,6 @@
 idtag: gj_watchers_child_tactical_considerations
 author: antennapedia
 published: '2007-11-26T14:13:00-08:00'
-series: watchers_child
 title: Tactical Considerations
 notes: null
 summary: Giles breaks the news to Buffy.
@@ -16,6 +15,7 @@ tags:
   - season:01
   - f:btvs
   - p:giles/jenny
+  - s:watchers_child
 rating: general
 pairing: giles/jenny
 ---

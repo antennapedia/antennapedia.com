@@ -2,7 +2,6 @@
 idtag: gx_core_four_giles_makes_good
 author: antennapedia
 published: '2006-07-02T23:44:00-07:00'
-series: core_four
 title: Giles makes good
 notes: 'Written for the <a href="http://en.wikipedia.org/wiki/International_Day_of_Slash">International Day of Slash</a>. And only a day late! PWP pr0n.'
 summary: Giles makes good on his threats. Xander approves.
@@ -14,6 +13,7 @@ tags:
   - f:btvs
   - p:buffy/giles/willow/xander
   - p:giles/xander
+  - s:core_four
 rating: adult
 pairing: giles/xander
 ---

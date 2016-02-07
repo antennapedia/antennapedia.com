@@ -2,7 +2,6 @@
 idtag: bgwx_core_four_four_nights_and_a_revelation
 author: antennapedia
 published: '2006-06-04T12:30:00-07:00'
-series: core_four
 title: Four Nights and a Revelation
 notes: null
 summary: The enjoining spell to defeat Adam has surprising and life-changing after-effects.
@@ -23,12 +22,13 @@ tags:
   - p:buffy/riley
   - p:xander/anya
   - p:willow/tara
+  - s:core_four
 rating: adult
 pairing: buffy/giles/willow/xander
 ---
 <h2 id="giles">Giles</h2>
 
-Giles paced around his flat. It felt strangely empty. Strange, because he&#8217;d been the only one in it night upon night for months. Yes, they&#8217;d reconciled, Giles and his two young friends and his Slayer. They&#8217;d become one, for a short while, in an experience of intensity Giles would never forget. They&#8217;d clung to each other afterward, spending last night dreaming together in Buffy&#8217;s living room, and he&#8217;d been grateful for the continued contact. But they&#8217;d separated again this morning. He was left to spend his day alone. 
+Giles paced around his flat. It felt strangely empty. Strange, because he&#8217;d been the only one in it night upon night for months. Yes, they&#8217;d reconciled, Giles and his two young friends and his Slayer. They&#8217;d become one, for a short while, in an experience of intensity Giles would never forget. They&#8217;d clung to each other afterward, spending last night dreaming together in Buffy&#8217;s living room, and he&#8217;d been grateful for the continued contact. But they&#8217;d separated again this morning. He was left to spend his day alone.
 
 He ached for them. He wondered if they missed him the same way. They all had lovers to be with, partners to share their nights. Probably they didn&#8217;t miss him. It was late, and he had no hope they&#8217;d share evening plans with him.
 
@@ -38,7 +38,7 @@ Giles sighed, and went to the kitchen to put the kettle on. Before he could so m
 
 &#8220;A fire. Good idea. I&#8217;ll just&#8230; Glasses are in the cupboard.&#8221;
 
-&#8220;Yeah, I remember where stuff is.&#8221; Xander took himself off to the kitchen. Giles popped out his back door to grab a few armfuls of the logs he had stacked just outside. The March night was crisp, as desert nights were in California. It had surprised him for a time, how sharp the contrast could be between daytime warmth and the nighttime chill. The fire would feel good. He laid kindling in the grate, then loosely balled yesterday&#8217;s newspaper over it. He opened the flue. 
+&#8220;Yeah, I remember where stuff is.&#8221; Xander took himself off to the kitchen. Giles popped out his back door to grab a few armfuls of the logs he had stacked just outside. The March night was crisp, as desert nights were in California. It had surprised him for a time, how sharp the contrast could be between daytime warmth and the nighttime chill. The fire would feel good. He laid kindling in the grate, then loosely balled yesterday&#8217;s newspaper over it. He opened the flue.
 
 Xander came back, holding two glasses of cider, opaque and dark. Giles lit a long kitchen match and touched it to the newspaper in several spots. He tossed the match on top, then stood back. He took the glass that Xander handed him, and sipped. The cider tasted good. Tart. He put the glass on the mantel, then started adding logs to the fire as the kindling caught. He looked at Xander.
 
@@ -54,7 +54,7 @@ Another knock sounded at the door. Giles looked at Xander, who shrugged again. H
 
 &#8220;Come sit by the fire with us,&#8221; said Giles, hospitably. &#8220;Would you like some cider? Xander brought it. Or I could make tea.&#8221; He distributed to them some of the chocolate bar Willow had handed him.
 
-&#8220;Cider&#8217;s cool, thanks.&#8221; Willow went over to Xander and sat next to him. The pair put their arms around each other. Giles brought Willow her glass. He turned off the overhead lights, leaving just the fire and his dragonfly lamp to light the room. He sat in the armchair nearby. The logs popped as they caught, sending sparks drifting lazily up the chimney. He&#8217;d snuck a cedar log into the mix, and it smelled heavenly. Giles felt immensely better already. 
+&#8220;Cider&#8217;s cool, thanks.&#8221; Willow went over to Xander and sat next to him. The pair put their arms around each other. Giles brought Willow her glass. He turned off the overhead lights, leaving just the fire and his dragonfly lamp to light the room. He sat in the armchair nearby. The logs popped as they caught, sending sparks drifting lazily up the chimney. He&#8217;d snuck a cedar log into the mix, and it smelled heavenly. Giles felt immensely better already.
 
 The door knocker sounded again. Giles smiled at the two friends on his hearth, and they grinned back. They knew who it had to be. Giles opened the door to confirm that indeed, it was Buffy. He opened his arms to her as she came in. She moved into his embrace and returned it one-handed. She had a canister in one hand. She handed it to him. &#8220;Keemun,&#8221; she said. &#8220;Didn&#8217;t see it in your collection last time I was here, and thought you might like some.&#8221;
 
@@ -76,7 +76,7 @@ Giles brought her a glass and some chocolate, then returned to his armchair. He 
 
 &#8220;Tara didn&#8217;t mind,&#8221; Willow said. &#8220;She said it was understandable we&#8217;d want to be together a lot after a working like that.&#8221;
 
-&#8220;Understatement of the year,&#8221; Xander said. He emptied his glass, then lay back on the carpet. 
+&#8220;Understatement of the year,&#8221; Xander said. He emptied his glass, then lay back on the carpet.
 
 The fire was burning nicely. Giles got up and poked at it, more for something to do than because it needed poking. He added another log. He relaxed back in his chair and had a piece of chocolate. He considered Tara&#8217;s assessment. At first he&#8217;d thought that was the correct explanation, just residual effects of the union. Now he wondered if it weren&#8217;t something more, perhaps something more permanent. The book he&#8217;d found the spell in had said something about lowering barriers among those involved in the union. At the time, Giles had been only too eager to lower any barriers between himself and Buffy. Now&#8230; well, he found he still didn&#8217;t mind. Even though it had lowered the barriers between him and Xander, as well as Buffy and Willow. He knew what was in the young man&#8217;s heart now, and knew it was admirable.
 
@@ -88,7 +88,7 @@ The fire popped. Giles yawned.
 
 &#8220;Aren&#8217;t you joining us, Giles?&#8221; said Willow.
 
-&#8220;I&#8217;m fine right here,&#8221; he said, though he did long for the touch they were sharing with each other. 
+&#8220;I&#8217;m fine right here,&#8221; he said, though he did long for the touch they were sharing with each other.
 
 Buffy crawled over to him. &#8220;At least take off your shoes and socks,&#8221; she said, and did it for him. She rubbed his feet, and that satisfied his craving a little. It wouldn&#8217;t be enough, though, not with what he ached for right there in front of him.
 
@@ -96,13 +96,13 @@ Buffy crawled over to him. &#8220;At least take off your shoes and socks,&#8221;
 
 <h2 id="xander">Xander</h2>
 
-Xander walked down the steps toward Giles&#8217; patio, a little nervous. He had a backpack slung over a shoulder, and in his arms a stack of large pizzas. Pepperoni and mushroom for him; standard veggie for Willow; artichoke hearts, garlic, and jalapeños for that sicko Giles. Buffy would eat some of all three. Assuming they showed up. Xander had bought the pizzas on a hunch, and his hunches sometimes went way bad. 
+Xander walked down the steps toward Giles&#8217; patio, a little nervous. He had a backpack slung over a shoulder, and in his arms a stack of large pizzas. Pepperoni and mushroom for him; standard veggie for Willow; artichoke hearts, garlic, and jalapeños for that sicko Giles. Buffy would eat some of all three. Assuming they showed up. Xander had bought the pizzas on a hunch, and his hunches sometimes went way bad.
 
 He braced the pizzas against the wall for a moment and knocked. Giles opened the door, and once again flashed that big happy grin that meant Xander had at least gotten some of it right. &#8220;Pizza boy,&#8221; Xander said, completely unnecessarily. Giles beckoned him in and looked behind him.
 
 &#8220;The others not with you?&#8221; he asked.
 
-&#8220;Naw. Haven&#8217;t seen them yet today. I kinda expected them to be here already, actually.&#8221; Giles cleared off the kitchen counter and Xander spread the boxes across it. 
+&#8220;Naw. Haven&#8217;t seen them yet today. I kinda expected them to be here already, actually.&#8221; Giles cleared off the kitchen counter and Xander spread the boxes across it.
 
 &#8220;I have a feeling they&#8217;ll be by soon,&#8221; Giles said. &#8220;Let&#8217;s leave the pizza unmolested for a few minutes. If you&#8217;re capable of it.&#8221;
 
@@ -124,13 +124,13 @@ He piled a plate with &#8216;za and flopped on the couch. When they were all mun
 
 &#8220;Shit, Xan. What happened?&#8221;
 
-&#8220;I dunno what happened,&#8221; Xander said. &#8220;I was watching her talk to me, not hearing anything she said, pretty much. I realized that sex aside, I just don&#8217;t really like Anya. I have nothing in common with her. She <em>bugs</em> me when I&#8217;m not too busy coming to notice.&#8221; 
+&#8220;I dunno what happened,&#8221; Xander said. &#8220;I was watching her talk to me, not hearing anything she said, pretty much. I realized that sex aside, I just don&#8217;t really like Anya. I have nothing in common with her. She <em>bugs</em> me when I&#8217;m not too busy coming to notice.&#8221;
 
 Buffy nodded sympathetically. He scarfed down about half of another slice.
 
 &#8220;What did you say when you figured it out?&#8221; asked Willow.
 
-He swallowed the rest of the slice before answering. &#8220;Nothing right away. It was a shocker. Made me think for a minute. Then she said, and I shit you not, that I was not allowed to spend a third night in a row with you guys instead of her. That was it. I asked her to give me my basement key back.&#8221; 
+He swallowed the rest of the slice before answering. &#8220;Nothing right away. It was a shocker. Made me think for a minute. Then she said, and I shit you not, that I was not allowed to spend a third night in a row with you guys instead of her. That was it. I asked her to give me my basement key back.&#8221;
 
 &#8220;How did she react?&#8221; said Giles, quietly from his armchair.
 
@@ -148,7 +148,7 @@ He swallowed the rest of the slice before answering. &#8220;Nothing right away. 
 
 &#8220;Bummage period greatly shortened by quality comfort like this,&#8221; he said. &#8220;Also by pizza.&#8221;
 
-&#8220;I&#8217;ll just toss the rest of the box at you, shall I?&#8221; said Giles. He did bring another couple of slices to Xander, then plunked himself into the vacant space at the other end of the couch. Buffy slid over when he did that, and switched to leaning against Giles&#8217; knees. Giles looked surprised, then happy again. 
+&#8220;I&#8217;ll just toss the rest of the box at you, shall I?&#8221; said Giles. He did bring another couple of slices to Xander, then plunked himself into the vacant space at the other end of the couch. Buffy slid over when he did that, and switched to leaning against Giles&#8217; knees. Giles looked surprised, then happy again.
 
 &#8220;So, enough about my love life. What&#8217;s going on with you guys?&#8221;
 
@@ -160,7 +160,7 @@ He swallowed the rest of the slice before answering. &#8220;Nothing right away. 
 
 &#8220;That&#8217;s five different kinds of bullshit,&#8221; Xander said, feeling pissed off for Buffy. You always had a choice about getting drunk.
 
-&#8220;My word, yes,&#8221; said Giles. &#8220;Don&#8217;t let him tell you such nonsense, Buffy.&#8221; 
+&#8220;My word, yes,&#8221; said Giles. &#8220;Don&#8217;t let him tell you such nonsense, Buffy.&#8221;
 
 &#8220;No fear. I know the difference between a Slayer and a doormat.&#8221;
 
@@ -170,7 +170,7 @@ Xander and the gang hung out for the rest of the night. After the pizza was well
 
 When bedtime came around, Giles pulled the bedding out from where he had it folded and stacked, in the hall closet. He stumped upstairs to change into pajamas, still too stodgy to strip down in front of them. Xander opened his backpack and tada! produced a toothbrush and pj bottoms to sleep in. He felt pretty smart until Buffy and Willow opened their bags to produce the same. And changes of clothes. And makeup.
 
-He slept on the floor again, between two hot chicks. He hoped they didn&#8217;t notice that he was feeling kinda horny. Actually it would be cool if they <em>did</em> notice. Giles once again was all cuddled up to Buffy. Willow maybe wanted to get near him, Xander thought, but Giles was still too shy. 
+He slept on the floor again, between two hot chicks. He hoped they didn&#8217;t notice that he was feeling kinda horny. Actually it would be cool if they <em>did</em> notice. Giles once again was all cuddled up to Buffy. Willow maybe wanted to get near him, Xander thought, but Giles was still too shy.
 
 They&#8217;d have to start working on that.
 
@@ -194,13 +194,13 @@ Giles was beating something in a little bowl with a fork. &#8220;Dressing,&#8221
 
 Just then Willow came in from the campus, then Xander, a little sweaty from work. His construction job had picked up again today, as they&#8217;d heard when he&#8217;d called in that morning.
 
-&#8220;Xander, you just have time for a quick shower before dinner,&#8221; said Giles. 
+&#8220;Xander, you just have time for a quick shower before dinner,&#8221; said Giles.
 
 &#8220;What, you don&#8217;t like my manly scent? Yeah, okay, stench.&#8221; He vanished into the bathroom with his bag.
 
 Buffy ranged plates across the counter, and Giles served onto them from his array of pans. Xander reappeared as Willow was distributing forks. &#8220;My timing is impeccable as always,&#8221; he said. &#8220;Missed the cooking, showed up for the food.&#8221;
 
-&#8220;There&#8217;ll be the washing up,&#8221; said Giles, picking up his plate. Xander groaned. The three followed Giles to sit around the coffee table. No need for a fire tonight. It had been nice out. 
+&#8220;There&#8217;ll be the washing up,&#8221; said Giles, picking up his plate. Xander groaned. The three followed Giles to sit around the coffee table. No need for a fire tonight. It had been nice out.
 
 Once the munching was underway, Buffy let loose with her news. &#8220;Exactly none of you will be surprised to hear that I dumped Riley today.&#8221;
 
@@ -244,7 +244,7 @@ The bad thing about sharing Giles&#8217; shower, however, was that there were fo
 
 Xander looked good too. Buffy contemplated him as he popped up into the loft, in his jammy bottoms, chest bare. No hair, which she thought meant he was just young and hadn&#8217;t had time to grow it yet. Nice pecs and biceps. Flat tummy, with a line of dark hair disappearing down into the jammies that was starting to make Buffy curious. &#8220;Hey,&#8221; said Xander. &#8220;Do I get Giles-hugs too?&#8221;
 
-&#8220;Come here,&#8221; said Giles, surprising Buffy. He shifted her into his left arm, and stretched out his right for Xander. He held them both tight. Buffy looked up and saw that his eyes were closed. She met Xander&#8217;s gaze and they smiled at each other. They both stretched up at the same time and kissed the nearest Giles cheek. He made a happy sound, and kept his eyes closed. 
+&#8220;Come here,&#8221; said Giles, surprising Buffy. He shifted her into his left arm, and stretched out his right for Xander. He held them both tight. Buffy looked up and saw that his eyes were closed. She met Xander&#8217;s gaze and they smiled at each other. They both stretched up at the same time and kissed the nearest Giles cheek. He made a happy sound, and kept his eyes closed.
 
 Just then Willow appeared. &#8220;Let me in on the hug action,&#8221; she said. Xander and Buffy each stuck an arm out, and she tucked herself in. Giles leaned down and kissed her forehead. That Hello Kitty nightshirt was just too adorable. Buffy liked cute-Will better than earth-momma-Will, so she approved of the nightie. It was a little see-through. Buffy peeked, and thought about Sappho-land and what might be good about it. Maybe not good in general, because she couldn&#8217;t see herself jumping Tara&#8217;s bones, nice as Tara was. But Willow, probably. Buffy rubbed her hand up and down Will&#8217;s back.
 
@@ -254,7 +254,7 @@ Buffy&#8217;s opinion was that it was going to turn out to be a good thing for t
 
 Giles let go at last. &#8220;Must brush my teeth,&#8221; he said. He took his pajamas out of one of the lower drawers in his bureau.
 
-Buffy watched him head downstairs. When she heard the bathroom door click behind him, she got onto the bed with Xan and Will. &#8220;Giles is scared,&#8221; she said. 
+Buffy watched him head downstairs. When she heard the bathroom door click behind him, she got onto the bed with Xan and Will. &#8220;Giles is scared,&#8221; she said.
 
 &#8220;Yeah, I can feel it,&#8221; said Xander. &#8220;He has a really hard time letting people in.&#8221;
 
@@ -266,7 +266,7 @@ Buffy watched him head downstairs. When she heard the bathroom door click behind
 
 Giles trailed through the house, putting the lights out behind himself. Buffy slipped out of bed when he came upstairs and made him get in next to Willow. She got under the covers on his other side. He was a little tense at first, uncertain, then he melted when Willow snuggled up to him.
 
-&#8220;Good night, Mary-Ellen,&#8221; said Xander. 
+&#8220;Good night, Mary-Ellen,&#8221; said Xander.
 
 &#8220;Good night, Ben,&#8221; Willow said.
 
@@ -282,31 +282,31 @@ Willow showed up at home a bit late the next night, sniffling. The others had he
 
 &#8220;We all like her,&#8221; said Xander. &#8220;It&#8217;s just&#8230;&#8221;
 
-&#8220;Yeah, I know. She&#8217;s not one of us. She wanted to make love this afternoon, and I couldn&#8217;t. All that passion was just gone.&#8221; It had been bewildering. She could still appreciate Tara, know she was a good person, know even that she was sexy. But there was a wall there now. It was the spell. She&#8217;d tried to explain it to Tara, and Tara had known almost before she started what she was going to say. 
+&#8220;Yeah, I know. She&#8217;s not one of us. She wanted to make love this afternoon, and I couldn&#8217;t. All that passion was just gone.&#8221; It had been bewildering. She could still appreciate Tara, know she was a good person, know even that she was sexy. But there was a wall there now. It was the spell. She&#8217;d tried to explain it to Tara, and Tara had known almost before she started what she was going to say.
 
-It had been the first sense Willow had that the spell had cost them something. Had Xander really been all that out of sync with Anya? Did Buffy really have no connection with Riley? Willow thought probably those relationships would have ended, eventually. Not as soon as they did. Not as definitively. The union had chopped those three people right out of their lives. They none of them would be getting close to anybody else, ever. 
+It had been the first sense Willow had that the spell had cost them something. Had Xander really been all that out of sync with Anya? Did Buffy really have no connection with Riley? Willow thought probably those relationships would have ended, eventually. Not as soon as they did. Not as definitively. The union had chopped those three people right out of their lives. They none of them would be getting close to anybody else, ever.
 
 If she had to balance the books, she&#8217;d say that she got way more from it than she&#8217;d paid. The four of them would be together for the rest of their lives, or until the union broke somehow. Which was a sad thought. But until then, they had something nobody else could give them, something profound and deep and wonderful. Willow was going to treasure it.
 
-They ate dinner together solemnly. Not sadly, just quietly. Willow felt the strong support of the other three around her. They all touched her, stroked her a little when they passed near her. She understood what Xander had meant the other night, about the quality comfort. Her mind was already turning away from the people she&#8217;d been with before, from Tara and from Oz, to her three new life partners. 
+They ate dinner together solemnly. Not sadly, just quietly. Willow felt the strong support of the other three around her. They all touched her, stroked her a little when they passed near her. She understood what Xander had meant the other night, about the quality comfort. Her mind was already turning away from the people she&#8217;d been with before, from Tara and from Oz, to her three new life partners.
 
-Wow, that&#8217;s what they were. That thought carried Willow through dinner, and doing the dishes, and settling down to her differential equations homework. 
+Wow, that&#8217;s what they were. That thought carried Willow through dinner, and doing the dishes, and settling down to her differential equations homework.
 
-At bedtime, they all just headed right up to Giles&#8217; loft. Their loft. Their big bed. Buffy had already appropriated a drawer. Willow went looking to see if she could find some more space in Giles&#8217; armoire. The man was organized in ways she hadn&#8217;t dreamed of before this. If only she had the drawer space! She found he&#8217;d cleared space already for them. 
+At bedtime, they all just headed right up to Giles&#8217; loft. Their loft. Their big bed. Buffy had already appropriated a drawer. Willow went looking to see if she could find some more space in Giles&#8217; armoire. The man was organized in ways she hadn&#8217;t dreamed of before this. If only she had the drawer space! She found he&#8217;d cleared space already for them.
 
 Xander stripped down right there in the loft, to Snoopy boxers. Willow squealed to see them. She&#8217;d given them to him a couple of years before for his birthday. He flopped himself back on the bed. &#8220;Was too warm in the long pants last night,&#8221; Xander said. &#8220;That comforter plus you guys next to me was hella hot.&#8221;
 
-&#8220;Agreed,&#8221; said Buffy. She left off the bottoms of her sushi pjs. The top was long enough to cover her butt, just barely. Willow appreciated the view of the high-cut lace underneath. Buffy always had done sexy better than Willow had. Willow had cute nailed, though. She knew that. 
+&#8220;Agreed,&#8221; said Buffy. She left off the bottoms of her sushi pjs. The top was long enough to cover her butt, just barely. Willow appreciated the view of the high-cut lace underneath. Buffy always had done sexy better than Willow had. Willow had cute nailed, though. She knew that.
 
-They sprawled all over the top of the bedcovers, giggling a little. Xander cuddled up behind her, arm over her waist. She turned in his arms to face Buffy. Willow moved in and sneaked a quick kiss, nothing too sloppy or wiggy. Buffy snickered. 
+They sprawled all over the top of the bedcovers, giggling a little. Xander cuddled up behind her, arm over her waist. She turned in his arms to face Buffy. Willow moved in and sneaked a quick kiss, nothing too sloppy or wiggy. Buffy snickered.
 
-She heard a throat clearing. Giles was over at his closet door, opening it and sticking his shoes away. On a shoe tree, of course. Xander was fiddling around, running a hand over her and over Buffy. Willow sighed. Giles closed the closet door and came over to the bedside. Willow watched his gaze rove over all three of them before he cast it down at his feet. He was in full jammies. 
+She heard a throat clearing. Giles was over at his closet door, opening it and sticking his shoes away. On a shoe tree, of course. Xander was fiddling around, running a hand over her and over Buffy. Willow sighed. Giles closed the closet door and came over to the bedside. Willow watched his gaze rove over all three of them before he cast it down at his feet. He was in full jammies.
 
 Buffy harumphed, and got up. She decisively took Giles&#8217; pajama top off. &#8220;You&#8217;re going to boil in that, Brit-guy,&#8221; she told him. Willow would have done the same, but Buffy was willing to get pushier with Giles than she was. Giles was Buffy&#8217;s Watcher, which gave her some extra rights over him. Besides, he was obviously comfier with Buffy to start with. Though Willow knew she&#8217;d eventually get him to relax with her. Eventually.
 
-Giles extracted the top from Buffy&#8217;s grip, and put it back on. He buttoned it all the way up to the neck. Willow decided that now was a good time to get a teeny bit pushy, and went over. She undid three buttons. She rubbed his chest a little, just a brief hello to the triangle of fuzz exposed. Giles cleared his throat again, then got into bed without saying anything or doing the buttons up. 
+Giles extracted the top from Buffy&#8217;s grip, and put it back on. He buttoned it all the way up to the neck. Willow decided that now was a good time to get a teeny bit pushy, and went over. She undid three buttons. She rubbed his chest a little, just a brief hello to the triangle of fuzz exposed. Giles cleared his throat again, then got into bed without saying anything or doing the buttons up.
 
-Willow got comfort privileges, sandwiched in between the two guys. This time Giles turned on his side to face her, and snuck an arm around her. Xander did the same, stretching his arm out far enough to be over both her and Giles. Buffy got in next to Xander, and then they all went to sleep. Willow didn&#8217;t drop off right away. She was thinking about the fact that Xander had an erection, and it was right up against her butt, and she didn&#8217;t mind. Maybe not so gay now? Or maybe she&#8217;d been bi all along. Confusing. 
+Willow got comfort privileges, sandwiched in between the two guys. This time Giles turned on his side to face her, and snuck an arm around her. Xander did the same, stretching his arm out far enough to be over both her and Giles. Buffy got in next to Xander, and then they all went to sleep. Willow didn&#8217;t drop off right away. She was thinking about the fact that Xander had an erection, and it was right up against her butt, and she didn&#8217;t mind. Maybe not so gay now? Or maybe she&#8217;d been bi all along. Confusing.
 
 The last thing she noticed before she dropped off was that Giles was hard, too, where she&#8217;d unconsciously slipped her leg up between his.
 
@@ -314,11 +314,11 @@ The last thing she noticed before she dropped off was that Giles was hard, too, 
 
 The next night was a Friday night. Willow and Buffy had their psych class, taught by somebody a whole heckuva lot more normal than Walsh had ever been, with the usual weedy graduate TA instead of a soldier boy. Buffy whispered to Willow that she wanted to do a fluffy sexy food dinner thing that night. Not too heavy. Willow asked Buffy what food was sexy, to which Buffy replied that she&#8217;d hoped Will would have some ideas about that. Buffy didn&#8217;t actually seem to need any suggestions, when it came time to shop. Willow was along for the Slayer-ride down the aisles to collect fruit and sparkling cider and bread and cheese, clinging with feet tucked onto the undercarriage of the shopping cart while Buffy spun giggling, terrorizing the stock clerk.
 
-&#8220;An orgy of domesticity,&#8221; Buffy told Willow later, in their kitchen. Willow watched Buffy do the slicing thing she loved doing, showing off. Giles also watched, from the safety of the other side of the pass-through, with that little glow on his face he got watching his Slayer in action. 
+&#8220;An orgy of domesticity,&#8221; Buffy told Willow later, in their kitchen. Willow watched Buffy do the slicing thing she loved doing, showing off. Giles also watched, from the safety of the other side of the pass-through, with that little glow on his face he got watching his Slayer in action.
 
 Willow laid it all out on a tray, which Buffy carried out to the living room. Giles dug around in a cabinet and pulled out a bottle of white wine, and four glasses from their spots hanging under the cupboards. He poured some for all of them, which made Willow feel very adult and sophisticated. She swirled it around and sipped and wondered exactly she was supposed to be noticing and liking about it. It was okay, she guessed, maybe a tiny bit sweet. German name, but a California winery. Buffy seemed to be enjoying it. And Giles had nearly finished his glass already. Though maybe that was nerves. Buffy was pouring him some more.
 
-Xander mostly ignored his glass and munched olives and bread. 
+Xander mostly ignored his glass and munched olives and bread.
 
 &#8220;Hey,&#8221; said Willow. &#8220;I was thinking earlier today, which is something I try to do every day at least a little bit, &#8216;cause, you know, brains are good.&#8221;
 
@@ -368,15 +368,15 @@ Willow giggled. &#8220;I brought some too. Stopped at that women-positive place 
 
 &#8220;The idea scared the heck out of me at first, then Anya got me to do it. Took it right up the butt. And I&#8217;m here to say, ooh la la. Giles will like it.&#8221; Xander had a look of possessive anticipation.
 
-Well, that was news. Willow hadn&#8217;t pegged Xander as kinky boy. At least he&#8217;d gotten something useful out of those months with Anya. They&#8217;d probably gone through the Joy of Sex like it was a checklist. Knowing Anya, there&#8217;d probably been an actual checklist. Willow stopped that line of speculation short right there. 
+Well, that was news. Willow hadn&#8217;t pegged Xander as kinky boy. At least he&#8217;d gotten something useful out of those months with Anya. They&#8217;d probably gone through the Joy of Sex like it was a checklist. Knowing Anya, there&#8217;d probably been an actual checklist. Willow stopped that line of speculation short right there.
 
 Willow got her stuff out and handed it to Xander. Xander followed Buffy up the stairs. Willow ran around shutting up the apartment for the night, then went up.
 
-Giles sat in the comfy chair he had up next to his bed, book in one hand and a full wineglass in the other. The lamp standing just behind the chair was the only light left on in the apartment, now that Willow had switched things off downstairs. Giles watched Willow move into the loft a little nervously. &#8220;What have you lot got planned?&#8221; 
+Giles sat in the comfy chair he had up next to his bed, book in one hand and a full wineglass in the other. The lamp standing just behind the chair was the only light left on in the apartment, now that Willow had switched things off downstairs. Giles watched Willow move into the loft a little nervously. &#8220;What have you lot got planned?&#8221;
 
-&#8220;It&#8217;s okay, Giles. Just going to relax a little,&#8221; said Willow. Buffy went to stand behind the armchair. She rubbed Giles&#8217; shoulders. He put the book down, and sipped. 
+&#8220;It&#8217;s okay, Giles. Just going to relax a little,&#8221; said Willow. Buffy went to stand behind the armchair. She rubbed Giles&#8217; shoulders. He put the book down, and sipped.
 
-&#8220;Hey, big guy. Where&#8217;s the best place to put these?&#8221; Xander held up the two boxes of condoms. 
+&#8220;Hey, big guy. Where&#8217;s the best place to put these?&#8221; Xander held up the two boxes of condoms.
 
 Giles flushed very red and stammered. &#8220;Nightstand. Top drawer.&#8221;
 
@@ -392,7 +392,7 @@ Giles had his face in his hands. &#8220;Xander, I beg you. Stop.&#8221; Willow w
 
 But the magic couldn&#8217;t be denied. They were one, now, somewhere deep inside.
 
-Xander had unbuttoned his shirt. He held out his hand to her, and invited her onto the big bed. Willow got up with him. They picked up where they&#8217;d left off downstairs, kissing each other slow and soft. Xander knew all the places to touch her, and was so tender. Just like she&#8217;d remembered him. She was more hesitant with him, because it had been a long time. Xander undid her blouse, and took it off. She&#8217;d gone braless today, thinking of this moment tonight. Xander seemed to appreciate it, saying, &#8220;oh yeah&#8221; then bending down to kiss her breasts. Willow loved that. She lay back on the pillows and ran her fingers through Xander&#8217;s hair, urging him on. Soft and thick, a little springy. Nice hair. 
+Xander had unbuttoned his shirt. He held out his hand to her, and invited her onto the big bed. Willow got up with him. They picked up where they&#8217;d left off downstairs, kissing each other slow and soft. Xander knew all the places to touch her, and was so tender. Just like she&#8217;d remembered him. She was more hesitant with him, because it had been a long time. Xander undid her blouse, and took it off. She&#8217;d gone braless today, thinking of this moment tonight. Xander seemed to appreciate it, saying, &#8220;oh yeah&#8221; then bending down to kiss her breasts. Willow loved that. She lay back on the pillows and ran her fingers through Xander&#8217;s hair, urging him on. Soft and thick, a little springy. Nice hair.
 
 Eventually they managed to get all their clothes off. Willow was spending a lot of time kissing Xander. She licked her way down his chest and over his tummy. She kissed his thighs, then tried out kissing the other Xander-bits right there. Xander said, &#8220;Mmm, please, yeah, suck me, Will. Do it.&#8221;
 
@@ -402,15 +402,15 @@ Xander scooched himself back against the headboard. Willow lay between his legs.
 
 Willow got started slowly, running her hands all over Xander&#8217;s body, over the fur between his legs, then over his penis. It was bigger than Oz&#8217;s had been, definitely thicker. But Oz had been all-over compact, and Xand was a bigger guy. She licked the top, cautiously, all around that ridge, and surprise! It wasn&#8217;t yucky. It was like concentrated essence of Xander. And he made a nice sound when she did it, which was fun. Willow decided to give the project a thorough analytical basis: exactly <em>which</em> things would make Xander make the most noise? Or make him thrash hardest? Hands cupped around his balls like this? Squeezing a little? Scraping her teeth oh so gently up and down? Taking him all the way in as deep as she could, lips tight around him?
 
-After a while, it seemed like anything would make him moan, then he was warning her, and then he was exploding into her mouth in sharp pulses and it was totally okay. Willow swallowed, and thought it was nice to have some of Xander inside her, part of her now. Though maybe that thought was too weird to say out loud. 
+After a while, it seemed like anything would make him moan, then he was warning her, and then he was exploding into her mouth in sharp pulses and it was totally okay. Willow swallowed, and thought it was nice to have some of Xander inside her, part of her now. Though maybe that thought was too weird to say out loud.
 
 Xander slumped back and looked like he&#8217;d be out of commission for a few minutes. Willow was all worked up. She looked over at Buffy and Giles. Buffy was sitting on Giles&#8217; lap, with her arms around his neck. Willow beckoned, and Buffy nodded.
 
 &#8220;Coming with me, Giles sweetie?&#8221;
 
-Giles closed his eyes and shook his head. &#8220;Go ahead,&#8221; he said, in a funny voice. &#8220;I&#8217;m fine.&#8221; 
+Giles closed his eyes and shook his head. &#8220;Go ahead,&#8221; he said, in a funny voice. &#8220;I&#8217;m fine.&#8221;
 
-Buffy gave Giles a long kiss, then got off his lap. She stripped off, efficiently, like she wasn&#8217;t feeling like wasting any time. She crawled right over to Willow and grabbed her for a long, sloppy kiss. She was different from Tara under Willow&#8217;s hands, a lot harder and stronger. But she had the same girl-bits, which Willow knew and loved. Buffy seemed to want to jump right into the whole same-sex experience feet-first. Or tongue-first. Maybe Willow could convince Buffy to use that tongue somewhere else. 
+Buffy gave Giles a long kiss, then got off his lap. She stripped off, efficiently, like she wasn&#8217;t feeling like wasting any time. She crawled right over to Willow and grabbed her for a long, sloppy kiss. She was different from Tara under Willow&#8217;s hands, a lot harder and stronger. But she had the same girl-bits, which Willow knew and loved. Buffy seemed to want to jump right into the whole same-sex experience feet-first. Or tongue-first. Maybe Willow could convince Buffy to use that tongue somewhere else.
 
 As it turned out, yes. Easily. Willow got on her back, letting Buffy crawl on top where she&#8217;d have more control and could bail out if she wigged. Not that Buffy was looking like wigging. She gave her body to Willow with total trust.
 
@@ -436,7 +436,7 @@ They hugged for a while afterwards, calming down and letting the sweat cool. Xan
 
 &#8220;Giles?&#8221; said Buffy, getting up.
 
-He froze in place, looking horribly guilty. Buffy went over to him and put her hand over his. Willow got up and went to him and knelt in front of him. Xander came over too. 
+He froze in place, looking horribly guilty. Buffy went over to him and put her hand over his. Willow got up and went to him and knelt in front of him. Xander came over too.
 
 <h2 id="giles2">Giles</h2>
 
@@ -450,7 +450,7 @@ He was caught. Buffy held his hand in place, over his crotch, pressing down. He 
 
 They guided him onto the bed. Buffy encouraged him to kneel up with his legs spread wide. The three of them surrounded him, hands on him, touching him everywhere, on his face, around his neck, over his chest, across his stomach, down his back, between his legs, along his cock, down his thighs. They knew him. Their fingers laid him bare. He had no secrets left.
 
-He lunged to get off the bed. Buffy pinned him in place, her strong hands holding his together and still. He trembled against her. He watched Willow roll a condom onto Xander and slick lubricant onto it. Willow&#8217;s hands again, on his backside, clever fingers cool and slippery, sliding in and opening him, while Buffy stilled his helpless thrusts. Xander kissed him when he began to moan, wide mouth fastening wet over Giles&#8217;, his tongue tracing Giles&#8217; lips. Giles realized he had surrendered. He had chosen to give himself to them. He stopped pushing against Buffy. He yielded his mouth to Xander, allowing his broad tongue in deep. Xander and Willow both pulled away and Giles whimpered in protest. Buffy laid a finger across his lips. &#8220;Don&#8217;t worry,&#8221; she said. &#8220;Xander isn&#8217;t going far.&#8221; And Xander hadn&#8217;t gone far, just around behind him. Giles felt the head of Xander&#8217;s cock nudge him. 
+He lunged to get off the bed. Buffy pinned him in place, her strong hands holding his together and still. He trembled against her. He watched Willow roll a condom onto Xander and slick lubricant onto it. Willow&#8217;s hands again, on his backside, clever fingers cool and slippery, sliding in and opening him, while Buffy stilled his helpless thrusts. Xander kissed him when he began to moan, wide mouth fastening wet over Giles&#8217;, his tongue tracing Giles&#8217; lips. Giles realized he had surrendered. He had chosen to give himself to them. He stopped pushing against Buffy. He yielded his mouth to Xander, allowing his broad tongue in deep. Xander and Willow both pulled away and Giles whimpered in protest. Buffy laid a finger across his lips. &#8220;Don&#8217;t worry,&#8221; she said. &#8220;Xander isn&#8217;t going far.&#8221; And Xander hadn&#8217;t gone far, just around behind him. Giles felt the head of Xander&#8217;s cock nudge him.
 
 &#8220;Okay?&#8221; said Xander.
 
@@ -484,7 +484,7 @@ Buffy moved over in front of him, her knees on either side of his face.
 
 &#8220;Come down where I can reach you,&#8221; he said. She slid under him, knees up, feet tucked under his shoulders. It was all he could do to concentrate. His mouth trembled against her as Xander continued to thrust steadily. He traced around her opening with his tongue. He could taste Xander&#8217;s seed inside her. He was getting hard again, cock rubbing against the pillow under him. He licked up her center once, slow and strong, and found her clit. He didn&#8217;t know whether she liked it soft or hard, and couldn&#8217;t find breath to ask. His muscles were still trembling in the aftermath of orgasm. He braced himself on his right hand and slid his left around where he could reach her. He penetrated her in both places at once with thumb and finger and she cried out, clenching down on his hand. He thrust gently into her, licking at her in sync. She was so wet and tasted so good, like sex, like his Slayer.
 
-Xander was moving faster inside him, pushing hard and deep. He could hear the other man groaning above him, and Willow&#8217;s voice urging him on. He writhed underneath Xander, bucking back into his pushes wantonly. He tried to keep a steady pace with Buffy, but Xander was clutching his hips and shouting, cock twitching as he came inside Giles. Then he was pulling out, and Giles wanted to weep at the loss. The ache was fantastic. He was still hard, still rubbing himself into the pillow, and Buffy was still unsatisfied in front of him. He could give her the strong pace she needed now. He listened to the cries of his beloved Slayer as his fingers moved within her, his tongue fluttering against her. Willow and Xander were talking to her, encouraging her, telling her to come. And then she was coming, shaking around his fingers, calling his name. 
+Xander was moving faster inside him, pushing hard and deep. He could hear the other man groaning above him, and Willow&#8217;s voice urging him on. He writhed underneath Xander, bucking back into his pushes wantonly. He tried to keep a steady pace with Buffy, but Xander was clutching his hips and shouting, cock twitching as he came inside Giles. Then he was pulling out, and Giles wanted to weep at the loss. The ache was fantastic. He was still hard, still rubbing himself into the pillow, and Buffy was still unsatisfied in front of him. He could give her the strong pace she needed now. He listened to the cries of his beloved Slayer as his fingers moved within her, his tongue fluttering against her. Willow and Xander were talking to her, encouraging her, telling her to come. And then she was coming, shaking around his fingers, calling his name.
 
 Giles sat up and mopped off his face. Buffy lay sprawled out beneath him, eyes closed, sated. Xander lay back as well, chest covered in sweat. Willow was next to him. He leaned against her, nuzzling into her hair, soaking in her scent of ritual herbs, patchouli, soap. She was lovely.
 
@@ -498,7 +498,7 @@ Giles sat up and mopped off his face. Buffy lay sprawled out beneath him, eyes c
 
 Her answer was to open another condom, this time for him. She handed it to him and he rolled it on, stroking himself and looking her in the eye. She lay back, between Xander and Buffy, and beckoned him down to lie over her. He entered her in one smooth thrust, knowing she would be slick and ready from her earlier orgasms. Then he remembered he had to be the first man who&#8217;d been inside her since Oz, last year. But she was beaming up at him, so she was fine. She wrapped her legs around his, her heels tucked comfortably behind his knees. She giggled as he moved inside her, happy little laughs that grew into gasps when he brought his thumb down to touch her clitoris.
 
-&#8220;Gonna go on the pill,&#8221; Willow said to him. 
+&#8220;Gonna go on the pill,&#8221; Willow said to him.
 
 &#8220;Yes?&#8221;
 
@@ -512,7 +512,7 @@ Her answer was to open another condom, this time for him. She handed it to him a
 
 Giles felt himself get closer from just those words. &#8220;Willow first,&#8221; he managed to say, ever the gentleman.
 
-&#8220;You hear that, Will?&#8221; Xander said. &#8220;Giles wants you to come. Wants to hear you. Wants to feel you all around him.&#8221; 
+&#8220;You hear that, Will?&#8221; Xander said. &#8220;Giles wants you to come. Wants to hear you. Wants to feel you all around him.&#8221;
 
 Buffy&#8217;s hand took over for his. Giles leaned forward and braced himself up over Willow&#8217;s face. He bent down and kissed her nose. Xander&#8217;s hands were on her breasts, caressing. &#8220;Come for us, Willow,&#8221; he whispered. He could feel the beginnings of her orgasm, her legs stiffening, her breath going short. Then it was on her, and her body was spasming around his. He buried himself deep inside and let go for the second time, crying out wordlessly. He fell forward across her.
 

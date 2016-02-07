@@ -2,7 +2,6 @@
 idtag: gb_reconnection_reconnection_2
 author: antennapedia
 published: '2006-08-25T23:48:00-07:00'
-series: reconnection
 title: Reconnection 2
 notes: 'For <b><a href="http://clavally.livejournal.com/">clavally</a></b>, who wanted a continuation.'
 summary: 'Dark magic has been unleashed, and a price must be paid. By whom?'
@@ -27,14 +26,15 @@ tags:
   - p:xander/anya
   - p:willow/tara
   - p:giles/buffy
+  - s:reconnection
 rating: mature
 pairing: giles/buffy
 ---
-There were rocks underneath Buffy&#8217;s sleeping bag. Definitely rocks. But there was also a warm body next to her, with his arm draped over her middle and his face nuzzled into her shoulder. Giles, um, Rupert, maybe, now, was grizzling. Not a full-fledged snore, just a sort of light grumble thing. It was adorable. 
+There were rocks underneath Buffy&#8217;s sleeping bag. Definitely rocks. But there was also a warm body next to her, with his arm draped over her middle and his face nuzzled into her shoulder. Giles, um, Rupert, maybe, now, was grizzling. Not a full-fledged snore, just a sort of light grumble thing. It was adorable.
 
-Buffy didn&#8217;t want to get up, but she had to pee. Maybe she could climb back in next to Rupert when she got back. But when she did, he was awake, and smiling at her. He pulled her down for a kiss. &#8220;Morning breath,&#8221; she told him. &#8220;And mega-stubble.&#8221; And sweat, and a soot-smudge across his forehead from the campfire. She kissed him anyway. There was gray mixed in his stubble, and gray at his temples. 
+Buffy didn&#8217;t want to get up, but she had to pee. Maybe she could climb back in next to Rupert when she got back. But when she did, he was awake, and smiling at her. He pulled her down for a kiss. &#8220;Morning breath,&#8221; she told him. &#8220;And mega-stubble.&#8221; And sweat, and a soot-smudge across his forehead from the campfire. She kissed him anyway. There was gray mixed in his stubble, and gray at his temples.
 
-Buffy&#8217;s feet were sore this morning, despite whatever it was Rupert had cast on her boots. A lot of walking, she guessed. Despite that, the hike back down the trail went a lot faster than the uphill trip. Buffy almost didn&#8217;t want it to. She held Rupert&#8217;s hand, and asked a lot of questions about the park, the animals, why they hadn&#8217;t seen marmots yet, and where else Rupert had been in the area. By silent agreement, they stayed away from the big topics. Like what their shared vision had meant, how they were going to handle things at home, and what they were going to do about Rupert&#8217;s fight with Willow. 
+Buffy&#8217;s feet were sore this morning, despite whatever it was Rupert had cast on her boots. A lot of walking, she guessed. Despite that, the hike back down the trail went a lot faster than the uphill trip. Buffy almost didn&#8217;t want it to. She held Rupert&#8217;s hand, and asked a lot of questions about the park, the animals, why they hadn&#8217;t seen marmots yet, and where else Rupert had been in the area. By silent agreement, they stayed away from the big topics. Like what their shared vision had meant, how they were going to handle things at home, and what they were going to do about Rupert&#8217;s fight with Willow.
 
 They got to the trailhead in the mid-afternoon. Buffy wasn&#8217;t quite ready to head home yet, and said as much to Rupert.
 
@@ -44,7 +44,7 @@ They got to the trailhead in the mid-afternoon. Buffy wasn&#8217;t quite ready t
 
 &#8220;Indeed.&#8221;
 
-The car engine was loud and unnatural after a couple of days of only forest sounds. It also smelled plasticky inside. Though pretty soon it also smelled like unwashed people and pine needles. Buffy wanted that shower. 
+The car engine was loud and unnatural after a couple of days of only forest sounds. It also smelled plasticky inside. Though pretty soon it also smelled like unwashed people and pine needles. Buffy wanted that shower.
 
 Giles drove them down to the ranger station. This time Buffy got out of the car, mostly to use a real bathroom, with running water. And soap. She checked out the maps, and the posters about wildlife, and the informative pamphlets on how to not feed the bears. Then she had a burbly conversation with the park service guy about exactly where she should go next time if she wanted to see marmots. Giles, looking scrubbed and damp around the ears himself, was using the payphone to set something up. He smiled at her when he was done, with a secret look that gave Buffy a thrill in her chest.
 
@@ -74,17 +74,17 @@ Rupert made a sound in his throat.
 
 &#8220;Of course! I just&#8230;&#8221; He was as stuttery as Buffy had ever heard him. &#8220;I had been thinking, well, that I should prefer it if, if, when we&#8230; It would be best for the child if its parents were&#8230; We should get married straight away, and then start with the&#8230;&#8221;
 
-&#8220;Okay,&#8221; said Buffy. &#8220;Let&#8217;s get married and then have a kid, in that order.&#8221; Rupert grabbed her hand and clutched hard. &#8220;This is really romantic!&#8221; 
+&#8220;Okay,&#8221; said Buffy. &#8220;Let&#8217;s get married and then have a kid, in that order.&#8221; Rupert grabbed her hand and clutched hard. &#8220;This is really romantic!&#8221;
 
 Rupert took his eyes off the road long enough to glare at her. &#8220;This was not how I had intended proposing to you,&#8221; he said. &#8220;While driving on a busy street in the middle of&#8230;&#8221;
 
 Buffy giggled at him.
 
-&#8220;Bloody hell,&#8221; he said. He let go of her hand suddenly. Buffy was about to complain, but he did some fancy braking and u-turning and stuck them decisively into a parking lot across the street, next to a big house with a sign announcing it was the Cambrian Inn. With a picture of a fossil. He hopped out of the car before Buffy could so much as eep, and had her door open. Buffy let him hand her out. 
+&#8220;Bloody hell,&#8221; he said. He let go of her hand suddenly. Buffy was about to complain, but he did some fancy braking and u-turning and stuck them decisively into a parking lot across the street, next to a big house with a sign announcing it was the Cambrian Inn. With a picture of a fossil. He hopped out of the car before Buffy could so much as eep, and had her door open. Buffy let him hand her out.
 
 &#8220;Let&#8217;s do this properly. Since we likely won&#8217;t do anything else properly.&#8221;  He pulled her off the asphalt onto the grassy lawn, and went down on his knees. He took a deep breath. &#8220;Buffy, will you marry me?&#8221;
 
-His voice when he said this was like his voice had been last night, when he swore the oath to her, serious and choked. It deserved an equally serious response, and Buffy pulled herself together and gave it to him. She met his eyes and said, &#8220;Yes, Rupert, I will marry you.&#8221; 
+His voice when he said this was like his voice had been last night, when he swore the oath to her, serious and choked. It deserved an equally serious response, and Buffy pulled herself together and gave it to him. She met his eyes and said, &#8220;Yes, Rupert, I will marry you.&#8221;
 
 He closed his eyes for a moment. He took his signet ring off and slipped it onto her finger. It rattled around. &#8220;I&#8217;ll get you something&#8230;&#8221; he said.
 
@@ -92,15 +92,15 @@ Buffy transferred the ring to her thumb, where it fit pretty well. She couldn&#8
 
 Buffy was still sniffling when they went inside the inn to check in. The woman at the desk, who had a sweatshirt with a dinosaur on it stretched over her comfy cleavage, took one look at Buffy and handed her a box of tissues. &#8220;You okay, sweetie?&#8221; she said.
 
-&#8220;He just asked me to marry him!&#8221; said Buffy, wiping her nose. &#8220;See?&#8221; She held up the hand with the ring. 
+&#8220;He just asked me to marry him!&#8221; said Buffy, wiping her nose. &#8220;See?&#8221; She held up the hand with the ring.
 
 That got them the extra-fussing treatment, which made Rupert&#8217;s ears turn red, but also got them a room with a view down over the town and its own bathroom. Buffy zapped into the shower instantly. Water. Hot water. Huge amounts of hot water. Plus soap. Lack of planning bit her when she was done, though: she had to step back into the room with just a towel clutched tight around her. Rupert was stretched out on the bed with a paperback. He looked up, saw her, and blushed.
 
-&#8220;I&#8217;ll just&#8230; um, right.&#8221; He vanished into the bathroom, with clothes and the shaving cream can in hand. 
+&#8220;I&#8217;ll just&#8230; um, right.&#8221; He vanished into the bathroom, with clothes and the shaving cream can in hand.
 
 Buffy regretted having allowed Rupert to pack her clothes. She had nothing but practical hiking gear, all khaki and earth colors. Though that sage green shirt wasn&#8217;t so bad, if she layered it over this brown tank top. And of course she had her makeup kit. No Summers woman would go anywhere without that. And it had a few emergency earrings in it, which would be much nicer than these ultra-practical studs she&#8217;d been wearing.
 
-There were moments when Buffy felt the black thoughts trying to creep back in. Like right now, now that she was finished with the makeup and didn&#8217;t have anything to do. She looked at Rupert&#8217;s paperback. Some mystery thing, battered, obviously not a book maintained by Rupert Giles super-librarian. Aha. There was a shelf of mysteries and romances, next to the bed. Fallback plan. Instead Buffy tapped on the door of the bathroom, and opened it. Rupert was out of the shower and half-dressed. His face was all foamed up. 
+There were moments when Buffy felt the black thoughts trying to creep back in. Like right now, now that she was finished with the makeup and didn&#8217;t have anything to do. She looked at Rupert&#8217;s paperback. Some mystery thing, battered, obviously not a book maintained by Rupert Giles super-librarian. Aha. There was a shelf of mysteries and romances, next to the bed. Fallback plan. Instead Buffy tapped on the door of the bathroom, and opened it. Rupert was out of the shower and half-dressed. His face was all foamed up.
 
 &#8220;Hullo,&#8221; he said, with a little smile under the soap.
 
@@ -108,13 +108,13 @@ Buffy sat on the closed toilet and watched her man shave. It was a new experienc
 
 Rupert methodically, slowly, carefully, shaved himself with the little blue disposable razor. He leaned close to the mirror, sometimes bracing himself with a hand on the sink. A stroke on his face, a swish in the hot water in the basin. He looked over at her every so often, but didn&#8217;t say anything.
 
-She&#8217;d never really had a sense of him as male, before. Obviously he was, hence Ms Calendar and Olivia and other people she wasn&#8217;t going to think about with him, ever. But Buffy hadn&#8217;t thought about him that way. He was advice and tea, training and comfort, conscience and confidant. But now, something else. Buffy considered Rupert. 
+She&#8217;d never really had a sense of him as male, before. Obviously he was, hence Ms Calendar and Olivia and other people she wasn&#8217;t going to think about with him, ever. But Buffy hadn&#8217;t thought about him that way. He was advice and tea, training and comfort, conscience and confidant. But now, something else. Buffy considered Rupert.
 
 He had on baggy jeans. Buffy could see the white band of his underwear, inside the too-loose waistline. He was thinner than he&#8217;d been, before. Bad summer, she supposed. He wasn&#8217;t wearing a shirt. He had a little tawny hair, up on on his chest and around his nipples, and some on his stomach. He had muscle in his back and shoulders, and in his arms. Rupert hid it all under those suits and baggy shirts most of the time. He was so self-effacing, normally, that she hadn&#8217;t really clued into what a tall guy he was. And he was most definitely a guy. It had been exciting to feel him pressed up against her last night, obviously interested, even if all they had done was kiss a little and then conk out.
 
-He had a few scars. One of the worst ones, on his right forearm, Buffy had given him herself. Accident in sword practice, back in junior year. She&#8217;d baked cookies every day for a month to make up for that one. And then there was the place on his front where the spear had gone in. That was still pink-ish. 
+He had a few scars. One of the worst ones, on his right forearm, Buffy had given him herself. Accident in sword practice, back in junior year. She&#8217;d baked cookies every day for a month to make up for that one. And then there was the place on his front where the spear had gone in. That was still pink-ish.
 
-Handsome. He was handsome. He had a distinctive face, all angles and cheekbones and chin under the shaving cream. His hair was a little longer than she was used to seeing him with, curling over his ears and his neck. It had been soft under her fingers. 
+Handsome. He was handsome. He had a distinctive face, all angles and cheekbones and chin under the shaving cream. His hair was a little longer than she was used to seeing him with, curling over his ears and his neck. It had been soft under her fingers.
 
 Gradually his face emerged from the foam. He washed it off, then inspected himself in the mirror.
 
@@ -130,7 +130,7 @@ Gradually his face emerged from the foam. He washed it off, then inspected himse
 
 They walked to dinner. The downtown was a bit like Sunnydale&#8217;s: weekend-resort-ish, with lots of traps for LA people. Galleries, shops with expensive kitschy junk, restaurants. No vampire vibe at <em>all</em>. Buffy liked it.
 
-The restaurant was medium-busy. Buffy ordered her favorite noodle thing, with peanuts and prawns. Rupert got green curry. Buffy toed off her shoes and ran her feet up the ankles of his jeans as far as she could get them. Rupert gave her patented Giles-glare #3, the one that meant &#8220;I am supposed to disapprove, but secretly I am loving it&#8221;. And shifted his legs so she could reach better. 
+The restaurant was medium-busy. Buffy ordered her favorite noodle thing, with peanuts and prawns. Rupert got green curry. Buffy toed off her shoes and ran her feet up the ankles of his jeans as far as she could get them. Rupert gave her patented Giles-glare #3, the one that meant &#8220;I am supposed to disapprove, but secretly I am loving it&#8221;. And shifted his legs so she could reach better.
 
 He didn&#8217;t eat much. Mostly he spent the meal looking at Buffy and smiling to himself. Buffy chattered.
 
@@ -142,7 +142,7 @@ He looked strained and weary for a second before covering it up. Buffy became he
 
 &#8220;Missions from God?&#8221;
 
-&#8220;Oh, right. I had a chat with that little demon guy, Whistler. Before we had the shared thing. He said the Big Guy wanted it. I said I&#8217;d do it. So I&#8217;m on board.&#8221; 
+&#8220;Oh, right. I had a chat with that little demon guy, Whistler. Before we had the shared thing. He said the Big Guy wanted it. I said I&#8217;d do it. So I&#8217;m on board.&#8221;
 
 &#8220;My goodness. I&#8230; Really?&#8221;
 
@@ -152,7 +152,7 @@ He looked strained and weary for a second before covering it up. Buffy became he
 
 &#8220;No research tonight. Just engagement celebration.&#8221;
 
-Rupert&#8217;s face lit in that rare full-on grin. He caught the waiter&#8217;s eye and made a quick writing-on-his-hand gesture. 
+Rupert&#8217;s face lit in that rare full-on grin. He caught the waiter&#8217;s eye and made a quick writing-on-his-hand gesture.
 
 Back in the room, standing in the bathroom with a toothbrush, Buffy found herself getting nervous. She had no nice things to wear! Nothing frilly. No pajamas at all, never mind sexy ones. All she had was one last clean t-shirt. Would he mind? What did he like? She had no idea. Silk? Lace? Leather? Leopard print? Tweed?
 
@@ -176,7 +176,7 @@ He gave her a fleeting, shy smile. &#8220;The vision was quite, uh, intensely pe
 
 &#8220;Bloody strange, is what it is,&#8221; he said. He got up and turned out the lamp, then, and came to her.
 
-Buffy had that future-memory, of Rupert moving with her, to say that it would be staggeringly good one day. Not that it wasn&#8217;t good right now, because it was, just a little fumbly. It was sweet, slow, tentative, tender. Rupert treated her as if she might break. Given how she&#8217;d been until last night, Buffy understood. She&#8217;d been breakable. Now, though, she was alive. He touched her everywhere, and where he touched her, her blood raced and life flowered. She relaxed into him, for the first time ever just letting herself be herself. 
+Buffy had that future-memory, of Rupert moving with her, to say that it would be staggeringly good one day. Not that it wasn&#8217;t good right now, because it was, just a little fumbly. It was sweet, slow, tentative, tender. Rupert treated her as if she might break. Given how she&#8217;d been until last night, Buffy understood. She&#8217;d been breakable. Now, though, she was alive. He touched her everywhere, and where he touched her, her blood raced and life flowered. She relaxed into him, for the first time ever just letting herself be herself.
 
 Afterward he held her and touched her more, thoughtful and curious finger-strokes along her arm, her shoulder, her face. Buffy had no idea what he was thinking. He finally sighed, and settled himself against her shoulder. &#8220;I have always loved you, Buffy,&#8221; he said, and was asleep.
 
@@ -184,7 +184,7 @@ First they&#8217;d gotten engaged, then they&#8217;d made love, then Rupert had 
 
 It was different in the morning, in the sunlight. Much sillier, and with a lot more talking. They&#8217;d broken the ice and got through the worst, and Buffy knew it was going to be okay. Especially with somebody who&#8217;d get in the shower with her and scrub her back.
 
-They had brunch at a place that made Buffy feel at home, all organic vegetables and local produce and healthy sprouts in everything, with a hand-drawn menu. The waiter appeared, and rattled off a bunch of specials. 
+They had brunch at a place that made Buffy feel at home, all organic vegetables and local produce and healthy sprouts in everything, with a hand-drawn menu. The waiter appeared, and rattled off a bunch of specials.
 
 &#8220;I was thinking maybe just the fruit plate,&#8221; Buffy said. When Rupert made a noise, she said, &#8220;What?&#8221;
 
@@ -192,9 +192,9 @@ They had brunch at a place that made Buffy feel at home, all organic vegetables 
 
 &#8220;You&#8217;re not going to turn into one of those, are you?&#8221; Buffy said, cryptically. &#8220;You&#8217;re too thin yourself. If I&#8217;m eating, you&#8217;re eating.&#8221; She let Rupert order breakfast for the two of them: omelets with a lot of organic veggies, and orange juice, and scones. Blood will out. She giggled at him, and ordered coffee for herself.
 
-The coffee was great. Real cream always tasted good. Buffy guzzled, and then, energized, started thinking about what came next. Home. Life changes. Living with Rupert, she assumed. Taking care of Dawn. What she was going to do with herself, other than Slaying. Maybe back to school? Until the baby. Great jumpin&#8217; kangaroo rats, a baby. 
+The coffee was great. Real cream always tasted good. Buffy guzzled, and then, energized, started thinking about what came next. Home. Life changes. Living with Rupert, she assumed. Taking care of Dawn. What she was going to do with herself, other than Slaying. Maybe back to school? Until the baby. Great jumpin&#8217; kangaroo rats, a baby.
 
-Buffy hadn&#8217;t ever let herself wish for that. It had always been in the category of things that Slaying had cost her that hurt too much to even think about. Now, wow, she was guaranteed it. By the best authority ever. Though Buffy knew better than to think that meant it would be easy. They&#8217;d get there, to that moment on the bed. But how they got there, and what happened afterward: that could get nasty. 
+Buffy hadn&#8217;t ever let herself wish for that. It had always been in the category of things that Slaying had cost her that hurt too much to even think about. Now, wow, she was guaranteed it. By the best authority ever. Though Buffy knew better than to think that meant it would be easy. They&#8217;d get there, to that moment on the bed. But how they got there, and what happened afterward: that could get nasty.
 
 &#8220;Penny,&#8221; said Rupert, over his mug of tea.
 
@@ -208,11 +208,11 @@ Buffy hadn&#8217;t ever let herself wish for that. It had always been in the cat
 
 &#8220;Willow,&#8221; said Buffy, mind already clicking. She ate a half-slice of toast while she reviewed what she knew. &#8220;Okay, spill. I heard you yelling at her in the kitchen the other night. And you told me a little our first night camping. But I need details.&#8221;
 
-Rupert went into detail, in the sort of methodical review Buffy had come to rely on. The resurrection spell Willow had used was dark, to say the least. If he remembered correctly, the ingredients were not the sort of thing you could obtain through white means. And it required that Willow make a bargain with the god she&#8217;d called on. Exactly what the terms of the bargain were, Rupert couldn&#8217;t say. They varied; usually the caster found to his chagrin that it was difficult to make fair bargains with gods. But they would all have one thing in common: The books had to balance. Buffy&#8217;s return had cost somebody else&#8217;s soul. Rupert didn&#8217;t know whose. Didn&#8217;t know when it would be collected. 
+Rupert went into detail, in the sort of methodical review Buffy had come to rely on. The resurrection spell Willow had used was dark, to say the least. If he remembered correctly, the ingredients were not the sort of thing you could obtain through white means. And it required that Willow make a bargain with the god she&#8217;d called on. Exactly what the terms of the bargain were, Rupert couldn&#8217;t say. They varied; usually the caster found to his chagrin that it was difficult to make fair bargains with gods. But they would all have one thing in common: The books had to balance. Buffy&#8217;s return had cost somebody else&#8217;s soul. Rupert didn&#8217;t know whose. Didn&#8217;t know when it would be collected.
 
 Buffy felt the black thoughts coming back in. She pushed them aside with an act of will. She and Rupert, together on a bed, holding a baby. Purpose.
 
-Rupert held her hand across the table. Buffy gave him a squeeze, then freed herself so she could slather more blackberry preserve on her scone. And oh boy, she had a lot of &#8216;pologizing to do about scone jokes. This thing was good. 
+Rupert held her hand across the table. Buffy gave him a squeeze, then freed herself so she could slather more blackberry preserve on her scone. And oh boy, she had a lot of &#8216;pologizing to do about scone jokes. This thing was good.
 
 &#8220;Okay,&#8221; Buffy said. &#8220;So far I&#8217;m getting that Willow is in <em>way</em> over her head, and might have a bargain with a god to get out of. We need, like, Daniel Webster. Don&#8217;t look at me like that. I read stuff in my three semesters of college. What I&#8217;m not seeing here is the apocalypsy badness.&#8221;
 
@@ -230,9 +230,9 @@ Buffy tucked that thought aside to come back to only if necessary.
 
 &#8220;We&#8217;re all well,&#8221; Rupert said. &#8220;Let&#8217;s pay the bill and take a little walk, hmm? I can catch you up.&#8221;
 
-The shops of Cambria were open, and Buffy was in the mood for some window shopping. Not actual shopping, since there was a definite money problem what with the plumbing issues. She wouldn&#8217;t have gone inside that goldsmith&#8217;s shop herself, content with drooling at the hand-made stuff in the window cases, but Rupert made her. 
+The shops of Cambria were open, and Buffy was in the mood for some window shopping. Not actual shopping, since there was a definite money problem what with the plumbing issues. She wouldn&#8217;t have gone inside that goldsmith&#8217;s shop herself, content with drooling at the hand-made stuff in the window cases, but Rupert made her.
 
-There was a lot of cool stuff inside, made by allegedly local craftspeople. Buffy&#8217;s eye was caught by a Celtic knotwork ring that had deep red garnets worked into the pattern. The stones were set flat. She had learned the hard way that rings with standard settings took a real beating in the Slaying. Sure, she could take them off before patrol, but sometimes the fist-smacking just kinda happened without planning. And then, boom, missing expensive rocks. This ring would be okay; nothing stuck out. She tried it on, and it was nearly a perfect fit. A little loose, maybe. Not exactly an engagement ring, though, and she wasn&#8217;t going to make Rupert buy her lots of jewelry. Then she saw the wedding rings right in the same case. Knotwork and spirals. Two colors of metal formed the pattern. She gave the ring back to the clerk and drooled. Then she dragged Rupert over to look. 
+There was a lot of cool stuff inside, made by allegedly local craftspeople. Buffy&#8217;s eye was caught by a Celtic knotwork ring that had deep red garnets worked into the pattern. The stones were set flat. She had learned the hard way that rings with standard settings took a real beating in the Slaying. Sure, she could take them off before patrol, but sometimes the fist-smacking just kinda happened without planning. And then, boom, missing expensive rocks. This ring would be okay; nothing stuck out. She tried it on, and it was nearly a perfect fit. A little loose, maybe. Not exactly an engagement ring, though, and she wasn&#8217;t going to make Rupert buy her lots of jewelry. Then she saw the wedding rings right in the same case. Knotwork and spirals. Two colors of metal formed the pattern. She gave the ring back to the clerk and drooled. Then she dragged Rupert over to look.
 
 &#8220;You&#8217;ll wear a wedding ring, right?&#8221; she said.
 
@@ -268,7 +268,7 @@ Rupert opened his mouth, closed it again, swallowed, then spoke. &#8220;Yes, yes
 
 &#8220;Why? Isn&#8217;t everything going to be good now that the Slayer is back on the job?&#8221;
 
-&#8220;Anya, would you mind if I, uh&#8230;&#8221; Rupert held up the soul stone. Anya shrugged. 
+&#8220;Anya, would you mind if I, uh&#8230;&#8221; Rupert held up the soul stone. Anya shrugged.
 
 Rupert looked through the stone at Anya and repeated a phrase. The stone glowed in rich dark browns and reds. Rupert examined it closely, then smiled at Anya affectionately. He ended the spell.
 
@@ -280,7 +280,7 @@ Rupert looked through the stone at Anya and repeated a phrase. The stone glowed 
 
 &#8220;What&#8217;s going on?&#8221; Anya looked at Buffy.
 
-Buffy pointed at Rupert. Let him do the talking. 
+Buffy pointed at Rupert. Let him do the talking.
 
 &#8220;Well, uh, obviously, there&#8217;s the issue of what Willow did to bring Buffy back. And the issue of what you were about, Anya, helping her do something so dark. I thought you had better judgment than that. You put your soul in danger.&#8221; He yanked out the handkerchief for a round of glasses-polishing.
 
@@ -288,7 +288,7 @@ Buffy pointed at Rupert. Let him do the talking.
 
 Rupert sighed. &#8220;Anya, how much do you know about the Pact of Horus?&#8221;
 
-&#8220;Pact of Horus? Willow performed a Portal to the Realm of Osiris to rescue a trapped soul. The Pact is for when the soul has truly been lost and sent to its final reward. And that wasn&#8217;t the case with Buffy.&#8221; 
+&#8220;Pact of Horus? Willow performed a Portal to the Realm of Osiris to rescue a trapped soul. The Pact is for when the soul has truly been lost and sent to its final reward. And that wasn&#8217;t the case with Buffy.&#8221;
 
 Buffy was starting to get pissed off. None of her friends had even bothered to <em>ask</em> where she&#8217;d gone. Except for Rupert, who was looking pretty annoyed.
 
@@ -304,7 +304,7 @@ Buffy was starting to get pissed off. None of her friends had even bothered to <
 
 &#8220;No. We all know that Willow has no income and couldn&#8217;t afford anything. She has in fact been taking reagents regularly without paying. It is most annoying.&#8221;
 
-&#8220;That ends now. And I think we need to do inventory,&#8221; Rupert said. Lurking message: what else has Willow been up to? Great. 
+&#8220;That ends now. And I think we need to do inventory,&#8221; Rupert said. Lurking message: what else has Willow been up to? Great.
 
 Anya nodded. &#8220;If she&#8217;s been stealing valuable merchandise, she&#8217;ll need to pay us back. First we need to take her off the exceptions list.&#8221;
 
@@ -318,7 +318,7 @@ They went over to the shop door together, and pointed at the runes up over the l
 
 She sighed and wandered over to the tarot table. There were some magazines there, and a paperback she&#8217;d seen Dawn reading for school. She picked up the paperback and plunged in where Dawn&#8217;s bookmark was. The story started off with a guy in a bathtub, smoking a cigarette and getting ashes all over the letter he was reading and ashes in the bathwater. Which was gross, but Buffy kept on, and was sucked into reading about all these kids in this family. When Dawn appeared and shrieked hello, Buffy was almost annoyed. Then she was hugging Dawn, who was the most important person in the world to her, even more important than Rupert, and telling her about waking up in the middle of the night to hear bears.
 
-Dawn took a little longer to notice the ring. Buffy had to lay her left hand out casually on the table for a while. Her eyes got huge, and she looked at Buffy, then at Rupert, and got this &#8220;no kidding, <em>him</em>?&#8221; look on her face. 
+Dawn took a little longer to notice the ring. Buffy had to lay her left hand out casually on the table for a while. Her eyes got huge, and she looked at Buffy, then at Rupert, and got this &#8220;no kidding, <em>him</em>?&#8221; look on her face.
 
 &#8220;Yeah,&#8221; said Buffy. &#8220;Rupert and me.&#8221;
 
@@ -346,7 +346,7 @@ Dawn made a face, but opened her history textbook anyway.
 
 At closing time, Rupert drove them to get some groceries, then home. Buffy was content to let him cook for the moment. He was way better than she was. She could be laundry gal. Buffy dragged the packs straight down to the basement, with its new copper piping, and dumped all the washable stuff straight into the machine. Suds it up, spin the dial, go. She hung the packs on the wall, with all the other gear still in them. She paused a moment to look at them fondly. Maybe they&#8217;d go again some time soon. Get a second tent for Dawn, and head up to the valley where the guy said there were marmots. It would have to be soon, though, because it was fall up there, and it&#8217;d start snowing in another month. Oh well.
 
-Upstairs, she sat on one of the kitchen stools and watched Rupert cook. Deja-vu, except this time she was smiling at him, and he at her. She helped, even, slicing up salad makings at his request. 
+Upstairs, she sat on one of the kitchen stools and watched Rupert cook. Deja-vu, except this time she was smiling at him, and he at her. She helped, even, slicing up salad makings at his request.
 
 Tara showed up first, from her job at the university bookstore. Buffy had learned from Dawn that Tara and Giles had kept them all afloat over the summer, until Hank Summers had been prevailed upon to cough up cash for the mortgage. Buffy was okay with Tara.
 
@@ -368,13 +368,13 @@ Rupert&#8217;s lips were compressed. He met Buffy&#8217;s glance for a moment, a
 
 &#8220;Naw,&#8221; said Buffy. &#8220;Not the kind of thing we need help with.&#8221;
 
-Tara&#8217;s face was white and her eyes bright. All the guilt that Willow should have had was right there. &#8220;I&#8217;m really happy for both of you,&#8221; she said, stammering. Buffy reached over and squeezed Tara&#8217;s hand. Willow watched, but she said nothing. 
+Tara&#8217;s face was white and her eyes bright. All the guilt that Willow should have had was right there. &#8220;I&#8217;m really happy for both of you,&#8221; she said, stammering. Buffy reached over and squeezed Tara&#8217;s hand. Willow watched, but she said nothing.
 
 Dawn made a face, either because she&#8217;d picked up on the strain or because she&#8217;d utterly missed it, Buffy didn&#8217;t know which. The rest of the dinner conversation was all about Kevin the cute guy in her English class.
 
 Rupert kissed Buffy at the door when she left for patrol, and told her to be careful. Buffy was almost happy to be heading out for patrol. It was a routine she&#8217;d had for years now. The comfortable, familiar, plain vamp-slaying business. No angst, no drama, no passive-aggressive comments, just the quips and then the staking. It was amazing how a hopeless confrontation with a hellgod could change your point of view.
 
-The first vampire was, she realized, her dental hygienist. Why would anyone turn her? Spending eternity with the chick who rototills your gums and keeps telling you to floss your fangs, ew. Though hey, maybe the vamps had, like, issues with fang cavities. Buffy was grumpy, thinking that she&#8217;d have to find a new dentist. 
+The first vampire was, she realized, her dental hygienist. Why would anyone turn her? Spending eternity with the chick who rototills your gums and keeps telling you to floss your fangs, ew. Though hey, maybe the vamps had, like, issues with fang cavities. Buffy was grumpy, thinking that she&#8217;d have to find a new dentist.
 
 &#8220;<em>Don&#8217;t</em> comment on my brushing technique,&#8221; said Buffy to the once-perky Angie. Left uppercut, then a low spinning kick to knock Angie over.
 
@@ -404,7 +404,7 @@ They turned in through the Restview gate.
 
 Spike took her hand, cold vamp-fingers on hers, and Buffy was all set to smack him. But he was bending to look at the ring. He looked at it, looked at her, then dropped her hand. He lit a cigarette, and put his hand on his belt to do a little swaggering.
 
-A vamp came at them, just then, from a nearby crypt. Buffy got right down to business. 
+A vamp came at them, just then, from a nearby crypt. Buffy got right down to business.
 
 &#8220;So, Slayer, you&#8217;re engaged?&#8221;
 
@@ -426,7 +426,7 @@ Buffy didn&#8217;t know why, but she felt like talking to Spike. He&#8217;d been
 
 Buffy decided to ignore the insult to her bestest non-Rupert guy friend. &#8220;Lots worse. Oh yeah. Willow&#8217;s soul is probably going to be eaten by Osiris to pay for resurrecting me. Which isn&#8217;t making me happy. So if you get any good ideas about that one, I&#8217;m all ears.&#8221;
 
-Spike had nothing useful to say to that, just another oath. He stared at her and took a long drag on his foul cigarette. She took off for the next cemetery, not waiting to see if he&#8217;d follow. He did, of course. She had her own pet vampire. 
+Spike had nothing useful to say to that, just another oath. He stared at her and took a long drag on his foul cigarette. She took off for the next cemetery, not waiting to see if he&#8217;d follow. He did, of course. She had her own pet vampire.
 
 When she got back, the house was mostly shut up for the night. Dawn was in bed, which was good: school night. Rupert was on her bed, in stripey flannel pajama bottoms, with a fountain pen and a sheaf of paper. He looked too big for the bed all by himself. They were definitely going to have to kick Willow and Tara out. Buffy wasn&#8217;t looking forward to that.
 
@@ -464,11 +464,11 @@ Back in the shop, Xander pulled Rupert aside and talked to him for a few minutes
 
 &#8220;Don&#8217;t panic. We&#8217;ll get another chance.&#8221;
 
-The inventory-taking went on all day, and it made Anya grumpy. 
+The inventory-taking went on all day, and it made Anya grumpy.
 
-The missing items were in three categories. There were a few non-magical items of jewelry missing. Tourist items, the sort of thing you&#8217;d buy if you wanted to look witchy. Second were ritual objects, items used as focuses in spells. As Giles and Anya itemized those, they both started looking grim. 
+The missing items were in three categories. There were a few non-magical items of jewelry missing. Tourist items, the sort of thing you&#8217;d buy if you wanted to look witchy. Second were ritual objects, items used as focuses in spells. As Giles and Anya itemized those, they both started looking grim.
 
-Third, spell reagents. The stock in the basement was seriously depleted. Though as Buffy pointed out, given the tunnel access and the collection of flattened Marlboro butts just beyond, Spike was likely to blame for some of that. He probably pilfered the petrified hamsters to sell for blood and smoke money. But the ritual objects, which were kept under lock and key, those had to have been taken by somebody who could get past the wards. 
+Third, spell reagents. The stock in the basement was seriously depleted. Though as Buffy pointed out, given the tunnel access and the collection of flattened Marlboro butts just beyond, Spike was likely to blame for some of that. He probably pilfered the petrified hamsters to sell for blood and smoke money. But the ritual objects, which were kept under lock and key, those had to have been taken by somebody who could get past the wards.
 
 Buffy fetched lunch for the three of them from the sandwich place next to the florist. They slumped at the tarot table, munched, and reviewed the list.
 
@@ -488,9 +488,9 @@ Willow and Tara appeared in mid-afternoon, shortly after Dawn arrived from schoo
 
 &#8220;I&#8217;m going to look up soundproofing spells,&#8221; she said, burbling. &#8220;It was a little hard to get to sleep last night.&#8221;
 
-Rupert flushed and buried his face in the Pergamum Codex. Buffy was a little pissed. She&#8217;d certainly heard Willow and Tara in action, and even Willow and Oz back in the day. Willow climbed up to the private library and started rummaging ostentatiously. 
+Rupert flushed and buried his face in the Pergamum Codex. Buffy was a little pissed. She&#8217;d certainly heard Willow and Tara in action, and even Willow and Oz back in the day. Willow climbed up to the private library and started rummaging ostentatiously.
 
-Giles pulled the soul stone from his jacket pocket just enough to show it to Buffy. Buffy nodded. &#8220;I only need a few moments,&#8221; he said. 
+Giles pulled the soul stone from his jacket pocket just enough to show it to Buffy. Buffy nodded. &#8220;I only need a few moments,&#8221; he said.
 
 Willow was heading down from the shelves with a modern book with a paper cover. She bent to tuck it away in her bag.
 
