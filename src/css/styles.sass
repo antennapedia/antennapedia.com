@@ -105,17 +105,16 @@ h3
 	height: 60%
 
 #twocolumn
-	-webkit-columns: 2
-	-webkit-column-rule: none
-	-webkit-column-gap: 1em
-	columns: 2
-	column-rule: none
-	column-gap: 1em
+	display: flex
+	flex-flow: row wrap
+	.box_50
+		flex: 0 2 48%
+		margin: .25em
 
 #threecolumn
 	display: flex
 	flex-flow: row wrap
-	.story_summary
+	.box_33
 		-webkit-border-radius: 10px
 		-moz-border-radius: 10px
 		border-radius: 10px

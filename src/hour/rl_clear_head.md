@@ -1,9 +1,8 @@
 ---
 idtag: rl_clear_head
 author: antennapedia
-published: '2015-07-27T12:17:00-08:00'
+published: '2016-01-29T12:17:00-08:00'
 title: A Clear Head
-notes: null
 summary: Things are much clearer now that he's sober.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
 tags:
@@ -13,14 +12,15 @@ tags:
   - genre:romance
   - marriage
   - pregnancy
+  - sex:wedding-night
   - proposal
   - f:the-hour
   - p:randall/lix
-rating: general
+rating: mature
 pairing: randall/lix
 autotoc: true
 ---
-## One
+## Turning Point
 
 The first time had been after the news of the attack on Freddie. They'd gone to the hospital, and nothing Randall had said had got them in to see Freddie. Lix had cried on his shoulder, and he'd taken her to his home and put her to bed between his clean sheets. They'd clung to each other, and at some point in the night, it had turned to a gentle, comforting lovemaking. So different from how it had been in Spain, in his memory. He'd been drunk the whole time. Now he was sober, with all the edges of life unblunted. He knew it was touch-and-go for Freddie. Saw in Lix's unspoken words that there had been something between them at some time.
 
@@ -66,7 +66,7 @@ There were tears in his eyes. Randall swallowed, composed himself. He framed his
 
 "Will you marry me?" he said.
 
-## Two
+## Marriage
 
 They were married quietly in a little church in Edinburgh, because that was where Randall's aged mother lived now. His older sister came in from Glasgow to be there. Bel came in support of Lix, with a much-battered but recovering Freddie sitting in the pews behind, because he could not stand comfortably for very long. It was a quiet wedding because that was Randall's preference, but it was a happy wedding nonetheless. The groom could not contain his glow of joy.
 
@@ -93,6 +93,47 @@ Neither one of them commented on her choice of a girl's name. There was no disag
 The couple spent a quiet week in a cottage on the coast, and returned to London afterward in amity. Lix intended to work her way through in the evening news writing department until forced to stop. Randall quietly pulled strings to make it so.
 
 Lix had, to her surprise and Randall's continued disbelief, a serene pregnancy, an easy pregnancy, a boring pregnancy. She'd done it once before, little though she liked to dwell on that. She knew what she was in for. And when her water broke and labor was on her, she was perfectly calm as she informed Randall that he might want to fetch a cab.
+
+## Wedding night
+
+A hotel in Edinburgh, old, a little drafty, but near enough to the pretty places of the city. One night there, then off to a cottage somewhere more remote, where they would read and talk and plan for the future. Or simply read and rest. Randall wasn't sure what they'd do. Something calming.
+
+But first they had the wedding night to get through, in this grand old creaking edifice, in a rather lovely room with a four-poster bed.
+
+Randall had, superstitiously, been keeping himself away from Lix's bed while preparing for the wedding. He'd been doing so since she'd broken the news to him of her pregnancy, which amused her. But something in him felt it would be improper. He would wait, and take her to bed when he'd made an honest woman of her. He knew from experience that waiting sharpened the hunger, and he would savor her all the more for it.
+
+Honest woman. An odd expression. He mulled it over as he undressed in the bath, to give her the privacy she'd requested to change. He would rather have said she'd made an honest man of him. But of course she'd done that long ago. When he'd lain awake in his tent in Normandy, sweating out the remains of the last drink he'd ever taken, knowing that he had to get through this war with dignity, as he had not the last one.
+
+Clothes folded, because he was an orderly man, and the belt of his robe tied. Randall tapped on the door and received Lix's permission to come out to her.
+
+Lix in a negligee. Sheer, faintly peach. He could see the tips of her nipples through it, the dark patch of hair below her belly. He cleared his throat, blinked. He was still capable of snapping to attention like a soldier spotting a general, even at his age. Well. He went to her. Slipped his arms around her, kissed her. Let his hand wander, find a breast, run a fingertip over that erect nipple. Lix made a most satisfactory sound. He kissed her and she made that sound again into his mouth. Her hand slipped down and cupped him. He pushed against her almost helplessly. She'd always known how to touch him, from that first night together onwards. Clever fingers, clever lips, clever mind. Lix. She was going to send him over before he'd even touched her.
+
+"Shall we go to bed, dear?" he said. His voice wasn't quite right.
+
+She smiled at him wickedly. "Perhaps we should."
+
+He tumbled her back onto that bed, the four-poster, and lifted that negligee. She spread her thighs for him and he knelt between them. He let himself look at her lovely lovely sex. Not the only woman Randall had been privileged to see, to touch, to penetrate, but the one he'd loved best, because he loved the mind in the body best. Dark hair, wet, glistening labia, the sound she made when he kissed the little nub at the top. She was the woman who'd taught him how this act, who'd shown him how much delight he could bring to a woman with his lips and tongue. How he need not stint her, because she could cry out over and over from this, and again when he lay over her. Such good sounds. His wife moaning under him. His wife, asking him to take her. Oh, yes, he would oblige, and revel in the different sound she made when he took himself in hand and nudged against her, slipped into her. Oh, sweet feeling, pure pleasure, flesh on flesh, his Lix, saying his name so softly as he moved into her. He watched his body join with hers and smiled. All the way, all the way in, out again, listening to her sigh. So good.
+
+"Mrs Brown," he said and thrust into her again.
+
+Call him old-fashioned, call him outright barbaric, but something in him felt that now it was accomplished, now she was his wife. He was inside her and she surrounded him and she was everything and she was joined with him now. Let no man put them asunder. No war, no grief, no bottle, no words, no fears. They were one. Lying over her, in the cradle of her hips, moving with her, listening to her little gasps, touching her in the ways he'd learned so long ago were the ways she liked best.
+
+He was graying and there were crow's feet at the corners of his eyes, and he would be an old man when their child was grown, but he could not bring himself to regret it. To regret her. Lix, his wife, reaching her crisis in his arms, shuddering around him. Oh, yes, he was close to it himself, close to spending himself inside his wife-- his *wife*, his wife, who was already three months gone with his child, his child, everything, it was all too much, Randall couldn't keep it straight in his head, it was all too good and he was at last a man worthy of her.
+
+He lay over her afterward and tried not to let too much of his weight fall onto her, but he couldn't bear to be parted from her just yet. At last he softened and slipped out of her. His wife. He'd just made love to his wife. He rolled back onto the pillows and pushed his sweaty hair away from his brow.
+
+Lix leaned on an elbow next to him and smiled down at him.
+
+"I love watching you come apart," she said.
+
+"Shall try to take that as a compliment."
+
+"It is, dear."
+
+"Well then."
+
+He tugged her down to rest against his shoulder. He already knew he wanted to wake her in the morning with more touches, with his lips on her breast. His wife. Lix Brown. Randall smiled into the dark of the room.
+
 
 ## Interlude
 
@@ -132,7 +173,7 @@ Lix was on his arm again as they made their way up the walk to their front door,
 
 Her fingers in his hair, stroking the back of his neck, sneaking their way into his shirt collar. He'd never deserve any of this, but he'd been given it, and he would accept it gratefully.
 
-## Three
+## Crisis
 
 Randall had command of himself in a crisis. He told himself this but he knew it was true from his experience through two wars. Was pregnancy a crisis or normality? He asked himself that question as he helped Lix-- his wife, his Lix, his life-- into the cab. She was calm enough in the minutes between bouts of labor pains, but he could not be. Her face, her bitten lip, her hand tightening on his-- Lix ought not feel pain ever, never mind that much. And he could do nothing but give the cabbie directions in the steadiest voice he could summon.
 

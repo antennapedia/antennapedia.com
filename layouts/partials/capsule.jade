@@ -4,7 +4,7 @@ mixin capsule(story)
 		- taglist = story.tags.join(', ')
 	if !rootPath
 		- rootPath = ''
-	.story_summary
+	.box_33
 		.story_box
 			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
 			a.storytitle(title='#{taglist}' href=fullpath) #{story.title}

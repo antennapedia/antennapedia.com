@@ -7,15 +7,15 @@ block topmatter
 	h1= site.title
 	p= archive.subtitle
 	!= contents
+	p #{storycount} stories totalling #{wordcount} words.
 
 block content
-	p #{storycount} stories totalling #{wordcount} words.
 	#twocolumn
 		- var fnames = Object.keys(fandoms)
 		- each ftag in fnames
 			- var fandom = fandoms[ftag]
 			- var tagobj = tags[ftag]
-			.nobreak
+			.box_50
 				h3
 					a(href='tags/#{tagobj.urlSafe}.html')= fandom.title
 					|:&nbsp;
