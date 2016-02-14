@@ -3,7 +3,6 @@ idtag: pj_wall
 author: antennapedia
 published: '2015-08-29T12:00:00-08:00'
 title: The Wall
-notes: null
 summary: "It's his wall this time, darn it. Peter is going to paint it and nobody's going to beat him to it."
 altlink: 'http://archiveofourown.org/works/4684967'
 tags:
@@ -19,7 +18,8 @@ tags:
   - p:peter/jenna
   - authors-favorite
 rating: mature
-pairing: peter/jenna
+pairing: Peter/Jenna
+banner: ../css/colepaldi_header.jpg
 ---
 The staircase wall was clean at last. They'd finally got round to scraping off the layers of paint from that idiot exercise in filling balloons with latex paint and launching them at the wall. Peter had admired the contraptions they'd built for throwing the balloons even though he'd hated the results. And hated the fact that the balloon launchers had beat him to the wall by half an hour. But now it was a brilliant, pristine white of stunning clarity.
 

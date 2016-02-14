@@ -53,6 +53,7 @@
   "scripts": {
     "clean": "bin/build.js",
     "css": "sass src/css/styles.sass  > build/css/styles.css",
-    "rebuild": "bin/build.js --changed"
+    "rebuild": "bin/build.js --changed",
+    "static": "bin/build.js --static"
   }
 }

@@ -5,7 +5,8 @@ author: antennapedia
 summary: Malcolm has a secret. Nicola stumbles upon it.
 rating: general
 pairing: gen
-published: 2016-01-30T12:00:00-08:00
+banner: ../css/malcolm_tux_header.jpg
+published: 2016-02-10T12:00:00-08:00
 tags:
     - p:gen
     - f:the-thick-of-it
@@ -302,3 +303,99 @@ Malcolm scrubbed his hand over his face. Suddenly he was too tired to do anythin
 "See you do it."
 
 And then the call went dead. Malcolm slipped the phone into his breast pocket and stood. London, giddy busy London, below him. If he was here much longer someone would see him. Take photos of him. Angel spotted on church roof. Splattered over Instagram; liked on Facebook. Fuck that. He spread his wings and moved, invisibly, into the air. Used the gift that was his to use as he saw fit, the gift that had been entrusted to him, to slide silently and swiftly through London's skies, from the seat of money to the seat of power, down, to the entrance of his offices.
+
+## Sam
+
+Malcolm flew down, down to the pavement before the Whitehall building where his office was. He took a moment to settle himself, then he furled his wings, hid them away. He let himself be seen again. Just another be-suited fuck, ID card around his neck, heading into the corridors of worldly power, into the depths of political hell. The coalition government had rocketed him upward and into an office with the big boys, where he terrorized Tories and LibDems alike into compliance with the word of the moment.
+
+Security checkpoint, through the metal detector, and inside. It wasn't one building; it was many, a maze of corridors and tunnels and tasteful carpeting. His office was grand enough to have an office in front of it where his PA guarded him. He paused for a moment with his hand on the door. Sam would be inside. Sam, who like Jamie had always known what he was. Sam, whom he'd said drastic things to.
+
+He opened the door, stepped in. Sam was at her desk, typing at her laptop, as ever. She looked up as he came in.
+
+"Malcolm."
+
+"Sam, yeah, what shite has been sprayed since I left?"
+
+She merely shook her head and pointed at the corner of her desk. A muffin sat there, along with a pot of yogurt and a latte.
+
+"What the fuck is this?" he said.
+
+"You haven't eaten today. Eat that. Now."
+
+"What makes you say that?"
+
+Sam shook her head at him. She pressed the latte into his hand and he drank automatically. Elixir vitae, salvation, a tiny return of the will to live. He lowered the cup to find Sam staring at him. Her eyes were suspiciously red.
+
+"What?" he said.
+
+"Don't be disingenuous with me. You said things this morning-- the way you said them. The way you ran out."
+
+Malcolm hid his face behind the latte cup for a moment to give himself a chance to work out what to say. He'd been in dire straits that morning when he'd read the briefings. When he'd read yet another position statement about cuts to NHS. About drone strikes in Iraq. About Syrian refugees flooding across Europe but not welcomed here. His party, doing this. His party. His job, to enforce the line, to bully the soft-hearted into compliance. He'd made it happen. He'd said the perfect things, swayed the uncertain, won a seat at the table for a sodding useless third-rate also-ran party.
+
+It was on him, and he'd known it for the first time that morning.
+
+Fuck it. Bluster his way out. "Don't pay you to worry about my soul, Sam."
+
+"I don't care what you pay me to do. I'm going to worry about you if I want to."
+
+"Fuck, Sam, I--"
+
+Tears on her face. Malcolm couldn't bear it. He set the cup down and went to her. He wrapped his arms around her and the wings followed. Hold her, envelop her, protect her, shelter her, share something of himself with her, that ineffable self. Purely instinctual, this urge, and normally something he fought against. But it was Sam, and her face was wet because he'd scared her, and it was only then occurring to him that he was about to hurt her even more deeply if he carried through with his plan. He flinched and shivered and tightened his embrace. He murmured to her. Comforting nonsense.
+
+She sniffled and laid her head against his chest. "You don't have to do this. I know how you hate it."
+
+"Yeah, I fucking do. Shut up. Take it." Let it heal her. He could do that. That was a thing he could do. One of his gifts. He couldn't save sick people, or he'd have saved his father, but he could heal people sick in their souls. He could inspire them. He could give purpose to them.
+
+To everyone but himself.
+
+Sam hugged him close for a moment. "Your wings. They're amazing."
+
+"No, they're not."
+
+"Yes they are, you liar. Haven't you been held by one of the Blessed yourself?"
+
+"No," he said, shortly.
+
+"It's-- it's-- don't have words. They're soft and not soft at once."
+
+"They're a right mess. All broken."
+
+Sam ignored this. "It's like being in church with a real priest, one of the ones who's got the power, and you can feel the spirit come down onto the altar and flow everywhere and you know it's real, it's not just stories, it's all true."
+
+"Oh," Malcolm said, into her hair. "That." He lived with that daily. Had since he'd been a kid; had been unable to escape it since manifesting. It was nothing to him.
+
+She squeezed him tight around his waist for a moment then shifted away from him. Malcolm reluctantly let go. Holding her close had felt good for him, too, which was a hell of a thing to realize. She craned back and looked at his wings with an odd expression on her face.
+
+"Malc. They're different. Did you-- did you do something?"
+
+Had he sinned again that morning? He couldn't remember if he had. He shrugged and nervously twitched them out and then back again, afraid of knocking over everything in the damn office with his fidgeting.
+
+"Let me look."
+
+She went around behind him and brushed a hand over his coverts. He shuddered. Too much, too close, too raw.
+
+"Sorry, I know you don't like them touched."
+
+"It's okay, love. Go ahead."
+
+Her hand came to rest between his shoulder blades, which was safe. He breathed out and tried to relax. Spread his wings out a little so Sam could get a good look.
+
+"The broken feathers are gone."
+
+That was surprising, but he'd been aware of it at a low level since last night. Something had happened when he'd been eating bread with Nicola. Some change. He'd accepted her gift of comfort and that had been the only good thing he'd done in ages. A selfish thing, but it had been a guiltless act.
+
+Sam's fingers ran along one of his primaries, right out to the tip. Malcolm controlled a shudder. It was too intimate; nobody touched him like this. Sam might be the only human being he'd have tolerated at all right now, but it was a close thing.
+
+"They're not gray any more. Not white, either. It's like, it's like they're blood-stained."
+
+"Oh," Malcolm said. Well, that was appropriate. Blood-stained. He deserved that. His soul was stained and bloody and ruined. He knew it and now it was obvious to everyone.
+
+He couldn't bear it any more, her touch, her hushed voice, the raw awareness he had of everything around him when he was manifested. He closed his eyes and shuttered himself away. Back to just Malcolm Tucker, a too-thin man in an ill-fitting suit. The other world was still with him, still looming over him disapproving, but it was hushed now.
+
+"Sam, love," he said, then had no idea how to go on.
+
+Sam wiped at her face and then she also shifted, settled a mask over herself. He saw it happen. She was shuttered away now, too. Humans could do that; they had many selves.
+
+She said, "Go, eat your lunch. I've filtered your email already to the things you need to read and there's enough of that to keep you busy until Lord Nicholson comes by at two."
+
+"Thanks," Malcolm said. He went into his office, muffin in hand, to hide and find a way to make shift.

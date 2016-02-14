@@ -1,21 +1,23 @@
 extends basic.jade
 
 mixin renderToc(items)
-	ol(class='toc')
-		- each item in items
-			li
-				a(href="##{item.id}")= item.text
-				if (item.children.length > 0)
-					+renderToc(item.children)
+	#toc
+		| Chapters:
+		ul
+			- each item in items
+				li
+					a(href="##{item.id}")= item.text
+					if (item.children.length > 0)
+						+renderToc(item.children)
 
 block banner
-	style.
-		#nav { background-image: #{banner} }
+	if banner
+		style.
+			#nav { background-image: url(#{banner}) }
 			
 block topmatter
 	h2= title
-	p= summary
-	p #{wordCount} words; reading time #{readingTime}
+	p #{summary} &nbsp; #{wordCount} words; reading time #{readingTime}.
 	p 
 		a(href='#{altlink}') first posted here
 		|  on #{published}
@@ -32,9 +34,9 @@ block topmatter
 				
 block content
 	#storybody
-		if toc
-			+renderToc(toc)
 		!= contents
+	if toc
+		+renderToc(toc)
 
 block footer
 	hr

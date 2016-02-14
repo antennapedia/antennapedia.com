@@ -18,7 +18,6 @@ tags:
     - alcohol
     - tuxedos
 altlink: http://archiveofourown.org/works/4458779
-
 ---
 
 "We fucking won," Jamie said. He had an unopened bottle of Pol Roger in his fist. He waved it at Malcolm vaguely.

@@ -18,6 +18,7 @@ tags:
     - alcohol
 altlink: http://archiveofourown.org/works/4431140
 autotoc: true
+banner: ../css/malcolm_tux_header.jpg
 ---
 ## One
 

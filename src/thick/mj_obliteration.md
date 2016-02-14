@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Submission. Self-abnegation. A million big words that Malcolm might use when he was forced to talk about it. Jamie had other words, simpler ones. Malcolm belonged to him."
 rating: mature
 pairing: Malcolm/Jamie
-banner: ../css/malcolm_tux_header.jpg
+banner: "../css/malcolm_tux_header.jpg"
 published: 2016-01-16T12:00:00-08:00
 tags:
     - p:malcolm/jamie
@@ -18,7 +18,6 @@ tags:
     - kink:collars
     - kink:puppy-play
 altlink: http://archiveofourown.org/works/5749285
-
 ---
 Jamie sometimes took Malcolm out to bars, to group events. Gay bars were okay. They were out; the hacks could publish that fact and be damned. Malcolm refused to go to the fetish events, though. Beyond the threat of scandal loomed his profound refusal to belong to any kind of community. Talks about rope bondage safety, demonstrations of puppy play, earnest workshops on alternative power hierarchies: if Jamie wanted to go to these things, he would go on his own. Malcolm liked it intensely private and intensely simple. When the bedroom door closed, he went to his knees and turned his mind off. He surrendered himself. He did what Jamie told him to do. No more, no less. No fucking labels.
 
