@@ -15,7 +15,9 @@ tags:
     - trope:deaging
     - c:young!twelve
     - cookies
-altlink: http://archiveofourown.org/works/4229547/chapters/10068083
+    - jammie-dodgers
+altlink: http://archiveofourown.org/works/6070342
+
 ---
 "Still not sure why we had to do this," the Doctor said. "I could have put on a school uniform."
 

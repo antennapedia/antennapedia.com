@@ -24,7 +24,7 @@ autotoc: true
 ---
 ## A restaurant
 
-Malcolm knelt in the corner of his office before the little shrine he kept. Everyone kept one, in their homes and their offices, but he in particular was expected to. Needed to. The shrine to the Blessed. To the fucking cumsack who caused people like him to exist. He supposed he ought to be grateful, but it hadn't done him all that much good. It was almost a curse, this awareness he had. Well, fuck it, do the ritual. Daily ritual, that was good. You had to do that. He reached inside, found his spiritual self, and manifested his wings. He burned the pinch of copal incense, head bowed. He was a sorry mess right now and he knew it. The election was coming. He hadn't been home, properly home, in days. He had been neglecting himself for the sake of the nation. Or at least what he thought was the good of the nation. The condition of his wings told another story. He was a fuck-up.
+Malcolm knelt in the corner of his office before the little shrine he kept. Everyone kept one, in their homes and their offices, but he in particular was expected to. Needed to. The shrine to the Blessed. To the fucking cumsack who caused people like him to exist. He supposed he ought to be grateful, but it hadn't done him all that much good. It was almost a curse, this awareness he had. Well, fuck it, do the ritual. Daily ritual, that was good. You had to do that. He reached inside, found his spiritual self, and manifested his wings. He burned the pinch of copal incense, head bowed. He was a sorry mess right now and he knew it. He'd won, he'd got his party into coalition with the fucking Tories, but that had been the start of his misery. He hadn't been home, properly home, in days. He had been neglecting himself for the sake of the nation. Or at least what he thought was the good of the nation. The condition of his wings told another story. He was a fuck-up.
 
 The door creaked open and his heart leapt into his throat. Hadn't he locked it? Sam had gone home, hadn't she?
 
@@ -68,7 +68,7 @@ There was steel in her voice, unexpected steel. Malcolm wanted to resist almost 
 
 "It's unassuming and it's public and cheap. We can get a plate of pasta into you without anybody thinking the least of it."
 
-Malcolm tilted his head. It was the least stupid thing Nicola had ever said to him. She was an academic. Had been. There was a brain in there somewhere. And suddenly he longed for something that wasn't this office, was a boring chain restaurant filled with people who weren't politicians talking about things that weren't about this election he was going to lose for his Party.
+Malcolm tilted his head. It was the least stupid thing Nicola had ever said to him. She was an academic. Had been. There was a brain in there somewhere. And suddenly he longed for something that wasn't this office, was a boring chain restaurant filled with people who weren't politicians talking about things that weren't about what he'd done to get his Party in power and what they'd done with it once they had it. Fucking twat Nicola, she was the least offensive of them. One of the few with a conscience, if not a brain.
 
 "Yeah," he said. "One condition. We don't fucking talk about politics."
 
@@ -82,7 +82,7 @@ Malcolm made no reply to that, because the only things he could think to say wer
 
 In the restaurant, he demanded a quiet table in the corner, where they could talk without being overheard by too many people. She would want to grill him, and he would have to answer, and the thought of it being public made him weary. He could imagine the headlines. The devil of Whitehall. The demon. Never mind that he was certified Blessed.
 
-Nicola was prattling on at him, but he wasn't paying the least attention. Where had his life gone so very wrong? He was going to lose this election. He was losing his grace. He was a worthless sack of skin.
+Nicola was prattling on at him, but he wasn't paying the least attention. Where had his life gone so very wrong? He had won the election. He was losing his grace. He was a worthless sack of skin.
 
 "Malcolm?"
 
@@ -92,7 +92,7 @@ Nicola and the waiter were both looking at him. "What?"
 
 "Don't drink," he said, shortly. He wasn't interested in going into it with Nicola Murray.
 
-"Pellegrino, then," she said to the waiter. "Big bottle." And then she proceeded to order for the pair of them, showing more confidence in that exchange with wait staff than she'd ever displayed as a politician with the public. How had she ever managed to get elected? She must have given speeches with some sort of grace.
+"Pellegrino, then," she said to the waiter. "Big bottle." And then she proceeded to order for the pair of them, showing more confidence in that exchange with wait staff than she'd ever displayed as a politician with the public. How had she ever managed to get elected? She must have given speeches with some sort of skill.
 
 Malcolm played with his salad fork and re-evaluated Nicola Murray. Could there be something useful in there after all?
 
@@ -176,7 +176,7 @@ Their food arrived, and Malcolm was now eager enough that he dug into his pasta.
 
 ## On sacred ground
 
-Malcolm wandered. He wanted a church. London was full of churches, of course, full of little incense-smoked houses of the holy, shrines to the Blessed who walked among them. London, littered with immanence. Not as much as Rome was, but they'd made a go of it, the English had. Statues to the mighty ones, the Blessed heroes who'd won the Empire. Mostly the dead Blessed. The living ones were inconveniences. Like him. A fucking inconvenience as a boy, an object of wonder what what he'd been cursed with not who he was as a teenager. And now he was valued only for his capacity for terror.
+Malcolm wandered. He wanted a church. London was full of churches, of course, full of little incense-smoked houses of the holy, shrines to the Blessed who walked among them. London, littered with immanence. Not as much as Rome was, but they'd made a go of it, the English had. Statues to the mighty ones, the Blessed heroes who'd won the Empire. Mostly the dead Blessed. The living ones were inconveniences. Like him. A fucking inconvenience as a boy, an object of wonder for what he'd been cursed with, not who he'd been as a teenager. And now he was valued only for his capacity for terror.
 
 Into the Tube at Westminster, out at Bank. He could get himself there in much less time, of course, but he didn't want to. He wanted to stay away from his office for a few hours. Straighten out his head. If it was possible. St Paul's was always tempting, because it was so pretty. But Christopher Wren had built other churches in London, and it was to one of these he went now.
 
@@ -250,7 +250,7 @@ Nothing kept him from it today. He didn't even want to leave a message. He'd let
 
 His pocket buzzed. The pattern meant it was Jamie. He took out his phone and thumbed it alive. "Yeah?"
 
-"Did you know that Nicola Murray is on the radio right and she doesn't sound like a cunting moron?"
+"Did you know that Nicola Murray is on the radio right now and she doesn't sound like a cunting moron?"
 
 Malcolm smiled, actually smiled. "A fucking miracle," he said.
 

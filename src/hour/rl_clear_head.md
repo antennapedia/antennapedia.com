@@ -1,7 +1,7 @@
 ---
 idtag: rl_clear_head
 author: antennapedia
-published: '2016-01-29T12:17:00-08:00'
+published: '2016-02-26T12:17:00-08:00'
 title: A Clear Head
 summary: Things are much clearer now that he's sober.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
@@ -16,6 +16,8 @@ tags:
   - proposal
   - f:the-hour
   - p:randall/lix
+  - childbirth
+  - babies
 rating: mature
 pairing: randall/lix
 autotoc: true
@@ -206,3 +208,17 @@ Randall found his self-command now, with Lix smiling wearily at him.
 "Delighted to meet you, Peter Storm Brown. I think we shall get on famously."
 
 He touched a finger to the tiny tiny hand curled against his son's chin. His son.
+
+## Reading
+
+Infants were agents of chaos. Squalling, spitting, urinating agents of chaos. Randall had, in defiance of current practice, learned to change a nappie, and he had also learned to fear this process. Peter Storm Brown was entirely capable of pissing straight into the air while his wet nappie was being removed, and woe betide a man who leaned over him when this happened.
+
+"Randall, dear, this is what the nanny is for," said Lix, to whom this never seemed to happen. He had enough money for such luxuries as a nanny, and he did want Lix not to feel as if she had to give up everything because they were now parents.
+
+Were again parents.
+
+Little Peter in his arms, a tiny thing that met his gaze solemnly and latched onto his finger. Little Peter knew his mother and he knew his father and when he first learned to smile Randall wanted to be there to see it. He had missed an entire brief lifetime for Sophia; he would be an old man when Peter was grown. He was determined to miss no more than forced now.
+
+And thus it was that he sat in his armchair of an evening, Lix curled up nearby on the sofa, Peter in the crook of his arm. He read to the boy. *In that pleasant district of merry England which is watered by the river Don, there extended in ancient times a large forest, covering the greater part of the beautiful hills and valleys which lie between Sheffield and the pleasant town of Doncaster.* Not a thing Peter would understand, perhaps, but Randall liked to believe that it would remain with him, especially if read in the accent of a modern-day Scot. Robin Hood next, perhaps, or more of the great Scott, or perhaps The Boy's King Arthur. His father had done this for him, so long ago now, and he'd been reading long before he'd been sent to school. Surely Peter would follow suit, particularly with such a clever mother.
+
+So Randall read to his boy, with his wife listening in, her feet up on the sofa. It was a race to see which would be lulled to sleep by his voice first, his son or his wife. Randall did not take it as criticism. He would sit happily, dandling his boy, with his beloved wife (his wife! Lix! with him at last) near enough that he could smell her perfume. He would keep them safe, he swore, this time he would not turn his back.
