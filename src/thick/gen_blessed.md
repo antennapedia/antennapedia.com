@@ -6,12 +6,14 @@ summary: Malcolm has a secret. Nicola stumbles upon it.
 rating: general
 pairing: gen
 banner: ../css/malcolm_tux_header.jpg
-published: 2016-02-10T12:00:00-08:00
+published: 2016-03-02T12:00:00-08:00
 tags:
     - p:gen
     - f:the-thick-of-it
     - c:malcolm-tucker
     - c:nicola-murray
+    - c:jamie-macdonald
+    - c:sam-cassidy
     - genre:hurt/comfort
     - trope:wingfic
     - au:supernatural-elements
@@ -78,7 +80,7 @@ Malcolm spread his arms and closed his eyes and begged the things to hide themse
 
 "That was-- that was almost beautiful. I've been with the Minister of Spirituality on an exorcism, but that's the closest I've been to-- They say they're all around us. Angels. I never realized."
 
-Malcolm made no reply to that, because the only things he could think to say were cruel and he found himself too weary to be cruel to Nicola. The woman was trying to feed him. The least he could do it be polite.
+Malcolm made no reply to that, because the only things he could think to say were cruel and he found himself too weary to be cruel to Nicola. The woman was trying to feed him. The least he could do was be polite.
 
 In the restaurant, he demanded a quiet table in the corner, where they could talk without being overheard by too many people. She would want to grill him, and he would have to answer, and the thought of it being public made him weary. He could imagine the headlines. The devil of Whitehall. The demon. Never mind that he was certified Blessed.
 
@@ -399,3 +401,77 @@ Sam wiped at her face and then she also shifted, settled a mask over herself. He
 She said, "Go, eat your lunch. I've filtered your email already to the things you need to read and there's enough of that to keep you busy until Lord Nicholson comes by at two."
 
 "Thanks," Malcolm said. He went into his office, muffin in hand, to hide and find a way to make shift.
+
+## Daily devotions
+
+Latte, muffin, yogurt. Breakfast at noon, food in his belly. Consolation for his spirit: the woman he paid to take care of him had done her job and provided her employer with the breakfast he had informed her he liked best. Malcolm's conscience pricked him after that thought; Sam had done more than what someone paid to manage his office would do. She'd cried for him. Called Jamie about him. What the fucking fuck had he said to her? He'd been wild in that moment, when he'd flung himself out of his office, convinced that his soul would burn and the only hope for him was a quick death. Deaths on his conscience, blood on his hands. The photograph of that boy on the beach.
+
+Oh. That was why his wings were bloody. His curse in action: the spiritual reified in his body. He deserved no less.
+
+Syrian refugees. Nicola had been wittering on about it last night, about what a pity it had been that the government didn't have the resources to help. Surely they could have found something, she'd said. Malcolm had felt his first twinge of warning in that moment. And then in the morning, all over the news, the photograph of the boy on the beach. Drowned. Email from the usual people-- Tom, David-- requesting that it be handled deftly and quietly. Some kind of respectful hushing. No discussion of the UK refugee policy. A tragedy. Purely a Turkish cock-up, however. Nothing to do with them. Months ago the stage had been set for this. Malcolm could have said the things that swayed the government to relent, to open their shores, to send boats instead of speeches about terrorism. He'd done what he'd been asked instead. Just following orders.
+
+Nicola had broken bread with a worthless sack of skin. He'd come to the knowledge and it had broken him.
+
+Email on the screen in front of him, more arriving as he stared past it. He didn't care. He was done with it, one way or the other. That was the nice thing about deciding to top yourself: the trivial shite stopped mattering. It was almost peaceful, this feeling. He felt happy that Nicola had done well in the morning; indifferent to Tom's blistering message complaining that he'd wanted Nicola's proposals to fail; completely bored by Treasury's faffing about over messaging to the public about the sell-off of NHS assets. It didn't matter any more to him. He had sinned; he would pay. The world would move through the heavens without him, in supreme indifference.
+
+Sam. He'd have to do something for Sam. He had a duty to her. Was fond of her. More than fond. He'd do something for Nicola as well, if he could. She'd been kind. Kindness should be rewarded.
+
+He occupied himself revising a press release Nicola had sent him that floated an educational program for disadvantaged youth. The bones of it were sound; Nicola had merely layered flab and suet over them until they couldn't be seen. All he need do is discover her message, the thing she truly wished to say, and expose it. Hold it up in the light. Tell everyone what Nicola wanted them to know. He could do that. He could do it and feel fulfilled because of it. Messenger. He was a messenger.
+
+Like a fucking husky dog born to pull a sledge, was Malcolm Tucker born to speak the words of others.
+
+At least these words were born of kindness not greed. It gave him a sharp satisfaction to know that the better he made this idea poll, the more discomfited David and Tom would be. That pair of devils in office, selling off the nation. Well, Cameron was selling it off; Tom was buying his third country place. His family had had only had the one back when he'd been disgorged from the maw of Cambridge into his first government post.
+
+He sent the revisions off to Nicola and ignored the nearly immediate effusive message she sent him in reply. His phone was buzzing; he watched the names scroll past. None of them were Jamie or Sam. Dull indifference,
+
+Another hour until Lord Ponceymort arrived. He bit the side of his thumb. He was merely marking time now. Get through this meeting, get through his evening with Jamie, then he would have his chance. Make his final peace and go.
+
+He could do that now. Do his daily; ask if his feet were on the right path. Beg one last time for forgiveness that would never come. Might as well not piss off the Blessed Cumsack. They could make your life hell if you offended them. Just ask fucking Putin. Malcolm grinned with one corner of his mouth. Sow the blood of a saint; reap the whirl-fucking-wind.
+
+Malcolm knelt before his office shrine. He laid his hands on his thighs and breathed in and out, deeply. Centered himself. Let himself be what he was: an angel among men, a being of feathered wings and fire, a slave of the Blessed Power.
+
+Devout, they called him, the ones who didn't know, and shook their heads because it made no sense. Not everyone had an office shrine. He knew. He was connected directly to it all. Anyone who was sensitive had the shrine, because they too knew, felt the presence of the spiritual, could not help but worship it. Nothing much, nothing ornate, just the holy symbol of his childhood faith-- any faith would do-- and a candle set before it in a bowl of sand. A pinch of incense burned in the candle flame. A prayer said, rote words, a few lines of lovely Elizabethan poetry from Coverdale, and he had fulfilled his daily duty.
+
+That little ritual had survived since the Romans, because the Blessed Power liked it. Malcolm liked it too, if he were honest. It was soothing. He felt approval when he did it, a soothing satisfaction in the power running through him. A sweet smell before the Lord. Lords. Many in one. Ask him how he knew that.
+
+Like this, eyes closed, manifested, wings outstretched, Malcolm was as aware of the other world as humans ever were. Power flowing, emotion, intention, the Word that was the wish of the power who set it all in motion. Beings existing in dimensions he could only barely comprehend. He, like his brethren Blessed, existed in a half-space between the two worlds. He had been born to it, born with the awareness, but They'd chosen him for more gifts. Why? No human knew. That was an burden he and his fellow Blessed bore. They'd been chosen. They had missions. What those missions were, they had to discover on their own, because the Blessed Power was a fucking useless gnomic wanker.
+
+The missions were sometimes fucking miserable. Martyrdom. Unendurable pain. Nelson's Column, a monument to a Blessed warrior who'd given his arm and his eye and his life to the cause of an empire that had enslaved and destroyed entire civilizations. But the man had had a calling that had earned him the statues, and Malcolm envied him that. His calling had been to write press releases for a politician who turned out to be willing to sell his soul for pots of money. As sins went it was completely fucking unoriginal. Fucking *boring*. Now if he'd written press releases for a monster instead of a craven crass public-school twat, that would have been interesting. He'd have topped himself with a certain satisfaction. Instead he'd fucking kill himself and feel grim disappointment in himself until the moment.
+
+Did he feel disapproval? He felt something unpleasant in the energies flowing through him. Some kind of wrongness. His soul was still stained; he was still not in a state of grace. He might never be again. He'd sold himself. Sold himself. Bound himself to Tom. Done what no Blessed being ought. His father, all for his father. Malcolm Tucker, guilty son, bleeding for his father.
+
+His father. Malcolm shifted uneasily where he knelt. His father had been a sensitive, or so he'd thought. It ran in families. No one had been surprised that Malcolm had been touched; they'd merely been surprised that such an angry boy had been so obviously born of light and not darkness. Malcolm had known he was different since he was first aware of himself as a boy. Sam had to be sensitive, too, or she wouldn't have talked about knowing the difference between priests.
+
+There were some people who were utterly insensitive. Tom was one. That pig-fucker Cameron, who led the nation while Tom pulled his strings, was another.
+
+It was something that could be taken from you. That he knew. When they Purged the dark ones, all awareness was taken, or it was if they lived long enough to talk afterward. There were stories of Blessed ones who'd renounced their gifts. Most of them died in the process, but some lived on as ordinary humans. It could be done. He'd sworn to Tom on pain of that fate.
+
+Tom, it seemed, knew Malcolm's secret. Knew he'd declined government employment; knew he'd chosen to bury himself and his talents rather than serve his country; knew he'd chosen to stay hidden. Tom knew something else as well. His father, Tom said. His father had his own secret. His father was one of the dark ones, the ones who'd been touched by the other world but were marked by evil.
+
+He laid documents on the table, gestured back to the being standing behind him. "One of your kind found him on a routine scan."
+
+"No fuckin' chance," Malcolm said. "I'd have known."
+
+"He's been disguised," Tom said, and his face was infinitely sympathetic. "Masked by a priest who's gone over. You couldn't have known."
+
+His father. His kind-hearted father, who loved pottering about with model trains, who loved a good hymn at church and had the voice for it, a dark one. Malcolm loved him. He drained his glass and couldn't even feel it he was so numb. His father.
+
+Tom was sympathetic. They could reveal him and purge him, or as a favor to Malcolm, Tom would arrange to put him on a government safe list, a shelter list. For special people, who'd done the government a favor. He'd be safe. One little request, nothing much in return, because Tom would be calling in a few favors to make this happen: Malcolm would need to do some work for Tom. Nothing improper, in fact right in line with Malcolm's unique skills. A bit of a step up from journalism and local politics. He'd like the money, Tom said. Could take care of his parents with it.
+
+Tom had had another being in the room with them, another being of power. Malcolm hadn't been able to see it straight on. It, him, her, they-- the pronouns were slippery. It had been a being of light and shining transparency. Malcolm had no idea what it was when in human form, or what its gifts were. It might have been in disguise. What did it do for Tom? Malcolm had written a few speeches for him, consulted on the wording of some campaign advertisements, nothing more than what a politically-interested writer might do on the side. And now this: the LibDems, not so bad. Labour was Blair and the Clintonites, the neo-liberals. Tom was better than that, he thought.
+
+His father.
+
+Malcolm had let Tom refill his glass. Had drained it. Had made the bargain, A drunken fire-tongued angel, now in Tom's service. Tom's political fortunes had shifted.
+
+He'd been so proud of wee Malc, once upon a time. Malcolm had loved him, loved him even after knowing what Tom had told him. He was the same man he'd always been, a stalwart husband, an indulgent father to Malcolm and his sister. Could he have truly been a monster? Malcolm's blessing was a curse. Mayhap his father's curse had been a blessing. Who the fuck knew? Malcolm had never talked to him about it, never dared mention it, just continued his visits north to family, brought the odd bottle to his old man and restrained himself when drinking with him. Rare moments of sobriety, those moments with his father. He'd dried himself out for the funeral, stayed sober afterward for the sake of his grieving mother, gone back south clean. Stayed clean. Hadn't mattered. He'd still been bound to Tom. Ensnared.
+
+His father had died a few years later, peacefully, in his sleep.
+
+Tom. The thought of Tom was enough to rouse anger in him, real feeling. His wings shivered and he spread them out, beat them without thinking. The candle flame danced and then flared up again. Malcolm got himself back under control. He'd have to warn Jamie. Jamie wasn't as valuable to Tom as Malcolm was, but he'd be in the running for Malcolm's replacement. He had to get out. Go do dirty work for Sturgeon or Corbyn or someone worth the stains on the hands. Probably those little fancy nancy shiny prefect-politicians didn't hire hatchet men. Probably they were above it. Why they weren't in power, why they weren't in Downing Street reaping the nation bare. Jamie would fix them up, get them in line.
+
+Jamie. He'd told his secret to Jamie back in the day, at the newspaper, confessed it to him on a night when they'd both felt maudlin. A little drink, not enough to obliterate him-- would have been a sin to swill that whiskey until blind-- two days before Jamie's wedding. The reason he wasn't a priest, that woman he married, and she'd been the right choice for the wee madman. He was a different man when he was home with her. Jamie would miss him. Jamie wouldn't understand.
+
+He should tell Jamie enough of the story to scare him off. He owed his friend that. Rescue him from Tom before he ended it.
+
+The faint scent of incense in the air. The candle burning steadily before him, flame un-flickering. Malcolm felt communion with something and a stealthy certainty creeping over him, a sweet smell in the air beyond what the incense had carried. His feet were on the right path. He had yet to walk it, but he was set properly at last. The Blessed Power wanted him gone. Okay. He had confirmation. He would get through the day, pacify Jamie, and then do it in the night when they'd all left him at last.
