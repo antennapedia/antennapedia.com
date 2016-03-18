@@ -6,7 +6,7 @@ summary: They're in their right minds again, and Clara wants to do it again. Mal
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: 2016-01-01T22:00:00-08:00
+published: 2016-02-24T22:00:00-08:00
 tags:
     - genre:crossover
     - p:malcolm/clara/twelve
@@ -20,7 +20,12 @@ tags:
     - sex:anal
     - sex:threesome
 altlink: http://archiveofourown.org/works/5609965
+autotoc: true
+
 ---
+
+## Second Shot
+
 Malcolm stumbled into the central chamber on Clara's heels. The alien that was upsetting the Doctor was there, all right. And it was about as disturbing a sight as he'd ever seen, a huge green blobby mass with tentacles and some odd organ that pulsed. It wasn't evil, the Doctor said, just in the wrong place at the wrong time. And it was doing *something* that was upsetting the Doctor about as much as anything ever did. The man staggered in after them with his hands clutched over his temples.
 
 Malcolm's own head felt fucking strange, but he had no time to fuck around worrying about it. He had to get this thing off-planet and back to its proper home. Now.
@@ -206,3 +211,5 @@ More fucking touch-telepathy. That was the Doctor in his head. The old Coot. Not
 Time for cuddles, now, the quiet moments afterward, with Clara held between them. Except that the two of them were conspiring against him. He was sandwiched between the two of them, and his head was on the Coot's shoulder. Clara was snugged up behind him, a hand on his hollow chest. Who knew she liked knobby-kneed scrawny Scots gits? Because she did. She had two of them. And he had one of his own.
 
 Second life? Not sure he'd ever lived before this life, not in any way that mattered.
+
+## Banged up
