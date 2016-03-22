@@ -12,6 +12,8 @@ tags:
     - f:the-thick-of-it
     - c:jamie-macdonald
     - c:malcolm-tucker
+    - c:sub!malcolm
+    - c:dom!jamie
     - genre:kink
     - sex:rough
     - sex:anal
