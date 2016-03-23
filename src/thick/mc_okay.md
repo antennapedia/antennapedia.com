@@ -362,3 +362,46 @@ He ignored that. "Fuckin' have you begging. On your hands and knees, me behind y
 "You'll have to catch me first. And you run like a penguin."
 
 And Clara let go of his hand and ran up the walkway to the cottage, laughing ridiculously. Taunting him. Malcolm stared after her, then grinned and chased her through the door.
+
+## Six: Planning
+
+"I've got a chart," Clara was saying. "I've been tracking my cycles for a year now, and they're pretty regular, and so I think I know when ovulation happens. Though I can be completely sure if I correlate with temperature changes." She waved a day planner at him with one hand and an electronic thermometer at him with the other.
+
+Malcolm had a noisy slurp of his morning coffee. "Yeah?"
+
+"Yeah. And if we're going to have the next one exactly three years after Dougan, we should start more or less now. Well, on Monday, to be precise."
+
+"And you are fucking precise."
+
+"Well, I have the data. Today is probably pointless, if we're going to be efficient about it."
+
+Malcolm rubbed his hand through his hair, which was far longer than it had been in years, and very satisfying to rub. Fuck him, why was he nervous? He hadn't meant to get her stuffed the first time. Pure accident. He loved Dougan with all his being and it was a precious accident, but not that she was talking about it so calmly, as something one planned and charted out and coldly accomplished, it felt dismaying.
+
+He turned back to Clara, who was looking at him with narrowed eyes. "Malc, is it okay? If you don't want another kid, it's okay, but you need to tell me."
+
+"I do! Fuck me, I do. Dougan needs a fuckin' younger sister. They're the best. Are you sure? Dougan will be barely out of the fucking pull-ups then."
+
+"Three years is the ideal gap. Malc. What's wrong?"
+
+"It's just, well, I don't want to be efficient about my fucking, you know? I want it to just happen."
+
+"Oh." She smiled at him, and her dimples showed, and Malcolm felt his heart turning into a puddle of fucking embarrassing goo all over again. He was a pussy-whipped cunt, that's what he was. All she had to do was bat those eyelashes over those huge brown eyes and he was on his knees to her. Figuratively. Literally he had his arm around her and a firm hand on her pert arse pulling her up to meet his lips. Clara. His wife. His fucking wife, Clara, morning coffee on her breath, kissing him as hard as he was kissing her, letting him put his tongue in her mouth. Oh fuck, how he loved her.
+
+He disengaged his mouth from hers with some fucking reluctance. He bent over her and let his nose bump against hers.  He said, "What about I just fuck you every day? Get home, go to bed, fuck, wake up in the morning, fuck again?"
+
+"That might work."
+
+"Fucking will have to work."
+
+Malcolm picked her up and carried her kicking and giggling into the bedroom. He tossed her onto the bed, flung himself on top of her, and pinned her arms above her head. She sucked in a breath. Oh, how she loved being controlled, his sweet Clara, and how she would never ever admit it.
+
+He thrust his tongue into her mouth, kissed her, pulled back. He said, "Gonna fuck you right now, thermometer be fucking damned. And if it takes more than three months, we're going to fucking Barcelona, getting well hammered, and fucking on the beach until you're up the duff again, so help me, Clara--"
+
+She was under him on the bed, warm and curvy, heels tucked in the backs of his knees automatically, because that's the way they did it when he was on top, which he wasn't always, but she'd just finishing telling him it was the best position for conception, and okay, fuck him, he was going to be on top for the next little while. On top and biting at the corner of her jaw, just under her ear, while she wriggled out of her knickers. Okay. Yeah. He was hard without worries, no need for anything to help, thank fuck, just the smell of his wife, whatever the fuck it was she used on her hair overlaid on the scent of cunt, of wet horny woman, which was always a fucking turn-on. Malcolm growled into her neck, got his hand down, pulled himself out of his pajama bottoms. Nudged his cock at the right place, pushed in. Yeah, listen to her groan, feel how wet she was, ready for him already, slick for him already, cunt welcoming him in already.
+Knocking her up was all about him, not about her. She'd explained it patiently; he knew it perfectly well. He had to come. She didn't. He'd be damned if he let his wife, his Clara, the love of his life, go without coming. He was going to bring her off and he was going to feel her thrusting her hips up under him, and he was going to feel her shuddering, and that was what was going to bring him off, because he was a fucking gentleman, a fucking decent man, fucking his wife, oh God, there she went under him, and he was there, he was coming, so fast, so hard, fuck fuck fuck, he loved her so much.
+
+Malcolm collapsed onto his wife and breathed. "Clara," he said.
+
+"I love you, too," she said to him. "You sentimental string bean."
+
+"Fuck you too, darling."
