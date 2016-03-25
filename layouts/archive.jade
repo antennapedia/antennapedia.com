@@ -6,21 +6,19 @@ mixin capsule(story)
 			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
 			a.storytitle(href=fullpath) #{story.title} - #{story.pairing}
 
-block title
-	title= pageTitle
-
 block topmatter
 	h1= title
 
 block content
 	- var list = archive
-	#threecolumn
-		- each year in list
-			h2= year.year
-			p #{year.wordcount} words.
+	- each year in list
+		h2= year.year
+		p #{year.wordcount} words.
+		.container(style="display: flex; flex-flow: row wrap")
 			- each month in year.months
-				h3= month.name
-				- each story in month.data
-					+capsule(story)
-					br
+				.box(style="flex: 0 1 25%;")
+					h3= month.name
+					- each story in month.data
+						+capsule(story)
+						br
 			

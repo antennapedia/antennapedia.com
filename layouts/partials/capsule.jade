@@ -4,14 +4,13 @@ mixin capsule(story)
 		- taglist = story.tags.join(', ')
 	if !rootPath
 		- rootPath = ''
-	.box_33
-		.story_box
-			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
-			a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
-			br
-			| #{story.pairing}, #{story.rating}
-			br
-			= story.summary
-			br
-			| #{story.wordCount} words; reading time #{story.readingTime}. 
-			i= story.published
+	.story_box
+		- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
+		a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
+		br
+		| #{story.pairing}, #{story.rating}
+		br
+		= story.summary
+		br
+		| #{story.wordCount} words; reading time #{story.readingTime}. 
+		i= story.published

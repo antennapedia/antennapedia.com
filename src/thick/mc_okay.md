@@ -375,7 +375,7 @@ Malcolm had a noisy slurp of his morning coffee. "Yeah?"
 
 "Well, I have the data. Today is probably pointless, if we're going to be efficient about it."
 
-Malcolm rubbed his hand through his hair, which was far longer than it had been in years, and very satisfying to rub. Fuck him, why was he nervous? He hadn't meant to get her stuffed the first time. Pure accident. He loved Dougan with all his being and it was a precious accident, but not that she was talking about it so calmly, as something one planned and charted out and coldly accomplished, it felt dismaying.
+Malcolm rubbed his hand through his hair, which was far longer than it had been in years, and very satisfying to rub. Fuck him, why was he nervous? He hadn't meant to get her stuffed the first time. Pure accident. He loved Dougan with all his being and it was a precious accident, but now that she was talking about it so calmly, as something one planned and charted out and coldly accomplished, it felt dismaying.
 
 He turned back to Clara, who was looking at him with narrowed eyes. "Malc, is it okay? If you don't want another kid, it's okay, but you need to tell me."
 
@@ -398,6 +398,7 @@ Malcolm picked her up and carried her kicking and giggling into the bedroom. He 
 He thrust his tongue into her mouth, kissed her, pulled back. He said, "Gonna fuck you right now, thermometer be fucking damned. And if it takes more than three months, we're going to fucking Barcelona, getting well hammered, and fucking on the beach until you're up the duff again, so help me, Clara--"
 
 She was under him on the bed, warm and curvy, heels tucked in the backs of his knees automatically, because that's the way they did it when he was on top, which he wasn't always, but she'd just finishing telling him it was the best position for conception, and okay, fuck him, he was going to be on top for the next little while. On top and biting at the corner of her jaw, just under her ear, while she wriggled out of her knickers. Okay. Yeah. He was hard without worries, no need for anything to help, thank fuck, just the smell of his wife, whatever the fuck it was she used on her hair overlaid on the scent of cunt, of wet horny woman, which was always a fucking turn-on. Malcolm growled into her neck, got his hand down, pulled himself out of his pajama bottoms. Nudged his cock at the right place, pushed in. Yeah, listen to her groan, feel how wet she was, ready for him already, slick for him already, cunt welcoming him in already.
+
 Knocking her up was all about him, not about her. She'd explained it patiently; he knew it perfectly well. He had to come. She didn't. He'd be damned if he let his wife, his Clara, the love of his life, go without coming. He was going to bring her off and he was going to feel her thrusting her hips up under him, and he was going to feel her shuddering, and that was what was going to bring him off, because he was a fucking gentleman, a fucking decent man, fucking his wife, oh God, there she went under him, and he was there, he was coming, so fast, so hard, fuck fuck fuck, he loved her so much.
 
 Malcolm collapsed onto his wife and breathed. "Clara," he said.
