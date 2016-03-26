@@ -33,10 +33,11 @@ block topmatter
 			!= tagstring
 				
 block content
-	#storybody
-		!= contents
-	if toc
-		+renderToc(toc)
+	#story_box
+		#storybody
+			!= contents
+		if toc
+			+renderToc(toc)
 
 block footer
 	hr
