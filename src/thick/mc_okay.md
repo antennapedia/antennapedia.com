@@ -86,7 +86,7 @@ He said, "You sure?"
 
 "Yeah, that weekend in Spain. Wine, beach. Too much wine."
 
-It had been a ridiculous evening and worth the headache the next morning. He turned away because he was smiling at the memory and he felt guilty. He'd done it to her that night, one of those times on the beach or in their house after that, or -- fuck, he'd got her pregnant one of those times. Two drunk to remember the condoms.
+It had been a ridiculous evening and worth the headache the next morning. He turned away because he was smiling at the memory and he felt guilty. He'd done it to her that night, one of those times on the beach or in their house after that, or -- fuck, he'd got her pregnant one of those times. Too drunk to remember the condoms.
 
 "Say something, Malcolm. Tell me how you feel about this. It's kind of a big thing."
 
