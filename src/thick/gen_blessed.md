@@ -14,12 +14,14 @@ tags:
     - c:nicola-murray
     - c:jamie-macdonald
     - c:sam-cassidy
+    - c:julius-nicholson
     - genre:hurt/comfort
     - trope:wingfic
     - au:supernatural-elements
     - suicidal-ideation
     - genre:angst
     - religion
+    - politics
     - angels
 altlink: http://archiveofourown.org/works/5755075
 autotoc: true
@@ -475,3 +477,285 @@ Jamie. He'd told his secret to Jamie back in the day, at the newspaper, confesse
 He should tell Jamie enough of the story to scare him off. He owed his friend that. Rescue him from Tom before he ended it.
 
 Malcolm breathed in the faint scent of incense in the air. The candle burned steadily before him, flame un-flickering. Malcolm felt communion with something and a stealthy certainty creeping over him, a sweet smell in the air beyond what the incense had carried. His feet were on the right path. He had yet to walk it, but he was set properly at last. The Blessed Power wanted him gone. Okay. He had confirmation. He would get through the day, pacify Jamie, and then do it in the night when they'd all left him at last.
+
+## Julius
+
+A knock on the door: Malcolm startled, but it was Sam, poking her head in.  "Malcolm, Lord Nicholson is here. I'll send him in if you're ready?"
+
+He was, of course, not, and Sam was merely warning him to be ready. Malcolm closed his eyes, hid himself and his wings, and felt that moment of loss as his sense of that other world was damped.  He pushed himself up from the floor and straightened his trousers. He'd spent enough time on his fucking knees, enough for the rest of his life. Last daily devotions. He'd make the next ones from hell.
+
+"Show the old pervert in, yeah, Sam?"
+
+He was at the door when Sam opened it again. A hand on Sam's elbow, a touch, lingering so that she would know it wasn't an accident, long enough to reassure himself that she was there. He felt strangely better to touch her, reminded that he was a human being inside. Sam, food and drink and little touches, stepping aside from the door, ushering in his two o'clock.
+
+His two o'clock: Julius Nicholson, that blue-sky thinker. In Malcolm's calculus of the human objects in motion in Whitehall, Nicholson was a fucking useless mass that was unlikely to collide with him any more, and therefore uninteresting. Therefore Malcolm could find it in himself to be almost effusive in his greetings. A hand out to shake, a friendly gesture toward the comfortable guest chair, and the biscuit tin set out for His Nibs. They were whatever Sam kept in stock for him, not anything Malcolm normally ate. But today he took one after Julius had filched two out, and bit in. Shortbread, sweet, probably went a treat with tea. Something about Julius always made him wish for his tea. Too early for tea, though. Malcolm did long for one last good cuppa. Maybe later, with Sam. A cup and a talk about something that wasn't the government. Or politics. Or kids dead on a Turkish beach.
+
+Fuck.
+
+Nicholson brushed biscuit crumbs from his tie. Malcolm watched him carefully: there was that nose wriggle that preceded whatever it was he actually wanted to say. Another moment of temporizing, then Nicholson came out with it.
+
+"An angel was spotted on the roof of St Stephen Walbrook this morning."
+
+His heart stopped and his stomach went strange for a second, then Malcolm recovered. He sneered and ate the rest of his biscuit. "Yeah?"
+
+"You and I have exchanged pleasantries about that church in the past. I believe you said once it was one of your favorites."
+
+"Yeah, I like it. The light, you know? And that stone altar."
+
+"Moore, yes quite, and that unusual placement. Showy. I prefer St Martins in the Fields. For the acoustics, and a more traditional layout. We go quite often, my partner and I."
+
+"Aristo twat."
+
+Julius rolled his eyes. "As you say. But it is a bit surprising, an angel manifesting in London."
+
+"What was it up to?"
+
+A shrug. "He. It was a man in a suit. Spoke with the rector, stood on the roof, and then was gone."
+
+"Seems fucking pointless."
+
+"I'm only interested because it connects with a rumor I've been chasing down recently."
+
+Malcolm licked his fingers. "A rumor about Christopher Wren? What, has he come alive and started shambling the streets of London giving critical commentary on the architecture? Seen the Gherkin, has he?"
+
+Julius ignored this. "There's a rumor about Tom and an angel. That he has one under his thumb, bound to him by some arcane pledge. And the poor thing does his bidding. Skulks about Whitehall, delivering his messages. Carrying his water."
+
+Well. Julius wasn't in the inner circle, that much was now clear. If he were, it wouldn't be a rumor to him. Not that Malcolm had taken him for a man Tom would trust. Tom only trusted men he'd been to school with. Or people he bound to his will, who perforce could not fucking betray him.
+
+Aloud he said, "Seems far-fetched. How would you bind an angel?"
+
+"The more powerful of the Blessed would be valuable allies, would they not? If one could get them to cooperate with any worldly scheme. One usually can't. Not since the war."
+
+Malcolm grinned mirthlessly. "Learned their lesson in that one."
+
+"Certainly they are more noted for their refusal to cooperate than for their service to the nation in the last century."
+
+"More likely to lead a revolution than an army," Malcolm murmured, thinking of something Gandhi was alleged to have said. Not that he'd said it.
+
+"You are devout."
+
+Malcolm grimaced. No point saying anything in response to that, not sitting as they were with the little shrine against the wall, the scent of incense and candle wax still in the air.
+
+Julius said, "Open devotion is rare. At least in this government."
+
+"It's a secular government."
+
+"So why? Why the shrine in your office? You needn't. It's half a century out of fashion."
+
+"Because it fucking makes *Them* happy, that's why. Because They are fucking here, around us, doing shite we can't understand, like fucking allowing us to live. I have no idea how any of you ever *dares* not worship Them daily."
+
+"You're a sensitive," Julius murmured. "I always suspected as much."
+
+Malcolm folded his arms and rocked back in his chair. "Not fucking unusual."
+
+"No. And yet, we have few sensitives in the current government. I've always found that odd, given how useful they are. How carefully we pen them up in special schools as soon as we find them, train them to do the bidding of the mundane."
+
+"What the fuck is your fucking point? You here to propose a new policy about them? A kinder, gentler approach to the Cursed? No more disappearing them?" And then Malcolm regretted his choice of distraction, because all he could see was his father's face, a mass of curling gray hair rising above it, his smile. His voice explaining how steam engines worked. His father. Cursed. Allegedly.
+
+"I merely wonder why we do not attempt to recruit them into public service any more."
+
+"Said it yourself."
+
+"Public service in a Western democracy need not mean the military. Not in our lifetimes."
+
+Malcolm opened his mouth to explain, stopped himself. He took another biscuit and broke it in half. Secrecy. Tom had impressed upon him the need for secrecy, and he served Tom, or else he was forsworn and he would be punished. Or rather, punished more viciously than he was every single fucking day, knowing himself to be serving evil. Fucking damn his soul to hell, he was serving evil.
+
+Julius was maundering on. "Very few sensitives in Tom's staff. None in the cabinet. And even fewer in the inner circle, which is unusual. Even Corbyn has a Guardian in his coterie."
+
+"Fucking nutter."
+
+Julius brushed crumbs from his trouser knee. "Churchill employed two. But where are the real Blessed? I mean the ones with real power. The Seers. The Swords. The Angels."
+
+"Only three Saints in all of Britain. And they fucking know better than to do what these cunts want."
+
+"And maybe fifteen angels? Where are they?"
+
+Malcolm crumbled the last of the biscuit in his fingers and let the crumbs fall onto his desk. Another mess for somebody to clean up later. "Classified," he said.
+
+"I have the requisite clearances."
+
+Malcolm lifted his eyes then and looked at Julius. "You do?"
+
+"I have had them for some time. I had occasion to request the files on known high-ranking Blessed last month. After this morning's sighting I read them."
+
+Julius held his gaze. Malcolm waited for it, but Julius had apparently made his point. He did not insult Malcolm's intelligence by underlining it. Thank Christ for small favors. Malcolm's heart was racing anyway. Caught, twice in two days. He was fucking up. A decade of control, and now he'd lost the fucking plot and coughed up his secret to people he despised. Allegedly despised.
+
+"What's your blue-sky plan this time?" Malcolm said, eventually.
+
+"It started as you surmised, with a question about schooling and its efficacy. It seems to me that we are wasting a national resource that other countries do better with. I was distracted by other matters, however. David asked me to look into relaxing certain banking regulations, and it has been a rather tricky bit of research and brainstorming. I rather enjoyed it, despite knowing it'll cause another financial collapse."
+
+"Fucking 2008 all over again. Sweaty-faced pig-fucker Cameron. Why are we in a coalition with these elitist inbred twats anyway?"
+
+"That's how we have any power at all."
+
+"The pig-fucker will have the spot without Tom's help if he calls an election now. We'll be out."
+
+"Not entirely out."
+
+"They'll have enough seats. We'll be out."
+
+"I am given to understand that Tom has some kind of arrangement with the Prime Minister." Julius's face twisted momentarily on those words, and Malcolm had his first intimation that this man might not be evil either, despite the money and the poncing. "I imagine you would have a place in any new government, as would I."
+
+"I'm not a fucking Tory."
+
+"And yet here you are. Valuable."
+
+Malcolm bared his teeth. And yet, here he was. Not for long. "Why the fuck are you here, anyway? They're bound to sniff you out for what you are."
+
+"I'm not in the closet, Malcolm."
+
+"I fucking know. Why are you helping people who despise you?"
+
+"I have rather a lot of money and I am interested in keeping it."
+
+"These fucks want you vanished. You're supposed to stay in the closet and hire rent boys in discreet clubs and never, ever be seen. Marry a beard, turkey-baster yourself an heir or two, leave your collection of Rothkos to the nation for them to fucking sell off so they can pocket the cash."
+
+Julius pursed his lips.
+
+"You know I'm right. It's just another tool for control for these hypocritical shit-eating psychos. They're degenerates behind closed doors, but they'll lock up the boys turning tricks to survive. Preferably after they've come up their underaged arses."
+
+Now Julius folded his arms and frowned at him.
+
+"You know I'm fucking right about this. You know they want to turn the fucking clocks back. They can't kill the queers any more, too fucking uncivilized, but they want you back in the closet and the door nailed shut."
+
+Julius rubbed the shiny top of his head. He was grimacing. "I cannot argue with you."
+
+"So why? Why the fuck are you doing it?"
+
+"Why are *you*?"
+
+"It's a fucking long story and not a happy one."
+
+"The rumor is true, then."
+
+"I have no fucking comment about your fucking retarded rumor."
+
+Malcolm stood, scattering crumbs everywhere, and went and stood in front of little shrine. Fuck Baldymorte and whatever he thought about whether Malcolm was the angel standing behind Tom. Fuck everything. It was comforting to him to touch the icon, tap two fingers against it, cross himself. A simple wooden crucifix, the figure of a martyred Blessed One on it, the greatest of them all, killed by the Romans. He'd forgiven them as he died, or so the story went. Julius came up beside him.
+
+"Malcolm--" Julius hesitated. "You've seemed a touch strained of late, if I may be allowed to make such an observation. I know we're not intimates."
+
+"No."
+
+"It may surprise you to know that I regret that. I should like to know you better. And yes, I know that you are uninterested in men sexually. I mean this as a gesture of friendship."
+
+"You know fuck-all about me."
+
+Julius smiled at him, all serene and unimpressed, and waved a hand as if to dismiss this objection. "As you say. I'd like to know more. I think we have something in common beyond the party we're currently serving. Interests that ally us if we consider careers beyond the ones we're in now."
+
+Malcolm flinched. He had no future. He deserved no future. He'd done it. He'd made it happen. He'd put them in power.
+
+"What's wrong?" Julius said. "Why were you on the roof of Walbrook?"
+
+"The boy. This morning." Shit, his voice. He couldn't keep it out of his voice. The boy on the fucking beach. How many others hadn't washed up, had just drowned and vanished without troubling anyone's consciences at all?
+
+"Ah." Julius's hand brushed his elbow, as if by accident, a moment of warm touch. Malcolm was aware of Julius as a human being for the first time, a warm-blooded man who did more than eat bhaji and make strained metaphors about them. A being with a soul. Not evil, no, and the poncing had nothing to do with it. Never had.
+
+Malcolm said, "We're killing kids."
+
+Julius's hand was on his elbow still. "We are. We are monsters. You will follow this, this peace offering with an obscene remark about my sexual preferences, I know, but I feel it too. It is wrong."
+
+"But will you do anything?"
+
+Julius's hand fell away from Malcolm's elbow. He thrust his hands into his pockets and gazed down at their feet. Malcolm looked down too. Four feet in leather shoes, all shiny and neat against a nice carpet. No salt water stains on these boots. No sand on them. No blood on their hands. A neat, clean, shiny, bloodless policy of non-interference. Close the borders, protect mother fucking England. Fuck the English. Fuck their imperialist greedy souls. Fuck them to perdition. It wasn't a game, great or otherwise. Nothing was a game when the pieces on the board were human lives. Malcolm's lip curled and his fingers twitched.
+
+Julius spoke. "It's a difficult problem to solve, the Syrian civil war is."
+
+Dry, distant, almost academic. Malcolm felt his rage spike. "Yeah, fucking tricky, is it?"
+
+"Reducing it to the death of a single boy on a beach is effective message-crafting, but images like that are not the well-spring of, of effective policy."
+
+Malcolm's hands were shaking he was so angry now. He held onto it, ground his teeth and held on and listened. Yes, Julius was insulting him. No, it didn't mean he didn't care.
+
+"Water," Julius said. "Water. It's climate change at the heart. I trust you follow the connections. The land dries out; farmers migrate to the cities in search of new employment. It isn't to be found. Unrest follows."
+
+Malcolm now saw where Julius was going. "A fuckin' dictator feels his hold slipping. He cracks down, because it's the only thing he knows how to do."
+
+"Civil war erupts. By the time the refugees climb into boats, the tragedy has been years in the making. The boat capsizing is the final scene."
+
+Malcolm's mind was now engaged in the problem. Fucking too seductive for him, was politics, was the problem of getting people to organize themselves effectively en-masse. It had always been fascinating to him, and it was even now. He said, "Too late to fucking do anything about the oceans rising. The Chinese don't seem to care. We won't admit it's even happening."
+
+Julius made an impatient gesture; Malcolm understood. There was no point rehashing that. No blue-sky scheming by a British politician would ever matter. "Meanwhile, Europe is destabilized."
+
+"A nice fucking bloodless word."
+
+"I know."
+
+"Destabilized. Destabilized dead kids."
+
+"I know. The point is how we cope."
+
+"We're coping by making the story vanish. Or so my email has been ordering me to do today."
+
+"Ah. And have you made it vanish?"
+
+"No," Malcolm said, and he felt a pang inside, a ripple of fire that spread from the pit of his gut out to the tips of his wings. His oath, knocking on the door.
+
+Julius paced away from him, to the door. He touched it, then noiselessly came back to stand beside Malcolm. "Perhaps you might consider doing something else. Not immediately effective, but eventually it might produce dividends worth considering."
+
+Malcolm eyed him sidelong. "Here he comes, with the politics, wanting favors. A little blow job in the loo. What the fuck do you want from me, Julius?"
+
+"There is something," Julius said. "It hardly matters, though."
+
+"It matters," Malcolm said, and was surprised to hear himself say it.
+
+"Nicola Murray. She has it in her to be a leader."
+
+"Nic'la?" Malcolm held the cursing that wanted to escape, reevaluated the woman who'd so guilelessly fed him dinner, who'd been fretting about the refugees long before somebody had a stunning photograph to pass around on the Internet.
+
+"Yes, Nicola. She has no backing. No support. No wordsmith whispering in her ear what she ought to say to get her meaning across. She did quite well on the radio this morning when she'd had a little assistance. A taste of what our current leader gets."
+
+"I fucking hear your implication and I fucking resent it."
+
+"She wants the right things."
+
+"She can fucking want whatever she feels like."
+
+"You want what she wants. You know it's a better idea. You know she's capable. You know you can make her so."
+
+Malcolm stared, thought. He felt longing for this. So seductive. Help Nicola more, assuage his conscience. And then what would happen? "We're too fucking small a party to do it. We need the Tories."
+
+"Or Labour," Julius murmured, and Malcolm swayed on his feet with the audacity of it.
+
+"Fuck," he said. "Fucking fuck." Clean it up, fix it, make it better somehow. If only. If only.
+
+Julius was gazing at him sidelong, under his lashes. There was a little smile on his face: he saw victory and had allowed himself to enjoy it. He couldn't. Malcolm couldn't let him.  The last of Malcolm's hops drained from him as he let himself know this. The best he could do was not be present to be in the way. If he were dead, Tom could not use him against Nicola.
+
+"No," he said.
+
+"Do you oppose the idea?"
+
+"No. Fuckin' no-- Fuck me. I can't help you."
+
+"Malcolm, you underestimate yourself. You can do quite--"
+
+"What's that fucking rumor you heard? That rumor. I can't. Won't say anything, doesn't go that deep, but I fucking can't. I won't try to stop you so fucking stop talking to me right now, okay? Shut it. Shut it and fuck off on out of here."
+
+"I see. That's-- That's unfortunate. I am sorry to hear it."
+
+"Not as sorry as I am."
+
+"I count on your discretion, of course."
+
+Julius's eyebrows were doing alarming things. They ought to be. He'd just put Malcolm into a fucking annoying position. He ought to be able to keep his trap shut about it; his oath wasn't a compulsion. But if Tom asked him directly, Malcolm would feel it. He didn't expect to see Tom again. He'd seen Tom for the last time earlier in the week. That was-- well, that was a fucking relief. So many last experiences he was having. Last look at his favorite church; last biscuits filched by Nicholson. In a bit, last cup of tea with Sam, and then last dinner with Jamie.
+
+"Yeah, don't fucking fash yerself. There's jizz all over your wicket but it isn't as sticky as all that."
+
+"That's a relief."
+
+Malcolm shrugged and turned away from Julius. No point talking any further. It was over. It did give him some kind of distant pleasure to think about Julius succeeding at this, whether or not he was around to see it. He put the lid back on the biscuit tin and shoved it into the desk drawer where it belonged.
+
+"Look, Hugh-- my partner, you met him at the Christmas do-- Hugh and I are doing a bit of a dinner thing next week. We'd like you to join us."
+
+"Yeah, sure," Malcolm said, easily, because next week was a thing that wouldn't exist for him. Sweet relief, so easy to promise whatever to Julius, who seemed quite happy about it.
+
+There was a sharp knock on his door, and Sam was poking her head in. Doing more than that, to Malcolm's surprise: opening the door and standing aside. Malcolm caught her glance and she mouthed something at him that he guessed was an apology. He understood it a moment later, because Tom walked in, saying something over his shoulder to someone in the room behind him.
+
+Tom, visiting him. Fuck. Nicola's performance in the morning. Fuck everything.
+
+"Tom," murmured Julius, that Judas, that Brutus, knife in his hand, reaching out, cordially accepting Tom's handshake.
+
+A kiss in the garden, and yet Malcolm was there, lean and hungry at Brutus's side, urging him on. He thought too much, read too much, and was dangerous. And yet he was fettered by his oath: he served this man, this slick sleek oiled man in a carefully rumpled bespoke suit. Smile, look pleased, look like he was as grateful as he ought to have been to the man who'd made his career, paid him a ridiculous salary, sheltered his father from the exorcists.
+
+Julius was saying something fawning at Tom and the two men were laughing, and Tom was clapping him on the shoulder and guiding him out. Malcolm tasted metal in his mouth. He was dizzy. Fucking dizzy. Shit. He had to pull himself together.  Fear. Fight. Flight. Neither: control himself.
+
+Julius departed with Sam, and the door shut behind him. Malcolm was alone with Tom.
