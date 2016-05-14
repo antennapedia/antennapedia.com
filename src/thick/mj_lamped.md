@@ -159,7 +159,7 @@ Company. Malcolm had always liked the company in bed. Jamie didn't say it, just 
 
 Jamie woke up aware that he was spooned up behind Malcolm, an arm over his waist. Malcolm was, as always, a furnace, much warmer than anything else in the bed. Malcolm's thin hand was on his, pressing it against his heart. He was curled up and motionless, but Jamie could tell from his breathing that he was awake. Rain on the windows, gray light filtering in: another fucking dismal London fall day. Get up? Break the spell? No. Steal a few more minutes of warmth and rest before the hell of the workday commenced.
 
-Would Malcolm remember anything today? He'd been confused and emotional the night before; that what what the doctor had said to expect before he recovered. Didn't make Jamie happy, but it was normal for concussion. Brain injuries. Fucking Glenn with the fucking lamp. He stirred, imagining what he was going to say to fucking Glenn when he saw him. He'd have a word in private before Malcolm did. Maybe later today.
+Would Malcolm remember anything today? He'd been confused and emotional the night before; that was what the doctor had said to expect before he recovered. Didn't make Jamie happy, but it was normal for concussion. Brain injuries. Fucking Glenn with the fucking lamp. He stirred, imagining what he was going to say to fucking Glenn when he saw him. He'd have a word in private before Malcolm did. Maybe later today.
 
 "You're awake," Malcolm said.
 

@@ -1,7 +1,7 @@
 ---
 idtag: rl_clear_head
 author: antennapedia
-published: '2016-02-26T12:17:00-08:00'
+published: '2016-05-14T12:17:00-08:00'
 title: A Clear Head
 summary: Things are much clearer now that he's sober.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
@@ -222,3 +222,43 @@ Little Peter in his arms, a tiny thing that met his gaze solemnly and latched on
 And thus it was that he sat in his armchair of an evening, Lix curled up nearby on the sofa, Peter in the crook of his arm. He read to the boy. *In that pleasant district of merry England which is watered by the river Don, there extended in ancient times a large forest, covering the greater part of the beautiful hills and valleys which lie between Sheffield and the pleasant town of Doncaster.* Not a thing Peter would understand, perhaps, but Randall liked to believe that it would remain with him, especially if read in the accent of a modern-day Scot. Robin Hood next, perhaps, or more of the great Scott, or perhaps The Boy's King Arthur. His father had done this for him, so long ago now, and he'd been reading long before he'd been sent to school. Surely Peter would follow suit, particularly with such a clever mother.
 
 So Randall read to his boy, with his wife listening in, her feet up on the sofa. It was a race to see which would be lulled to sleep by his voice first, his son or his wife. Randall did not take it as criticism. He would sit happily, dandling his boy, with his beloved wife (his wife! Lix! with him at last) near enough that he could smell her perfume. He would keep them safe, he swore, this time he would not turn his back.
+
+## Nightmares
+
+Randall had just begun to kiss Lix with some kind of intent when their son rapped on their bedroom door. A moment later it creaked open. He let his head fall onto her shoulder and sighed.
+
+"The lock, Randall, dearest," Lix said, with resignation, but Randall merely sighed again. Even if the door had been locked, he'd have interrupted their embrace to fuss over their son.
+
+The bed creaked, and Randall felt his son's weight beside them. He extricated himself from Lix and edged himself away to make room. Peter wedged himself between them and clung to him like a limpet, with his face pressed against Randall's chest. He was crying. Randall kissed the crown of his head. Such wild hair his boy had, so untamed even when cut short, which Lix could hardly bear to do. She was too fond of the curls and her blue-eyed boy.
+
+Randall rocked him, and Lix stroked his back, and eventually Peter calmed down enough that he sat up between them and rubbed at his nose.
+
+"Hullo," Randall said to his son. "What has brought you out of your bed and into ours tonight?"
+
+"I had a dream," Peter said. He fidgeted with his hands in that way he had. Randall found it familiar in intent, though not in specifics. He'd had his own tics as a boy. Peter's were different. This fidget meant he was thinking, which he did intensely and often.
+
+"What sort of dream, dear?" Randall said.
+
+"It had robots in."
+
+"Not friendly robots?"
+
+"Not these ones."
+
+"Ah. Well. Perhaps tomorrow you can draw these robots so that we can recognize them later. Or ask the Doctor to deal with them."
+
+Peter brightened up. "Oh! He could. Can I write?"
+
+"Yes, you may write. Tomorrow. We shall send him one of your drawings. He'll sort them out."
+
+Peter seemed to accept this, for the next thing he said was, "You were hugging Mum."
+
+"I was hugging her, yes. I hug her quite often. I shall hug her again later."
+
+Peter nodded solemnly. "Mummy hugs are good."
+
+"Quite. Now. Shall we inspect your room for robots?"
+
+"Yes, please."
+
+Randall slid out of bed and took his son by the hand.

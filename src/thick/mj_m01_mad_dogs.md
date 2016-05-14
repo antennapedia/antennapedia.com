@@ -15,6 +15,8 @@ tags:
     - c:malcolm-tucker
     - genre:romance
     - sex:first-time
+    - sex:anal
+    - declarations-of-love
     - alcohol
 altlink: http://archiveofourown.org/works/4431140
 autotoc: true
@@ -221,3 +223,125 @@ Jamie said, "I can see the poster. Scrawny Scot takes a monster cock up the arse
 Malcolm shot him two fingers without hesitation. "Not yours then, you wee little man."
 
 "See what you have to say about that later when you're on your back, boyo."
+
+## Three
+
+Dinner eaten, dishes washed, and they were on the sofa snogging. Malcolm still hadn't pulled out the whisky bottle, and Jamie wasn't going to mention it. Not like him. Not at all like him. Did it have something to do with the announcement? Going south to fucking London, working for the fucking Labour party, for the man who was going to be party leader by all estimations--Malcolm Tucker was on his way up, and he wanted Jamie with him, and fuck, what did it mean? Did it matter? Kiss the man, be kissed by him, try not to think about tomorrow.
+
+Odd to taste him without the whiskey, odd to feel Malcolm's tongue in his mouth without the drink in him. He was nervy, yeah, no denying it, tense and jumpy and not like his usual self. He was like he'd been when he'd given up the fags, because he'd done a story on emphysema and it had struck home. Had he written anything about the drink recently? He got through a lot in a typical weekend.
+
+Kiss him, be kissed by him, rub him through his trousers, get him hard, push him hard. Straddle his lap and push him back, undo his shirt, bite him, make him moan, keep him happy, because he was going fucking south who the fuck knew where after that, and if Jamie wasn't careful he'd get left behind. Left behind by Malcolm the second his career needed him to clean up, to not have some bloke leaving bite marks on his collarbone the way Jamie was right now.
+
+"Why," Jamie said. "Why not come out of the fucking closet?"
+
+"I'm not gay."
+
+"Says the man who wants my cock up his arse three times a week. Some straight boy you are."
+
+"I'm not fucking straight."
+
+"No?"
+
+"Fucking bisexual."
+
+"Are you bisexual for me?"
+
+"Don't rate yourself so high, yeah? You twat."
+
+"No? Thought I was the first."
+
+Malcolm disentangled himself from Jamie and shook his head. "When I was a teenager. Got stoned with me best mate, kissed each other on a fucking dare. Felt so good we tossed each other. Over in about ten seconds."
+
+Jamie could identify with that story. It had been the same for him, only it was another student at seminary. He'd left the next week. The other poor sod had stayed, was now wearing a dog collar and pining after boys for all he knew. But that had been revelation for him. Not for Malcolm, apparently.
+
+"You married a woman anyway."
+
+Malcolm shrugged. "Nothing wrong with tits. Or cunts. And I was in love. Love is a fucking bastard." Malcolm's eyes closed, and he turned his face away. Jamie took his chin and turned it back, palmed Malcolm's cheek and ran his thumb over his lips. Red, kiss-swollen lips. Lips that parted for his thumb, kissed it.
+
+"Yeah," he said, at last. "Let's go to bed then."
+
+Into the tiny bedroom, all bed and nothing much else. Jamie shucked his trousers. Coffee stain on the knee from where he'd been jostled on the bus. He'd have to have it cleaned. Pressed. Needed better suits if he was going to be in the same room as those London fucks. Shit. How could he compete?
+
+Malcolm was now sitting on the edge of the bed, nude. Hard, of course. He fell backwards easily when Jamie pushed at his chest. Fucking nothing to him. Wraith of a man, ghostly pale save for the dark fuzz over his cock. Malcolm was the brave one, like this, with Jamie's fingers up inside him, eyes closed. Brave enough to ask for what he wanted. The one who was brave enough to be vulnerable.
+
+Jamie watched him breathe, watched him close his eyes and hold his breath and then let it out slowly again. Vulnerable, yeah, on his back, legs drawn up and spread. Cock lying on his belly, hard, red, above those heavy dark balls. The man had a cock worth noting, unlike Jamie, but Malcolm seemed to have no desire to screw him, much as Jamie might have enjoyed it. He wanted to be taken, every time. Didn't mind being sucked off so long as Jamie followed it up by fucking him. Why, he had no idea. They didn't talk about this shite; they just did it. Jamie paid attention to what made him moan, what made him open up, what put that expression on his face and made him say Jamie's name the way he wanted to hear it, and never ever said a single fucking thing about it.
+
+Condom on, lube from the jar they kept beside on his prick. It'd leave a stain on the sheets. Everything left a stain on the sheets. Stand at the edge of the mattress, between Malc's thighs. Prick in hand, pushing at Malcolm's arse, teasing him.
+
+Malcolm half sat up, looked at himself, then fell back onto the bed. "Jesus, I'm about to get fucked. I want a drink. Fuck."
+
+"Why aren't you shit-faced anyway?"
+
+"I was wondering," Malcolm said. "If I'd still like it sober."
+
+"What the fuck do you mean?"
+
+"Never done it when I wasn't half out of my mind. I need a fucking drink."
+
+"Stupid cunt. You're in no position to have a drink, now, are you."
+
+A shake of his head.
+
+"What position are you in? Tell me."
+
+Malcolm's eyes closed. His face was red, very red. "I--I'm on me back for you."
+
+"Yeah, I can fucking see that. Tell me something more."
+
+"What?"
+
+"You got your legs spread for me. Say it. Say it."
+
+"Fuck, Jamie. Fuck. Are you tryin' to make me beg for it? Make me say I'm gagging for it?"
+
+"Might want to hear it."
+
+Malcolm swore. Turned his face away for a moment. He swallowed. Jamie watched his throat work, his tongue flick out over his lips. Then he looked back.
+
+He said, "Fuck me, damn you."
+
+He couldn't say it the way he was told, but it was good enough. Jamie pushed in, all the way. Buried balls-deep in the man. Malc was panting under him, face transformed by something, some emotion. Or maybe just the feeling of a prick up his arse. Jamie knew what that felt like. Tight arsed Malcolm, slick and hot and pushing back against him as he moved. Damn, he wished he could do it without the fucking rubber on. Stay faithful, maybe, test himself and stay faithful, no letting himself be rogered by strangers, and then he could take Malcolm bare, skin on skin, yeah, move like this inside him and feel it, feel everything, feel the man relax under him. Slowly, slowly.
+
+He'd have to talk Malc into trying it the other way, or his own hunger would never--fuck, don't think about that now. Fuck now, move, fighting against his instincts to go hard and fast and come come come come straight off. Listen to the man moan at last.
+
+"Yeah, you like this. You like it."
+
+"Fuck you."
+
+"Give it up, Malc. Give it up. Give it to me."
+
+"What the fuck more can I give you?"
+
+Everything, fucking everything, except he already had and it was Jamie who wasn't giving him anything. Except everything. Jamie would do anything for him, go anywhere. Follow him anywhere. To fucking London and English cunts who ruled the nation and wished they still ruled the world. To the home of everything Jamie loathed, except Malcolm would be there. Fucking whipped, he was.
+
+Yeah, yeah he'd follow him. Yeah, he'd be the cunt's lover. Yeah, he'd do whatever the cunt asked of him. Fucking him was the easiest thing he asked for.
+
+"Malcolm."
+
+A moment of hesitation, a breath drawn in. Then: "Jamie."
+
+"Say it."
+
+"Say what?"
+
+"Say it properly."
+
+"Fucking hell, Jamie--"
+
+"Say it."
+
+"I love you, you wee psychopath. I fucking love you. You. Fucking hate being in love. Can't fucking help it, but fuck, it's madness. Not fucking wearing off, either. I'm gone."
+
+Jesus Mary Joseph, shit fuck damn, his heart, his heart, what was going on inside his fucking heart right now? What the fuck could Jamie do but fucking say it back? Except he had no idea how. Malcolm was the one with the words. Malcolm was the fucking brave one, saying what they both felt.
+
+"Malc-- fuck--"
+
+"Just shut the fuck up and come with me, yeah? Stay with me."
+
+"I'm staying with you."
+
+He got his slick-wet hand around Malcolm's cock, that thick cock. Next time Jamie would demand Malcolm fuck him with it. Not tonight. Tonight he was fucking Malcolm. Thrusting into him and stroking him at the same time. Watching the man's face, the look of concentration and pain and pleasure, the way he bit his lip, the way his eyes closed when he moaned. Sweat on his face, the flush that meant he was close, eyes closed, half-sitting up, reaching for Jamie's face, falling back and swearing and thrusting his hips up, pushing himself into Jamie's hand. Jamie held still, just to hold it off for Malcolm for a little longer, make it last. Malcolm couldn't hold still: he moved in Jamie's stead, fucked himself on Jamie's prick, fucked Jamie's palm, no rhythm at all in, just desperation.
+
+Jamie took mercy on him and finally gave him what he needed to go over, heard the little choked off cry he always made when it was on him. Jamie watched him reach it, watched his face screw up and go red, watched him throw his head back, watched the come spurt onto his belly. Malcolm fell back onto the bed, arms out, palms up, and breathed. His gorgeous Malcolm, a lovely little twink he'd have made a decade ago, with all that curling hair, those lovely blue eyes, those narrow shoulders. His Malcolm. His fucking Malcolm. Jamie was gonna come now, come inside him, slam into him and make him whimper, make sure he felt it in the morning, felt it all day, all day with those English cunts, knowing he'd been fucked hard the night before, had gagged for it and taken it and loved every second of it, that he belonged to Jamie not to them.
+
+Fucking metaphor for a career, that.
