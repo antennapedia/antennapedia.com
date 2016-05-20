@@ -40,7 +40,7 @@
     "metalsmith-typography": "~0.1.1",
     "metalsmith-word-count": "0.0.4",
     "rss": "~1.2.1",
-    "yargs": "~4.6.0"
+    "yargs": "~4.7.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/antennapedia/antennapedia.com",

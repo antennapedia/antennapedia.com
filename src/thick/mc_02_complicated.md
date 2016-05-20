@@ -18,6 +18,8 @@ tags:
     - kink:orgasm-control
     - kink:dom/sub
     - kink:pegging
+    - kink:spanking
+    - kink:aftercare
     - genre:romance
     - genre:kink
     - p:malcolm/clara
