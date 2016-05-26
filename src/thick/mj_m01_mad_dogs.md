@@ -266,7 +266,7 @@ Malcolm was now sitting on the edge of the bed, nude. Hard, of course. He fell b
 
 Jamie watched him breathe, watched him close his eyes and hold his breath and then let it out slowly again. Vulnerable, yeah, on his back, legs drawn up and spread. Cock lying on his belly, hard, red, above those heavy dark balls. The man had a cock worth noting, unlike Jamie, but Malcolm seemed to have no desire to screw him, much as Jamie might have enjoyed it. He wanted to be taken, every time. Didn't mind being sucked off so long as Jamie followed it up by fucking him. Why, he had no idea. They didn't talk about this shite; they just did it. Jamie paid attention to what made him moan, what made him open up, what put that expression on his face and made him say Jamie's name the way he wanted to hear it, and never ever said a single fucking thing about it.
 
-Condom on, lube from the jar they kept beside on his prick. It'd leave a stain on the sheets. Everything left a stain on the sheets. Stand at the edge of the mattress, between Malc's thighs. Prick in hand, pushing at Malcolm's arse, teasing him.
+Condom on, lube from the jar they kept bedside on his prick. It'd leave a stain on the sheets. Everything left a stain on the sheets. Stand at the edge of the mattress, between Malc's thighs. Prick in hand, pushing at Malcolm's arse, teasing him.
 
 Malcolm half sat up, looked at himself, then fell back onto the bed. "Jesus, I'm about to get fucked. I want a drink. Fuck."
 
