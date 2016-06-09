@@ -718,7 +718,7 @@ He followed her back to the TARDIS silently, thank goodness. Clara was burning w
 
 She needed not to see him for a bit until her ego recovered.
 
-Clara didn't waste time waiting for him to send them to her home. She knew perfectly well how to control the TARDIS for simple hops to familiar destinations like her flat, ten seconds after they left. That was a preset, or the equivalent of a preset. Push these buttons until the console read like that, prime the engine, unlock the time synchronizer, and throw the levers. Wait for the TARDIS to make her way through time and space efficiently, rotors spinning. Clara had done it so often she could almost feel it, almost know when the TARDIS was nearing the point in space-time that was hers.
+Clara didn't waste time waiting for him to send them to her home. She knew perfectly well how to control the TARDIS for simple hops to familiar destinations like her flat, ten seconds after they'd left. That was a preset, or the equivalent of a preset. Push these buttons until the console read like that, prime the engine, unlock the time synchronizer, and throw the levers. Wait for the TARDIS to make her way through time and space efficiently, rotors spinning. Clara had done it so often she could almost feel it, almost know when the TARDIS was nearing the point in space-time that was hers.
 
 The rotors died to silence. Clara turned her back on him and marched out the door into her flat. She turned to close the door behind her, but he was on her heels, reaching out to her. She shoved him back with a hand, and he stepped away. He looked upset, but he didn't get to look upset. Not when she was angry. Only she got to be upset like that.
 
