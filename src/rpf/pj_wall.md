@@ -275,11 +275,11 @@ Peter had a pint waiting for Craig when he got back from lugging his kit into th
 
 Peter bumped his shoulder. "Love the brass in my pocket, you mean. That was-- well, you were brilliant."
 
-Craig made a face at him. " You don't have to lie. We just sacked the singer."
+Craig made a face at him. "You don't have to lie. We just sacked the singer."
 
 "Good. He was bad. Beyond bad. He was a world of shit."
 
-"You should be his replacements."
+"You should be his replacement."
 
 Peter lit up for a second, then shook his head vigorously. "No, not me. Haven't the time."
 
@@ -417,14 +417,14 @@ He got back the answer he wanted, packed his satchel, and headed out into the co
 
 They met up, hugged, and got to work with the efficiency they'd developed over the last few months. Peter had just finished spraying the dark blue layer. His pocket buzzed. He pulled out his phone. Text from Missy. He stared at the text. Finally he tapped out a reply: *don't feel like drinking*.
 
-M: *come here*
-P: *don't feel like that either*
-M: 'what do u feel like*
+M: *come here*    
+P: *don't feel like that either*  
+M: *what do u feel like*  
 P: *hanging with Jenna*
 
 There was a delay of a few minutes, long enough for Peter to put his phone back in his pocket and tape down the next stencil. Then:
 
-M: *c u around maybe some day*
+M: *c u around maybe some day*  
 P: *ok*
 
 And that was that. He stuck the phone in his jeans pocket. He'd been dumped. He felt relieved not sad. Okay, he'd miss the sex. He'd liked that part. But if she was going to get shirty about him hanging with his best mate, he was going to have to move on.

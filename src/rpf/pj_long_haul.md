@@ -2,7 +2,7 @@
 idtag: pj_long_haul
 author: antennapedia
 published: '2016-06-07T12:02:00-08:00'
-title: Tenerife
+title: The Long Haul
 summary: "Long overnight plane flights give Jenna plenty of time to think. Or brood."
 altlink: http://archiveofourown.org/works/7127996
 tags:
@@ -20,7 +20,7 @@ banner: ../css/colepaldi_header.jpg
 ---
 Jenna shifted in her seat and pulled the blanket back up over her legs. Dallas to Heathrow, overnight. A long haul flight, they called this, a red-eye. Drinks service, a bit of dinner, more drinks in the hope of stupefying you, then lights out to trick you into sleeping. Lights back up before you wanted them up, breakfast before you wanted that. Then, sooner than you expected it, England below them, green fields if you were lucky, gray clouds if you weren't. Down at Heathrow, through passport control, say goodbye to Peter.
 
-That was all in an unimaginable future, though. Now she was in the middle of the unreality of it, strapped in a chair in the tube in the sky. White noise from the engines, the pervasive vibration. It wasn't like being anywhere, or moving. Maybe they were holding still and the set was being changed around them. Maybe they'd alight and still be in the State. She couldn't predict. Peter would probably say it was just as likely that they'd land on Skaro.
+That was all in an unimaginable future, though. Now she was in the middle of the unreality of it, strapped in a chair in the tube in the sky. White noise from the engines, the pervasive vibration. It wasn't like being anywhere, or moving. Maybe they were holding still and the set was being changed around them. Maybe they'd alight and still be in the States. She couldn't predict. Peter would probably say it was just as likely that they'd land on Skaro.
 
 Might happen. Would be more interesting if it did. Hold hands and run.
 
