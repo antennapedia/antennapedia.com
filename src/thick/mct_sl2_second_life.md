@@ -6,7 +6,7 @@ summary: They're in their right minds again, and Clara wants to do it again. Mal
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: 2016-02-24T22:00:00-08:00
+published: 2016-06-23T22:00:00-08:00
 tags:
     - genre:crossover
     - p:malcolm/clara/twelve
@@ -16,6 +16,9 @@ tags:
     - c:malcolm-tucker
     - c:twelfth-doctor
     - genre:romance
+    - genre:hurt/comfort
+    - cuddlecore
+    - c:emo!malcolm
     - trope:sex-pollen
     - sex:anal
     - sex:threesome
@@ -30,7 +33,7 @@ Malcolm stumbled into the central chamber on Clara's heels. The alien that was u
 
 Malcolm's own head felt fucking strange, but he had no time to fuck around worrying about it. He had to get this thing off-planet and back to its proper home. Now.
 
-Clara pointed to the controls of the teleporter. Malcolm nodded and ran for them. Clara then did the fast-talking thing to persuade the nearby humans to clear the area; she was good at persuading other people she was in charge. He was good at scaring them. He was utter shite at working out how to use a teleporter marked in a language that looked like Thai but probably wasn't. Fuck fuck fuck-- a button lit up blue at last and he slammed his fist on it. The alien vanished. Malcolm slumped over the controls and swore quietly to  himself.
+Clara pointed to the controls of the teleporter. Malcolm nodded and ran for them. Clara then did the fast-talking thing to persuade the nearby humans to clear the area; she was good at persuading other people she was in charge. He was good at scaring them. He was utter shite at working out how to use a teleporter marked in a language that looked like Thai but probably wasn't. Fuck fuck fuck-- a button lit up blue at last and he slammed his fist on it. The alien vanished. Malcolm slumped over the controls and swore quietly to himself.
 
 The Doctor stood and then he went to the corner of the room and heaved up his guts. Malcolm got over there fast, because Clara was still busy fast-talking at the human whose power bid they'd just thwarted. He held the old Coot up while he heaved and got a hankie ready for his mouth.
 
@@ -213,3 +216,199 @@ Time for cuddles, now, the quiet moments afterward, with Clara held between them
 Second life? Not sure he'd ever lived before this life, not in any way that mattered.
 
 ## Banged up
+
+Malcolm was an idiot. That was the current topic of conversation.
+
+The Doctor and Clara were, apparently, united on this topic. They had a lot to say about it. The topic in question was not one Malcolm was interested in, just then, but he was not at liberty to tell them to fuck the fuck off. He was, in fact, suspended weightless in a tube and covered in blue gel over about fifty percent of his body. The fifty percent, as it happens, that had come in contact with the pollen of the firestarter lily.
+
+The fact that the group of milling schoolchildren had *not* come in contact with this pollen was not, it seemed, relevant to the current topic of discussion. Malcolm felt this was unfair. Idiocy had to be weighed against heroism in order for a fair assessment. Yes, he'd been burned. No, the kids hadn't. Wasn't this the point?
+
+He floated weightless in the medical tube and watched the pretty blue lights zoom around him. Blue lights, blue goo. Blue. Deep blue day. Play fucking Brian Eno at him while he rotated weightless in space. Weightlessness was a bit of all right, now that he thought about it. Probably also the painkillers in the blue gel had something to do with his newfound joy in floating, but he'd liked it when they'd gone asteroid-surfing a couple of weeks ago so it couldn't been all the drug's doing. Floating under stars. He sang quietly to himself in the tube while the gel fizzed against his skin and did various things the Doctor hadn't wanted to explain. Exfoliation, probably. Wrinkle removal. He didn't have any on his penis, because his penis had been protected by his trousers and the snug boxer-briefs Clara preferred, but he wondered what it would feel like if he did have goo there. Probably good.
+
+Everything felt good. Nothing was on fire any more.
+
+Good thing he'd wrapped his t-shirt around his head or he'd have blue goo in his ears or somewhere equally embarrassing.
+
+The gravity started coming back. Malcolm drifted down the bottom of the tube. He leaned against the glass wall. He could stand upright, more or less, but standing up was a bore. He'd much rather have been horizontal.
+
+The tube slid open and the Doctor appeared with a giant white towel in his hands. He wrapped it around Malcolm, getting blue goo everywhere. Clara was, to his surprise, not present, and the Doctor had no more further words on the topic of Malcolm's idiocy. Into the shower they went, both of them at once. Malcolm smiled happily. Good time to bring up some important topics that had been on his mind, topics that were not about his idiocy or his heroism. Or maybe he'd just drop the soap. That was supposed to work, right? His mind grappled with his idea then it skittered away from him. Damn, the goo was powerful stuff.
+
+He opened his mouth. This was going to be a bad idea, but he couldn't stop himself. "Hey. You. Yeah, you old coot. Got a proposition for you."
+
+"Why am I suddenly afraid?"
+
+"It's that kind of proposition!" Malcolm said, happily.
+
+"That's a relief," the Doctor said. "Turn around. Need to rinse your back."
+
+Malcolm turned around. The Doctor rubbed the washcloth along his back. "Nice, very nice. Let's do more of this."
+
+"Oh?"
+
+"Tired of fucking Clara while you fuck her too."
+
+"You seemed to enjoy it last night. Turn 'round."
+
+Malcolm turned. The Doctor scrubbed at his chest.
+
+"Well, yeah, it's fucking fantastic, and she fucking loves it. I'm not saying I don't like it, because I do, but I want to be Lucky Pierre for once. Right up Clara's twat while you're up me arse."
+
+The eyebrows cocked at him. The Doctor was never happy with Malcolm's language, at least on the outside, which was why Malcolm enjoyed being particularly filthy-mouthed around him. Also it made Clara laugh.
+
+"All right."
+
+"What?"
+
+"All right, you foul-mouthed pudding brain. When you're recovered from this we'll do it."
+
+"But I want it *now*."
+
+"Your inhibitions are gone."
+
+"That's the point, you fucking pair of fucking attack fucking eyebrows." The Doctor just shook his head. Malcolm dissolved into giggles. "Okay, yeah, fine, fuck you, that wasn't my best work. I feel like I'm drunk. Used to drink a lot, you know."
+
+"You're sober now."
+
+"Yeah. Except not this precise moment. Don't do this to me again."
+
+"I wouldn't have done this time if I'd realized the ointment would have this effect on humans."
+
+"You've got a drunk Malcolm on your hands. In your hands. Wish I were in your hands."
+
+"You're far too drunk for me to do such a thing."
+
+Except, of course, that Malcolm was in his hands, just not the parts of Malcolm he wanted to be in the Doctor's hands. He was only standing up because the coot had a hand under his elbow. It was, in his opinion, worse than it had been.
+
+"Fucking noble ethical coot, you are. Look at you, standing there." A thought struck him. "You're skinnier than me. Also you have less body hair. Otherwise we might be brothers."
+
+"That's the single most disturbing thing you've ever said," the Doctor said. "And you're as disturbing as anybody I've ever traveled with."
+
+"What, we're not?"
+
+"I am a Gallifreyan. Half-human. The exact shape of my face is a joke the universe makes at my expense every time I regenerate. Has nothing to do with genetics."
+
+"Never been good-looking until now?"
+
+"Still not good-looking. Or ginger. Or a woman."
+
+"Glad you're not a woman," Malcolm said. "Clara would like it, mind, but I wouldn't. Much prefer another Scotsman. Not that doing two women at once wouldn't be an ego boost, but I don't need that. Got plenty of ego already."
+
+"To say the least," murmured the Doctor. "But why are you happy I'm a fellow Scotsman?"
+
+"I"m fucking bisexual. Didn't know it until you kissed me. Then it was as fucking obvious as your eyebrows. I wanna get fucked while Clara sticks her tongue down my throat. I'm a fucking jessie. Part-time jessie.  Fucking hell, could never have said that back on earth. If the press finds out they'll destroy me. Shit!"
+
+Malcolm slid down to the floor of the shower. His legs wouldn't work quite right. He held up an arm. His skin looked fine, maybe a little pink. No signs of burns on his arm. No hair on his arm, either, but small price to pay. He looked up at the Doctor, who was aiming his sonic at Malcolm without seeming to mind that it was getting wet. Where had he been keeping the thing, anyway? He was as naked as Malcolm was.
+
+"When did this happen to me?" he said. "When did I become this?"
+
+"Don't know." The Doctor frowned at his screwdriver and snapped it off.
+
+"Think Clara will mind?"
+
+"I think she already knows," the Doctor said.
+
+"Fucking sharp mind, our Clara. No pudding brain."
+
+"No pudding, no. Up you get, you lazy bones," the Doctor said, and offered him a surprisingly strong hand. He pulled, and Malcolm came up to his feet. The Doctor put his arms around him and got him into motion, far more gently than Malcolm expected. Nothing about him was what Malcolm had expected. Nothing about this. Firestarter lilies and mortal peril and somebody else who slept with Clara and he didn't even mind.
+
+Fuck.
+
+## Brooding
+
+Malcolm was alone in the TARDIS. Well, not alone in the ship, but alone in his little corner of her. She was a big place on the inside, as he'd learned, and when its three residents wanted, they could vanish from each other for hours. Clara was off running in the park, the one with the resident cats. The Doctor was in the lower level of the console level fiddling with machinery.
+
+Malcolm was supposed to be in the study reading. He was in the study, yes. It was his favorite place, with only the library as any competition at all. He spent a lot of time in the study, indulging urges that he hadn't had a lot of time for when he'd been on Earth. Quiet urges: books and art and film and napping. Some days, however, he didn't read or watch films. Sometimes he thought about what he'd left behind. Lulls were dangerous moments for him, because when he had lulls he brooded. The Doctor didn't like lulls, so he arranged his life to be without them, but what was a pleasant interlude in chrono-stabilizer maintenance for him qualified as a lull for Malcolm. A lull in which he lay on the rug in front of the fireplace in the TARDIS study and considered exactly how much he'd fucked up his life.
+
+His first life, that was. The life he'd had before this thing with the TARDIS happened.
+
+He'd left before being arrested. Turning himself in. Assisting the police in their enquiries, as they oh-so-politely said in the press conferences. Being hung as the scapegoat for his employer's crimes was more like. That weighed on him some days: not just the fact of what was waiting for him when and if he should ever return, but that it was fact at all. Nothing he'd done had mattered. Tom had abandoned him. His party had abandoned him. Thrown him out, after all he'd done. Jamie had long since broken with him, told him he was an amoral fuck and walked away. He'd fucked Nicola over; she'd laughed at the idea of him jailed for perjury. He'd deserved it. There was no guarantee Tom would remember him and use his influence. No guarantee that even Malcolm's deep blackmail file would be any use.
+
+Perjury. He hadn't perjured himself. That was the real fucking kicker. He had told the truth, taken the fall. And nobody was going to remember it. His whole career, for naught. Jail and ruin and maybe some recovery later writing fucking tedious political analysis columns for the sodding Grauniad for shit pay.
+
+He didn't want to go back. Wasn't in his control, though, as he understood it. He mattered to exactly no one back on Earth. Had he ever mattered to anyone? Would the Doctor dump him on the street again, right there in London, an instant after he'd followed Clara through the door into the police box, to face his fate?
+
+Footsteps: somebody else was in the study with him. Clara, settling beside him on the carpet. Malcolm folded his arms behind his head, seeking to look casual. Her hair was damp and she smelled like soap. Done with her run, then. Malcolm would ordinarily have been glad to see her, but he hadn't finished his sulk. Needed another hour at least, and maybe a glass or two of whatever it was the TARDIS had put into that cut crystal decanter.
+
+Clara said, "What's up?"
+
+Malcolm attempted to smile at her. "Nothing much."
+
+"Doesn't look like nothing."
+
+"Fucking lying here in front of the fire, is all."
+
+She laid a hand on his chest. "Looks like you're brooding."
+
+"Never."
+
+"Usually. Any time you're left to yourself like this, you get that look in your eyes."
+
+"What look?"
+
+"The one you had when I met you."
+
+When she'd met him. When he'd ducked around a corner to dodge the press and caught her vandalizing a security camera. He'd been delighted by the very idea of it, and helped. And she'd laughed and taken him by the hand and drawn him around one more corner, down into the very darkest of corners. And beyond that door had been his salvation. He was living a second life, one in which he was useful. One in which he helped people. One in which he had not been discarded.
+
+For however long it lasted.
+
+"Whatever," Malcolm said, because he had nothing else to say.
+
+"Malcolm," Clara said. "What's up?"
+
+Malcolm bared his teeth. "Bored. That's all. When are we going somewhere? I need a planet to rescue."
+
+A voice behind them said: "I know about five hundred in need of it. At least."
+
+The Doctor, done with his repairs or his maintenance or his tinkering, whatever the hell he'd been up to. He was covered in grease, or something that looked like grease that he would probably deny was grease. He wiped at his face and succeeded merely in smearing it around. Malcolm laughed, and hiccuped, and then found himself turning away from the pair of them and curling up around himself because it just made him want to cry. Fuck, he was lost. The Doctor: the first man he'd ever let himself want. Clara: the woman he would want until he found himself on his deathbed. He wanted to be with them forever but they belonged to each other, not to him, and he'd be discarded again and--
+
+Shit. Stop. Get control of himself. This wasn't a weakness he ever allowed himself to show.
+
+He found his voice. "Five hundred planets? Fucking too many. Let's go fix one."
+
+"No planets," Clara said. She was rubbing his shoulder. Little circles. Warm hand. It felt like everything Malcolm had never known before he'd followed her into the time machine. Fucking time machine, with a study with a fire in it and a teapot that never emptied and technology he couldn't dream of understanding so it was magic.
+
+"Sometimes," the old coot said, "what needs attention is something smaller than a planet."
+
+"Can't fucking imagine why we'd waste time on anything smaller."
+
+"We're in a time machine, you berk."
+
+Malcolm wiped at his nose. "Now who's using language?"
+
+"You're a corrupting influence on me."
+
+The Doctor sat himself down on the carpet in front of Malcolm. He clasped his knees. Black jeans today and a black t-shirt, which merely disguised the amount of grease he'd managed to get on himself. Lovely hands, he had, long fingers that could work magic. He was a right cunt, the Doctor, and Malcolm was crazy about him. And about Clara. And about what they did.
+
+"What's gone wrong?" the cunt said.
+
+Malcolm closed his eyes. "Just thinking about what's waiting for me, when you drop me off again. When you're bored with me. Prison and ruin and sod-all."
+
+Clara's hand on his shoulder went still. "You didn't tell him?"
+
+"It didn't come up!"
+
+"Tell him. Tell him now. Or I'll tell him."
+
+"I've arranged--"
+
+Clara interrupted the coot. "He's made a deal with UNIT. Kate Stewart will have wiped a few records clean for you. For the next time we decide to spend some time in 2012. If we ever decide to spend some time there. I'm not sure I want to. It was a boring year."
+
+"The fuck? Records wiped?"
+
+"Wiped. Along with some minds. Nobody will remember a thing about the inquiry. No prison. A job with UNIT if you want it. Assuming--"
+
+"Assuming we go back before I'm an old man." But something in his heart lifted. Tom might have forgotten him, but these two hadn't.
+
+Clara stroked his hair. "Yeah, funny thing about TARDIS medicine. You'll be okay on that front."
+
+The old coot said, "You all give me the best years of your lives, and I'll give them back. If I can."
+
+There was some kind of grief in his voice as he said that, and Malcolm wondered for a moment what immortality felt like. Other people kept dying on you. You moved on. Over and over. Hell of a thing. He rolled onto his back and stared up at the Doctor then, at that face uncannily like his father's, and thought about this. The Doctor met his gaze openly enough, but with a smile that didn't reach his eyes. Well, wasn't that a corker of a thought? He might not be the only sad fucking sack in the room. Somebody else might have a better reason to sniffle into his shirtsleeve.
+
+The Doctor stretched himself out alongside Malcolm and got his arms around him. Behind him Clara did the same. It was too much, too fucking much. Why did they care?
+
+What came out of his mouth was: "You're fucking slippery. Lubed yourself up to fuck your real lover, yeah? Machine fucker."
+
+"Shut up," the Doctor said, and kissed him.
+
+Malcolm opened his mouth and kissed back. Fucking alien. Tasted like an alien. Felt like another man against him, which was alien in its own way because this was the only man Malcolm had ever let himself touch. A hard thigh between his pressing against his prick, an unshaven chin rasping against him. Fucking sue him, yeah, he was hard already and whimpering into the old coot's mouth. Taste, scent. Memory: the taste of the Doctor in Malcolm's mouth, the burn of his body inside Malcolm's, the warmth of Clara's body around him. Memory, emotion. He'd never known anything like this before these two had taken him in. They had him. They were holding him. These two, who were so devoted to each other, had decided to bring him into their circle and cherish him. He fucking didn't deserve it, would never deserve, would never understand why. But here he was, held warm between them.

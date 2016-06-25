@@ -10,8 +10,8 @@
     "url": "https://github.com/antennapedia/antennapedia.com/issues"
   },
   "dependencies": {
-    "async": "~2.0.0-rc.3",
-    "glob": "~7.0.3",
+    "async": "~2.0.0-rc.6",
+    "glob": "~7.0.5",
     "humanize-number": "0.0.2",
     "jade": "~1.11.0",
     "js-yaml": "~3.6.0",
@@ -20,7 +20,7 @@
     "metalsmith-autotoc": "~0.1.2",
     "metalsmith-beautify": "~0.1.0",
     "metalsmith-build-date": "~0.2.0",
-    "metalsmith-changed": "~0.2.0",
+    "metalsmith-changed": "~2.0.0",
     "metalsmith-collections": "~0.7.0",
     "metalsmith-date-formatter": "~1.0.2",
     "metalsmith-feed": "git://github.com/ceejbot/metalsmith-feed.git",
