@@ -23,7 +23,7 @@ banner: ../css/colepaldi_header.jpg
 ---
 It had been a long day of filming. Intense filming, even, with the Doctor making a difficult and impassioned speech about how Clara would be gone some day and how much it would hurt. It was the kind of thing Jenna didn't let herself think about, how much that would be her and Peter, some time in the late fall. Right now it wasn't. Right now it was fantastic. Right now, she was having the time of her life.
 
-An exhausting, mind. She didn't feel like cooking for herself; Peter volunteered. So off to his they went. Bottle of white wine, a bit of pasta and salad, nothing much. They were both actors and that meant neither one of them ever ate very much. Drinking, though, they could manage that. They had a day off tomorrow, according to the filming schedule, and back to the mess day after tomorrow. That meant a lie in, which meant Jenna could kick off her shoes and have that third glass of wine, sit on his sofa with him and decompress.
+And exhausting, mind. She didn't feel like cooking for herself; Peter volunteered. So off to his they went. Bottle of white wine, a bit of pasta and salad, nothing much. They were both actors and that meant neither one of them ever ate very much. Drinking, though, they could manage that. They had a day off tomorrow, according to the filming schedule, and back to the mess day after tomorrow. That meant a lie in, which meant Jenna could kick off her shoes and have that third glass of wine, sit on his sofa with him and decompress.
 
 She leaned her head against Peter's shoulder and sighed.
 

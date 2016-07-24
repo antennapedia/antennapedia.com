@@ -18,9 +18,11 @@ rating: general
 pairing: Peter/Jenna
 banner: ../css/colepaldi_header.jpg
 ---
+# p/j long haul
+
 Jenna shifted in her seat and pulled the blanket back up over her legs. Dallas to Heathrow, overnight. A long haul flight, they called this, a red-eye. Drinks service, a bit of dinner, more drinks in the hope of stupefying you, then lights out to trick you into sleeping. Lights back up before you wanted them up, breakfast before you wanted that. Then, sooner than you expected it, England below them, green fields if you were lucky, gray clouds if you weren't. Down at Heathrow, through passport control, say goodbye to Peter.
 
-That was all in an unimaginable future, though. Now she was in the middle of the unreality of it, strapped in a chair in the tube in the sky. White noise from the engines, the pervasive vibration. It wasn't like being anywhere, or moving. Maybe they were holding still and the set was being changed around them. Maybe they'd alight and still be in the States. She couldn't predict. Peter would probably say it was just as likely that they'd land on Skaro.
+That was all in an unimaginable future, though. Now she was in the middle of the unreality of it, strapped in a chair in the tube in the sky. White noise from the engines, the pervasive vibration. It wasn't like being anywhere, or moving. Maybe they were holding still and the set was being changed around them. Maybe they'd alight and still be in the State. She couldn't predict. Peter would probably say it was just as likely that they'd land on Skaro.
 
 Might happen. Would be more interesting if it did. Hold hands and run.
 
@@ -36,7 +38,7 @@ He frowned at her. "I'm right here."
 
 "You know what I mean."
 
-"I do." Peter unscrewed the cap of his water bottle. Jenna watched him drink. Eyes closed, lashes against his lined cheeks, throat working, water on his lips. He opened his eyes and caught her looking. He smiled and stuck the bottle into the pocket into the pocket of the seat in front. "We really should do a play together."
+"I do." Peter unscrewed the cap of his water bottle. Jenna watched him drink. Eyes closed, lashes against his lined cheeks, throat working, water on his lips. He opened his eyes and caught her looking. He smiled and stuck the bottle into the pocket of the seat in front. "We really should do a play together."
 
 "Or another long series."
 
@@ -107,3 +109,4 @@ Jenna shifted while he dug his sketchbook and pencils out of his shoulder bag, t
 Jenna closed her eyes.
 
 When she opened them again, the plane was completely dark save for the seatbelt sign and the exit markers. No chatter, just the roar of engines. Peter was curled up in his chair under her blanket with her, with his head against hers. He was grizzling quietly through parted lips. Jenna smiled. She'd have to tease him for snoring some day. Some day.
+
