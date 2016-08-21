@@ -362,7 +362,7 @@ Julius kissed the back of his neck, just below the fringe of hair. Malcolm had r
 
 Malcolm waved his free hand. "Sorted *that* two days ago. They saw it my way in the end. Still, happy it's Friday night. Happy to be here."
 
-"Mmm," Julius said. He slipped his forefinger into the space between the button of Malcolm's shirt and touched his skin. Malcolm made a pleased sound. Cuddling, he was cuddling his pet wolf of a Friday night and it was rather wonderful.
+"Mmm," Julius said. He slipped his forefinger into the space between the button of Malcolm's shirt and his trousers and touched his skin. Malcolm made a pleased sound. Cuddling, he was cuddling his pet wolf of a Friday night and it was rather wonderful.
 
 "And how was your week, Julz?"
 
@@ -370,7 +370,7 @@ Malcolm waved his free hand. "Sorted *that* two days ago. They saw it my way in 
 
 "You know best about that shite."
 
-"There are men I know in the City who do considerably better. I'm taking hints from some of the more cautious among them. The fellows who've been doing it for a few decades."
+"There are men I know in the City who know considerably better. I'm taking hints from some of the more cautious among them. The fellows who've been doing it for a few decades."
 
 The topic was, however, tedious. Another sip of whisky, and the warm glow commenced its spread through his blood. Julius felt himself begin to relax at last, truly relax. Malcolm was in good case; he'd been delighted by his present. They would end their evening with love-making. Julius found himself of a mind to get started on that happy project soon. He kissed the back of Malcolm's neck again.
 
@@ -384,9 +384,9 @@ Julius set the whisky tumbler aside and tugged at Malcolm's tie to loosen it. "I
 
 The shirt was now unbuttoned. Malcolm obligingly pulled the tails free of his trousers, so Julius could explore his bare chest at his leisure. Bare chest, narrow chest. Skin and bones, at least when Julius had got started with him. He was feeling a bit more padded these days, now that Julius had him eating regular meals.
 
-Julius let his fingers wander up to Malcolm's nipples. They were not all that sensitive ordinarily, but they could be coaxed into stiffness, which Julius liked. Down, down to his ticklish stomach, the fuzz over it, thickening as Julius stroked his way even further down. The band of his boxers, the patch of damp over the head of his penis, and there, hidden away, the penis itself. Lovely, tempting, penises were They tasted good, they felt good, they were such pleasure to hold in his hand, to stroke. Julius had known early in his life that the male form was his focus. Malcolm also found women arousing, which they had talked about once, when Julius had been in his cups. He found Malcolm's flexibility baffling. Women didn't have these lovely bollocks, so heavy in his hand, or penises. They didn't have foreskins to play with. "Tits and cunts," Malcolm had said, and shrugged, and they'd abandoned the topic as hopeless. They agreed on the pleasure of giving and receiving oral sex with other men, that was the important point. Even more important: Malcolm wanted to be taken by Julius just as intensely as Julius wanted to take him, which had been where their unconventional relationship had found its start.
+Julius let his fingers wander up to Malcolm's nipples. They were not all that sensitive ordinarily, but they could be coaxed into stiffness, which Julius liked. Down, down to his ticklish stomach, the fuzz over it, thickening as Julius stroked his way even further down. The band of his boxers, the patch of damp over the head of his penis, and there, hidden away, the penis itself. Lovely, tempting, penises were. They tasted good, they felt good, they were such pleasure to hold in his hand, to stroke. Julius had known early in his life that the male form was his focus. Malcolm also found women arousing, which they had talked about once, when Julius had been in his cups. He found Malcolm's flexibility baffling. Women didn't have these lovely bollocks, so heavy in his hand, or penises like Malcolm's, so thick. They didn't have foreskins to play with. "Tits and cunts," Malcolm had said, and shrugged, and they'd abandoned the topic as hopeless; no mutual understanding was possible. They agreed on the pleasure of giving and receiving oral sex with other men, that was the important point. Even more important: Malcolm wanted to be taken by Julius just as intensely as Julius wanted to take him, which had been where their unconventional relationship had found its start.
 
-Julius let his hand find a little bit of a rhythm, nice and slow, at the pace he knew Malcolm liked, slow and steady.
+Julius let his hand find a little bit of a rhythm, at the pace he knew Malcolm liked, slow and steady.
 
 Malcolm laid a hand over his. "Stop," he said. Julius stopped immediately, and released him as Malcolm tried to sit up.
 

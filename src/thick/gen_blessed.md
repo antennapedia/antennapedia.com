@@ -6,7 +6,7 @@ summary: Malcolm has a secret. Nicola stumbles upon it.
 rating: general
 pairing: gen
 banner: ../css/malcolm_tux_header.jpg
-published: 2016-03-02T12:00:00-08:00
+published: 2016-08-16T12:00:00-08:00
 tags:
     - p:gen
     - f:the-thick-of-it
@@ -759,3 +759,265 @@ A kiss in the garden, and yet Malcolm was there, lean and hungry at Brutus's sid
 Julius was saying something fawning at Tom and the two men were laughing, and Tom was clapping him on the shoulder and guiding him out. Malcolm tasted metal in his mouth. He was dizzy. Fucking dizzy. Shit. He had to pull himself together.  Fear. Fight. Flight. Neither: control himself.
 
 Julius departed with Sam, and the door shut behind him. Malcolm was alone with Tom.
+
+## Tom
+
+Malcolm was alone with Tom. Tom B—, the man who ran the nation. Not the prime minister, but his deputy. Leader of the LibDem party following a short sharp internecine power struggle that had ended with Nick Clegg on the street. Well, not on the street. None of these people would ever live on the street. Tom, Tom, the Tom. In his office, looking sleek and well-fed as ever, relaxed, pleased with himself, all resplendent in a blue bespoke suit and a tie with green stripes in a shade that made Malcolm grit his teeth. Tom had a little gray in his hair now, a little more weight around his middle, but he looked as hale as he had a decade ago when Malcolm had begun managing his media strategy. Back when he'd been a backbencher, a hollow inoffensive headpiece with hollow inoffensive policies. Older, harder, sharper, and somehow still hollow. Also in his office, looking around as if he owned it, which he did.
+
+Malcolm's stomach twisted. His captor, in his office. Why? Why was he smiling so jovially?
+
+"Malcolm!" Tom said, and stretched out a hand to shake. Malcolm took it, pressed Tom's cool palm for a moment.
+
+"Tom! Bit of a surprise to see you here."
+
+Sam hovered. "Anything I can get you? Tea?"
+
+Malcolm glanced at Tom then shook his head. "Thanks, darling, we're lovely."
+
+He watched the door to close behind her. He gestured toward the visitor's chair and waited for Tom to sit. He perched himself on the corner of his desk, ankles crossed, arms crossed, smile pasted on. "So what brings Mahomet down to the cave of the ex-journalists?"
+
+"Several things. Was going to ring you, but then realized would be wiser to chat in person."
+
+Malcolm knew he was supposed to be flattered by this: he was important enough to the Deputy Prime Minister that he warranted a visit instead of a summons, but what he felt instead was fear. How discreet was Julius being? A revolt as a legitimate act in these days of fluid political alliances, a legitimate act, a legitimate fear. And now Malcolm was complicit. He had to hope the guilt wasn't on his face. Thank fuck Tom wasn't a sensitive.
+
+Tom rubbed at his nose. "Did you hear that an angel was spotted on the roof of a church in the City this morning? Showed up on Instagram in a blurry shot. The rector was interviewed on Radio 2. Described somebody a bit like you, though without your trademark language."
+
+Malcolm felt himself relax. This was not the conversational gambit of a man who suspected him of plotting with Nicholson. This was a man who'd come to shoot the shit, the way he used to. He flapped his hand around apologetically. "Yeah, sorry, that was me."
+
+"A bit risky, yeah? Thought we agreed you'd stay hidden. Thought you preferred being hidden."
+
+Malcolm shrugged with palms up. "Need to get out every now and then. Stretch the wings. Get restless, you know?"
+
+"Cabin fever?"
+
+"Yeah, that's the word. Need to fly. Sometimes I like to mess with them a bit. Make them wonder what the fuck is going on."
+
+The side of Tom's mouth twitched up. Yes, he would like that kind of reason. But he wasn't leaving it. He continued: "There's something the rector said that interested me. Something about your wings. They were red, he said. Really?"
+
+Malcolm said, "I need a holiday. They always get ragged when I'm due for a lie-down in Majorca."
+
+"Show me."
+
+And with that, the air in the room went tight and hot. Tom's voice had the force of an order. Malcolm felt it deep inside, at the indescribable place where soul joined body. *Obey.* He stood almost without thinking and stepped away from the desk to give himself room, and then got control of himself and breathed deeply. If he was going to do this, he was going to do it at his own pace.
+
+Show himself. To Tom. He'd done this only a handful of times in front of Tom, though Tom liked it when he did, liked reminding himself of the power he had. Once he'd laughed and told Malcolm to take his tackle out. Malcolm had frozen and stared, unwilling to believe he'd heard the words. He'd had a moment of insight: this is what women felt like when men said those things to them. Ha ha, just a joke, all very funny, and so very demeaning. Tom had him under his thumb. Tom knew it. He was Tom's *bitch*.
+
+Show him. Show Tom his wings. Right. He would manifest himself for Tom.
+
+Eyes closed, palms out, wings slowly shifting from the other plane to this one. Wings outstretched, then curled around himself slowly, protectively. Blood-red, dripping with blood that vanished in smoke before it hit the floor. He let the sword come into being in his hand: a long deadly thing, all silvered steel with flames rippling along it. It felt solid in his hands, heavy, balanced, the leather wrapped round the hilt cool against his palm. It felt real. It was nothing like what the Swords had, with their spinning scythes and broadswords as tall as they were, but it was a real thing. Deadly. Unnaturally sharp. It would cut the very fabric of space-time if he wanted it to. He left it hidden unless he truly needed to show it. Or somebody made him. They'd made him take it out and use it at the school, taught him all the things he could do it with it. Set it aflame. Stand guarding a passage with it spinning before him. Lend it to the worthy at moments of great need.
+
+Somebody was always making him use his powers. Show himself here. Carry this message there. Inspire or terrorize that minister into doing what was wanted. He'd only ever done the one thing for himself.
+
+The flames crackled in the quiet of his office. The thing was huge but no weight at all in his hands. He'd once tried to hand it to another student at the school for the Blessed, back when they were giggling idiots, before he'd learned the truth of his burden. The other student had wrinkled her nose and refused to touch it.
+
+"There's blood on it," she'd said. She'd been a Seer, that girl. Precognition, dreams, clear visions of the past, murky glimpses of the future. Hardest of all to bind to service, the Seers. They vanished when they didn't want you to find them.
+
+Seers wouldn't have fallen into Tom's trap.
+
+Malcolm held the sword upright before himself. *There's blood on it.* Human blood? Blood on his hands. Metaphorical? Or a vision of a real future ahead of him? Blood. The sword was real. He could swing it and slay Tom, judge him, damn him, rend soul from body. Malcolm himself would also be damned before the first drop of blood hit the floor, for the sin of breaking his oath but Tom would be just as dead, just as damned. It was a breath of life in the hot, still room, hope flowing into him. Tom's great web of influence would be shredded on the edge of his blade. The government would fall, Cameron would be unbound. Yes. It would be worth it.
+
+Malcolm closed his eyes and tightened his hand on the hilt. Act--thrust. Kill him. Now.
+
+He could not.
+
+He opened his eyes. The other world flickered around him. He could see the pale flame of Tom's soul within him. He was a pure human, untouched by the other world. He was what Malcolm was charged with serving. And he was Malcolm's master. Chains on Malcolm's wrists, heavy chains. Tom held them. The slave could not kill his master.
+
+The slave could only turn the sword on himself.
+
+Malcolm swayed on his feet with the audacity of this idea. Do it? Do it now?
+
+Malcolm moved his hands just so, mimed sheathing the sword on his back, and it retreated into that other world. He curled his wings around himself. Smoke, blood dripping from red feathers. The stain on his soul was now evident for all to see. A fallen angel, bleeding out his guilt.
+
+And then Tom laughed. "You're the devil they say you are," he said. There was no fear in his voice, none at all.
+
+"Still an angel," Malcolm said. "Still holy."
+
+A frown from Tom, as if he hadn't wanted to hear that, and then, "Still mine?"
+
+Malcolm inclined his head to Tom, a half-bow, a hand on his chest over his heart. No words, because he could not have spoken them. Yes, he was Tom's. Tom's bitch. Tom's water-carrier. Tom's messenger. Tom's fallen angel. Craven. That was the only word for him. Fucking craven. He strutted around terrorizing minor civil servants and was a cringing, hand-wringing sycophant when he was before his liege-lord. The man he'd sworn to serve, the man who owned his soul. He remembered drinking. The dizziness, the warmth, the blessed unconsciousness. He'd given it up for his father's sake. His father was dead. He could be drunk now, and it wouldn't hurt like this.
+
+Tom flicked his hand at him. "That's enough of that. What was Nicholson here about?"
+
+Malcolm hid himself again. He adjusted his tie and resettled his cuffs. Mere temporizing, because he could feel Tom's gaze on him, unwavering. This was the real reason Tom had come. He looked up to meet his master's eyes. "The usual blue-sky scheming. He was looking into schools for the Blessed for some fucking reason."
+
+"I asked him to."
+
+"Why?"
+
+Tom made an easy gesture, a practiced gesture, the kind Malcolm drilled him in, one that said the answer was almost too obvious to say out loud. "You people are a resource this nation is extracting insufficient value from."
+
+"What the fuck does that mean?"
+
+"It means that I am unclear why we kill ten percent of you at puberty and spend a rather large sum of money educating the other ninety percent and end up with a scant thirty percent of you in public service."
+
+"Do you propose to kill us all?"
+
+"No." Another pale smile. "I propose to educate more of you rather differently. Or perhaps I'll propose that. Nicholson has yet to give me his thoughts about how many more of you we could turn into public assets with a more, shall we say, patriotic curriculum."
+
+"Sounds like the kind of thing you ought to do in all the schools."
+
+"The thought has occurred to me. David and I argue about it, the amount we spend on schools. He thinks it's too much. I think otherwise. He tells me I might as well have formed a coalition with Labour." Tom grimaced. "If Cameron has his way we'll be a third-world nation before our children grow up. He really doesn't belong in the office. PR man. No deep convictions."
+
+Tom's face was now completely blank. No, not blank. It was cold. This was the face of the man who'd maneuvered Clegg into the end of his political career without blinking. The face of a man contemplating his next step toward the throne. And he would get there, Malcolm had no doubt. Things went the way Tom wanted them to go, in Malcolm's experience. Somehow opponents retired, made dreadful mistakes, fell ill. Cameron would make a fatal political mistake soon.
+
+Malcolm wondered, not for the first time, how many other Blessed Tom had managed to ensnare. He'd never seen another one in Downing Street, never felt the kinship one touched being felt for another. But that meant nothing. They might all be staying better-hidden than Malcolm was. There had been that sphere of light, the day Tom had extracted his oath from him, but Malcolm hadn't seen it since. It had to still be there, helping Tom as much as Malcolm was. Willing, unwilling? It didn't matter. Tom was using them all. Power. Tom would have it. The premiership. The government. If Malcolm did nothing, it would happen.
+
+Would it be so bad?
+
+Tom crossed his knees neatly. "What have you done about that refugee story?"
+
+"Too big a problem even for me." Malcolm shrugged. "Out of anybody's control once that photograph went viral."
+
+Tom sighed. "A damned photogenic corpse. All over the Internet. I want it gone."
+
+"His name was Aylan Kurdi."
+
+Malcolm stood completely still and impassive under the sharp look Tom gave him.
+
+"I know what his name was. I got the briefing. I'd like to make sure that his name doesn't appear in speeches from that hack Corbyn. Make it vanish."
+
+Malcolm felt his hands tremble. Rage, true rage, none of the feigning shite he did to frighten people. This idea had occurred to Tom. He thought it was possible to do such a thing, to silence grief with money. Blood money. Forty fucking pieces of silver. He thrust his hands into his pockets. Calm. Stay calm. Do not become the Angel of Death now.
+
+And then he realized it didn't matter. It was over for him. Tom could say whatever he wanted; he could hurt Malcolm no longer. Temporize. Make it through to the night.
+
+So Malcolm shrugged again, and said, "Might be best to spew out some platitudes and let it die on its own. News cycle will find something else. I'll feed it something fucking pointless."
+
+"I just want the Labour milksops to stop agitating for us to spend money on it."
+
+Those people. Malcolm bared his teeth. "We could accept more refugees. We look like right cunts compared to the rest of the EU with our refusal--"
+
+"It doesn't matter what we look like to the EU. We have an election coming up we need to win. Matters far more how it plays in Leeds than in Munich. Right now David is playing to the anti-EU people anyway, with this talk of an exit referendum." Tom brushed at his knee and smiled, and Malcolm understood how Cameron's fall would be arranged. "Where is this coming from anyway, Tucker? All this sudden desire to spend tax dollars on Syrians?"
+
+"It's fucking easy to manage the press when we look good. When there's nothing to spin."
+
+"You'll just have to deal with it. And there's sod-all to spin in the home counties, so long as you contain it. And contain that flaming pain in my arse, Helena Smith."
+
+"The Guardian writer? Yeah, can see why she would fash you. Aye, I'll handle her."
+
+Sure, make promises he had no concept of keeping. He'd be gone. Gone. His hands were still trembling, whether from the residue of rage or from shock at the idea that had come to him earlier. Don't think about it now. Keep his wits in the game with Tom now. Don't give away anything. Fence, play chess, volley back the fucking tennis ball, whatever fucking game it was the Eton aristos played with each other. The fate of the world as side-stakes while they diced and back-bit each other for control of one run-down island.
+
+He would play it now. For one afternoon more. It was a relief to think it, a relief to remind himself that he'd be ending it. And he knew exactly how, now.
+
+"Brings me to my next topic: Nicola Murray. How the hell did she come off so well this morning?"
+
+Malcolm grinned at that, actually grinned. "I briefed her. Sorted out her policy statement for her."
+
+"Why the hell did you do that?"
+
+"She's your minister. Your hand-picked LibDem among the Tory wolves. Want her to look good."
+
+"I don't want her to look good. I want her to fail."
+
+"That wasn't your plan for her--"
+
+"The plan has changed."
+
+"You need to fuckin' tell me these things," Malcolm said. "I do best if I know what your real intent is."
+
+"Sorry, Tucker. That's need to know right now. There are conspiracies afoot. Men who think they can win this election their own way."
+
+"Cameron? That fucking twat?"
+
+Tom smiled at him but it was cold, so cold. "Apparently so."
+
+"Fucking faff-arsed pig-fucker. I'll shred him."
+
+"I have absolutely no doubt that you'll do exactly that when I ask you to do so. And not a moment before."
+
+Malcolm grinned, because that's what he would have done before his awakening, before he knew himself. "Yeah."
+
+"If Nicholson mentions Cameron to you, I want to hear about it. Immediately, do you understand? Change into your inhuman form and come to me with it."
+
+"Understood."
+
+"Meanwhile, Murray. Ruin her. Prove to me that you're still mine."
+
+Malcolm laid his hand on his heart and bowed for the second time in that short interview. "Consider her fucking ruined."
+
+"Good man. Knew you'd see it my way."
+
+"I always see it your way, if you fucking talk to me. I'm no' a Dyson. I abhor a fucking vacuum, yeah?"
+
+Tom stood up and studied him closely. "You're an interesting tool, Malcolm. One of the best recruits I've made from you people. I wish I could trust them all as much as I trust you."
+
+Recruit. Fucking recruit. He'd been press-ganged. Malcolm smiled thinly, but said merely, "I live to serve. Speaking of which, don't fucking wear that tie next you're in public."
+
+Tom picked up the end and rubbed it between his fingers. "My mother-in-law gave it me. She wants to see it."
+
+"Only if you want to see yourself in a hundred memes. That green. No good on television. Wear it when you're visiting on holiday. I've taught you this, I swear, you're fucking hopeless. It's like you and those loafers."
+
+Tom smiled at him easily and shrugged. "They were comfortable."
+
+And with that, the conversation was over. Tom turned from him and made his way out into the front office, where a couple of Malcolm's press relations crew were loitering, hoping to be noticed. Tom spoke with them, all benevolence and ease, called them each by name, glad-handed them. Malcolm watched and kept the snarl on his face. And then he swept out, his assistant trailing after, on his way back to Downing Street, to the hollow corridors of power, where Cameron was leader in name only.
+
+Malcolm watched him go with that sense of peace still with him. He would be dead by the morning. He knew how he'd do it now. Tom was no longer a threat. He was gone. Malcolm had left the building.
+
+Sam shooed the last of the flunkies off with errands to run, and came back to him rolling her eyes. "I swear, they're like star-struck kids."
+
+Malcolm pinched the bridge of his nose. "Sam, have I got anything else today?"
+
+"Nobody's scheduled. Its just the recordings and a few pieces from the morning papers for your review."
+
+"The usual meaningless shite."
+
+Sam cocked her head and studied him. Malcolm tried to meet her eyes but found himself uncomfortable. He shoved his hands into his pockets and stared at the floor instead.
+
+She said, "Bit early for a cup, but you want me to make you one?"
+
+"Aye. Make yourself one and come in, yeah?"
+
+He regretted it the moment he turned away from her, because it hit him then, and his hands began to shake. He'd made it through the conversation without giving away Nicholson. Tom didn't suspect Nicholson in the least. His attention was entirely on Cameron. He'd have to let Jamie know.
+
+One last conversation to get through, then he'd be free.
+
+He went over to his shrine and touched the cross, burned another pinch of incense, said the ritual words again. A third time that day, and he could not do it often enough to calm himself. It was a ritual twitch, like praying the rosary had been when he was a kid. He needed soothing. He was not going to ruin Nicola. He was not going to destroy a journalist who happened to write a story that Tom found inconvenient. He was not going to do these things because he was going to take his sword and use it on himself in the night. His sword. His sword could kill another Blessed being. He could fall upon it.
+
+He could. He could. He could do it. He could do it now. No, not now. Not where Sam would be the one to find him. He had to see Jamie first. He had to warn Jamie.
+
+He sat down on the floor beside the little shine and leaned his back against the wall. He let his head tip back. Wasn't bad down here on the carpet. The scent of incense and candle wax was strongest here, and  it was comforting. He had a different view of his office, his life. Messy sliding piles of DVDs with scrawled Sharpie on them, name of politician, name of television show, date. Stacks of books, lives of politicians, the ghostwritten books they published, in gaudy red and blue jackets. File folders. The locked cabinet with his blackmail notes. Newspapers on his desk, the laptop, the antiquated telephone. His haunt for the last few years. His last time seeing it all.
+
+Unreal, yet such a relief.
+
+An idea was coming to him now, a way to twist the knife. If his body was found, the body of an angel that had committed suicide, if it was clearly suicide, if he could tie it back to Tom somehow. Write a note, do it somewhere public. Under the dome of St Paul's, maybe. Or in Westminster. Somewhere showy. Nowhere that would frighten any kids, but public enough that they couldn't hide it.
+
+The sense of peace settled on him again.
+
+When Sam came in with tea, Malcolm was still there on the floor, legs stretched out before himself. Sam said nothing about it, just handed him down his cup and to his surprise, sat down next to him, her feet tucked under herself. There they sat, side by side on the floor of Malcolm's office, with their backs against the wall underneath the shrine. Malcolm blew at his tea and sipped. He liked it sweet; Sam liked hers with only a little sugar and a lot of milk. Things they knew about each other, things they didn't speak about. She'd been smoothing out his days for him for years now, long before they'd had any scent of real power, when Tom had been a back-bencher with little hope of enacting a bland and uninteresting middle-of-the-road agenda.
+
+Malcolm hadn't much given a damn about that agenda. It hadn't angered him; it hadn't thrilled him. Carrying Tom's words to a wider audience had been fine. He swallowed his tea and said, "When did it all start going wrong?"
+
+Sam tilted her head and scrunched up her nose. "When Tom pushed Nick out, I think. That's when it all got strange."
+
+"Yeah, that was an inflection point. But I think it was sideways before that. Maybe as early as his move to London."
+
+"That was before my time. Christ, how long have I been with you? Six years?"
+
+"Seven, I think. I haven't been too fucking awful, have I?"
+
+"Not to me, you haven't. You gave me a scare today, though."
+
+"Sammy," he said. He brushed hair away from her cheek. "Sorry about that."
+
+He bent and kissed her cheek, where his finger had just touched. It was no more than he'd done before at the yearly Christmas do, but this time he was saying goodbye.
+
+"What's wrong, Malc?" Sam said.
+
+He sighed. "Tom wants me to get the international news to shut up about Syrian refugees. There's a Guardian writer he wants to feel the wrath of Tucker." Sam's face changed. Malcolm said, "Yeah, I know. I'm not going to do anything about it until tomorrow at the earliest. Okay? If he asks you tomorrow what I planned to do, tell him that. I won't be here."
+
+"Malcolm!"
+
+"Hey, hey, darling, it's okay. This morning was a symptom, yeah? Going to take a day or two somewhere with a spy novel to read or something mindless. Back to face the fuck office once I can bear it."
+
+This lie hurt more than any of the lies he'd told that day. He could lie to Nicholson easily, but Sam? Fuck. There was more there than he'd known. Sam would understand after a while; she had to. After Jamie told her. He couldn't do it himself. Too ashamed to confess it to her after these years of her keeping his secret, keeping all his secrets, arranging his days for him. He'd let himself be trapped. He'd knowingly done evil.
+
+Distract, distract. He reached into himself and found the perfect words for her.
+
+"His Baldyness wants me to come to dinner with his fuck toy some time next week. Make sure I'm free for it, would you? Don't want to waste an opportunity to dig up more dirt on him."
+
+"Right, I'll set that up for you."
+
+He tipped up his mug and drank down the last of his tea. A little sugar at the bottom. He set the mug on the carpet next to his thigh. Gray trousers, sharp crease, too baggy on him. He'd had to start wearing belts to cinch them in at the waist. He denied himself food more often than anything else. Well, companionship. He denied himself that. Penance. He'd known he was not right for years, since he'd stopped drinking, and he hadn't figured out why until that morning. Tom wasn't right. He wasn't Cursed or anything like that. He wasn't evil. He was after power and he stood for nothing other than the desire for power. Ministers and policies and governmental programs: game pieces on a board that either moved him closer to his goal or not. Nicola Murray had to go because she had suddenly shown signs of competence. While she'd been useless she'd been safe.
+
+And he was the damned fool who'd encouraged her. Well. He'd find a way to salvage Nicola if he could. He'd put Jamie onto it. And he'd have Jamie take care of Sam, too.
+
+Jamie. Christ, he'd have to tell Jamie everything.

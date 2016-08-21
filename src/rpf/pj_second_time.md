@@ -278,7 +278,7 @@ He said, to the newspaper he wasn't reading, "Is making toast a euphemism?"
 
 "I think not. Peter, is there something else you need to tell me?"
 
-"No," he said, hastily, and he set the morning Telegraph down.
+"No," he said, hastily, and he set the morning Guardian down.
 
 "Yes," she said, and dipped her spoon into her coffee cup. Peter watched the spoon move, the milk swirl into the coffee and lighten it, and did not look at her. "You may as well tell me," she said. "You can never sit on anything for long. At least not with me."
 
