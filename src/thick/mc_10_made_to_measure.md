@@ -19,7 +19,7 @@ tags:
     - kink:clothing
     - kink:measurement
     - clothes
-    - tailorin
+    - tailoring
 altlink: http://archiveofourown.org/works/7378156
 ---
 Malcolm bowed Clara over the threshold and into his home, with a little bit of a predatory smile on his face. Well, not predatory. That was reserved for her. Anticipatory. They'd had a nice dinner out and a bit of modern theater that he'd enjoyed insulting for her afterward in the cab, and now they were heading upstairs for what Malcolm considered to be the main event of his week: he was going to be on his knees, and he was going to be begging, and maybe he'd be coming. And whatever else he felt, he was going to be happy about it.
@@ -82,7 +82,7 @@ Malcolm felt a spike of outrage that he swallowed, because it was Clara, and Cla
 
 "You have money."
 
-"I put it away for my old age. Spend it on nice holidays with you. Don't spend money on clothes. That's for women."
+"I put it away for my old age. Spend it on theater tickets with you. Don't spend money on clothes. That's for women."
 
 "Oh?"
 
@@ -92,7 +92,7 @@ He rubbed his chin. "I assume you do. You always look fucking gorgeous. The dres
 
 "Can't compete with you," he said to her. "Don't even want to."
 
-But it bothered him. It was like a burr stuck under his collar, the idea that he wasn't beating them at their own game with dress. He knew the Eton and Harrow club despised the likes of him: education paid by the state, a regional accent and worse a *Glaswegian* accent. He was supposed to say "what" and "sorry" and he didn't. Every time he opened his mouth he told them he wasn't as good as they were. He was trash. He was supposed to be a psychotic danger, a bit of rough imported to do dirty work that they wouldn't, so he was as they expected him to be. He was their bit of rough. He kept them off-balance with his tongue, with completely inappropriate and unexpected obscenity, and he browbeat them into doing their fucking jobs. His brain was, he knew, twice as fast as theirs, no matter what kind of education they'd had and however many drinking clubs they'd belonged to at Eton.
+But it bothered him. It was like a burr stuck under his collar, the idea that he wasn't beating them at their own game with dress. He knew the Eton and Harrow club despised the likes of him: education paid by the state, a regional accent and worse a *Glaswegian* accent. He was supposed to say "what" and "sorry" and he didn't. Every time he opened his mouth he told them he wasn't as good as they were. He was trash. He was supposed to be a psychotic danger, a navvy let in the back door to do dirty work that they wouldn't, so he was as they expected him to be. He was their bit of rough. He kept them off-balance with his tongue, with completely inappropriate and unexpected obscenity, and he browbeat them into doing their fucking jobs. His brain was, he knew, twice as fast as theirs, no matter what kind of education they'd had and however many drinking clubs they'd belonged to at Eton.
 
 They paid him, and they despised him, and Clara was right and he still fucking couldn't.
 
@@ -126,7 +126,7 @@ Clara held up something to him. Malcolm blinked. Yellow tape. Ticks all along it
 
 She pulled a chair over to him, and Malcolm resolutely looked away. He didn't fucking comment on Clara's height, not if he valued having an unbruised arse. To be honest, some nights he valued the reverse. But tonight he kept his jaw clenched and contained himself to holding out an arm when she wanted to stretch the tape along it. Tonight he was feeling off-balance and uncertain what she was up to. Tonight he felt like a right cunt. There he stood, arms out, legs slightly spread, while Clara held a dress-maker's measure against him in the strangest fucking places. Around his waist, yeah, sure, that he expected. Across his shoulders. Around his chest at tit level, which reminded him uncomfortably that Clara liked pinching his tits hard enough to bring him to tears. Uncomfortably? Maybe that wasn't the word. His cock twitched, dangling there out in front of him, all hard and heavy and conspicuous.
 
-He was conscious of his body in ways he rarely was. He was skinny cunt, yes, she'd told him that. No time to eat. No interest in food, really. No hair to speak of, and he'd never learned if she liked that or not. The sweat was trickling down his side, of course, from sheer nerves, the way it always did on their nights together. He suddenly worried about whether he stank after a day rampaging around yelling. He hadn't had time to shower. Realistically, no, he didn't stink, because he hadn't worked up much of a sweat, and Clara had never shown any signs of minding his sweat, and fuck him, he was distracting himself from this because he was hard and Clara was touching him. Measuring along the inside of his thigh, from his arse-crack to his ankle. From his ballsack to his ankle. Around his thigh.
+He was conscious of his body in ways he rarely was. He was a skinny cunt, yes, she'd told him that. No time to eat. No interest in food, really. No hair to speak of, and he'd never learned if she liked that or not. The sweat was trickling down his side, of course, from sheer nerves, the way it always did on their nights together. He suddenly worried about whether he stank after a day rampaging around yelling. He hadn't had time to shower. Realistically, no, he didn't stink, because he hadn't worked up much of a sweat, and Clara had never shown any signs of minding his sweat, and fuck him, he was distracting himself from this because he was hard and Clara was touching him. Measuring along the inside of his thigh, from his arse-crack to his ankle. From his ballsack to his ankle. Around his thigh.
 
 He swallowed. Did he fucking measure up? Did he compete? Were his balls big enough for her? Was his prick thick enough? He'd never worried about this shite before, always thought he'd had enough cock for any woman, but now she fucking knew exactly how much there was because she was holding a fucking measuring tape along the underside. Her hands were on him. He went very still, because her hands near his balls could be dangerous, and at best they were a fucking tease.
 
