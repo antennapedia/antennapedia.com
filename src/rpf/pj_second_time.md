@@ -8,8 +8,10 @@ altlink: http://archiveofourown.org/works/6880735
 tags:
   - f:rpf
   - p:peter/jenna
+  - p:peter/Elaine
   - c:jenna-coleman
   - c:peter-capaldi
+  - c:elaine-collins
   - genre:romance
   - on-set
   - polyamory
@@ -317,3 +319,177 @@ Sensible, calm. Okay. He could live with this. He could move on. Jenna would con
 "Darling. Come here."
 
 Peter stretched out his arms to her. Elaine set her coffee cup down and came over to him. He tugged her onto her lap and settled her in place. She was heavier than she'd been as a little slip of a pixie girl, all red hair and grin, but still so perfect in his arms. Her head was on his shoulder, her arms around him. Peter held his wife close and kissed the top of her gray head, that lovely short hair. Elaine. His soulmate, whether he deserved one or not. His refuge, his safety. That was what she had in common with Jenna: they both made him feel safe and cared for. And he tried to do the same for both of them in return. Back them as best he could, remind the world how wonderful they were, remind the world that his work wouldn't be the same without theirs.
+
+# Once is Enough
+
+Peter came back after his weekend home in an odd mood. He put his hands in his pockets and shuffled his feet and ran off to chat with Steven instead of coming to her and working on their scenes the way he usually would. At lunch Jenna cornered him.
+
+"Peter."
+
+"Oh hi hi, J-Lo. How are you?" He smiled warmly enough, then made as if to sidle away. Jenna stayed him with a hand on his arm.
+
+"I had a text from Elaine. We texted a lot, actually, until I called her and we talked. A lot faster that way."
+
+"Fuck." The expression on Peter's face was alarm, so Jenna laughed at him.
+
+"We sorted it. We're good with each other. I groveled. She told me not to. We talked about how beastly men are, present company being the only exception either one of us could name."
+
+"We aren't *all*--"
+
+"Yes, you are. All of you. Even you sometimes. That's why it's women for me."
+
+She crinkled up her nose and grimaced at him, and was utterly relieved to see his shoulders relax. He crinkled up his nose at her exactly the same way.
+
+"Sticking with this plan, are you?"
+
+"Yes. Now are you going to run lines with me after we both finish pretending to eat lunch because we're both worried about fitting into our costumes?"
+
+There, finally, was the impish look of pleasure she usually saw on his face, excitement and anticipation and the core of seriousness that he always brought to the acting itself when they came to it. He leaned forward and kissed the end of her nose, exactly the way he always did.
+
+"Right you are."
+
+That seemed to do it. Peter snapped out of his guilty mode and settled back into being her unlikely yet precious friend. And Jenna breathed a sigh of relief. She'd avoided disaster. Sex wasn't worth risking their friendship over. Yes, the memory sustained her some days, the memory of Peter's appreciation for her, of his pleasure in her body. He'd done something deeply precious for her. He'd managed to remind her that she was worthwhile, even if Richard had dumped her. She would move on; she'd find somebody else eventually; she was worth it. She was worth it. Peter had, with his absolutely intense delight, proven it to her. And that was enough.
+
+He loved her and she loved him, in a way that was unique to them, and they would always be the best of friends. Sex wasn't something they needed between them for that love. His warm hug and his kiss in her hair, those were plenty. And the joking and the pranks and the long conversations about anything that came to mind. And the acting, oh the acting. They were deeply in sync there, deeply simpatico, and the work they were doing together as a result felt great.
+
+Everything felt great, except she was draggy in the mornings and needed more coffee than usual. The barista at the canteen switched up her usual to a double-shot, she was so slow to get going. Side effects of working so hard, possibly. Jenna tried to get to bed earlier, tried to eat more healthily. No clubbing on weekends.
+
+They did a big Zygons script, which was really fun and gave Jenna a chance to show her chops. Ingrid was on set again, which was lovely because Ingrid was lovely. And Peter got the best shot of them all, with a long speech that ought to win him a BAFTA again if there was any justice in the world. Exhausting to shoot, though worse for Peter than for her. And then they were onto filming Mark's script, a fun monster of the week story with a bit of hand-holding and flirting and a lot of running in corridors. All in the studio, so it was as relaxed as a schedule that tight could ever be. Lots of guests in the cast for Peter to meet and charm.
+
+Jenna was still feeling off, though, especially around breakfast time. She hid in her changing room and napped when she wasn't needed on set. She hoped it wasn't a cold. It was a pain to work through colds. Flu was worse, had to admit that. And working through her period was almost as annoying, she'd discovered. One of the fun side effects of going off the pill: more libido, just when she had no outlet for it, and real periods again. Allegedly. She hadn't actually had one in a while. Not since--
+
+Jenna's stomach went strange, as if she were in an elevator going too fast. She counted weeks. Counted again. Surely no. Surely it couldn't happen if you did it only once. Surely she was supposed to be puking in the mornings or something like that. She pulled out her phone and googled for symptoms of-- of-- She typed it but couldn't bring herself to say it. Pregnancy. She might be pregnant.
+
+The runner came and banged on her door, and she shoved the phone guiltily into a pocket. Time to go one set. Time to shut it all away. Jenna went under the lights and became Clara again in little snippets of time, because that was what she did. Turned off herself and became somebody else, somebody who looked adoringly at the Doctor while he looked the same way right back, and oh, Peter, it was so easy to look at Peter that way. There were only two more scripts to go after this one, and-- No. Work. Panic later.
+
+She stopped at the chemist's on the way home and bought a huge pile of stuff she didn't need to disguise the things she really cared about in the middle of the pile, one of each brand the shop had. Drove home. Locked the door. Went into the bath and locked *that* door, too, even though nobody else was in the flat.
+
+She took the Boots pregnancy test in hand. Instructions on the box: piss on the stick. Okay, she could do that. Wait and watch the window to see if the line changed. How long was it supposed to take? Oh. Oh. They said it might take minutes but instead it happened right away: a complete line across the stick.
+
+That meant-- Well. That didn't mean anything. Second test, this one in fancier packaging. Do it again. Look at the window. Right. Okay.
+
+"You can handle this, Coleman," she said to her face in the mirror. "You're an adult. You're nearly thirty. You were planning on doing this some day. Just not now and like this and oh my god, it was Peter. Shit."
+
+Only *once*. They'd done it only *once* and this had happened. Okay, twice, but the time before had been when she was on the pill for sure. She counted back weeks. Eight? Maybe a bit less. On the early edge of when the tests worked, but two of them had agreed. She'd wait a week and take the test again. Maybe it was wrong. Maybe it was her weird hormones. Maybe it was a fluke.
+
+Jenna looked at her face in the mirror over the sink, that face with the cute nose and the eyes that could inflate at will. "Bugger," she said. It wasn't going to be a fluke. That draggy feeling she'd never had before. That was one of the symptoms.
+
+What would she do if this were a normal night? Make dinner, pour a glass of wine, curl up on the sofa with her laptop and watch Netflix or the Beeb on catchup. Wine was out, obviously. And she'd have to give up the caffeine.
+
+"My subconscious," Jenna said, to the face in the mirror, "has apparently made some decisions. Well, bother that. I decide. I'm going to have a drink or twenty."
+
+But she couldn't bring herself to pour out that last glass in the bottle of white she'd opened a couple of days ago. Not now that she knew what was going on inside. She could end it, yes. One of her friends had gone through that, after a bad time with a complete rotten arse of an ex-boyfriend. She'd felt a lot better afterward and hadn't looked back. But this wasn't like that. Jenna was in a perfect position to think about it. If she wanted to. If she wanted a kid. If she wanted *Peter's* kid.
+
+Keep the options open. Don't drink the wine. Find something healthy in the cupboards, eat it. Get to bed early. In the morning she was going to have to have one hell of a conversation.
+
+It was the usual madness during the day, starting with a latte that she couldn't manage to make herself skip despite everything, and a moment of stomach-flipping upset at the sight of grilled tomatoes and beans on a crew member's breakfast tray. No fry-ups, apparently. Jenna got her usual yogurt and granola and tucked herself into a corner to run her lines one more time. Not so much today: an easy scene with her showing off about knowing who Morpheus was, and the Doctor being impressed. Flirty, maybe the flirtiest they'd ever got, that was how she and Peter had decided to play it. Glory days, glory days, the Doctor and Clara on the TARDIS. Glory days for the two of them as actors, before they parted and moved on.
+
+Except parting was going to be tricky.
+
+Late afternoon, a runner came by with tea for the two of them, including the herbal mint stuff Jenna had asked for specifically, trying to be good. She sat with Peter in their chairs-- names on, bags beside them, Peter with that binder full of the script and his notes and the morning paper-- and drank and rested her feet.
+
+"Hey," she said to Peter, and nudged him with her elbow. Casual. Casual.
+
+"Hey, Jenn-Jenn," he said. "Not a bad day, eh?"
+
+"If you don't mind corridor-running, which probably you don't. Come to mine for dinner? Want to talk with you about some stuff. Private life stuff."
+
+Peter side-eyed her over the top of his specs. She hadn't had him over since that afternoon in the props room, and he hadn't had her over either. Keeping a tiny bit of distance, as Elaine had recommended to her, to let him recover himself. This, however, wouldn't keep, and there was no way she was saying any of it in public. Ever.
+
+"Private life stuff?" Peter repeated, eyebrow up.
+
+"Yeah. Important. Need to tell you a thing."
+
+He nodded. "Seven okay?"
+
+Jenna breathed out. "Yeah, assuming we end on time."
+
+"Looks like we will." Peter rapped his knuckles on the arm of his chair.
+
+They went home on their own, as usual, and as usual Peter appeared at hers on time, with a bottle of red wine in hand. That was their custom, to split a bottle with dinner and conversation, at least once a week, sometimes more often. Jenna accepted the bottle from him, looked at the label cursorily, and set it down on her countertop.
+
+"Shall I open it?" Peter said. "Don't know what you're planning." He pulled open the drawer where she kept the kitchen gadgets.
+
+"It's just some veggies and pasta. But, I'm, er, not drinking just now. Can open a bottle for you if you want some."
+
+Peter looked up from the drawer, corkscrew in hand. "Not drinking at all? What have you done with my Jenna?"
+
+"Yeah. About that. Peter. I need to tell you something."
+
+"Ah," he said. "We come to it."
+
+He set down the corkscrew and looked at her, all eager attention. There was a smile in his eyes, as always, and warmth. Lines on his face, a hint of jowl, and veins in his neck. Jenna let herself look at him, really look at him, at the man without makeup, without lighting, without the benefit of fuss from the people who fussed over them both. He looked like what he was: a wraith-thin and striking man in his late fifties, a man who thought a lot, who enjoyed everything around him, who put all of himself into his work as well as into his friends. He looked magnificent, with all that gray hair curling out from his head, but it was clear to her, when she looked at him, that he truly was thirty years her senior. His daughter was only a bit younger than she was. Was he a man who'd be happy to learn he was going to have a child now, when he was of an age when he might expect to be a grandfather?  Peter, the man whose life she was about to upset accidentally. The man who'd accidentally upset hers.
+
+The man who was worried about her, because he was reaching out to touch her arm, and saying, "Jenna, honey. What is it?"
+
+"I'm pregnant." That had come out a bit hoarse. She cleared her throat and said it again. "I'm pregnant."
+
+"Jesus, Jenn." Peter took her hands and peered into her face. "Are you happy? I'm happy for you if you're happy. I thought you'd given up men entirely?"
+
+"Yeah. That's the thing. I did. I gave you all up. The thing is--"
+
+"What?"
+
+"I've kinda been out of action entirely except for, um, that once in the props room. You're the only man I've been with at all in the last six months, maybe longer."
+
+His eyes went wide. "I-- Come again?"
+
+"You're the father."
+
+"Me?"
+
+"You."
+
+He was just staring at her, blue eyes wide and unblinking in a face that had gone entirely still.
+
+"Fuck," Peter said, softly. Then, "Sorry. Truly I am sorry. I didn't-- I-- What do you intend to do?"
+
+"I think-- well, I think I'm gonna have a baby. And raise it. On my own. And not tell anybody. So, yeah, there's that. That's a thing."
+
+He dropped her hands as if they burned him and jumped away. He vanished out of the kitchen and into her sitting room. She could hear him pacing, restless steps back and then forth.  Well, that *was* a thing. She hadn't known until she'd opened her mouth and the words had come out that she'd made up her mind. Peter was freaked. She was freaked. At least Peter hadn't fled the flat. He was still here, pacing, and that meant what she had to do was wait.
+
+Make dinner, actually. Jenna swore to herself and got down to the business of sautéing up some veg with tomato sauce. She had to eat, right? That was a thing she had to do now. Eat right. Thank everything that was thank-able that she didn't seem to have morning sickness to speak of.
+
+Jenna cooked, quietly, and opened the bottle of wine after all and poured out a single glass. She set it on the counter. Put a dollop of olive oil into the pot of water near the boil. Tossed in the fresh linguini. When Peter came back into the kitchen again, maybe twenty minutes later, she handed him the wine silently. He took it, drank, and set it down again. He moved in close behind her, where she stood at the stove, and cupped her cheek.
+
+"Jenna. I'm sorry," he said. "This is my fault."
+
+"How do you figure that? I made the moves on you."
+
+"I'm the selfish bastard who didn't put a rubber on because he wanted to feel good."
+
+"I'm the idiot who went off the pill and forgot about it."
+
+Peter laughed and stepped back from her. He ran his hands through his hair in that way he had, made it all stand on end. "Fuck, what a pair we make."
+
+"It'll be okay," Jenna said. "Nobody has to know anything. I can just be mysterious and elliptical in interviews. They'll probably decide it was Prince Harry and run mad with speculation about what that means for the succession."
+
+"Christ!" He went for the wine glass again and took another deep swallow. He looked at her over the rim of the glass and said, "I'm going to have to tell Elaine."
+
+Now that was panic she was feeling. She shook her head hard. "You don't. We can pretend this isn't yours. I can just not tell anyone. It'll be okay."
+
+"You can do that. You can do what you like and I'll support you, but I know. And that means Elaine has to know, if nobody else does. And Jenn-- Jenn. I can't walk away. Can't. My child-- my responsibility. If you're willing to take anything at all from me, I'll give it."
+
+Peter emptied the glass and then poured himself a second. Jenna watched him drink, then noticed he was getting all blurry. Oh. Right, it was her eyes. She was tearing up. Crying. Shit. Peter got his arms around her and guided her over to the kitchen table. He sat down, tugged her insistently until she got into his lap, and held cradled in his arms. Jenna pushed her face into his shoulder. He was crying. Peter was crying. She was crying. He was rocking her and crooning soothing things to her and there were tears running down his face.
+
+She didn't deserve this. She'd seduced him. Yeah, he'd consented enthusiastically, yeah, but she'd been the one whose idea it had been, and he'd been the one who'd panicked a little bit afterwards and who'd had to confess to his wife. It hadn't been fair of her to want that comfort from Peter, a married man. It hadn't been okay. She should have found a random stranger in a club and picked him up and done the wild thing. Then she'd have been breaking a very different sort of news to Peter.
+
+Would she have considered keeping a child that wasn't Peter's? Shit, she was a terrible person. This was terrible. Everything was awful.
+
+And then the pot on the stove boiled over.
+
+Jenna swore and sprang up and dealt with the pasta. Soggy, yeah, but not too badly overcooked. No need to ring for carryout curry, not yet anyway. Peter joined her at the stove and quietly helped her rescue the dinner. He set plates out and rummaged in her fridge for fizzy water. Sat with her, completely silently, but he stretched his hand out and clasped her arm for a moment.
+
+"Jenna," he said. "I've no earthly idea what to do other than tell her."
+
+"You don't have to know what to do. This is on me."
+
+"Elaine will know what to do. She'll sort it. She'll rescue me from my utter stupidity yet again."
+
+"Peter--"
+
+"She will. We'll talk to her."
+
+Jenna sighed. "You're right. Okay. We'll talk to her."
+
+*We.* And that meant Jenna had to face the woman she'd made Peter cheat on, the woman who'd forgiven her for that but might not forgive her for this.
