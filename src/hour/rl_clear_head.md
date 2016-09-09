@@ -262,3 +262,67 @@ Peter nodded solemnly. "Mummy hugs are good."
 "Yes, please."
 
 Randall slid out of bed and took his son by the hand.
+
+# Letter-writing
+
+The next morning Randall's lovely, thoughtful blue-eyed son woke his parents with a notebook, a box of crayons, and a pencil in hand. He wanted to write his letter to the Doctor, and it was quite important. So important that he was not certain he could wait until after breakfast. He had, he said, already written a letter but he wanted help with some spelling.
+
+"Sleep," Randall said to Lix. "I'll help him."
+
+Lix smiled at him, touched his arm affectionately, and rolled herself back into the blankets. They had been awake rather late last night, occupied pleasantly with each other.
+
+Randall pulled on a robe against the damp morning and shoved his feet into his slippers. He hadn't slept enough and he ached after the exertions of the night. What had possessed him to father a child at the age of fifty? He would be snowy-haired and tottering before this lad went off to university. Which he surely would; he was reading and writing quite ahead of his classmates. He was so absurdly blessed, with this wife he loved to talk to, loved to hold close, with this son who was so solemn and funny and inventive and clever.
+
+Peter's letter was, aside from the spelling, quite lovely. He had learned recently in school how to write letters, and so he had got the formal parts right. Randall set coffee to brew and sat with his son at the kitchen table to write out a clear, correctly-spelled version of the letter. Peter had not yet learned cursive writing, so he wrote it all out in careful block printing.
+
+> Dear Doctor Who,
+
+> You should know that there are bad robots in my closet. They want to invade. Please stop them. Thank you.
+
+> Peter Storm Brown, age 6
+
+"An excellent letter," Randall said, and stroked Peter's wild hair.
+
+"I'd like to draw the robots, Daddy," said Peter. "So he can know which ones."
+
+"Sensible," said Randall.
+
+His son took a red crayon from the box, considered it, exchanged it for a black one, then began work drawing the robots. They were, as Randall suspected, rather like pepper pots, with a single protruding stalk in front. He sometimes wondered about the wisdom of allowing Peter to watch the television at all, if his favorite program was going to be the source of so many nightmares. But it seemed to provide equally as much inspiration, as Peter seemed determined to be worthy of helping the Doctor some day. The Doctor and the Beatles, it was hard to say which shadowy figures on the telly were more important to him. He liked singing, he liked drawing, he liked writing little stories. There was no telling what Peter would be when he grew up: right now Randall could imagine no limits for him.
+
+He might grumble and grouse on cold mornings, but there was not a bit of him that minded being a father. Not of this boy, and not with his beloved Lix.
+
+Randall poured coffee for himself while his son drew. Black, a little sugar to indulge himself, to take off the edge of the bitterness. It was not good coffee. He popped some bread into the toaster; it would be an early breakfast, quite ridiculously early for a Saturday, but Peter would recall his body and his boy's appetite as soon as this letter was dealt with.
+
+Randall watched his son draw and color in the robots, so intent, so careful. His drawings did seem to occupy most of his attention. Perhaps he would find his métier there. There was no reason to rush him to decisions, not at his age; he had another decade before anyone might ask him to work it out.
+
+"Done," Peter said. He handed the paper up to Randall. "That's my closet, and that's the robot and that's Bun-Bun running away." Bun-Bun, his stuffed rabbit.
+
+"An excellent likeness. I think the Doctor will find this most informative. Shall we get it ready to post?"
+
+"Please, Daddy."
+
+Randall fetched an envelope and a stamp from his writing desk, along with a pen for writing the directions.
+
+"Will it all fit in?" Peter said, dismayed at how much larger the paper was than the envelope.
+
+"Yes, it will fit. We'll fold it in three along with your letter, see?"
+
+Peter smiled when he saw how the two pieces of paper folded up together and slipped into the envelope. He was fascinated by paper airplanes as well, Randall had observed. His next question was also astute:
+
+"How will the postman know where the Doctor is? The TARDIS moves around. A lot. It went to the Aztecs that one time! And it goes into space too. And--"
+
+"Ah!" Randall said, forestalling the list of places the TARDIS had gone that he knew would follow. "I have a bit of an advantage there. You see, I know the wonderful lady at the BBC who works on bringing the Doctor to you. She knows exactly where the TARDIS is on this date in history, so she'll see he gets it."
+
+Peter watched him address the envelope. "What's that mean? C O?"
+
+"Care of. See? The Doctor in care of Verity Lambert."
+
+"Does that mean Verity--"
+
+"Miss Lambert."
+
+"Does Miss Lambert take care of the Doctor?"
+
+"Yes," Randall said. "She certainly does." He smiled down at his son's curly head. "Would you like to lick the stamp?"
+
+"Please!" Peter said, and his entire body told Randall how happy he was to help with the envelope. What an adorable, lovely boy. Yes, he was biased, but any man would be proud of this son. Randall could not imagine a better outcome for his life. There had been no predicting it, no imagining the chaos, but he was vibrating in perfect harmony with his delighted boy. His son, little Peter.

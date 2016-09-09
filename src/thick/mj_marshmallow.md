@@ -220,7 +220,7 @@ Why fucking argue? Couldn't fucking argue, not like this. He swallowed and found
 
 "Why me the father?"
 
-"Fucking plain as the monster nose on your whey face."
+"Fucking plain as the scary nose on your whey face."
 
 "Why?"
 
