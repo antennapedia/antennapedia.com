@@ -220,7 +220,7 @@ Why fucking argue? Couldn't fucking argue, not like this. He swallowed and found
 
 "Why me the father?"
 
-"Fucking plain as the scary nose on your whey face."
+"Fucking plain as the massive nose on your whey face."
 
 "Why?"
 
@@ -244,7 +244,7 @@ Now his eyes truly stung, but Malcolm swallowed and mastered himself. "Yeah, I g
 
 Malcolm shoved up at him. "Changed my sister a fucking hundred times."
 
-"Thirty years ago. It's easier now. We can practice on Hugh when we get back. I'll scare him into shitting; you can change him."
+"Thirty years ago. It's easier now. We can practice on Reeder when we get back. I'll scare him into shitting; you can change him."
 
 "Fuck you," Malcolm said, with emphasis and a gesture.
 

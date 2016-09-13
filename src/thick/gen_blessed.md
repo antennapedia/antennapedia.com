@@ -6,23 +6,23 @@ summary: Malcolm has a secret. Nicola stumbles upon it.
 rating: general
 pairing: gen
 banner: ../css/malcolm_tux_header.jpg
-published: 2016-08-16T12:00:00-08:00
+published: 2016-09-11T12:00:00-08:00
 tags:
-    - p:gen
-    - f:the-thick-of-it
-    - c:malcolm-tucker
-    - c:nicola-murray
-    - c:jamie-macdonald
-    - c:sam-cassidy
-    - c:julius-nicholson
-    - genre:hurt/comfort
-    - trope:wingfic
-    - au:supernatural-elements
-    - suicidal-ideation
-    - genre:angst
-    - religion
-    - politics
-    - angels
+  - p:gen
+  - f:the-thick-of-it
+  - c:malcolm-tucker
+  - c:nicola-murray
+  - c:jamie-macdonald
+  - c:sam-cassidy
+  - c:julius-nicholson
+  - genre:hurt/comfort
+  - trope:wingfic
+  - au:supernatural-elements
+  - suicidal-ideation
+  - genre:angst
+  - religion
+  - politics
+  - angels
 altlink: http://archiveofourown.org/works/5755075
 autotoc: true
 ---
@@ -466,7 +466,7 @@ His father.
 
 Malcolm had let Tom refill his glass. Had drained it. Had made the bargain, A drunken fire-tongued angel, now in Tom's service. Tom's political fortunes had shifted.
 
-He'd been so proud of wee Malc, once upon a time. Malcolm had loved him, loved him even after knowing what Tom had told him. He was the same man he'd always been, a stalwart husband, an indulgent father to Malcolm and his sister. Could he have truly been a monster? Malcolm's blessing was a curse. Mayhap his father's curse had been a blessing. Who the fuck knew? Malcolm had never talked to him about it, never dared mention it, just continued his visits north to family, brought the odd bottle to his old man and restrained himself when drinking with him. Rare moments of sobriety, those moments with his father.
+His Da been so proud of wee Malc, once upon a time. Malcolm had loved him, loved him even after knowing what Tom had told him. He was the same man he'd always been, a stalwart husband, an indulgent father to Malcolm and his sister. Could he have truly been a monster? Malcolm's blessing was a curse. Mayhap his father's curse had been a blessing. Who the fuck knew? Malcolm had never talked to him about it, never dared mention it, just continued his visits north to family, brought the odd bottle to his old man and restrained himself when drinking with him. Rare moments of sobriety, those moments with his father.
 
 His father had died a few years later, peacefully, in his sleep. He'd dried himself out for the funeral, stayed sober afterward for the sake of his grieving mother, gone back south clean. Stayed clean. Hadn't mattered. He'd still been bound to Tom. Ensnared.
 
@@ -480,9 +480,9 @@ Malcolm breathed in the faint scent of incense in the air. The candle burned ste
 
 ## Julius
 
-A knock on the door: Malcolm startled, but it was Sam, poking her head in.  "Malcolm, Lord Nicholson is here. I'll send him in if you're ready?"
+A knock on the door: Malcolm startled, but it was Sam, poking her head in. "Malcolm, Lord Nicholson is here. I'll send him in if you're ready?"
 
-He was, of course, not, and Sam was merely warning him to be ready. Malcolm closed his eyes, hid himself and his wings, and felt that moment of loss as his sense of that other world was damped.  He pushed himself up from the floor and straightened his trousers. He'd spent enough time on his fucking knees, enough for the rest of his life. Last daily devotions. He'd make the next ones from hell.
+He was, of course, not, and Sam was merely warning him to be ready. Malcolm closed his eyes, hid himself and his wings, and felt that moment of loss as his sense of that other world was damped. He pushed himself up from the floor and straightened his trousers. He'd spent enough time on his fucking knees, enough for the rest of his life. Last daily devotions. He'd make the next ones from hell.
 
 "Show the old pervert in, yeah, Sam?"
 
@@ -718,7 +718,7 @@ Malcolm stared, thought. He felt longing for this. So seductive. Help Nicola mor
 
 "Fuck," he said. "Fucking fuck." Clean it up, fix it, make it better somehow. If only. If only.
 
-Julius was gazing at him sidelong, under his lashes. There was a little smile on his face: he saw victory and had allowed himself to enjoy it. He couldn't. Malcolm couldn't let him.  The last of Malcolm's hops drained from him as he let himself know this. The best he could do was not be present to be in the way. If he were dead, Tom could not use him against Nicola.
+Julius was gazing at him sidelong, under his lashes. There was a little smile on his face: he saw victory and had allowed himself to enjoy it. He couldn't. Malcolm couldn't let him. The last of Malcolm's hops drained from him as he let himself know this. The best he could do was not be present to be in the way. If he were dead, Tom could not use him against Nicola.
 
 "No," he said.
 
@@ -756,7 +756,7 @@ Tom, visiting him. Fuck. Nicola's performance in the morning. Fuck everything.
 
 A kiss in the garden, and yet Malcolm was there, lean and hungry at Brutus's side, urging him on. He thought too much, read too much, and was dangerous. And yet he was fettered by his oath: he served this man, this slick sleek oiled man in a carefully rumpled bespoke suit. Smile, look pleased, look like he was as grateful as he ought to have been to the man who'd made his career, paid him a ridiculous salary, sheltered his father from the exorcists.
 
-Julius was saying something fawning at Tom and the two men were laughing, and Tom was clapping him on the shoulder and guiding him out. Malcolm tasted metal in his mouth. He was dizzy. Fucking dizzy. Shit. He had to pull himself together.  Fear. Fight. Flight. Neither: control himself.
+Julius was saying something fawning at Tom and the two men were laughing, and Tom was clapping him on the shoulder and guiding him out. Malcolm tasted metal in his mouth. He was dizzy. Fucking dizzy. Shit. He had to pull himself together. Fear. Fight. Flight. Neither: control himself.
 
 Julius departed with Sam, and the door shut behind him. Malcolm was alone with Tom.
 
@@ -874,7 +874,7 @@ Tom sighed. "A damned photogenic corpse. All over the Internet. I want it gone."
 
 Malcolm stood completely still and impassive under the sharp look Tom gave him.
 
-"I know what his name was. I got the briefing. I'd like to make sure that his name doesn't appear in speeches from that hack Corbyn. Make it vanish."
+"I know what his name was. I got the briefing. I'd like to make sure that his name doesn't appear in speeches from that hack Corbyn. Make it vanish. Silence the family. They'll shut up for the right price, no doubt."
 
 Malcolm felt his hands tremble. Rage, true rage, none of the feigning shite he did to frighten people. This idea had occurred to Tom. He thought it was possible to do such a thing, to silence grief with money. Blood money. Forty fucking pieces of silver. He thrust his hands into his pockets. Calm. Stay calm. Do not become the Angel of Death now.
 
@@ -882,7 +882,7 @@ And then he realized it didn't matter. It was over for him. Tom could say whatev
 
 So Malcolm shrugged again, and said, "Might be best to spew out some platitudes and let it die on its own. News cycle will find something else. I'll feed it something fucking pointless."
 
-"I just want the Labour milksops to stop agitating for us to spend money on it."
+"I just want the Labour milksops to stop agitating for us to spend money on those people."
 
 Those people. Malcolm bared his teeth. "We could accept more refugees. We look like right cunts compared to the rest of the EU with our refusal--"
 
@@ -932,7 +932,7 @@ Malcolm grinned, because that's what he would have done before his awakening, be
 
 "Meanwhile, Murray. Ruin her. Prove to me that you're still mine."
 
-Malcolm laid his hand on his heart and bowed for the second time in that short interview. "Consider her fucking ruined."
+Nicola, sweet innocent guileless Nicola, to be ruined. Malcolm laid his hand on his heart and bowed for the second time in that short interview. "Consider her fucking ruined."
 
 "Good man. Knew you'd see it my way."
 
@@ -950,7 +950,7 @@ Tom smiled at him easily and shrugged. "They were comfortable."
 
 And with that, the conversation was over. Tom turned from him and made his way out into the front office, where a couple of Malcolm's press relations crew were loitering, hoping to be noticed. Tom spoke with them, all benevolence and ease, called them each by name, glad-handed them. Malcolm watched and kept the snarl on his face. And then he swept out, his assistant trailing after, on his way back to Downing Street, to the hollow corridors of power, where Cameron was leader in name only.
 
-Malcolm watched him go with that sense of peace still with him. He would be dead by the morning. He knew how he'd do it now. Tom was no longer a threat. He was gone. Malcolm had left the building.
+Malcolm watched him go with that sense of peace still with him. He would be dead by the morning. He knew how he'd do it now. Tom was no longer a threat. He was gone. Malcolm's hope had left the building, and Malcolm's spirit would soon follow.
 
 Sam shooed the last of the flunkies off with errands to run, and came back to him rolling her eyes. "I swear, they're like star-struck kids."
 
@@ -974,7 +974,7 @@ He went over to his shrine and touched the cross, burned another pinch of incens
 
 He could. He could. He could do it. He could do it now. No, not now. Not where Sam would be the one to find him. He had to see Jamie first. He had to warn Jamie.
 
-He sat down on the floor beside the little shine and leaned his back against the wall. He let his head tip back. Wasn't bad down here on the carpet. The scent of incense and candle wax was strongest here, and  it was comforting. He had a different view of his office, his life. Messy sliding piles of DVDs with scrawled Sharpie on them, name of politician, name of television show, date. Stacks of books, lives of politicians, the ghostwritten books they published, in gaudy red and blue jackets. File folders. The locked cabinet with his blackmail notes. Newspapers on his desk, the laptop, the antiquated telephone. His haunt for the last few years. His last time seeing it all.
+He sat down on the floor beside the little shine and leaned his back against the wall. He let his head tip back. Wasn't bad down here on the carpet. The scent of incense and candle wax was strongest here, and it was comforting. He had a different view of his office, his life. Messy sliding piles of DVDs with scrawled Sharpie on them, name of politician, name of television show, date. Stacks of books, lives of politicians, the ghostwritten books they published, in gaudy red and blue jackets. File folders. The locked cabinet with his blackmail notes. Newspapers on his desk, the laptop, the antiquated telephone. His haunt for the last few years. His last time seeing it all.
 
 Unreal, yet such a relief.
 
@@ -1021,3 +1021,333 @@ He tipped up his mug and drank down the last of his tea. A little sugar at the b
 And he was the damned fool who'd encouraged her. Well. He'd find a way to salvage Nicola if he could. He'd put Jamie onto it. And he'd have Jamie take care of Sam, too.
 
 Jamie. Christ, he'd have to tell Jamie everything.
+
+## Jamie
+
+There was tea in his belly now, a scrap of comfort, of will to act. Malcolm set himself to work with his laptop with what remained of the afternoon, his last day in the office. His time was running out and he had new energy in his blood, a sense of urgency he hadn't felt in years. He had email messages to write, directives to craft, messages to set spinning into motion. Mostly to Nicola, though he shot a few off to Nicholson. Instructions, carefully worded under the cover of obscenity. Malcolm knew Julius would see past it, had to hope Julius would get Nicola in line. She wasn't stupid, he knew that at last. She was merely painfully naive, painfully earnest, and painfully outclassed by the heartless people that surrounded her.
+
+He had only a few hours left in which to set her feet on the path. And then he'd get Jamie walking that same path, and then he'd bow out. Forever. It was all planned; he would be at peace at last. It was easy, now, to do all these things.
+
+He was still in the middle of it, typing out a hot tip for Angela Heaney that would, he hoped, end in her accidentally writing a hit piece on Cameron's secret NHS agenda, when he heard Jamie's voice in the outer office, bantering with Sam. Bantering, then dropping low so he knew they were talking but couldn't hear what they were saying, Which meant they were talking about him.
+
+Jamie strutted right up to Malcolm and sat his arse down on Malcom's desk. He had his chin out. Same dark blue suit he always wore, same scuffed black shoes. Malcolm let himself grin with all his teeth.
+
+"Jamie. Get the fuck off my desk."
+
+Jamie did not move. "How the fuck are you?"
+
+"Never better. Why the fuck do you ask?"
+
+Jamie slid off the desk at that and came around. He spun Malcolm's chair around and hauled him out. "Why do I ask? You fucking knob. You massive bell-end. You know why I'm asking. You made Sam fuckin' cry, you inconsiderate cunt. You unspeakable *shit*. How dare you."
+
+Jamie dug his hands into Malcolm's shirt and shoved him against the desk, hard. Malcolm bounced off and staggered.
+
+"Fuck, Jamie, I didn't mean it."
+
+"You told her you were off to top yourself."
+
+Malcolm glared at him and shoved him back. "I meant I was going to go and chuck it in."
+
+"How's that not topping yourself?"
+
+Malcolm shrugged. He ought to have kept his gob shut with Sammy. Heat of the moment stupidity. Jamie was in his face again, a hand on his throat, but the anger had gone. Instead there was an intensity that made Malcolm want to shrink away, to hide his face from being read. Jamie was a sensitive, meant for the priesthood, He still had every bit of the sensitivity that had made them tap him aside and throttle him with a collar. He'd abandoned the seminary when the celibacy part had proved impossible for him, but the sensitivity would be with him always. Jamie could read Malcolm if he wanted. If he tried. And he was trying.
+
+Why was Malcolm fighting it? Let the man read him. Let him feel it. Let him see his need for an end. He opened himself to Jamie, let him read. Let him read the despair.
+
+"Fuck."
+
+"Yeah."
+
+Jamie eased his grip and shivered. "But why, Malcy? Why? What's wrong?"
+
+Malcolm tipped his head toward the door and grimaced. "Not fucking here. I have a mountain of things to tell you, but can't fucking say anything here."
+
+Jamie peered at his face for a moment, intent, suspicious, then let go of him and backed away.
+
+"Yours or mine?" he said.
+
+"Mine," said Malcolm, thinking of the rubbish in his cupboards that would need to be thrown out. "But you cook."
+
+"Fine, you lazy twat. Let's go."
+
+They went. Malcolm took a moment on the way out to squeeze Sam's shoulder, just a touch, but he wanted to leave her with something that let her know it wasn't her, it would never have been her, she was one of the last good things in his life. And out, and through the maze, winding their way backwards. Reeder was there, in the last hallway, fat file folders under his arms. Malcolm had told Nicola to get rid of him in his series of messages to her in the afternoon, had pointed her toward some juniors with brains and the rudiments of competence. Probably she hadn't had the nerve to tell Reeder himself yet. He'd have to remind Jamie to push her. Another item on the agenda for the night's conversation.
+
+Reeder said, "Malcolm, hey, hi, how's it hanging? Assuming you have an it to hang. I hear Steve Fleming was on his way to neuter you."
+
+Malcolm stared at him and through him. Reeder no longer signified. He kept walking, fast enough that Jamie had to jog to keep up. Down the stairs, through the exit door to the left of the metal detectors, out, Jamie on his heels. Out of the building, into the street. Pavements wet from rain earlier, but the skies were clear and the breeze fresh. Malcolm breathed in deeply. A lovely night for the end of his life. He felt that profound peace wash over him again. He was going to do it at last.
+
+A cab, and a silent ride, because none of the things they needed to discuss could be said in front of anybody else, and that included cabbies. Malcolm felt Jamie staring at him the whole time, silent and coiled for action.
+
+"Christ, I could use a drink," Jamie said at last, as the cab braked before Malcolm's door.
+
+Malcolm did not keep alcohol in his house any more. There was some in his office, a dusty bottle of what was probably good whisky, for tactical use on visitors. He'd tied a string around it to remind him if he was ever tempted. Not that he was, except that tonight he was with Jamie. He wished for something to make this conversation easier. No. He wasn't going to do anything that might ruin his resolve. Sobriety and penance and apology tonight, and then blessed surcease.
+
+He led the way into his kitchen and flipped on the lights. Went to the icebox and found a bottle of Irn Bru for Jamie, gassy water for himself.
+
+"You know your way around," Malcolm said, and he sat down at his kitchen table. Leaned his head on his hands. Waited.
+
+Jamie cursed him under his breath, casually, then started rummaging, taking inventory of the cupboards and fridge. He seemed to find what he needed. Malcolm toyed with his glass, tracing patterns in the condensation. Watched his oldest friend cook. Was a dab hand at it now, father of two, plenty of practice cooking their tea when his wife was away. She was something big in publishing, editor for a best-selling stable of authors. Jamie was happy with her. Malcolm had stood by him at his wedding, had blessed the two of them in secret. Would that be undone on his death? No, blessings weren't. Miracles would cease if they were ongoing, but blessings once given were given. The kitchen smelled good. Onions and spice and browning butter. Pots and pots sat on the stove, steaming away. Food. Last supper with Jamie, his best mate.
+
+Jamie sat down, eyed the bottle of soda, and slugged it down. He wiped his mouth with the back of his hand.
+
+"Spill it," Jamie said. "Flap your tongue, or I use your own butcher's knife on you."
+
+Malcolm rubbed the bridge of his nose. Here it came, the worst of it. He had to set things right with Jamie or he wouldn't be right when he went to meet his maker. He said, "Did you ever wonder why I came down here? To work for Tom."
+
+Jamie frowned. "The money?"
+
+"No. The money's nice, but fuck me, journalism was okay. Had a book or two in me. No. It's fucking-- I fucked up. I fucked up more massively than any shit-faced politician you've ever seen wobble out of Downing Street with a resignation letter shoved up his arse."
+
+Jamie said nothing, but continued watching him with darkness gathering in his face.
+
+"Wasn't the money. Tom-- Tom-- I needed a favor done. Tom did it. The price was--"
+
+"What?"
+
+"Tom owns my fucking soul. I swore it over to him. I do his bidding on pain of damnation. S'truth."
+
+"You fuckin' can't--"
+
+"You fucking can. I fucking did."
+
+"Malc!"
+
+"Had no fucking choice. Me da was dark but hidden, and if I didn't swear to Tom he'd have been turned in. Tom pulled strings and hid him once he knew he had me. Once I'd put my blood on the paper."
+
+Jamie was shaking his head hard. "Fucking lies. Your da? He was a lovely man. I'd have known."
+
+Malcolm shrugged. "He was Cursed and lovely. I'm Blessed and a total fucking cunt. There's no telling."
+
+"Yes, there fucking is. You can always fucking tell. I can do it it with bell, book, and candle, any Blessed cunt like you with some holy water. Did Tom fucking prove it to you? Did you ever prove it to yourself?"
+
+Malcolm shook his head. "Never said a fucking word to him. Swore I wouldn't, didn't. Let him carry the secret to his grave."
+
+"You fucking *moron*, Malc, that's not how it works. You can't hide from government. They find you when you manifest."
+
+"It would have happened for him in the War. They might have missed him. They missed a lot during the War."
+
+"Maybe. But he spent his whole life in the open--"
+
+"A sensitive like you, but a dark sensitive. Nothing to attract attention."
+
+"They don't exorcise people like that, Malc. They fucking don't. They put them on a list and ignore the list." Quiet for a little, then Jamie said, "Were you drunk when Tom talked to you?"
+
+Malcolm hung his head. "Yeah."
+
+He'd had one tied on before he walked into the room. Tom had poured more for him during the conversation, made sure he got drunker. The first of his great sins, though not the greatest, was those years of drinking.
+
+"You stupid cunt," Jamie said. "And now--"
+
+"Now if Tom says kill the stories on Aylan Kurdi, I fucking kill the stories on Aylan Kurdi. Tom says make the public beg to kill the fuckin' NHS, the thing that keeps them alive, I fucking make them beg. Next summer when Tom says make them vote to leave the EU, I'll do it."
+
+"Shit. Everything we've fucking fought about, everything I've called you a fucking sell-out about--"
+
+"You were right to be angry. Right to threaten to quit. But I couldna do anything different."
+
+Silence. Jamie got up and did things with pots and pans. Stirring things, transferring things. The kitchen smelled nice. Tomatoes and spices and onions in butter. Olive oil. Vegetables browning, some bit of meat Malcolm hadn't realized had been in his fridge in the pan. Oh, right, he had a housekeeper. Food arrived whether he noticed it or not. Probably she took it all home to feed her own family after he'd refused to eat. He fasted so often, so very often these days, trying to atone for that which could not be atoned for with less than his blood.
+
+His blood on an altar.
+
+Jamie set sliced French bread in front of him, with a dish of olive oil and balsamic vinegar. "Eat something," he said. Malcolm took a chunk of bread, dipped it into oil, ate. Bread. Twice in two days he'd been given bread by a friend he didn't deserve. Three times: Nicola, Sam, and Jamie.
+
+Fuck him, Jamie. His oldest friend, from his days at the Herald. Young men, hair everywhere, shabby clothes, sharing a packet of fags and trading off buying pints of lager of an evening. Graduating to blended whisky in plastic cups later, when beer hadn't been enough for Malcolm. They'd survived their childhoods, escaped Glasgow, escaped the traps laid for the Blessed, scraped out decent lives. Or Jamie had, anyway. Malcolm had made the jump to politics, urged Jamie to come down to London, back him up, he had a post, they'd be able to do all the things they'd talked about. He'd wanted a friend, a true friend, someone he could trust. Politics was full of conditional friends, sliding loyalties and slippery alliances. No true feeling lasted around the public school boys playing their games of betrayal. True friendship was a liability with the English cunts. True friendship. What sort of a friend had Malcolm been?
+
+It hadn't been all bad for Jamie. Surely not. He'd met his wife. Made a decent life. Malcolm watched him move around the kitchen in his shirtsleeves, cuffs rolled up. Heading on to middle age now.
+
+Jamie put food on a plate in front of him: chicken and veg over rice in a lot of drippy sauce. It smelled good enough that Malcolm's mouth watered. "Eat, you stupid cunt."
+
+Malcolm dug a fork into it and ate with more pleasure than he wanted to admit. The body still existed, still wanted things. Wanted to be held, wanted to eat, to drink. Wanted to find Sam and bury his face in her hair and feel her arms around him again. Wanted to hug Jamie, that stupid cunt, and hear him say it would be okay. Like he had when Malcolm had been shaking and sweating out the drink, before he made his way up to his father's deathbed. Jamie. He'd written a will, some time ago, and his mother and Jamie were the beneficiaries. Take care of the bairns.
+
+There was no reason for him to hold out any longer.
+
+They ate. They drank water. Jamie gave him more bread. Malcolm ate it, and silently blessed the man, his friend, who was feeding him his last meal. Jamie cleared away the plates, refusing Malcolm's attempt to do it for him. Malcolm sat and watched, hands folded on the table. Never reject an act of mercy, was all he could think. It didn't matter for him, but it mattered for Jamie. Jamie would know afterward he'd done all he could.
+
+Jamie pulled out a chair from the table and set it beside Malcolm. He sat and rolled down his sleeves, buttoned his cuffs. He was close enough that Malcolm could smell the washing-up soap on his hands, see the stubble on his chin, the bags under his eyes. He looked grim.
+
+"I believed in you, Malc. Because of what you are."
+
+"I know."
+
+"I trusted you to lead me right."
+
+"I know." This was another of his great sins: that he'd led Jamie into doing Tom's will through his lies.
+
+"I'm fucking angry but I want you alive so I can punch your nose. Can't punch a dead man, Malc."
+
+Malcolm looked at his hands on the table. "It's more than just you, Jamie. It's the nation. It's my soul."
+
+"How?"
+
+Malcolm clenched a hand into a fist. "Will you hear my confession?"
+
+"I'm not a fuckin' priest."
+
+"Nearest thing I've got to one down here, wi' the fucking English and their watered-down rites. I need it done proper, and I need it to be you."
+
+"Malc--"
+
+"Please."
+
+Jamie looked away and groaned. "Never could say no to you, you and your silver tongue. Even after I found out what you are. Yeah, you can fucking confess to me and I'll keep it secret and I'll forgive you, you cunt."
+
+It wasn't the forgiveness Malcolm was after, but he was too impatient to explain that. Jamie would understand afterward anyway. He stood and pushed his chair aside, knelt on the kitchen floor before Jamie. He pressed his hands together in the gesture of prayer. A familiar thing, almost comforting, something he hadn't done since the day he'd been sent to the school for the Blessed. The Blessed didn't confess. The Blessed were above that. Or so they said. He wasn't above it, not today. Hands together in prayer. One more thing: He showed himself to Jamie, let himself be seen: magnificent wings, shining, stained deep red and dripping. Jamie gasped in horror and put out his hand to touch him, touched him, and Malcolm felt the shock of the touch all the way to his bones. Jamie still had all the power of a real priest in him dormant, holy, unspoiled.
+
+Malcolm closed his eyes. He felt Jamie's hands close around his but this touch was steadying. Jamie's power was helping him now. Yes, this would work. Jamie would carry his message to the Blessed One. Jamie would get their attention.
+
+"In the name of the Father and of the Son and of the Holy Spirit. It's been thirty years since my last Confession. These are my sins."
+
+Jamie squeezed his hands. "Tell me, brother."
+
+"I sold my soul to a craven man for selfishness."
+
+"Wasn't selfishness. Was love."
+
+Malcolm shook his head and set his jaw. "Selfishness. If my da was Dark, wasn't right. Listen to me, Jamie. Hear me out."
+
+"Yeah-- yeah. Go on, brother."
+
+"I tried to kill Tom today. I couldna raise my hand against him. But I would have. I'd have taken human life and not regretted it."
+
+An intake of breath and a squeeze of his hands. Malcolm swallowed and went on.
+
+"I lied to the entirety of Great Britain. Without my lies, the election would not have gone this way. Without my lies in the ears of the people who vote. I knew I was lying. I led my friends and followers into lying with me, against their better judgement."
+
+Jamie said, "Go on, brother." His voice was hoarse.
+
+"I've lied to make Tom's will real. I've threatened violence and rape and fucking anything that came to mind to make his will real. I've terrorized everyone around me. I've screamed. I've used my gifts for cruelty. Fucking threats, Jamie, I threatened rape. I delighed in it. How could I fucking do that? And I did it. Over and over. Fuck me. That's a sin."
+
+Jamie raised a hand and touched his forehead, traced a cross on it. The finger burned his skin. Malcolm closed his eyes and let himself feel it.
+
+"Malcolm. Malc, brother. I can't absolve you. I can't take this burden away from you. It's too great for the likes of me. You've always been too much for me."
+
+"Jamie."
+
+"Shut up and hear me out. My turn. You lot are not supposed to be easy to be near. You're supposed to be reminders of what lies behind everything. Supposed to tell us how to live. Not peace but a sword."
+
+"Don't want to bring my fucking sword."
+
+"You canna help it. It's who you are. You're a fucking winged messenger with a sword. You will move everyone around you to do what you need them to do no matter what you want. You raise your hand and somebody's been fucking blessed. And you've fucked it. You've fucking led the nation the wrong way. Led me the wrong way, cunting fucking hell, Malc."
+
+"Aye."
+
+"You've got to set it right. And me telling you to say a hundred Hail Marys won't do it."
+
+"Aye."
+
+"God help me, Malc, I don't know what to do."
+
+"I do," Malcolm said, calmly, to the face of his friend. He stretched out his hand and manifested his sword. Jamie flinched away and was right to. It was fire and death. The sword. He had the sword, and Jamie was right. "This can cut my wings off."
+
+"Jesus Mary and Joseph, Malc-- you can't be serious."
+
+"I cut them off and I surrender my grace and it's over. My oath is ended when I surrender my grace. I'm fucking losing it anyway so I may as well do it on my own terms."
+
+"Malcy. Malc."
+
+"You can't stop me, Jamie. You can't stop me doing anything."
+
+"I can fucking beg you not to. Don't do it. There has to be another way."
+
+"It's the only way to take it from us. It's what they do to the devils when they exorcise them. Would you do it for me, Jamie? Would you?"
+
+Jamie's hands jerked away as if burned. "Jesus, Malcolm, don't even talk like that. I'd burn in hell for eternity for the sin of maiming an angel."
+
+"They do it to us. They exorcise us. Every day they do it to one of us and call it right. Nothing more than that."
+
+"You're not one of those. You're holy. Fuck, Malc--"
+
+"I'm begging you. Will you do it for me, Jamie?"
+
+Jamie straightened and laid a hand on his chest. He bowed his head to Malcolm. "I will not. But I'll stand by you when you do."
+
+"No. If I must do it myself, I'll do it alone."
+
+"You're gonna need me with you afterward, you stupid cunt."
+
+Malcolm would not be needing anything afterward. Not if every story he'd ever been told about giving up the gifts voluntarily were true. If you lived you were a shell. No one would touch you. But mostly you didn't live. This was how he'd kill himself: no meteor strikes in remote wastelands. Instead he'd exorcise himself, cut the blessing away with his own bloody sword. And that would do do it. And with luck, his body would remain, the maimed body of an angel who'd killed itself. An unholy mess of a scandal that even Tom could not whitewash away.
+
+"I need to do it some place public," Malcolm said. "Some place Tom can't hide. Downing Street, on his front step."
+
+"No, hey, Malcy, go do it proper. Sanctified ground. An altar. Pray first. Maybe They'll-- I don't fucking know. Maybe They'll like it. In a church. Cathedral. St Paul's."
+
+"That's what you fucking say."
+
+"I know it." Jamie's eyes were wide, and half-frantic.
+
+But it was a good idea. He would do it in a church, and not just any church. He'd do it in one of the beautiful ones, the famous ones, the holy ones. He'd do it at Walbrook. Leave his body on the floor of that church, let him bleed his life out on the altar, and no force on earth could contain that scandal.
+
+"Okay," Malcolm said. "We're going to St Stephen's."
+
+He got off his knees and stretched out his hand to Jamie and raised him up.
+
+They took a cab to the City, gave the cabbie the address of a nearby club. Malcolm would have flown if he'd been on his own, taken one last turn around his adopted city, one last breath of night air. But Jamie insisted on being with him, on clinging to him, so Malcolm rode and then walked. Quiet streets but never empty, not here in London.
+
+Malcolm stopped at the doors of the church, on the pavement, hovering between spaces profane and holy. This place was deeply holy. Two millennia of holy places here, longer. So many people worshipping the Blessed One here had consecrated it in a way that mere buildings could not do, but this building would make any site holy. He stood on the pavement, before that unassuming wall, that quiet arch, and knew himself to be home.
+
+Malcolm laid his hand on the door. It swung open for him silently. No locks would bar his way at a time like this. He gripped Jamie's arm and held him back from the door for a moment.
+
+"Jamie. After this is done. Julius and Nicola. Go to Julius. Tell him I sent you. Do what he says. Make it work for Nicola. Make her do what I told her to do in email today. You hear?"
+
+"I hear you."
+
+"Make Julius take Sam on, yeah?"
+
+"Malc, you're not dying."
+
+"Promise me, y'cunt. Fucking promise me or I'll gut you. Say she'll be taken care of."
+
+"Calm yerself. I fucking swear it."
+
+"Okay. Okay."
+
+He shivered and stepped into the church. Quiet now, dark, all the tourists gone home. Up the steps. Inside into that great echoing space, all air and light in the day, ghostly dim in the night. He paused to let his eyes adjust. The votives had gone out, all save one. The one he'd lit earlier in the day was burning steadily and consuming nothing. His little miracle. It would be undone in a moment.
+
+Malcolm breathed in, out. There was the altar, with the two great candles on it unlit. He would do it there. He walked forward to it past the benches, and stood just before the plinth. Jamie stood beside him. Malcolm saw him cross himself, heard him murmuring. The words of that ancient plea to the Blessed One.
+
+"Malc." Jamie clasped the back of his head, pulled him down so their foreheads touched. His cheeks were wet. "I canna stop you?"
+
+Malcolm shook his head. "Jamie, brother. Go. Don't stay. Don't watch."
+
+"I'm not leaving you."
+
+"You stupid twat."
+
+"It'll be okay, Malc. You'll be okay. You're too much of a cunt to have anything truly bad happen to you."
+
+"Fuck you too," Malcolm said, knowing that Jamie knew what he meant by it. That was his curse. He always said exactly what was needed. "Tell Sam I loved her, okay?"
+
+Jamie laughed and Malcolm could hear the tears in his voice. "Fuck you, tell her yourself. You're walking away from this a fuckin' boring cunt like me. You know it."
+
+He knew the opposite. He knew it wasn't what was going to happen. Let Jamie dream, though, let him think it. If this was it, if he was saying goodbye-- he leaned into Jamie and let himself feel it for a long moment, feel the humanity in him. Raw life, blood pumping in his veins, the warmth of his breath, the urgency of his emotions and body, the body and soul of Jamie MacDonald. His friend. A human. One of the reasons he'd done it all.
+
+Another moment of what another pair of men might have called an embrace, and he stepped back. Turned. Paced across the open chancel to the altar in the center. Stone, white stone, huge pillar candles sitting upon it unlit. He wiped his clammy palms on his trousers. Nerves. Fuck, he was not going to flinch from it now. He couldn't bear another day of this. He couldn't. He took one last look back at Jamie, Jamie his friend. He was on his knees with his hands clasped and eyes closed. Malcolm could see his lips moving. Poor fuck.
+
+He turned away. He must do this as if he were alone.
+
+Jacket off, tossed aside. Shirt unbuttoned. His hands were still shaking but he didn't hesitate. He'd found his nerve.
+
+He stood before the altar, bare-chested, arms outspread, and let himself be seen as he was, let his wings spread all the way, let his spirit show itself fully. Not human. Blessed. Cursed. They were one and the same to him. He was almost dizzy. That morning he'd resolved to top himself. It was midnight now, and he was about to do it. Suicide by God. The Blessed Power didn't like being called that, but that's what They were. God. He'd sinned, used his gifts for evil, and now he would pay for it.
+
+The Blessed One made themselves known to him. They were there, hovering over the altar, because Malcolm had summoned them. He swallowed. Fuck. He was in it now.
+
+Malcolm went down on his knees, there before the altar. He drew in a deep breath. He was shaking. Fuck, yeah, he was afraid. He knew what the Blessed One could do. He might die quietly; might just as easily die screaming. Rejecting the gifts: not fucking done. Not enough, kneeling wasn't enough. He lay flat on the floor in front of the altar, wings and arms outspread. Crucify him right here, right onto the floor. Fucking nail him down and rip his wings from his bleeding back. Let him die here. Whatever happened, it ended now.
+
+"I fucked up," he said, to the presence hovering over the altar. "I fucked it all up. You gave me this and I used it selfishly. I put those cunts in power. This is me making amends. Sorry, Lord. Sorry, Dad. You wouldn't have wanted it if you'd known."
+
+He knelt up.
+
+He held out his right hand, curled his fingers just so, and the sword manifested itself. Red flames ran along it, from tip to hilt, like blood running down. They dripped and were gone before they hit the floor.
+
+"I'm done," he said, again. "Done with that fucking self-serving power-mad twat. If you let me live, I'll make it right, but doesn't fucking matter to me if you do. I'm giving it back to you. Don't deserve it. But you heard my fucking confession. Not going to say it twice."
+
+He took the sword in both hands. Raised it over his head, let fall back so it was flat against his back, between his shoulders. Turned it. Let the otherworldly edge of the blade touch his left shoulder, the place where the wing emerged from human flesh. So little effort it needed, so little effort to press it in. To let it bite.
+
+A moment of surprise as his wing fell away, shock at how easy it had been, and then the pain hit him and he cried out. He fell forward onto his hands. Blood, the smell of blood, the hot rush of it down his back. Paralyzing pain. Move, move, don't lose his will now. Fuck him, it hurt to push himself up again, take up the sword again. He clenched his jaw around the scream and lifted the sword, held it over his right shoulder. Pushed hard, felt it cut into his back, his weight shift as the wing fell away. Too deep, fuck, but it wouldn't matter. It was done and it was going to kill him.
+
+He shoved the bloody feathered mess toward the altar. A fucking offering to the fucking other world: the outward sign of his curse.
+
+"Fucking take it from me, you fuck! I'm done!"
+
+With his last scrap of will, Malcolm laid the sword on the altar. He collapsed onto the floor. The blood was pumping down his back. He could feel the life draining from him. Every heartbeat. Shock. Cold. The pain, Christ, the pain--
+
+The spirit fell down upon him. Malcolm let go of his life.

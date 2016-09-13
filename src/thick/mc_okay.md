@@ -254,7 +254,23 @@ Malcolm sat up against the headboard and opened his arms to her. She scooted aro
 
 Yeah. He was a dad. This was what she'd done to his life. He had a family. He'd thought he'd die without one. No legacy, no children, nobody in his corner, but here he was, watching his son suckle. Murky gray blue eyes open, looking up his wife. His son. His wife. His. They were his. His tears on his face, dripping from the end of his nose. All his.
 
-## Five: Barcelona
+## Five: Father's Day
+
+Father's Day, as an institution, was something Malcolm was indifferent to. Or claimed to be, anyway. He'd always taken time for it when his father had been alive, and he still took the time on Mother's Day every year. Or if he couldn't take the time, he ensured that something his mum liked was waiting for her on the day. He'd done the same this year, carefully planned so his much-loved mother knew how he felt. But this year, ah, this year he'd had somebody else to fuss over and make much of. This year he'd had Clara, new mother Clara, to dance attendance on, bringing her breakfast in bed and the Buck's Fizz she could have once more. He'd made the most of Mother's Day this year.
+
+Father's Day, though, Father's Day he hadn't the time for. He expected nothing to be made of the day for his own sake. Maybe later, once Dougan was old enough to understand it. Maybe once the lad was a teen and had to be reminded his old man existed. Assuming Malcolm had the energy for it; he'd be over sixty by then. Will you still need me, will you still fucking feed me, that sort of thing.
+
+He was a *father*. He, Malcolm Tucker, was a da. He'd won the genetic game and spawned. He had a wee one of his very own, lying asleep in his arms with a freshly-changed nappy. The little devil had pissed while he'd been changing him, which Malcolm now knew how to cope with. Fucking fiends, those boys and their piss-spigots.
+
+Being a father meant mopping urine off his own face. And carrying out the bag full of soiled nappies. And learning how to use a thermometer that you stuck in their ear, and staying up all night fretting over that fever while giving your wife a shot at sleep.
+
+It meant loving the fuck out of two beings instead of just one. It meant your wife waking you up on the Sunday morning with coffee and your own glass of fizz, kissing your temple and then your lips and complaining about your scratchy chin with a weekend's growth on it.
+
+"Fuck off, darling. Or better yet, let's get the lad into his cot and we can do the other sort of fucking."
+
+Never failed to make her laugh, his silver-fouled tongue, oh yes. Malcolm was a father, and Clara was a mother, and all was right with the world.
+
+## Six: Barcelona
 
 Spain. Barcelona, to be precise. Not full height of the tourist season, which never ended in Barcelona, but it was warm enough. They weren't in the city itself but east of it, on a private beach, in a house in a cluster of private guest houses. Or so Clara had pitched it to him.
 
@@ -364,7 +380,7 @@ He ignored that. "Fuckin' have you begging. On your hands and knees, me behind y
 
 And Clara let go of his hand and ran up the walkway to the cottage, laughing ridiculously. Taunting him. Malcolm stared after her, then grinned and chased her through the door.
 
-## Six: Planning
+## Seven: Planning
 
 "I've got a chart," Clara was saying. "I've been tracking my cycles for a year now, and they're pretty regular, and so I think I know when ovulation happens. Though I can be completely sure if I correlate with temperature changes." She waved a day planner at him with one hand and an electronic thermometer at him with the other.
 

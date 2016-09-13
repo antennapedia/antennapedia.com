@@ -15,7 +15,7 @@ tags:
   - genre:angst
   - guitars
   - pre-series
-  - suicide
+  - suicidal-ideation
   - f:btvs
   - p:gen
 rating: mature

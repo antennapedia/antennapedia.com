@@ -20,7 +20,7 @@ tags:
   - genre:hurt/comfort
   - issues:glbt
   - season:06
-  - suicide
+  - suicidal-ideation
   - f:btvs
   - p:xander/anya
   - p:giles/xander
