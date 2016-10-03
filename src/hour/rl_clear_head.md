@@ -1,7 +1,7 @@
 ---
 idtag: rl_clear_head
 author: antennapedia
-published: '2016-05-14T12:17:00-08:00'
+published: '2016-10-02T12:17:00-08:00'
 title: A Clear Head
 summary: Things are much clearer now that he's sober.
 altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
@@ -18,6 +18,7 @@ tags:
   - p:randall/lix
   - childbirth
   - babies
+  - children
 rating: mature
 pairing: randall/lix
 autotoc: true
@@ -326,3 +327,83 @@ Peter watched him address the envelope. "What's that mean? C O?"
 "Yes," Randall said. "She certainly does." He smiled down at his son's curly head. "Would you like to lick the stamp?"
 
 "Please!" Peter said, and his entire body told Randall how happy he was to help with the envelope. What an adorable, lovely boy. Yes, he was biased, but any man would be proud of this son. Randall could not imagine a better outcome for his life. There had been no predicting it, no imagining the chaos, but he was vibrating in perfect harmony with his delighted boy. His son, little Peter.
+
+## Reading
+
+The tea in Randall's cup was stone cold, but he swallowed it anyway. Colin was dead, then. Killed in Vietnam. An accident, not action, though there was just such ambiguity in the story that Randall knew to suspect friendly fire. Well. Randall set the morning Times down onto his desk, next to the empty cup of tea, and rubbed his jaw. How many of them were left? Sod all of them were left. Colin had been young when they'd shared a stinking canvas tent in Normandy. He'd have been too old for this war. Did he have a family?
+
+Randall could not, at that moment, recall if Colin had a family.
+
+He twitched at the newspaper, unfolded it, refolded it. Did so again. Set it down next to the cup. The cup was off-center. He moved it. Moved it again.
+
+Curse his weakness, it was on him again. "Lix," he said, to the empty room.
+
+Lix was-- where was she? At Lime Grove, yes, at work on the program she would soon be producing-- inaccessible. Or rather, accessible, but Randall would have to be in far worse straits than these before he interrupted her work.
+
+He could manage this. Peter was in his room, reading, playing, doing whatever mysterious thing his clever boy found to do this morning. Remember Peter. Don't give in.
+
+The desk. The desk wasn't quite right. The books on his desk. Moved, replaced. The papers aligned just so. Pens removed from their holders, replaced. He got up and paced around the room, rubbed his fingers together. He'd never understood this need. Why? Why was he cursed like this? Drink had been the only thing that quieted this hunger. Adjust the chairs, line up the books on the shelf, pace. It was his office. Everything was well-ordered already. Of course it was. There was nothing here to touch. Nothing but a death he could do nothing about. Indochina-- Vietnam-- he remembered what it was like to photograph wars, to see the fellow next to you caught by a bullet while you wondered how the hell it was you were spared. No time to line up anything nicely while you were pacing behind a tank. Tucking precious rolls of film into an envelope that some lucky bastard courier would take back home. Lugging a typewriter along and sitting wherever one could to scrape up one's bloodied, muddied thoughts into something that the home office would accept to print.
+
+Of course you died. Not as often as the soldiers did.
+
+Normandy had been bad, but it was the Spanish civil war that came back to Randall at these moments. Shelling. Executions of civilians.
+
+He picked up his day book and threw it at the bookshelf. The teacup followed; it did not smash and he was deeply upset about that. It ought to have smashed. Perhaps he ought to try throwing it again--
+
+"Daddy. Daddy." Peter tugged at his sleeve.
+
+Randall froze, with his hand closed around the teacup to throw. "Peter. Not now."
+
+"What's wrong?"
+
+"Nothing. Papa needs think time. Go play."
+
+"You threw everything on your desk," Peter said, calmly.
+
+"Go play."
+
+"Are you going to throw all the books in the shelves?"
+
+"Peter."
+
+"You did that once."
+
+Shame washed over him. What had that one been about? Nothing important. Nothing he could have done anything about. Randall let himself collapse onto the floor, his back against the behind his desk.
+
+"I thought you were too young to have remembered that."
+
+"Mummy was upset so I was upset. But we got to put the books back."
+
+Randall's head tipped back against the wall. "Yes, yes we did."
+
+"That was nice. I can read now. I only knew the alphabet then. So I can help a lot more this time. Except maybe we should do it by color this time. To make your office look nice."
+
+Peter was in motion all through this speech. He alit at the bookshelves in the far corner, the ones Randall kept meaning to move into Peter's room. He was fidgeting. His boy, sadly, showed some of the same signs he did. There he was, pulling at the books and rearranging them.
+
+"Oh, Peter," Randall said, too quietly for his boy to hear.
+
+He still felt that deep unease in himself, somewhere in his chest, somewhere strange, that made his fingers so restless. Then Peter came over to him and crawled up onto his lap. He had a book in his hand. He was getting large, was Peter, and he was none too careful with his elbows. Randall did not protest, but instead kissed the back of Peter's curly head. He wanted a haircut, as usual.
+
+Randall's chest felt better, somehow, now that his arms were around his boy. How odd.
+
+"What's that you've got?. Ah, *Ivanhoe*, I see."
+
+"Sir Walter Scott," said Peter. "He found the Honors. I was reading that in the encyclopedia. They have them in Edinburgh now. Daddy, have I ever been to Edinburgh?"
+
+"No, dearest. We haven't been to Edinburgh since you were born."
+
+"Oh," Peter said, disappointed, and Randall formed a resolution to take his family north as soon as Lix's work would allow. "Have I read this book? I don't think I have. I don't remember the cover."
+
+"I read it to you when you were a baby."
+
+"Oh." Again a little bit of disappointment, which stabbed at his heart. "Shall I read it to you again now?"
+
+"I'm not too old for that? Mummy said I was."
+
+"Nonsense. I read to Mummy all the time. Will you turn the pages for me? And maybe you can help me make tea later, for my voice."
+
+"Of course, Daddy."
+
+Randall settled Peter on his lap more comfortably.
+
+*In that pleasant district of merry England which is watered by the river Don, there extended in ancient times a large forest, covering the greater part of the beautiful hills and valleys which lie between Sheffield and the pleasant town of Doncaster.*

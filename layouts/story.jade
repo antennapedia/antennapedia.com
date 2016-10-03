@@ -24,8 +24,8 @@ block topmatter
 	if tags
 		- var tagl = []
 		- for (i = 0; i < tags.length; i++)
-			- urltag = tagsUrlSafe[i]
-			- tag = tags[i]
+			- tag = tags[i].name
+			- urltag = tags[i].slug
 			- tagl.push("<a href='../tags/" + urltag + ".html'>" + tag + "</a>")
 		- var tagstring = tagl.join(', ')
 		.info 

@@ -18,7 +18,7 @@ tags:
     - sex:rough
     - sex:anal
     - kink:collars
-    - kink:puppy-play
+    - kink:pet-play
 altlink: http://archiveofourown.org/works/5749285
 ---
 Jamie sometimes took Malcolm out to bars, to group events. Gay bars were okay. They were out; the hacks could publish that fact and be damned. Malcolm refused to go to the fetish events, though. Beyond the threat of scandal loomed his profound refusal to belong to any kind of community. Talks about rope bondage safety, demonstrations of puppy play, earnest workshops on alternative power hierarchies: if Jamie wanted to go to these things, he would go on his own. Malcolm liked it intensely private and intensely simple. When the bedroom door closed, he went to his knees and turned his mind off. He surrendered himself. He did what Jamie told him to do. No more, no less. No fucking labels.
