@@ -431,6 +431,8 @@ Malcolm collapsed onto his wife and breathed. "Clara," he said.
 
 *In which we learn how Malcolm met Clara.*
 
+# Spitfires
+
 Coal Hill was the school Nicola Murray had chosen as the launch site for her civic pride program. There was absolutely nothing special about it, other than its location conveniently in Shoreditch. It had the usual selection of grubby uniformed children, the usual selection of bright-eyed Labour-voting teachers. Malcolm couldn't disapprove of the choice, though he had been scathing on the topic of the Minister's latest program. Learn to be good little Britons, to vote and participate in local government, earn prizes for essay-writing about the greatness of Britain. The program came complete with little badges that Malcolm had been entirely unable to talk Nicola out of.
 
 "They're going to call them Murray Youth," he'd said, gritting his teeth, and then he'd wanted to scream when she'd failed to get the joke but had instead simpered at him and used the name on the website.
@@ -471,7 +473,7 @@ Glenn said, "At least there's nothing printed. Just a web site. No five hundred 
 
 "Clever girl," Reeder said. "We should hire her."
 
-He gnawed at his fountain pen and started sketching planes in his pocket notebook. Malcolm refrained from pointing out that she looked to be Reeder's age or older, because there was no point, and besides, she was coaxing one of her kids through reading a speech, and it was rather delightful to see somebody doing a job well. He got that so rarely in his line of work.
+Malcolm refrained from pointing out that she looked to be Reeder's age or older, because there was no point, and besides, she was coaxing one of her kids through reading a speech, and it was rather delightful to see somebody doing a job well. He got that so rarely in his line of work.  He gnawed at his fountain pen and started sketching planes in his pocket notebook to distract himself.
 
 Later in the day the real show happened. Live cameras, the BBC, a class of kids who behaved with only a little mischief, a moment where Nicola dropped her cue and Miss Oswald picked it up for her and handed it back gracefully, and on to the photo opportunity. Malcolm watched Miss Oswald dodge Reeder with aplomb and maneuver herself so she was wedged between Nicola and her most adorable-looking student for most of the shooting. In his view this was the capstone of good judgement on top of an excellent performance. She'd made Nicola look almost intelligent, and that was a feat.
 
@@ -767,9 +769,7 @@ He stuck his phone back into his pocket and tried not to fidget. "I'll need to d
 
 "You are," Clara said solemnly, "an honest man. The last honest man in government."
 
-He indeed walked her to her door, which was up on the fifth floor. He thought about going for a kiss several times while they rode the unbearably slow lift, but he hadn't yet asked her if she would like to be kissed, and he couldn't work out how, and she might feel fucking trapped in a lift so asking her then was a mistake, and *what* the fuck had come over him? He felt like a schoolboy taking a girl to a film for the first time ever.
-
-He didn't work out what to say until they were standing at her flat door, and even then he felt like a wanker.
+He indeed walked her to her door, which was up on the fifth floor. He thought about going for a kiss several times while they rode the unbearably slow elevator, but he hadn't yet asked her if she would like to be kissed, and he couldn't work out how, and she might feel fucking trapped in a lift so asking her then was a mistake, and *what* the fuck had come over him? He felt like a schoolboy taking a girl to a film for the first time ever.
 
 "Clara," he said. "I'll call you, okay? We'll do something if you're free Wednesday?"
 
@@ -787,7 +787,7 @@ She reached out and took his hand and tugged him closer. He leaned in, slowly, a
 
 Pull back, lean in again, let his forehead touch against hers for a moment, then step back. She was smiling at him still and it was just as mysterious as before. Okay, good, yeah, smile back, fuck, his heart was hammering.
 
-Let go of her hand, watch her through her door, then back down the stairs instead of the lift because the cab was waiting, moving quickly, light on his feet, head swimming. That had been good. She hadn't turned out stupid. Schoolteacher, English teacher, books and writing and shite like that. The kind of thing he'd liked once, before journalism. Before politics.
+Let go of her hand, watch her through her door, then back down the stairs, moving quickly, light on his feet, head swimming. That had been good. She hadn't turned out stupid. Schoolteacher, English teacher, books and writing and shite like that. The kind of thing he'd liked once, before journalism. Before politics.
 
 And thus home, and so to bed, and up with his alarm early enough to have breakfast at home instead of in the back of a cab. Breakfast and a cup of tea and the stomach-churning morning email, and a moment spared to check his personal phone and find she'd sent him a photo of a Spitfire in return. Color snap, lovely restoration job, taken at some local airshow.
 
