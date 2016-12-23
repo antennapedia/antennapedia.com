@@ -18,7 +18,6 @@ rating: general
 pairing: Peter/Jenna
 banner: ../css/colepaldi_header.jpg
 ---
-# p/j long haul
 
 Jenna shifted in her seat and pulled the blanket back up over her legs. Dallas to Heathrow, overnight. A long haul flight, they called this, a red-eye. Drinks service, a bit of dinner, more drinks in the hope of stupefying you, then lights out to trick you into sleeping. Lights back up before you wanted them up, breakfast before you wanted that. Then, sooner than you expected it, England below them, green fields if you were lucky, gray clouds if you weren't. Down at Heathrow, through passport control, say goodbye to Peter.
 
@@ -109,4 +108,3 @@ Jenna shifted while he dug his sketchbook and pencils out of his shoulder bag, t
 Jenna closed her eyes.
 
 When she opened them again, the plane was completely dark save for the seatbelt sign and the exit markers. No chatter, just the roar of engines. Peter was curled up in his chair under her blanket with her, with his head against hers. He was grizzling quietly through parted lips. Jenna smiled. She'd have to tease him for snoring some day. Some day.
-

@@ -1351,3 +1351,167 @@ He shoved the bloody feathered mess toward the altar. A fucking offering to the 
 With his last scrap of will, Malcolm laid the sword on the altar. He collapsed onto the floor. The blood was pumping down his back. He could feel the life draining from him. Every heartbeat. Shock. Cold. The pain, Christ, the pain--
 
 The spirit fell down upon him. Malcolm let go of his life.
+
+## The Presence
+
+Malcolm let go his life, and the flames took him.
+
+He was held motionless, teeth bared in agony as the blessed powers did whatever they had chosen to do to him. The fire ran through his veins, burning him up from the inside.  His back burned. Blood everywhere, blood and feathers and the sword on the altar before him, bursting into flames before him. Everything that he was, wings and sword, burned before him. Heat and light and pain and the spirit everywhere, the face of something he knew without knowing how, a being of unimaginable power, a hand reaching out to him, a finger touching him.
+
+Everything went black. He was held suspended. Time to be judged.
+
+Time swirled. His vision shifted.
+
+He was a boy, sitting in church, listening to the Latin of the liturgy. He loved going to Mass though he didn't understand at all what it meant. There were wings in the light that shone upon the altar. He looked up at them and smiled with utter joy. Nobody else seemed to see them, but he could. And then he saw the angel, hovering there, smiling at him, and he wanted to cry it was so beautiful.
+
+Why did nobody else see it? Why was Mass always different for him than for anybody else? He was touched, the priest said, though at his age nobody knew which way. He might be Cursed. He might be Blessed.
+
+Either way, his name went in the government book. They kept a watch on him. Every year they tested him, as they did all the other children who showed signs. Every year, nothing interesting. He began to hate being touched, being different, being in that book. Being watched. Being marked out at school.
+
+He was twelve, awkward, face broken out in spots, voice breaking, shaking with strange feelings, a strange tingling in his chest and stomach when he talked to a pretty girl at school. Stranger sensations yet when he went to church or touched the little shrine his father kept in the front room. Itching in his back, in his palms. A secret, he knew, something terrible. He was an angry boy, a sullen boy, an unpopular boy. Nothing that was happening to him was any good. Until the Sunday he went to the altar, took communion, and collapsed. The fire fell upon him from above and every candle in the church burst into flame. Malcolm lay before the altar and caught fire with them.
+
+Then came a week of fever and weakness and the conviction he was burning from the inside out. A week of the priest praying over him, the angry boy, the boy who would wear the altar boy's vestments if you made him, who would do the daily ritual if you made him, but whom everybody had marked to be one of the evil few. Except he wasn't. He was one of the few, yes, but holy, holy, holy, most holy of holies, one of the Blessed, an angel. Before the week was out his true form had come clear. He had wings, gorgeous white feathers, and fire in his hands that he could not keep in check.
+
+The priest blessing him, touching him with chrism and pronouncing him Blessed, his father holding him close, his mother crying. At first Malcolm could only be grateful they weren't coming to kill him. He wasn't cursed.
+
+And then everything changed. They came for him, but it was for his benefit. Because he was Blessed.
+
+He was at the school, holding a bag with his clothes in it, standing in the dorm room. There was a uniform laid out on his bed. The other students, the other Blessed teens, were there to meet the new boy. Not a one of them posh, not a one of them with a proper accent. A Scouser and a Brummie, a ginger from Belfast, another Weegie like him. He didn't think to wonder if the posh Blessed kids went to a different place. Not until much later.
+
+The girl who was the seer. The girl who was the Guardian. The boy who was the Sword. The one of them whose gifts were never explained, boy or girl Malcolm never could tell, who moved among them silently. That one had been the most sullen and angry of them all.
+
+Visits home, so awkward. He was posh now, had nothing in common with his former friends. It was all Anglican at the school, not proper Mass, so he wanted to be happy to be home again, with the priest talking Latin. But he couldn't enjoy it any more, not when he had to help every time while they all stared. Their local boy, Blessed. Held up as an example to them all.
+
+He was grateful to be back at school after a while, where at least he was ordinary. Where he could sit with his friend, the strange one, unspeaking yet together, playing scratched vinyl on a third-hand stereo system. Robyn, its name was, and when it spoke it was music, many-voiced multitudes chanting, but it didn't like to speak and even the masters were afraid to make it.
+
+The hierarchy that existed even then, with the more deeply gifted of them treated differently by the teachers. So powerful they were, with no idea of how to use their powers. No control. Being taught that control, carefully. Being taught when they may and when they may not use it. The laws. The burdens. The expectations. The constant watch they were under. At sixteen, the choice: to serve openly, or to shutter themselves away and lead normal lives. The state could not hold them any more, by law, liberal-era law, and they were free to choose. Free to hide or serve.
+
+Very old tradition guaranteed them all a living. They would never want, the government Minister for the Blessed told them. They therefore owed their country. They were to serve it, or they were not to use their gifts.
+
+The army took the Sword and the Guardian. Robyn went to Oxford to read maths, with a post in government promised. It left Malcolm its vinyl collection when it left, but no address to write to. Not that Malcolm asked for one.
+
+The Seer had vanished from the grounds before the Minister came to speak to them. The staff shrugged; the Seers always did this. They were no true Seer if they did not.
+
+Malcolm had A levels in hand, a gift for writing already evident: he had taken his living and gone back to Glasgow to study, hidden. A brief window of happiness in his life, that time at university, reading and working and living a normal life at last. His family was nearby to visit. He found sweetness in his first awareness that he had free will despite it all. No one was controlling him now. So long as he stayed quiet, stayed discreet, he could be himself. If only he knew who he was.
+
+Time swirled. His vision shifted.
+
+He was in the newspaper office, at a borrowed desk, writing his first article on an ancient typewriter, seeing his byline in the paper for the first time. Writing about the lives of the Scots around him, the humans, the people whom he was supposed to serve. Living in the real world. Seeing how bad it was. Heroin, addiction, squalor, death, vibrant life, creativity, art, people loving each other despite the misery. It's grim up north. Malcolm had a sense of purpose at last: there were people he could help, wrongs he could right.
+
+He had a life. Friends. No one knew what he was, and so he could be himself. If only he knew who he was.
+
+Sitting out in the back garden of a pub with Jamie on a damp cold night, three pints already down the hatch. Out for a smoke and a quiet talk about things at the paper, somewhere out of the noise. Handing the mashed packet of Marlboros to Jamie, taking it back, digging out the last. No matches in his pockets, none in Jamie's. Jamie swore, casually, and he stood to go back inside to cadge a light. Malcolm shrugged and let himself be present just enough to light both. The beating of wings, red flames flaring, and Malcolm drew in a sweet lungful of smoke.
+
+"What the flipping fuck just happened?" said Jamie. And he looked at Malcolm and saw him for the first time. "Fuck me, you're an angel. Malc. Fucking *hell*."
+
+"Yeah," Malcolm said. He stuck the cigarette in his mouth, spread out his hands, and showed himself, his wings, the light that could shine from within. Nobody else out on this rainy night to care, and he was just drunk enough to wish there were.
+
+"Fuck me," Jamie said again. "I knew you were touched, could always feel that, but-- you? Why the fuck are you here? Why aren't you off doing something, I don't know what, whatever they have angels do?"
+
+"Why are you here and not wearing a dog-collar?"
+
+Jamie blew smoke out his nose. "I like women too much. You could have any woman you wanted if you showed those, so that canna be your excuse for shirking."
+
+"I didn't want it. Don't want it. Ruined my life when it happened. Got sent away. Lost all my friends. People stopped talking to me like a human being, started trying to suck my prick."
+
+"Won't catch me dead doing that. Though I won't say no to the odd light." Jamie picked up his glass and drained it in long swallows, cigarette wedged between his fingers. Some kind of feeling in Malcolm, rising, something he hadn't known since childhood. Friendship. Affection. Jamie was a mate. That was the word. He didn't give a fuck about the wings. He gave a fuck about his mate Malcolm. An arm slung round his shoulders, another round bought, and home singing and then stopping to hurl up his guts onto the curb.
+
+It was years later, down in London. Standing in the church beside Jamie, clear-eyed, sober, holding the rings for him, watching him beam at the woman he was about to marry. Reaching into himself and summoning a blessing for his friend and the woman who made him look like that, that prosperity and happiness be theirs, that they know joy, that their union be fruitful. And it was, because no matter what darkness was in his heart, Malcolm had the power.
+
+Time swirled. His vision shifted.
+
+Back to Glasgow, to the dim grim North. Thirty years old, a head full of curling hair, a face that people trusted and told stories to. Already a little bitter, a little biting, a little frustrated. He wasn't making the difference he wanted to be making. Politics. If you wanted to help people, and you had a gift for writing, for inspiring, for bearing a message and spreading it, you got into politics. Local politics at first, city things, and then the local SNP. Growing well sick of them, but persevering. Looking for alternatives. Fuck the hapless SNP. Fuck the notion of a Scottish parliament and devolution; it was small beer. Malcolm wanted to make a difference. Malcolm wanted to help. So he helped. He wrote speeches; he wrote position statements; he wrote ad copy. The odd extra pound here and there never hurt; he was drinking his salary away as it was. He learned how to listen to a fucking politician, sort out what the bloke wanted to say, and turn it into a speech that sang with the fucking voters. He learned how to do it well enough to win an election for a LibDem MP who had no business winning an election, not in 1992 in Glasgow.
+
+Malcolm got shit-faced drunk at the celebration afterward. The hapless inexperienced fuck wasn't going to be able to do fuck-all in a fucking Conservative government, but Malcolm had done it. He explained all this to a sober man sitting next to him who smiled quietly at him then went away. Malcolm stumbled home in the bracing spring evening, feeling no pain, feeling pride, some strange satisfaction. His gifts had always begged for expression like this, for some bold cause to ring trumpets over.
+
+Malcolm saw the sober man again at a meeting a few weeks later, in London, down south with his man in office, managing his press. A boring man, a quiet man, a man who knew everybody's names. A man in a lovely suit, worn casually untidily. Tom, his name was. LibDem. MP from a constituency down in Somerset, a fucking miracle given the money and the conservatives and the fucking Tories all over. Tom. A nobody, but he'd noticed Malcolm. He'd noticed his skills. And he knew what Malcolm was.
+
+"Malcolm Tucker," the man said. "You are an angel, a soldier of the blessed hosts, cloaked away. Hiding yourself."
+
+Not that he cared, he was at pains to say. He merely knew talent when he saw it. A light hidden under a basket that need be hidden no longer. He had some writing that needed to be done. Odd jobs. Would Malcolm care to assist? Tom was in a position to arrange a little favor for him.
+
+A little favor.
+
+His father. Malcolm's father.
+
+Tom. Behind him in the room, a being of light, something Malcolm could not see directly. A shimmer, a presence, a power that Malcolm knew he could not contest.
+
+A being of light.
+
+Time stopped. Malcolm's vision sharpened.
+
+The Blessed Presence made themselves known to him again. *Look,* they said to Malcolm. *What is this being?*
+
+Malcolm did not know.
+
+*A Light-bringer*, the Presence said.
+
+"What the fuck is that when it's at home?"
+
+*Do you not know?*
+
+"Tom's secret? I thought I was his secret." Though of course Tom had to have more than one of him. He was merely the communications arm. What did the light bulb do for Tom?
+
+He was standing at the desk, swaying on his feet, drunk, pricking his thumb on the black knife Tom had to hand, squeezing out the blood, dripping it onto the paper. Signing his name in blood and ink. Feeling the chains wind themselves around his soul, his heart, his everything. Feeling himself bound as he had never felt himself bound before.
+
+Tom poured another drink for him, smiled, touched his elbow. "Good man, Tucker," he said. "You're taking care of your family. Doing the right thing. I'll remember this act."
+
+"Yeah," Malcolm had said. "Won't forget this favor myself."
+
+"I think we'll make a lovely team."
+
+And they did. They did, so help him, they made a wonderful team. Tom with his moderate, achievable visions, his drive to build coalitions. He thrived during the New Labour, despite his differences with the Blair-ites. Malcolm made it so. He loved every moment of it. He coaxed Jamie down south to join him, taught him how to run a PR office. Wrote speeches, more speeches. Taught his man how to debate. Taught him how to turn a dull lunch into a stump speech. Taught him how to talk to reporters.
+
+He was in his office, pulling open his filing cabinet, riffling through to find an empty folder. Slotting into his his first handwritten notes on a reporter, a stained receipt for a grubby little hotel in Soho. His blackmail file on reporters and their peccadillos, their little foibles. Next to it in the locked drawer, a folder for the politicians. Tories at first, then Labour, then Tom's enemies among the LibDems. Spent a weekend at the Horse Guards Hotel? Malcolm would have it in the file by Tuesday.
+
+Rising, rising, rising, making the jump to working for the Party (loyal to Tom, sworn to Tom, bound by blood-oath to Tom). Hiring Sam, feeling as if he had somebody in his corner for once. Giving up smoking in solidarity with Jamie, for the sake of his bairns. Then:  his father, dying. Confessing to Jamie how much he'd been drinking, how he needed to be sober to see his father one last time.
+
+An arm around him, a hand in his hair ruffling it. Jamie said, "Come on, you sad fuck, let's dry you out."
+
+His first meeting, sitting in a corner, two shots in his belly, listening to people talk. Going around his office with Jamie, pouring the bottles out. Going around his little house, doing the same, all on his own. Sitting with his sponsor and crying his eyes out over his father's memory, wordlessly. Going to bed sober. Making it stick.
+
+Burying himself in his job, because what the fuck else did he have? Work, years of work, into the new millennium. Rediscovering his anger. His hatred of a world that bound him into place, made him hide who he was.
+
+Politics. Internecine battles. Nick Clegg ruined, almost casually. Smiling with Tom, celebrating with him, smoking a cigar with him and coughing his lungs out because it had been too long since he'd smoked. Tom, wreathed in smoke, holding out his cigar so Malcolm could light it with his holy fire. A trick, a party trick, for which Malcolm was rewarded with a back-slap and a fresh splash in his glass.
+
+The Tories. Cameron, that pig-fucking glad-handing wealthy shit. Never a moment's privation known, never thwarted. A temporary alliance, Tom said. Sell him on it for me. Convince him. Make him believe the message. We'll knife him later. And Malcolm had done it. Smiled and gone away and thought and written and done it. Sold the nation, coaxed them into voting against their own self-interest. Convince sheep to vote for the wolf? A piece of cake when it was Malcolm Tucker carrying your message for you, finding the words for you.
+
+Election. Victory. Crates of Moët & Chandon delivered. Malcolm, drinking his fizzy water, watching the drunken celebration, hiding his curled lip behind his glass. Anger, never-ending anger. Lies, threats. His power used as he needed, to serve the whims of his master, his ever-rising, ever-more-powerful master. Tom. Tom. Power. The world, his responsibility. A boy dead on a beach.
+
+"Please," Malcolm said, to the void, "let it end. I yield. I surrender. I've given up my gifts, because I fucking didn't deserve them. Please. Stop."
+
+It stopped; time stopped. Malcolm was held motionless, suspended somewhere nameless, in measureless space, in void, before the Presence.
+
+"I'm sorry," he said, over and over. "I was a terrible vessel. I didn't deserve it."
+
+The Presence studied him, infinitely powerful and merciful. It was terrifying and comforting at once. He was dying, he knew he was dying, bleeding out the last of his life on the church floor, somewhere in another dimension, but here and now before the Presence he felt comforted. What could he do but surrender to this? If only he'd surrendered back then. But how could he have known? He'd been a teenager, peach fuzz on his upper lip. He'd known nothing.
+
+*Sorrow.*
+
+And then he understood. It had been grace, a gift, a blessing-- it had been kindly meant, in the hope that one in a hundred would use it well. It was a burden, yes, but one that held its own relief within. He had done more with his gifts than many. At least he hadn't decided his task was to go fight wars and destroy civilizations.
+
+But-- The threats he'd made stuck in his throat. Rape, men and women both. Terrible insults. He'd said whatever it had taken to work Tom's will, without regard to the cost. And he'd won, and the world suffered.
+
+"I did evil," Malcolm said, to the Presence around him.
+
+*Yes.*
+
+"I deserve death."
+
+*No.*
+
+"I don't understand. I fucked up!"
+
+*Will you make amends?*
+
+"Fuck, yes!"
+
+*Even if it requires that you suffer?*
+
+Suffering, Malcolm said to the void, was no more than what he deserved.
+
+Even if death waited for him afterward? He had already accepted death. How many times must he say that he surrendered himself to justice? He surrendered himself. It was complete. He would accept the judgement of the Blessed One, no matter what it was.
+
+*Very well.*
+
+The light faded.

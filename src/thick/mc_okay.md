@@ -581,7 +581,7 @@ Malcolm swung back over to the clutch of triumphant DoSaC people to collect his 
 
 "I have already pulled it."
 
-"Congratulations on that, fetus boy, on pulling yourself off because that's the only fucking thing you've pulled in years. I'm off."
+"Congratulations, fetus boy, on pulling yourself off because that's the only fucking thing you've pulled in years. I'm off."
 
 "Not coming with us?"
 
@@ -595,7 +595,7 @@ He turned his back on Ollie without waiting to see what his face did. Was he tha
 
 Her classroom was a long ways from the assembly hall. She settled at her desk with a pen in hand and waved him toward the rows of desks. Malcolm wedged himself into one of the chairs at the back. They felt a bit smaller than they had the last time he'd sat in one, so many years ago at St Ninian's. This classroom was a sight cheerier. Lovely posters on the walls, huge windows opening on a play area below. No chalkboards, he noted, just those white things with the odd-smelling markers. He and Jamie had mimed huffing those markers once to make Nicholson flee a room. He grinned to himself. Phone out, look at the messages: nothing in particular. No disasters in the making yet today. List of likely questions to prep Tom for in advance of Wednesday morning, but nothing unusual there. A stream of texts from Nicola that he deleted with half his attention. It hadn't been a bad day and would rate acceptably even if coffee turned out to be a disaster.
 
-"Okay, ready to get that skinny muffin," Clara said. She was standing next to his desk, looming over him as much as a woman that short could look, already wearing her coat. Malcolm smiled up at her. She smelled nice, like some sort of floral sweet thing he decided he liked.
+"Okay, ready to get that skinny muffin," Clara said. She was standing next to his desk, looming over him as much as a woman that short could loom, already wearing her coat. Malcolm smiled up at her. She smelled nice, like some sort of floral sweet thing he decided he liked.
 
 "That was quick," he said.
 
@@ -633,7 +633,7 @@ While they were waiting for a light to change to let them cross, Clara said, "Mr
 
 "I might ask you to prove that."
 
-"You need to feed me a politician first, yeah? One who's just come off Andrew Marr and leaked five secret trade agreements."
+"You need to feed me a politician first, yeah? One who's just come off Andrew Marr and leaked secret trade agreements."
 
 "I'll let you know next time I run across one of those."
 
@@ -735,7 +735,7 @@ Clara stared at him for a long moment, her face blank, then she broke out laughi
 
 "Do you eat ramen?"
 
-"Noodles in a bowl? Fucking lead me to it."
+"Noodles in a bowl? Lead me to it."
 
 Dinner was significantly better than the coffee had been, though they had to wait for a table even at that ridiculously early hour. They got huge bowls of noodles in soup and shared a bottle of sake one tiny cup at a time. It was delicious and delightful and de-fucking-refreshing or some other word Malcolm couldn't quite call to mind. With the catechism out of the way they switched to politics, to history, to those post-war novels, to novels from last year, to television programs they both watched, to the question of how much of a waste of brain cells *Strictly Come Dancing* was and how invested they each were in the outcome of this round.
 
