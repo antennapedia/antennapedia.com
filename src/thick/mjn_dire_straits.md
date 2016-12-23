@@ -568,7 +568,7 @@ He wrapped the collar around Malcolm's neck. So soft and supple it was. He threa
 
 On his dresser was the little lock he'd bought for it. He'd bought several locks, all keyed with the same master, just in case he wished to lock Malcolm up in more ways than this one, but that was perhaps for another day. Through the post it went, and the lock clicked shut. Julius held up the key so Malcolm could see it, then threaded it onto the little keyring he carried daily. Into his trouser pocket they went, and Malcolm's eyes followed them. Julius patted it.
 
-"The leather waxed. Water-resistant. Intended to be worn for long periods. I'll unlock it tomorrow morning when we leave for Whitehall."
+"The leather is waxed. Water-resistant. Intended to be worn for long periods. I'll unlock it tomorrow morning when we leave for Whitehall."
 
 Malcolm nodded. "I'm your dog all night, then. Chained to the bed."
 
@@ -804,7 +804,7 @@ Malcolm said, "Yeah. I can. Want to."
 
 "I've got you. Pet."
 
-Julius took him in hand and stroked in time with his thrusts, that is to say, slowly, steadily, deeply. He'd whipped Malcolm as hard as he could. He'd made a man scream. He'd made a man he loved scream. There were two livid stripes across Malcolm's back where the whip had broken the skin. It was unbelievably arousing, those little beads of bright blood, the way they smeared across his back under Julius's fingers. Julius had long since known peace with the insight that he was a sadist, that he loved inflicting pain on men who loved receiving pain. He knew now that he couldn't do it casually again. Never again would he whip a man who didn't need him. Not just the whip, but him.
+Julius took him in hand and stroked in time with his thrusts, that is to say, slowly, steadily, deeply. He'd whipped Malcolm as hard as he could. He'd made a man scream. He'd made a man he loved scream. There were three livid stripes across Malcolm's back where the whip had broken the skin. It was unbelievably arousing, those little beads of bright blood, the way they smeared across his back under Julius's fingers. Julius had long since known peace with the insight that he was a sadist, that he loved inflicting pain on men who loved receiving pain. He knew now that he couldn't do it casually again. Never again would he whip a man who didn't need him. Not just the whip, but him.
 
 "God, Malcolm, are you mine?"
 
@@ -818,7 +818,7 @@ And then his breath was coming fast and he was pushing himself back onto Julius,
 
 He rolled Malcolm onto his face and drove into him hard and fast, seeking his own pleasure now. Friction, a mere mindless urge for friction, for the deepest penetration he could find. A hand on Malcolm's shoulder, on that bleeding broken flesh, pushing him down into the carpet. Cover him, mount him, dominate him. The sound of his hips slapping Malcolm's buttocks, of Malcolm moaning underneath him, of his own breathing. And then Julius was coming at last, coming deep inside Malcolm's body.
 
-Afterward, of course, Julius was all tender solicitous care and Malcolm was all pliant submission. It was their way, what they each sought from the experience. He was shakier than usual, perhaps, more clinging.  Julius wrapped him up warm in a robe and gave him Lucozade until he stopped shivering. He declined to unlock the collar, and he kept two fingers hooked into the ring as much as possible. Malcolm was his, now, and he would not let go.
+Afterward, of course, Julius was all tender solicitous care and Malcolm was all pliant submission. It was their way, what they each sought from the experience. He was shakier than usual, perhaps, more clinging. Julius wrapped him up warm in a robe and helped him drink Lucozade until he stopped shivering. He declined to unlock the collar, and he kept two fingers hooked into the ring as much as possible. Malcolm was his, now, and he would not let go.
 
 He was forced to let go when they were in the shower together, however, and it was time to wash Malcolm's wounds. Nothing serious, nothing terrible, no scarring likely with proper care, but it was still shocking to see on him. Malcolm himself was deeply impressed by them. Julius held a hand mirror so he could see his back in the wall mirror.
 
@@ -826,13 +826,13 @@ He was forced to let go when they were in the shower together, however, and it w
 
 "You're beautiful."
 
-"I need, " Malcolm said, "a less sodding painful way to prove myself to you. Couldn't you fucking get off on tickling me instead of whipping me?"
+"I need," Malcolm said, "a less sodding painful way to prove myself to you. Couldn't you fucking get off on tickling me instead of whipping me?"
 
 The whipping was entirely the choice of Malcolm's complicated, tangled psyche, not that Julius chose to say that out loud. What he said was, "I am, in your words, a kinky cunt, and these things require ritual. Hold still while I put some antiseptic on it."
 
-Malcolm swore when he did it, but stood still for it.
+Malcolm swore when he did it, but stood still for it. Antiseptic, gauze taped across the wounds, and that would do for the night. Now to tend to himself. Julius tipped his head to the side and touched the bite marks gingerly. The mirror told him that they were quite high on his neck, just under the corner of his jaw. They would go septic if he didn't tend to them. Malcolm had drawn blood as well. A blood ritual for them both. Well, that was fitting.
 
-Now to tend to himself. Julius tipped his head to the side and touched the bite marks gingerly. The mirror told him that they were quite high on his neck, just under the corner of his jaw. They would go septic if he didn't tend to them.
+He reached for the tube on the counter.
 
 "Let me do that," Malcolm said, and he took the antiseptic away from Julius. Julius hissed in pain as Malcolm's fingers dabbed it on. "Candy-arse. I hardly broke the skin."
 
