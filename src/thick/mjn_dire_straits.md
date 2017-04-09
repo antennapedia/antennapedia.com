@@ -6,7 +6,7 @@ summary: "Julius has an angry, tired Malcolm on his hands-- over-tired, hungry, 
 rating: mature
 pairing: Malcolm/Julius
 banner: "../css/malcolm_tux_header.jpg"
-published: 2016-10-01T12:00:00-08:00
+published: 2017-04-06T12:00:00-08:00
 tags:
     - p:malcolm/julius
     - f:the-thick-of-it
@@ -28,7 +28,7 @@ tags:
 altlink: http://archiveofourown.org/works/14460010
 autotoc: true
 ---
-# Dire Straits
+## Dire Straits
 
 Julius paced back and forth across Malcolm's office. "You frightened her, is-- is what I am saying Nicola said to me."
 
@@ -148,7 +148,7 @@ Julius slipped a hand down Malcolm's back, slipped under his shirttail, and cupp
 
 More work to do. Pleasurable work, to be sure. Julius cradled Malcolm in his arms and sighed.
 
-# The Right Word
+## The Right Word
 
 Julius tugged Malcolm close and encouraged him to lay his head on Julius's shoulder. Malcolm shivered and complied. He allowed himself the indulgence of his hand remaining on that firm buttock, his fingers tracing along the heated welts he'd left there. The schoolmaster's cane had indeed been perfect. Malcolm was as yet trembling against him, but was not so wrung out as to be finished for the evening. He would find an excuse to use it again, but in the meantime--they were, as he had just phrased it, not yet finished. He had yet more business with his difficult prickly awkward Glasgow-pub-fighter lover, whatever the right word for him was. Malcolm used the word "master" for him sometimes, but none of the words Julius had tried for Malcolm were quite right. "Slave", for example, was completely inappropriate to describe a man who would argue with him even when he was being spanked.
 
@@ -336,7 +336,7 @@ A moment of silence while Julius stroked Malcolm's hair. Then, "Yeah. Yeah, I'm 
 
 "Don't tempt me," Julius said, and he heard Malcolm laughing at last.
 
-# Down Time
+## Down Time
 
 It was, as all of Julius's presents to Malcolm were, discreet. Wolf's-head cufflinks, nothing large or gaudy or likely to trigger Malcolm's class rage or invite questions. Cufflinks for moments when Malcolm dressed for the occasion. He would decline to mention that he'd commissioned them, which knowledge would make Malcolm self-conscious about the cost. It was no matter. Malcolm was worth quite a bit more.
 
@@ -408,7 +408,7 @@ That was not something Malcolm would even want to argue with, Julius knew, becau
 
 Malcolm shivered in his arms at the endearment, as he always did. So uncomfortable with the words of affection, yet so starving for them. His half-starved, half-tame wolf, his graying wolf, his pet wolf.
 
-# Wolf
+## Wolf
 
 The other items Julius commissioned for Malcolm took a little more time than the cufflinks. For one thing, he took more pains finding the right craftsman for them, for he wanted them to be perfect. For another, the jeweler had to finish the wolf's head inlays on the hardware, not to mention the engraving, before the leatherworker could finish. But all was arranged in less time than he feared, though more time than he wanted, and he had everything ready in a box, nestled in black tissue paper, wrapped in a lovely bit of geometric printed paper Julius had come across in Berlin recently.
 
@@ -841,3 +841,523 @@ He reached for the tube on the counter.
 "You will do no such fuckin' thing," Malcolm said, and he bit at Julius's neck again, gently, but just hard enough that Julius tensed up against him. Malcolm held Julius's gaze in the mirror for a long moment, until Julius nodded his concession. Malcolm released him with a little shove.
 
 Julius had adopted a wolf indeed. Well, he was in for it now.
+
+## First Time
+
+And with that, Julius had saved Malcolm's job.
+
+It wasn't that Julius was smug; well, he was smug, but that wasn't the half of it. He was smug and pleased with himself, and he knew that Malcolm Tucker was the sort of man who'd remember that he owed Julius a debt and would pay it off when it most mattered. Because politics were politics, but Malcolm had always had a strange sort of uprightness to him, a moral spine well-hidden under the jacket of profanity and obscenity. And indeed, Malcolm had rather the response Julius had hoped for: more. He smiled at Julius, outright grinned, and said, "If I weren't a heterosexual man, I'd kiss you."
+
+A moment's pause, long enough for Julius to regret the truth of that statement, not for the first time. Then Malcolm said, "Fortunately, I'm not."
+
+And then Malcolm was up, moving across the room faster than Julius might have credited, and he laid a hand on Julius's chest. And then Malcolm kissed him, actually kissed him. Julius's first reaction was shock, and his second was to pull Malcolm in close, open his mouth, and thrust his tongue. Malcolm let him in, again to Julius's utter shock, and the next minutes were beyond delightful. Surprising, yes, but Julius was not about to allow his surprise to interfere with the pleasure. Malcolm had always interested him, always challenged him, always tempted him, and now he was clutching at Julius's shirt and his eyes were closed and they were kissing as passionately as two men could kiss.
+
+When Julius next allowed himself to draw breath, he found he had the Communications Director for his political party pushed back against the wall, with a knee pressed firmly between his thighs. Tucker himself had a hand inside Julius's coat, against his bare back, because his shirt had somehow escaped his trousers. Madness! Security cameras, people in the next room, the sounds of conversation as people left the offices for the evening.
+
+He broke away and laid two fingers against Malcolm's lips. "Steady on," he murmured. "Hardly the place."
+
+Malcolm's head fell back against the wall, then he seemed to snap back to himself. "Sorry about that, didn't mean to--"
+
+"Nothing to apologize for," Julius said, and he straightened Malcolm's tie for him. "I didn't know you were -- That is, I'd thought you'd been married. To a woman."
+
+"Bisexual men exist," was all Malcolm said, and he shrugged. Then he looked Julius full on and raised an eyebrow. It was a challenge, and Julius had a mind to meet it.
+
+He said, "Let's take this elsewhere. Come to mine. I'll make us some dinner, and we can see what happens."
+
+Malcolm rubbed at his nose. "Yeah, hardly the place, yeah. Okay." And he smirked at Julius. Another challenge, another little push at him, from a man who'd just been bested, who'd just had cause to be groveling. Well, Tucker had always been and would always be a challenge, and that would be what intrigued Julius about him.
+
+Julius took a moment to text his assistant, and his car had been summoned. He took another moment to text his houseboy to warn him that he would have a guest and needed some light, cold supper laid out followed by discretion for the evening. Malcolm, meanwhile, was engaged in some ebullient banter with his own assistant in the outer office. Julius tucked his shirttails back into his trousers, re-knotted his tie, then followed Tucker out. They made their way to the curb in silence, but a silence lightened by the smirking neither one of them could entirely contain. They were going to have sex, almost certainly. What sort of sex, Julius could not predict. He was flexible enough, given incentive, to enjoy almost anything, though he did have his preferences. What would Malcolm Tucker like? A bisexual man, a man who'd been known to enjoy a fling or two at party conferences with partners who did not complain afterward -- women exclusively, as far as Julius knew, and apparently Julius didn't know anything, because Malcolm hadn't been the least bit shy about letting another man grope him.
+
+Surprises abounded, apparently.
+
+They were at Julius's curb, and out of the car, a work of thanks to his most wonderful PA, and up the steps. Through his front door. Julius shot the bolt then turned and met Malcolm's gaze. He raised an eyebrow. They were on each other in the next instant, back in that delicious, delightful embrace they'd been in whilst in Malcolm's office, Julius's tongue delightfully in Malcolm's accepting mouth. God, but the man could kiss. Those kisses were a challenge, they were so deep and soft and hard and intense and complicated. How could kisses be complicated? Mouth against mouth, tongue in mouth, what more was there? But Malcolm Tucker apparently put his entire self into his kisses, and Julius was set back on his heels by them. The intensity of the man! Did he do everything with the same frantic energy that he brought to his job? Apparently.
+
+And then Malcolm broke away from their embrace and went to his knees, to Julius's utter surprise, and grasped his hips, mouthed Julius through his trousers.
+
+"Can I? May I fucking suck you off?"
+
+"I want to say yes, but--"
+
+Malcolm rocked back away from him. "But?"
+
+"I'd rather make love with you tonight, if that's the sort of thing you enjoy."
+
+"You mean fucking." A little bit of a snarl, from Malcolm, though he was still on his knees before Julius.
+
+"I indeed do. Would you like to?"
+
+Julius reached down a hand. Malcolm took it and stood. Such intensity in his gaze, in those terrifying blue eyes on Julius. Malcolm was studying him, considering his answer. Why the hesitation? "Yeah. Let's fuck."
+
+"Do you have a preference about how you like to, as you say, fuck?"
+
+"I'm, uh, a bottom," Malcolm said, and he wasn't looking at Julius when he said it. A trifle embarrassed by his preference? Or was he hinting at something more than his desire to be receptive? But the hesitation was now explained.
+
+"Fortuitous," Julius said. "I strongly prefer topping. In many senses." His own hint, dropped carefully, and Malcolm raised his eyes to Julius and then his ears turned red. Ah, lovely, very good. Julius would, however, wait until they had a firmer relationship established before pursuing this matter further.
+
+Upstairs, to his bedroom, which Malcolm observed with merely a raised eyebrow, and then they were upon each other again. Now they could pull shirt tails from trousers, undo ties, toss jackets aside, and pay no heed to anything other than the need to touch bare skin, to tumble each other onto the bed, to touch bare bodies and commence that single-minded pursuit of closeness, of union, of orgasm.
+
+Such a bundle of wire Malcolm was, live wire, coiled and sparking and dangerous in Julius's arms. Oh, yes, Julius felt electricity running through him when they kissed, curling his toes, making the hair on the back of his neck stand on end. Nothing to the man, when you got him out of his clothes, just sinew and strain and a penis that fit wonderfully in Julius's hand. A little tang of sweat, of soap, the musky taste of a penis at seven o'clock after a long day of work. Julius's fingers explored lower down, rolled those heavy balls, slid between and inside, and Malcolm spread his thighs wide to allow Julius within. His hips were moving slowly, his cock resting heavy on Julius's tongue, and the little moan told Julius it was time to shift. The moan, and his own eagerness to discover what the man was like spread out beneath him, penetrated, opened, exposed.
+
+Julius selected a condom from the stock in his bedside drawer, and Malcolm put it on for him, fussing a bit over his foreskin. He took a good handful from the jar of slick and spread it over Julius's penis. Lovely sight, Malcolm's delicate hands, with those long fingers, wrapped around him, doing the work of preparing him.
+
+Then Malcolm was on his back, with his legs spread wide, and Julius kneeling over him.
+
+"Hook your legs over my shoulders," Julius said, and Malcolm obeyed, with a little help.
+
+There it was, Malcolm's arse, and the tip of his penis against it. Malcolm was looking down at his body, at his hand on his own penis, and he was biting his lip. Anticipation, most likely, and Julius shared it. He let himself linger in this moment, the moment in which he was about to take Malcolm Tucker, possess him, the wild wolf of Whitehall, the savage bully, laid out vulnerable before him.
+
+And he was inside. Malcolm made a sound that made Julius curl his toes with joy. He wanted this. He wanted Julius. How had that happened?
+
+Ease out a little, then in again. Malcolm was opened but not fully, and he was tight around Julius. Deliciously tight, deliciously resistant to penetration, yet begging Julius to get on with it, to take him. Julius made himself go more slowly than he wanted. In a little bit deeper every time, out and then easing in again, while Malcolm screwed up his eyes and clutched Julius's fingers. Push in, feel him squeeze back, slide out, listen to him exhale.
+
+Malcolm's hand moved on his own prick, too quickly. He'd end it too soon at that rate.
+
+Julius laid a hand over Malcolm's. "Stop."
+
+"Stop touching myself?"
+
+"I'll bring you off later," Julius said. "Right now I want you to pay attention to what this feels like."
+
+"Yeah, okay, okay," Malcolm said, and he let go of himself. "Pushy top."
+
+"Pushy bottom."
+
+"Better make it worth my while. I haven't been fucked in years."
+
+"No?"
+
+"Something like," Malcolm said, and that was evasion if Julius had ever heard it.
+
+"Tell me how it feels."
+
+"Fucking talk a lot, don't you."
+
+"Tell me."
+
+Malcolm closed his eyes and shook his head, but he answered Julius anyway. "You're big. Big cock. Hurts a wee bit but feels fucking good. Fucking good to be fucked."
+
+"You like the way it feels?"
+
+"Christ, yeah. Haven't done this in ages and forgot how much I fucking love it. Being filled. Feeling somebody move inside me."
+
+Julius bit his lip and slid himself almost all the way out, then pushed inside him again slowly, oh so slowly. Held himself all the way inside, savored it, and then out again. Julius didn't mind being taken, but it wasn't something he particularly craved the way Malcolm seemed to. He was a bottom, he'd said, and he certainly was behaving like one. He was making the most lovely sounds.
+
+Julius said, "Is this pace good for you?"
+
+"Slow, yeah, make it last. Yeah. Julius -- please. Fucking need to tug myself here."
+
+"Do whatever you like so long as it's slow. I don't want you coming before I do."
+
+"Fuck you, Julius, fuck you and your giant fucking cock!"
+
+But Malcolm didn't touch himself and Julius quietly rejoiced, because that meant his suspicion had been right, and Malcolm was interested in something a little spicier than vanilla sex. Not that there was anything wrong with vanilla, with the missionary position, because it felt lovely and because Julius had always been a little bit turned on by Malcolm, by the delight of arguing with him, by the puzzle of him, by the hints that there was something behind the cover of the obscenities. And here he was, buried deep inside Malcolm's body, watching his face, seeing with his own eyes what being penetrated did to him. The sheen of sweat on his brow, on his chest, the flush on his face. The way he closed his eyes when Julius penetrated him deeply, the little moan that escaped him as Julius pulled out again. So delicious, this, so exciting.
+
+He let himself luxuriate in it, take his time with it, since Malcolm was enjoying it so much. No need to rush to completion. Instead Julius let himself take his time, moving inside this complicated fascinating man, this bitter, biting man who'd shocked him so by kissing him sweetly. Malcolm Tucker, moaning underneath him, pushing back against him, oh so wonderful.
+
+When his orgasm was near, Julius let himself pursue it without restraint. Malcolm loved being taken, he'd said, and he wouldn't mind if it Julius let himself go, if he moved hard and fast, taking what he needed, sweet friction, oh yes, there it was, the moment of inevitability, the moment when he knew it was going to happen. And then it was happening, he was emptying himself into Malcolm's body, glorious glorious orgasm.
+
+When he came to himself again, Malcolm had him held close, and the look on his face was strange.
+
+"What?" Julius said. "What does that expression mean?"
+
+"Now I know what you look like when you come," Malcolm said.
+
+"Oh?"
+
+"Never going to forget it."
+
+"Do you want to?"
+
+"No. Julius--" His face was as earnest as Julius had ever seen it in that moment.
+
+"Malcolm."
+
+But Malcolm shook his head and his face changed back into that lip-curled smirk. Whatever he had been about to say, he'd thought better of it. "I haven't come yet."
+
+"Not yet."
+
+"You fucking better make it worth my while, Nicholson."
+
+"Manners," Julius murmured, then stopped his mouth with a kiss. He would make it worth Malcolm's while. He would give the man what he sought, whatever that was. His right hand was on Malcolm's penis, well-slicked, and his left behind Malcolm's head, pulling him in for a long kiss. Kiss and stroke and hold him close, pay attention to what made him moan, what he responded to. Tucker was a man, like other men, but he was also himself. What Julius meant by that thought, he wasn't sure, but it was the core of it. Malcolm the man was in his arms, Malcolm the unique human being. He wasn't bedding merely the slavering rabid wolf of Whitehall: he was bedding the human being. But then, didn't one always? Any man he'd ever taken to bed had been a complex, complicated, tangled thing. Why did this one man intrigue him so?
+
+Malcolm made a sound Julius had not heard from him before, and this snapped his attention back to the physical realities. He was stroking a man off; he ought to pay attention to that.
+
+Julius said, "Is this good?"
+
+"Feels like you're still inside me."
+
+"Do you like that?"
+
+"Fuck, yes. Wish you were. Fucking me hard like that, God, it was fucking fantastic. Didn't want it to end."
+
+"Think about me inside you. Moving, penetrating you, deep."
+
+"Fuck--"
+
+Malcolm was moving against him, pushing himself into Julius's closed palm. His breathing was rough and his face flushed.
+
+"Fuck, Julius, can't hold out -- gonna--"
+
+"Go ahead," Julius whispered. "Let go for me. Do it for me."
+
+And Malcolm was there, head thrown back, eyes screwed shut. He had forgotten himself utterly in the moment of orgasm. Julius had never seem him so unguarded, so open, so languid. A little smile on his lips, a little sigh, and he was curling himself into Julius's embrace, heedless of the mess on his stomach and Julius's hands, burrowing his face against Julius's neck. He had an armful of boneless, whimpering Scotsman: the fearful Tucker was a soulful sweet post-orgasmic mess who wanted to be kissed and cuddled and crooned to. Now this, this Julius could not have predicted, and he was delighted beyond words to have discovered it. He'd bedded Malcolm Tucker, and learned who the man was, and the secret truth would forever please him.
+
+They showered together afterward, languid and affectionate, with a lot of slow kissing. Julius wrapped Malcolm in one of his robes, and left him to relax in the bedroom while Julius nipped down to the kitchen to do something about their skipped dinner. His houseboy, Gavin, had done as requested and laid out a cold repast:  Cheese and fruit on a board, a bit of charcuterie. To this Julius added some sparkling water and a pair of glasses. He had never seen Malcolm drink, and he did not know whether that was accidental or deliberate avoidance. Best not to push the matter until he'd had an opportunity to ask.
+
+Upstairs again, to find Malcolm sitting in the armchair Julius read in at night, thumbing through the history of nineteenth century Prussia he'd been reading, the rise of Bismarck and all that. He looked oddly small in the fluffy bulk of Julius's robe.
+
+"Started to worry you'd skipped," Malcolm said.
+
+"From my own -- ah, yes, you jest."
+
+Malcolm's mouth quirked. "I found your pornography. You're a kinky cunt. And worse, into fuckin' Germany on its way up." He gestured with the book toward a stack of related works.
+
+Julius set the tray onto the ottoman that sat before his armchair. "It's more Europe in the nineteenth century in general. Doing a bit of reading on the rise of nationalism, as background for current larger trends. Le Pen concerns me."
+
+"Ah," Malcolm said. And then, "I'm not so interested in the grand patterns of history. Got my mind on the little men. The people nobody notices. The woman in a Glasgow tenement who wants her education, you know? Don't care about Bismarck or those shites."
+
+"I know," Julius said, but it was a bit of a lie, because he hadn't understood what moved Malcolm Tucker. And still did not, entirely. And wasn't that the true attraction, here? He longed to know what wound the clockwork inside this man, the snarling wolf who tore out the throats of the careless and unwary. The wolf who wagged his tail here and now, in Julius's bedroom, as Julius set the dinner tray before them and tucked himself into the armchair along with him. There was room for two, after all, if the two did not mind intimacy.
+
+Julius pulled a wine-dark grape from the bunch and held it out to Malcolm. He held Julius's gaze for a long moment, smiled, and ate the grape from Julius's fingers. Julius let his thumb trail across Malcolm's lips. Stubble on his chin, smile lines around his mouth and eyes -- Malcolm had a life that was not entirely about shouting at people, it seemed. And in that moment, Julius knew. He knew what he wanted. He knew he could not let this rest.
+
+He said, "Stay the night."
+
+Malcolm looked away from him, and Julius couldn't read his expression. "Not sure why."
+
+"Because I'd like to do this again in the morning."
+
+A smile, then, a little thing, but it made Julius feel wonderful to know he'd coaxed it from Malcolm. "Yeah, okay. That'd be -- Yeah."
+
+"I have a suspicion that we are, well, simpatico, and I'd like to explore it."
+
+Malcolm's eyebrow went up. "Simpatico," he said, but he did not disagree.
+
+"And I'd like to give you the experience you wanted tonight, of climaxing while I penetrate you."
+
+Malcolm's lip curled. "Do you ever talk like a fucking human being?"
+
+"My contention is that I'm the one who talks like a human, and you're the one who talks as if you've been  -- how does Terri put it -- raised by wolves." But nonetheless, Julius knew Malcolm had agreed to stay, and his chest ached, rather. Well. He was for it, then, wasn't he.
+
+## The Flu
+
+Flu? A bad cold? Whatever name you cared to give it, the fact was that Malcolm was in bed and likely to remain so for the next few days. He had, in Julius's opinion, been felled by overwork and an ill-advised walk around Whitehall in the rain (lecturing a miserable new man from Culture the while). That is to say, he'd been felled by his own pig-headed refusal to take Julius's advice to rest. It would be an order next time, not advice. Nothing to be done about it now, of course, but care for him.
+
+Malcolm had enough energy to mutter about not needing a fuss, but Julius gave him no choice about it. Fussing over Malcolm was one of the greatest pleasures of their relationship, and he was not of a mind to stint himself. Julius tucked him up in their wide bed, under more blankets than Malcolm wanted, the houseboy under instructions to keep him supplied with tea with lemon and honey. Because he was ill, Julius relaxed the rule about nudity in bed and dressed Malcolm himself in his own flannel pajamas, which were too long in the leg but served their purpose.
+
+Malcolm was half-asleep when Julius left for his day in Whitehall. He texted Sam on his way in to let her know where her charge was, and to instruct her to cancel his appointments for the next two days. It was a rather obnoxious day as a result, for when Malcolm was gone the less intelligent politicians did tend to run wild, rather. Julius did not have the same command of MacDonald that Malcolm did, and was unable (as usual) to enlist him in terrorizing the stupidest of them as efficiently as Malcolm would have done. Malcolm was rather good at his job, when he was well-slept and well-fed and feeling steady. When he wasn't, he could be a walking disaster, and that wasn't good for the nation. Or for Malcolm. Or for Julius's calm repose.
+
+Well, if MacDonald didn't manage it, Malcolm would have his hide later. No skin off Julius's nose. He wiped his hands of the matter and settled in for some rather enjoyable conversations with people in London's tech industry about their wishes for more support from Whitehall, and some truly clever ideas they had about how. Thus Julius ended the day in a good mood.
+
+On his way home he stopped in at Malcolm's favorite local Chinese restaurant-- well, his own favorite, one which Malcolm didn't mind-- for some soup for Malcolm and a bit of lamb in a black bean sauce for himself.
+
+Julius switched on the bedside lamp. "You awake, darling?"
+
+"Julz. Hey. Yeah. What's the time?" His voice was scratchy.
+
+"Just gone seven."
+
+"Fuck me."
+
+Malcolm sat up and rubbed a hand over his face. Julius sat down on the bed and touched a hand to his forehead. Cooler than it had been in the morning.
+
+"How are you feeling?"
+
+"Fucking awful."
+
+"Up for some dinner? I brought you some hot and sour soup."
+
+"Hurts to fucking swallow."
+
+"Can hot it up for you any time. Do you mind if I eat sitting here with you or should I take it down to the kitchen?"
+
+"Stay. Been fucking on my own all day."
+
+Julius sat on the bed with carton and fork in hand. Malcolm, to his surprise, shifted in bed so he was pressed up against Julius's side. He seemed to doze off while Julius ate, and came awake again when he went to dispose of the carton and wash his hands. He was sitting up, propped against a mountain of pillows, when Julius rejoined him.
+
+Julius sat down on the bed next to him and raised an arm. Malcolm immediately ducked under it for a cuddle. He looked adorable, if pathetic, like this: hair sticking out all over, unshaven chin gleaming silver and bronze in the lamplight. Not that he liked it when Julius referred to his graying hair. Julius smoothed down his hair and turned down the collar of his pajamas.
+
+"Fever sweats are fucking strange," Malcolm said to him. "Smell strange. Feel strange on your skin."
+
+"Would you feel better if you bathed?"
+
+Malcolm pushed his face into Julius's shoulder. "Don't want to move."
+
+"All right, darling, no need to move."
+
+"Why the fuck do you call me that anyway?" Malcolm was muttering into Julius's shoulder, but Julius could hear the uncertainty in his voice clearly nonetheless. He was going through another of his self-loathing fits again, apparently.
+
+"Because I want to."
+
+"You do whatever you want, you tendentious poof. The question at hand is why you want to."
+
+Julius considered the top of Malcolm's head. "What have I said about homophobic slurs?"
+
+Malcolm sighed. "Reserve them for that mincing cunt Reeder."
+
+"Not quite, but close enough."
+
+"Sorry."
+
+"You are not, but we'll discuss that another time."
+
+Julius let his hand slip under the hem of the pajama shirt and stroke up Malcolm's bare back. His skin was warm to the touch. Still running a fever, though not as badly as he'd been in the morning. Malcolm shifted and got his arm around Julius's waist and a leg over Julius's thighs. He was clinging like a limpet. That together with the uncertainty meant he was in need of more reassurance than usual. Being ill took him this way, perhaps.
+
+"What do you need, darling?" Julius said. "Herbal tea? Something for your throat?"
+
+"Lost the Strepcils somewhere earlier today. Find them for me?"
+
+A pathetic note in that, pleading ever so slightly. Julius found it touching rather than maddening. The box was on the nightstand, atop a copy of yesterday's Guardian, but he forbore to point it out. He merely handed one to Malcolm, who tucked it into his cheek and sighed.
+
+"Certain you don't need a doctor?"
+
+"Just a cold, Julz. Don't lose the fucking plot."
+
+"Right, then. Shift for a moment, would you, darling? I'd like to take my shoes off."
+
+He did so, grumbling a little. Julius smiled to himself. Shoes off, tie undone, reading glasses on-- time to catch up on what he'd meant to do with his afternoon. Julius sat against the headboard with stack of reports in hand. Malcolm slid down even further in the bed, with his head in Julius's lap. First report, a bloody awful thing on the effects of the Greek crisis on EU employment trends, which was something Julius did rather need to understand so that he could write a précis for bloody Tom. Sometimes he thought Malcolm was right about him, and the party ought to move on before the populace did, but Malcolm was always more aggressive about these things than Julius was entirely comfortable with. He adjusted his glasses and set thoughts of Malcolm aside to concentrate.
+
+When he looked down to check on Malcolm, some time later, he'd fallen asleep. His hand, with those long fingers, was tucked in Julius's trouser pocket. Why? There was nothing in the pocket. It was warm, perhaps. Or it let Malcolm get closer to him. Bloody endearing frustrating man.
+
+## Bite Deep
+
+In the end Julius did not chain Malcolm to the end of the bed, which Malcolm wasn't going to complain about. He was too sore and too exhausted to want to sleep on the floor. His left shoulder was throbbing in time with his heartbeat and hot to the touch. His body was sore, every bit of it. His legs, from crawling. His arse, pleasurably, from Julius taking him with such uncontrolled intensity. His back and shoulder, both sting and ache. The lash-marks had been almost frightening in the mirror. He'd be bruised in the morning. He'd feel it every moment of the day. The idea of it-- the ache, the warmth, the feeling in his chest. It was almost too much.
+
+It wasn't the first time he'd been beaten seriously in his fucking inexplicable pursuit of sexual satisfaction, but it was the first time anybody had drawn blood from him. Though maybe that top he'd paid in Berlin, the time he'd first learned what he needed from men, maybe that barrel-cocked silent brute had come close. He still hadn't told Julius about that incident, or the one in Amsterdam. He would if asked, but fuck him if he'd give Julius enough hints to know to ask.
+
+It was definitely the first time he'd been whipped as an act of love.
+
+Everything felt wonderful, even the things that ached. He had that light floating happy thing that only happened on the nights when Julius was hard on him, when Julius broke him down and helped him put himself together again. Nothing else was like this. Nothing else made him feel like this. Julius, though-- Julius did something to him.
+
+He was not chained at the foot of the bed. No, Julius wanted him next to him, under that ridiculous duvet, naked, collared, and leashed to one of the rings in the headboard. There were rings discreetly placed all around in Julius Nicholson's bed. It had been one of the first things Malcolm had noticed about it, the first time they'd had sex: first the hardware on the bed and then the cock ring in the drawer with the condoms and the jar of extra-thick slick for arse-fucking. Julius Nicholson was apparently a kinky cunt. Not that he'd mentioned it. Not that Julius had mentioned it, either. One didn't mention shit like that to one's partners on the first and likely only go. One fucked or was fucked, gave pleasure and took it, politely overlooked the mess of private life scattered around the bedroom, and took one's leave gracefully.
+
+Or in this case, didn't take one's leave. Instead he'd stayed the night and they'd done it again. And again. Intensely. And now he was tied down to the fucking hardware in that kinky cunt's bed by the very whip that had flayed his back open, and his solicitous, sadistic, bald top was spooning up behind him. Fucking Lord Nicholson had whipped him hard and fucked him hard. Malcolm Tucker was exhausted, yes, as he'd noted before, sore, fuck yes. It hurt enough that he whimpered a little when Julius pulled him close. His back had looked terrifying in the mirror. Fucking hell, it was going to be awful in the morning. He wouldn't be able to take his mind off it all day. If he was lucky. If it went as he wanted. His back and shoulder would be constant reminders that Julius had told him he loved him, had found him worthy of wearing Julius's collar, had decided he deserved to sleep in his bed and not on the floor where pets belonged. Or some shit like that.
+
+They hadn't worked out the details of how this particular role-play was going to go. Knowing Julius, he had a document drawn up with bullet points.
+
+"Fuck," Malcolm said, under his breath. He shifted himself a little and adjusted a pillow under his head. Fucking ridiculous pillows. Fucking ridiculous bed.
+
+"Goodnight, my wolf," Julius said, in a voice that sounded half-asleep already.
+
+"Goodnight, sir," Malcolm said, and felt that little thrill he always felt when he called Julius that. The thrill of submission. The thrill of handing himself over to Julius, who had rules for him, who knew better than he did how to regulate his fucked-up life. Who was hard on him when he needed it and couldn't ask.
+
+Had Julius told him he'd loved him? He had. Over and over. And Malcolm hadn't said it back, unless you counted going to his knees and taking the collar as saying it. Unless you counted taking the whipping as saying it. Which might count, but Julius deserved more. Better. Julius deserved things Malcolm wasn't sure he had the courage to give. Fuck. He ought to. Even if it doomed them, because-- Fuck. He would never be able to sleep like this, not with this ferment inside him.
+
+When Malcolm opened his eyes, the bedside clock read five AM. His shoulder and back were still sore, but different than they had been the night before. Nothing that a few Nurofen couldn't sort. Also he was warm, comfortable, and held tight by a man who'd fallen asleep holding him and would, if Malcolm had anything to say about it, wake to find himself still holding him. Nothing wrong with any of that. No, his problem was that he had to fucking piss, and he was tied to the headboard, and yeah, he could untie himself but *fuck*.
+
+"Julz? Julius? Nicholson, Lord Baldymorte! Wake the fuck up!"
+
+Julius was muzzy headed, but scrubbed a hand over his face and came to himself. "What's wrong?"
+
+"I need to fucking piss. I'm leashed. And you said-- shit. Julius."
+
+Julius laughed, actually laughed, then said in that fruity oh-so-fucking-English voice, "Right then, my pet, let's go for a walk, shall we?"
+
+Sit up in bed, swear when the leash tugged at him, move closer to the headboard, wait. Stand up, then freeze in place at Julius's clucking. On hands and knees, crawl, stiffly, awkwardly. What a right twat he must look, scrambling across the carpet trying to keep himself from being tugged along by the leash.
+
+Into the toilet, a fucking ridiculous toilet with a ridiculous glassed-in shower cubicle, all mod cons, enema nozzle a custom-installed extra just for minted fruits like Julius. Malcolm remained on hands and knees and wondered if Julius would make him piss in the shower.
+
+"You may stand," Julius said, and Malcolm let a long breath out.
+
+Julius watched him piss-- not the first time Julius had watched him piss, and not the most humiliating thing Julius had watched him do in this toilet. The shower with the nozzle was the most humiliating thing. Julius didn't get off on any of that, not exactly. He got off on Malcolm's reaction. When his face went red and he couldn't look Julius in the eye but was turned on anyway, that was when Julius's cock got hard. Julius got off on Malcolm getting off on his own humiliation. Julius got off on Malcolm getting off on being disciplined for disobedience. Julius got off on Malcolm getting off on being whipped until he broke down and cried. Which one of them was the kinky cunt? Yeah, well.
+
+Of course Julius wasn't going to piss right now, not with Malcolm there. Malcolm flushed, washed his hands, and went back down on hands and knees. Crawl out into the bedroom, crawl up into bed, wait while his master snapped his leash to the bed again, and then climb all over Julius. Malcolm found the bite mark on Julius's throat, the bite he'd been forced into to get Julius's attention, and kissed it. Couldn't resist the urge: he fastened his teeth into the same spot again and worried at it gently. Julius went perfectly still under him, which was what he wanted. He'd read a lot about fucking wolves during the last few weeks, what they were really like. Dogs without the domestication. Wild animals. When you owned one, you had to be ready to struggle with it for dominance every night, because it wanted to be the master. And this was what Julius wanted from him, so it was what he'd do. Bite Julius's exposed throat, gently, and whimper when Julius stroked a hand down his bruised back, and then relax still sprawled over him, holding him down, yeah, this was the way to spend the hour they had before they had to run the fucking nation.
+
+Malcolm woke a second time in Julius's arms, and this time he knew they'd have to get up and dressed and to Whitehall. He groaned. He wanted a lie-in. He wanted a long lie-in and coffee in bed and something to take the pain away, because his back fucking hurt. What a fucking head case he was.
+
+Up, shower with Julius, let the fucker wash his hair, since he didn't have any of his own to wash and Malcolm had a rather magnificent head, thanks. Let the fucker wash the weals over his shoulder again, let him rub in antiseptic and tape down more gauze. Dress, noting as he did that about half his wardrobe was here, in Julius's closets. Choose a shirt for Julius with his own hands, shirt and tie, just to make sure Julius knew he was serious about showing off that bite.
+
+"Can't show off the marks you gave me," Malcolm said, "but you're showing mine. Or you're getting another one tonight."
+
+"No need, darling. It's well, not done, but for you--"
+
+"Good."
+
+It was as they descended to the foyer to head out to meet Julius's driver and depart for their day that Malcolm had a moment of insight he wasn't sure was welcome. He was walking down the stairs, and Julius was going to take the collar off in another moment, and what was going to happen when he put it on again in the evening? Would he want to do this shit again? Malcolm needed to think first. He needed-- well, not to be walked to piss as a regular thing.
+
+"Julz?"
+
+"Mmmm?"
+
+"I need to say something before you take the collar off, okay? So you know I still belong to you even though I'm saying this, yeah?"
+
+Julius tucked two fingers into the ring under Malcolm's chin and tugged Malcolm over to him. "Go ahead."
+
+Malcolm rubbed at his jaw with a thumb. He could feel a muscle on the side jumping with tension. Saying this was hard, because Julius had been *so* turned on by making him crawl, and he knew it. And he had to say it. "The collar is fucking brilliant, so you know that. I will wear it any time you want me to. I'm yours, yeah? I'm your pet. It's just-- Not sure I like the crawling or playing at being a dog. Not as an every-day thing, yeah? Save it for special occasions. If-- if that's okay?"
+
+Julius looked serious for a moment, nodded. He touched Malcolm's lips with his free hand.. "Of course it's okay, darling. Nothing happens here that you don't want. We haven't fully negotiated this arrangement yet."
+
+"Yeah, I know. But I want you to get what you want, too. Don't want it to be one-sided. I'm a selfish prick, yeah, but--"
+
+"Nonsense. Hush, now, darling. Let me take your collar off."
+
+Malcolm stood still and suffered Julius to unlock him. Lock, key, and collar all went into a little chest of drawers by the coat rack. He watched them disappear then looked up to see Julius's eyes on him.
+
+"We'll negotiate," he said, and it was a promise.
+
+Out the front door, into the waiting car, coffees ready for them, and off they went, grinding around London toward the seat of power at an average nine miles per hour. Malcolm had read that report the other day, on how the average speed of travel in London hadn't changed for nearly a hundred years, no matter what the traffic planners did, and it had given him a certain acidic pleasure. Grind and halt, grind and halt. He should be scanning the morning papers to get a head start on the messes of the day, but he had no patience for it yet.
+
+Malcolm rubbed his neck. Fucking cliché to say he missed the collar already, but he did. He missed the feeling of Julius's hand on him always, steadying him. Well, that was interesting. And there were ways of getting that feeling, discreetly, some more permanent than others. If he dared mention them to Julius. He'd mentioned being leashed at the foot of the bed once, and look what had happened. But in the meantime--
+
+"Julz--" he said, hesitantly.
+
+Julius set the *Financial Times* down. "Malc?"
+
+"I want to do something for you. You know, just for you. If there's anything."
+
+"There may be," Julius said, almost casually, but Malcolm could hear the tension in his voice.
+
+A glance forward at Julius's PA, who was studiously ignoring them. "Tell me tonight?"
+
+"Oh, I can tell you now. I'd like to buy you some clothing to wear."
+
+Malcolm clenched his jaw. The balding English twat had taken him for fittings more than once, and he'd fought it every time. Fought himself more than Julius, trying to keep his mouth shut. If he opened it they'd hear him speak and they'd know him for a fucking Glaswegian nothing and then the noses would lift. As always. The fucking English. But Julius deserved this concession from him. Julius liked giving him things. Julius always noticed when he wore the cufflinks, or that jacket.
+
+"Yeah, okay," he said.
+
+"No fussing? No demanding to know what I intend?"
+
+"No chance you'll want me to be a laughingstock, and it'll make you happy, so fuck, easy decision. Yes, Julius, buy me clothes and I'll wear them."
+
+Julius took his chin in hand and kissed him, right there in the damn car. Not that it was the first time they'd kissed in the presence of Julius's PA, driving the car, but Malcolm did hate to make a public display of things. He opened his mouth for it anyway, because Julius looked happy and he didn't want to mar that. He wanted to see Julius happy, so he kissed him with coffee on his breath, kissed him until Julius looked rumpled and flushed, kissed him until the car pulled to a halt and they had to part.
+
+Another day at the fuck office. Another day sorting out the idiocies of the well-educated twerps in minor government offices. The people at Transport never seemed to need him or his team swooping in like fucking peregrine falcons in for a kill, or more likely vultures cleaning up the bodies. Why was that? Malcolm had long since understood that some parts of the government had to be run by competents or people died, so they were. The fuckups ran the BBC, or Culture, or administered arts grants, or citizenship programs. The incompetents got posts in ministries like DoSaC.
+
+Fucking DoSaC. He met Julius after lunch, a purely professional meeting while Malcolm swallowed the dregs of his lunchtime latte, five minutes scheduled to review the policy proposals from Tom that Nicola had to represent, coherently, on the radio tomorrow. Then over to DoSac, walking side by side, to wrestle with Nicola. Time had been they'd have been arguing viciously while walking. Well, they were arguing, but it was a pleasurable argument and Malcolm felt no need to dig his teeth into Julius's throat. He'd already done that, and Julius's embarrassment about it was deeply satisfying to see.
+
+He flushed deep red about it when they walked into the DoSaC offices and Ollie whistled and pointed. Glen came over to see what the fuss was and rolled his eyes.
+
+"Malcolm bit you. He actually bit you," Ollie said.
+
+"Better get a rabies shot," Terri said, and Ollie snickered.
+
+"Is that all?" Glen said. He sat down in the nearest chair folded his arms.
+
+Ollie got right up next to Julius and looked closer. Julius frowned, and Malcolm felt his jaw tightening. A little ribbing was fine. He wanted Julius to endure that. He had limits, however, and fucking Reeder was near them. He turned his back on the cunt and resumed his march to Nicola's office.
+
+Reeder said, "I always did wonder which one of you was on top. Figures it would be Malcolm."
+
+Malcolm froze in place. He could feel that thing in his stomach that happened sometimes. It happened too fucking often while standing in this office. Something about Reeder always set him off. He said, very carefully, without turning, "Yeah, you wondered?"
+
+"Not really. Can't imagine you bending over for it. You're not the feminine type."
+
+"And Julius is?"
+
+Julius let his hand close on Malcolm's left shoulder, tightly enough that it hurt. Malcolm turned to him and caught his eye, nodded, but tugged himself free.
+
+"Well, look at his suits."
+
+Now Malcolm turned and paced closer to Ollie, one, two, three steps. By the second step, Ollie's face had changed. He had twigged that Malcolm wasn't amused.
+
+"So it's a joke to you, yeah? All that talk about gay rights, just a fucking joke?"
+
+"What? No--"
+
+"See two men in a relationship and it's time to giggle your head off, right? Fucking funny. Posture one way in public then in private laugh at us, right?"
+
+"Malcolm, no, that's not what I think at all."
+
+"Seems you've spent a lot more time thinking about us fucking than I spend thinking about you and whatever Tory water-carrier you're banging this week."
+
+"Malcolm, I'm really quite sorry, but I didn't intend--"
+
+"To shoot your gob off mocking my personal life? You called me massively homophobic once, remember that? Remember what I said?"
+
+"You, um, you said that you'd been fighting to repeal laws since before I was, um born. Or something. I didn't, um, know you were gay at the time, Malcolm. I'd just, um, seen you dating, um--"
+
+"That shouldn't fucking matter. Get out of my fucking sight before I kill you," Malcolm said.
+
+Ollie ran. Malcolm watched him go. He could feel the tension in his jaw, the vein in his forehead. Every single bit of the floating happiness from the night before was gone.
+
+Glenn said, into the total silence that followed, "That's what a real threat from Malcolm sounds like. Good to know."
+
+"Fascinating," Julius said.
+
+"Yeah, like shit on the bottom of your shoe is fascinating. We were here to meet with Nic'la, weren't we?"
+
+He breathed out. The metal taste in his mouth began to fade, and he felt a bit better. That bit of shouting had been quite cathartic, though he had no idea whether Julius would be angry about it or not. He gave nothing away during their conversation with Nicola, and Malcolm was busy enough for the rest of the afternoon shouting at other people and in a delightful change of pace, giving thoughtful and gentle media coaching to a young boffin over at the Treasury who they thought had potential and would he be so kind as to help her prep for her first interview? He would, and he did, and it would probably go well if he knew his business. Though why they were giving university degrees to children these days was a mystery to him.
+
+Meet Julius at six, head to his car, ride silently with Julius's hand on his knee to the place he was beginning to think of as home. Home, Julius's home, stepping over the lintel, and Malcolm felt the relief wash through him. He belonged to Julius the moment he stepped through that door. He had no burdens to bear, if he didn't want any burdens, other than what Julius demanded of him. And he trusted Julius, utterly.
+
+"Your collar," Julius said. He went to the drawer and took it out.
+
+Malcolm went to his knees of his own accord. He loosened his tie and undid his top button. Julius went around behind him and buckled on the collar. The lock snapped shut. Julius showed him the key again and Malcolm watched it go into his pocket. Wrong place for it.
+
+"Around your neck," he said.
+
+"What?"
+
+"Wear my key on a chain around your neck next time." It was an order, delivered like an order, never mind that he was on his knees.
+
+"Of course, Malcolm," Julius said, though his eyebrows were raised.
+
+Up to his feet to usher Julius into the study, for their pre-dinner ritual. A drink for Julius, confession of the days rages for Malcolm, decompression for them both. He poured Julius a glass of something he knew Julius had made appreciative noises about, no soda, a tiny bit of water. He went to his knees before Julius, holding the glass, waiting with bowed head for his master to express approval. Julius loved it when he did this so much. He could see it on the man's face, in the way his eyes crinkled up. Julius laid a hand on his head to pet him, and Malcolm heard the words of satisfaction he needed to hear. He stayed where he was, even though Julius hadn't asked for it, hadn't asked for formality, because inside this study, inside Julius's bedroom, he could do this and let himself sink into it. Precious sanctuary, this room. So he sank into remaining on his knees, let himself feel the collar around his neck, the burn over his shoulder, even the quotidian feeling in his arse from having been fucked hard.
+
+"Come sit with me, Malc."
+
+Julius was stretched out on his sofa, which was wide enough that Malcolm could lie on in with him, between Julius's legs, a position Julius loved. Malcolm loved it too. He let his head fall back against Julius's chest and relaxed. Julius set the whisky tumbler onto Malcolm's stomach. Malcolm held onto it for him. Julius apparently wanted to fuss with Malcolm's collar, settling it so the tags rested just so on his chest. Funny thing, but whisky didn't tempt him any more. Didn't mind it on Julius's breath, didn't want it. Time had been he couldn't have imagined that. The whip had replaced it, maybe, given him the same feeling while doing less damage.
+
+Still did some damage. He'd been popping the fucking Nurofen all day.
+
+Julius took the glass back and drank. He said, "You were hard on Reeder today."
+
+"If you discipline me for that, it will have been worth it," Malcolm said.
+
+"Never. You acted in my defense, in a manner I cannot imitate."
+
+Relief washed through him. Julius was not angry about the bite, the humiliation, or Malcolm's anger. He hadn't been hurt by it, not really. Thank Christ.
+
+Aloud he said, "Yeah, that's a bollocking only I can do. Or Jamie, Jamie can go for the throat on that topic. Seen him do it."
+
+"MacDonald? Defending the right of a male couple to leave love-bites?"
+
+"Jamie's a tits man exclusively, but he knows I like cock just as much as tits, and he gets testy when somebody thinks less of me for it. He's a decent man, is Jamie, for a minge-eating thug."
+
+"I believe that to be the first time anyone has called him a decent man."
+
+"Nah. His current girlfriend likes him a fair bit. Says the most fucking stupidly nice things about him. Gonna need to write a best man speech soon, I think."
+
+"He would be harder on Oliver than you?"
+
+"Ollie fucking thinks you're a bottom for letting me bite you."
+
+"He conflates anal receptivity with femininity," Julius said.
+
+"To underline the point, yeah, you tendentious twat. And he doesn't respect women or anything that he fucks. Arsewipe."
+
+"Yes, that does seem to be the root of it. He would be surprised to know the reality."
+
+"The reality being that I spread my arse-cheeks for you willingly and love every fucking second of it. It feels fucking wonderful, giving you that gift."
+
+"You think of it as a gift? Allowing someone to penetrate you?"
+
+"Yeah." Malcolm shrugged, then winced; his shoulder was so fucked up. "My body, handed over to you for your pleasure. Women, when I'm with them, it's a gift they're giving me, too, when they consent to let me inside. Fucking mutual pleasure, cock in cunt, cock in arse, tongue anywhere you fucking want it."
+
+"Oh. Is it the same with the, er, the whip?" Julius's hand squeezed his shoulder just hard enough to remind him.
+
+"That's a gift you give me," Malcolm said, though his voice had gone a little shaky.
+
+"Say rather, a mutual gift. I grant you the pain, you grant me your suffering and tears."
+
+"Fucking sadistic cunt."
+
+"Indeed, oh my masochistic wolf. A lovely match, are we not?"
+
+With which Malcolm could not argue.
+
+Julius took him up to bed a little while after dinner, and made love to him. He took his time about it, a long slow deep fucking that was as intense as they ever got, Malcolm face down and Julius on top of him, pressing him down into the bed. Julius was using endearments as liberally as Malcolm used "fuck" and it was almost too much for him to take. Julius kissed his bruised shoulder and tugged at the ring in the collar and Malcolm whimpered with something he couldn't put words to.
+
+After Julius had come and recovered himself, he pushed Malcolm down onto his back. He knelt between Malcolm's spread thighs and looked down and smiled. Malcolm waited, with his hands palm-up over his head. Perfect submission, even though Julius hadn't asked for it. Whatever Julius wanted to do, he would accept. Pain, pleasure, frustration, whatever.
+
+What Julius wanted to do was kiss his way down from Malcolm's lips to his cock. To worship his skinny body, his not-skinny cock, thank you very much. Malcolm lay back and let himself feel it. Tongue on his cock, tongue in his slit, tongue in his recently-fucked squeaky-clean arse. Fucking wonderful. Balls licked, sucked. Lips on cock, cock in mouth, cock all the way in, to the back of his throat. Bald head gave good head, oh fuck him, that thought was unworthy. Julius-- his lover Julius-- gave good head. Julius knew how to use his hands to make it better, how to get his thumb up Malcolm's arse, how to tease and back off. How to read all the sounds Malcolm made as he built up to it. Fucking amazing Julius was at reading him, whether he was being spanked or sucked. Julius loved him. There came the flood of emotion, washing over him, carrying everything in him away. He didn't want to offer any of this to any other man, ever again. And that meant--
+
+"Julz, oh fuck, Julz."
+
+"Mmmm?" Julius backed off for a moment.
+
+Malcolm caught his breath. Julius's tongue was flickering just under the head of his prick, and it was fucking amazing, but it wasn't the point.
+
+"Love you too." There, he'd said it.
+
+"Truly?"
+
+"Yeah, love you so fucking much. Oh fuck, God, Julz, please, yeah, gonna come in your mouth." For Julius had taken him deep again and was holding nothing back and what could Malcolm do but surrender?

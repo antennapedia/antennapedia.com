@@ -6,7 +6,7 @@ summary: Clara has some news for Malcolm. Malcolm takes it in his stride. His pe
 rating: mature
 pairing: Malcolm/Clara
 banner: ../css/malcolm_clara_header.jpg
-published: 2016-01-31T12:00:00-08:00
+published: 2017-04-07T12:00:00-08:00
 tags:
     - p:malcolm/clara
     - genre:crossover
@@ -21,6 +21,7 @@ tags:
     - sex:beach
     - wine
     - first-dates
+    - kissing
 altlink: http://archiveofourown.org/works/4968199
 autotoc: true
 
@@ -429,10 +430,6 @@ Malcolm collapsed onto his wife and breathed. "Clara," he said.
 
 ## Eight: Spitfires
 
-*In which we learn how Malcolm met Clara.*
-
-# Spitfires
-
 Coal Hill was the school Nicola Murray had chosen as the launch site for her civic pride program. There was absolutely nothing special about it, other than its location conveniently in Shoreditch. It had the usual selection of grubby uniformed children, the usual selection of bright-eyed Labour-voting teachers. Malcolm couldn't disapprove of the choice, though he had been scathing on the topic of the Minister's latest program. Learn to be good little Britons, to vote and participate in local government, earn prizes for essay-writing about the greatness of Britain. The program came complete with little badges that Malcolm had been entirely unable to talk Nicola out of.
 
 "They're going to call them Murray Youth," he'd said, gritting his teeth, and then he'd wanted to scream when she'd failed to get the joke but had instead simpered at him and used the name on the website.
@@ -840,3 +837,255 @@ His phone buzzed in his pocket. It was a text from Clara that read: *what does x
 Then a few long minutes later, her reply: *good to know xx*
 
 Malcolm grinned, stuck his phone in his jacket pocket, and went off to make disturbingly sexual threats in the direction of the fucks charged with the welfare of the nation.
+
+## Nine: Third Kiss
+
+Second date. Sam had, as requested, ably managed his day so Malcolm was out of the office and home in plenty of time to shower, shave, and dress in something more suitable for a date than the office. A suit, yes, but in a cut he wouldn't wear amongst the civil servants, a tie that was intended to make his eyes look as blue as they could. Or so the woman he'd employed to dress him had said, and he was fretting enough over how he looked to verify this assertion in the mirror. Yes, his eyes looked blue. No, his gray wasn't truly obvious yet, though if Clara were to, say, run her fingers through his hair while--speculatively speaking--kissing him, she would notice that he was light at the temples.
+
+Fuck it all. A tiny dash of cologne, not a laddish splash but restrained enough to be a bit posh. He wasn't posh and neither was she, but he was going to do his best for her.
+
+Stage fright, was what he had. He'd been caught up in the moment on their first date, it had been so unexpected. This one was planned. What if it didn't come off right? What if she'd had time to think, to look him up on wikipedia, to read what the Mail had said about his divorce? Fucking lying hacks, to a one, but if Clara believed it--She was too intelligent to believe the Mail.
+
+Fuck it all, he said again, this time aloud to the mirror. Time to put it to the fucking touch and see if she'd consent to kiss him a second time. He had so loved that first kiss.
+
+And with that thought in his head, driving him on, Malcolm was off to meet Clara at the restaurant he'd named to her. Julius's suggestion, not that he was comfortable letting that great snob know about his personal life, but Malcolm had asked, and Julius had been delighted to rattle off a list of possibilities. Julius was reliable about food and too flattered to be asked to notice the tip he'd just received about Malcolm's affairs. He'd made a perfect suggestion, too. It wasn't a swank restaurant, not anything public, but lovely, trendy, tasty. Italian, in a little corner building, with creaking wooden floors. Just the sort of restaurant you'd take a woman to if you wanted a quiet chat over good food.
+
+Malcolm waited in the entrance for Clara, who was few minutes off the appointed time, just enough that he'd begun to gnaw at his thumb when she ran up the steps. He noticed her shoes first. Heels, legs, fucking lovely calves, little black dress, bare shoulders under the coat, makeup just so--Malcolm was happy he'd fussed over his tie. He took her hand, smiled down at her, and bent down for a fast kiss. Joy, sweet joy, she went up on tiptoes to meet him. A thrill went through his whole body, from his lips right down to his toes.
+
+"Hi," he said. "Find it okay?"
+
+"Nothing is hard to find in the age of the smartphone," Clara said. "Thanks for the roses, by the way. They made my students run a little mad speculating."
+
+Malcolm grinned and thrust his hand into his pocket. Sam was worth her weight. "Shall we?" he said, and he gestured to the headwaiter. They were seated at a window overlooking the street. Bottle of wine on the little table, a decent red, nothing showy because Malcolm liked drinking wine, not wanking about it. Malcolm moved the dish of olive oil and balsamic out of the way, reached across, and let his fingers touch Clara's. He was interested. He needed to let her know, but casually. Oh so casually. Lean toward her, smile conspiratorially, and touch her ever so gently.
+
+"So," he said. "I get another fifteen minutes."
+
+Clara grinned at him. "You get a whole second date, in fact. What do we talk about on this one? Do you have a rule for this conversation?"
+
+Malcolm gestured with the hand that was not resting against hers. "The catechism again, but it goes more personal. You know, we tell each other the fucking idiotic shite we did when we were young, that kind of thing. Stare into each other's eyes like bleating sheep while we do it."
+
+"Go more personal, hmm? Right off or do we dip our toes in first?"
+
+Malcolm let his forefinger stroke her thumb. Daring, oh yes, he dared. "Toes in first. Start with something fucking easy, something only a politician could cock up. How's your week been?"
+
+"Oh, God, now I'm nervous about answering a basic question." Clara flipped her hair back with the hand that was not currently resting against his on the table, and pursed her lips. "Okay. I got this. My week was not bad. Flurry of journos around the school, interviewing the kids. Or trying to."
+
+Malcolm flashed a little smile at her. "You told them to go fuck themselves?"
+
+Clara did a thing with her eyes that was not quite rolling them that Malcolm found adorable. "Well, not in those words."
+
+"So long as that's the message."
+
+"I distracted them by allowing them to tape some B roll."
+
+"Fuckin' thin end of the wedge, that."
+
+"I was relentlessly boring and my kids did their best to be boring as well. Well, not Courtney, but she did her own bit to help. The governor told them off pretty firmly after two days of it."
+
+"Good man, that."
+
+"You seem to have charmed him, anyway. He saw us walking off from the school together, it seems. He put in a word for you the next day."
+
+"What?"
+
+Clara shrugged and grinned at him again. "You can be charming when you want."
+
+"Can't possibly argue with you, can I? The lady says I'm charming, I must be charming. Even when I'm swearing?"
+
+"Even when you're swearing. Possibly because you're swearing."
+
+The spark of amusement in Clara's eyes made Malcolm grin right back at her. She wasn't frightened by him, oh no. She understood him. She'd known him for all of three days and she understood him already. There was something strange going on inside him, right this moment, something that made him feel dizzy and achey. His chest felt odd. His heart was squeezing and his stomach was flipping. Either he was about to keel over in the restaurant and die of flu, or he was falling in love. In love with the schoolteacher he'd met three days ago? Shit. Say nothing, say nothing, don't give himself away, don't frighten her off. Sane men didn't fall in love that fast.
+
+"You've gone quiet," Clara said. "Did I say the wrong thing?"
+
+"No, sorry, was just thinking we ought to look at the menus or something."
+
+"You ordered the prix fixe for us both five minutes ago."
+
+"I did?"
+
+"Malcolm," Clara said, and she was grinning at him. "You are not entirely here, are you."
+
+"I am! I fucking am. I'm just, you know, nervous, okay? I'm nervous. I'm on a date with a woman I just met who isn't in politics and I've got to impress her without relying on my reputation, okay?"
+
+"Do you date a lot of politicians?"
+
+Malcolm refilled Clara's glass. He'd been too jittery to drink much of his own yet. He tasted it--not bad--and shrugged. "No' a lot of dating in my life recently. Brief affairs at best."
+
+"Do you sleep with a lot of politicians, then?"
+
+"Fuck no. Politicians are fucking disastrous affairs, yeah? Everything's a negotiation for power. You gotta break through it and convince them that it really is just about feeling good and then coming. Worst case, they're afraid of being blackmailed and the only way they get past the fear is drinking until they're almost too numb to fuck. Nah. I go for the journalists. Smarter, usually."
+
+"I see, you like them smart?"
+
+"Here I am with you, hoping to kiss you again. You tell me."
+
+"Flatterer."
+
+"I'll do what it takes." He grinned and drank some more wine. He felt a little better now, a little more sure of his footing. Clara was working with him. Clara wanted him to come off well. Clara might just be on his side in this fight. Amazing thought, that.
+
+He leaned forward across the table on the strength of that thought, and twined his fingers with hers. She smiled at him when he did this.
+
+"Bleating sheep mode commences?"
+
+"Baa baa fucking baa."
+
+"So now we move into personal questions, I take it."
+
+"Only if you stare into my eyes while you ask."
+
+"Got it."
+
+Clara leaned toward him and wrinkled that adorable nose for a moment. Fucking giant doe eyes, she had, and a nose that made him want to rub his own nose against it, and a smile that made him warm all over.
+
+"First time you had sex," she said, and Malcolm winced.
+
+"Oh, fuck, you really want to know? I was at uni and too fashed to admit I was a virgin to her. Popped about five seconds in. Made it up to her ten minutes later. Wish I was eighteen again sometimes. Then sanity fuckin' returns."
+
+Clara giggled at him.
+
+"Yeah, you answer that question. See if you're laughing."
+
+"Also at uni, so we both got a late start compared to our peers. And it was with another woman. Dated her for a couple of years, then screwed it up by messing around with a guy. First and last time I ever cheated on anybody."
+
+"Shit."
+
+"What?"
+
+"The cunnilingus standard I've got to meet here is fierce."
+
+Clara smacked him in the shoulder and he mimed pain. "Assuming you ever get the chance, that is."
+
+"I live in hope."
+
+"You need to earn your chance."
+
+"Can I earn my chance by demonstrating other linguistic feats?"
+
+"A fucks per minute world record will not improve your chances."
+
+"Are you sure? You laugh when I do that."
+
+The waitstaff appeared with their first course, and their focus shifted from conversation to food. Malcolm was hungry; he'd had no time for a proper lunch, and had managed to gulp a cup of tea around four. No bullshit from her about not eating for the sake of her figure. She wasn't scrawny, thank Christ. She looked like she was about a million times fitter than he was, if he were honest. She could eat food with him and enjoy it, and drink wine with him and enjoy that, and tell him about her ridiculous adventures on holiday bird-watching in Albania while attempting to ruin the day of a party of American bird hunters. Clara had pretended to speak only French, which had driven them mad. It was an absurd and unpredictable story, from an absurd and unpredictable woman. He wasn't sure he believed it, but that was half the pleasure of it.
+
+She held his hand on the cab on the way back to her flat. Malcolm was silent while she talked, telling him this time about what Blackpool was like in the winters. He watched her talk, listened to that mind at work constructing metaphors for him, allusive and elusive and tantalizing. He knew he wasn't stupid, but there was a chance Clara Oswald outclassed him by a lot. The thought made his toes curl in his shoes with anticipation, and he suddenly bent and kissed her hand.
+
+"What was that for?" Clara said.
+
+"Because you amaze me," he said.
+
+"Careful. You could turn my head that way."
+
+"I fucking hope so."
+
+"One of the things I like about you--"
+
+"More than one, if I may fucking point it out."
+
+"*One* of the things I like about you is that I know what your intentions are. You have at every moment been at pains to let me know what you want. First it was *don't fuck up this PR stunt*, and then it was *see if you can tolerate a cup of coffee with me* and now it's -- what is it, at this moment? Oh yes."
+
+"A second kiss."
+
+"It would be the third by my count."
+
+"Yeah? Oh, right, yeah, kiss at the restaurant. Does that even fucking count?"
+
+"Yes, it counts."
+
+"Okay! A third kiss. I want a third kiss."
+
+"Since we're here, would you settle for coming in for a drink?"
+
+Malcolm's heart did something strange. Adrenaline? Desire? Hope? Some combination of the three. Did it show on his face? But it was a bad night for it. "Just one. I've got to--I've got an eight-thirty."
+
+"It's a school night for me."
+
+A delicate negotiation, but he thought they'd reached agreement. One drink; he wouldn't spend the night. They might sit on her sofa and mack, but talking was more likely. In they went to her flat, lights on low, bottle of wine set out on the low table in her little front room, a pair of glasses and a corkscrew at the ready. Snuggling, slumped down on her sofa, his arm around her, his tie loose. Yeah. Malcolm looked at the wine and considered opening it. He'd have to take his arm from around Clara if he did, and he didn't want to take his arm away from her. He didn't want wine. He wanted her lips again, that third kiss. Even just one kiss would set him up proper for the rest of the week.
+
+"Clara?"
+
+She had a little smile on her face, as if she knew once again exactly what he was going to ask, and was waiting for him to catch up. "Malcolm?"
+
+"May I kiss you?"
+
+The smile widened. "Yes, you may."
+
+"Tell me if you want me to stop, okay? School night, so I won't--"
+
+"You really are ridiculously sweet. Someday you'll tell me how you learned to be this sweet. But right now--"
+
+Clara took his tie in her hand and tugged him down. She kissed him. She kissed him, and Malcolm let go of himself.
+
+Their third kiss. It went on longer than the first two had, and probably counted as a dozen or so kisses before Malcolm pulled back to rub his nose against hers and see if she was okay. She was. Her eyes were half-closed and she was smiling. Another kiss, mouth open this time, no doubts that this was the right choice, a little flicker of tongue on her lips. He slipped his hand behind her head and closed his eyes.
+
+She smelled good. Her earlobe tasted good. He couldn't describe it. Yeah, he liked her perfume; yeah, he'd had half a bottle of wine so he was tasting that too. Sure. What the fuck ever. He liked this taste. He was happy to suck at Clara's earlobe, nuzzle her neck, whisper sweet things to her, make her laugh. Mess up her hair, soothe his hands over her back, salute her shoulders, her throat, the nape of her neck. He didn't let his hands wander below her waist, not yet. It was a school night, and that meant he held back. That meant he kept it slow.
+
+He let his hand drift down, down, to her waist. Her body, warm against him. His hand against her back. Her lips on his ear, kissing him, sucking at his ear in turn.
+
+Fuck. If he spent another moment touching her he wasn't going to want to stop, and he'd promised, and that meant he had to back off. So he did, gave her one last kiss with her face cradled in his hands, and touched his forehead to hers.
+
+"School night," he said, and sighed.
+
+"School night."
+
+Malcolm sat up and fussed with his tie, which had somehow gone all askew. Clara's eyes were on him, speculative, measuring. So dark, so lovely. She might--if he asked she might. But not yet, not yet. He didn't want her to think that he thought she was easy, or fast, or that he didn't respect her from the top of her head to her ridiculous high heels. Because he did. He wanted more than fucking. He wanted to climb inside her head and know her all the way. He wanted her to climb inside his head. Whatever that meant. His head was a fucking mess, apparently.
+
+Stay on the important topics. Stay on target. He said, "Have I earned another fifteen minutes?"
+
+"Kissing like that?" she said, dreamily. "Yeah, you get another fifteen."
+
+"Friday? Would you like to go out for drinks Friday? Somebody told me about a place in Hackney. Tapas and cocktails. Fucking trendy."
+
+"Mmm, sounds good. Dressy?"
+
+"Yeah. Eight, maybe?"
+
+Clara smiled at him. Her lips, oh her lips. He wanted to kiss them again. She was speaking: "Sure. And then, assuming I'm still not loathing you, and if you're very good--"
+
+"Yeah?"
+
+"I might invite you back here again."
+
+"Clara." And he kissed her lips again, gently, because his heart was pounding.
+
+"Hold still a sec before you get up." And she had a bit of tissue that she was dabbing at his face and lips and he was about to protest then he realized she was wiping her lipstick off him and he grinned like an idiot. A punch-drunk, aroused idiot.
+
+Another kiss at her door, this time all the way deep, open-mouthed. A promise in that kiss, this time, that he'd make good on any time she wanted to accept him. And then she watched him dance his way down the hall to the lift. He summoned a cab for himself with his phone while he rode the lift downward. The thing was slow as an Eton boy in a mosh pit, but it gave him a chance to lean against the wall and luxuriate in this feeling. Fuck him, that had been a lovely evening. He was well hooked, he was. Over the moon. Dizzy with something he hadn't felt in a long time.
+
+He pulled his phone out of his pocket and texted her: *Thinking about you xx*
+
+*You just left xx*
+
+*Will be thinking about you all night and all day until Friday xxxxxxxx*
+
+*Don't drive the nation off a cliff xoxoxoxo*
+
+Fuck him sideways up the shitter with a horse cock. He was out of his mind about this woman and for reasons he could not understand, she seemed to like him. She had let him kiss her again. Over and over. He'd asked permission and she'd granted it, and she hadn't minded. She'd liked it. She liked him.
+
+This thought carried him on air all the way home and all the way to bed. It was ridiculous. He was over forty. He shouldn't be feeling like this. She was just over thirty. She shouldn't be letting him even look at her, never mind sigh when he kissed her, as if she were thinking the same wistful thoughts he was about the demands of the morning. If he'd been in his twenties, he'd have just taken her to bed--assuming she wanted--and to hell with the consequences in the morning. Not that he'd have suffered many. Fucking youth, wasted it while he had it. He lay in bed, alone between cool sheets, and wished he were a young man again. Or maybe not. He'd have cocked it up with somebody like Clara. He was steadier now, more likely to pay attention to what she needed, more likely to give the relationship what it deserved. Also more likely to get eaten by his work, because he was at the top just now, but she knew that going in. She didn't mind angry, so long as it had a target. He'd learned that from their cautious dips into political topics. She minded callousness. She minded indifference.
+
+One thing he knew he wasn't, and that was indifferent.
+
+With these thoughts chasing themselves around his head, he fell asleep and dreamed of his childhood, and woke up feeling ridiculously happy. He swept into the office arms out, greeting everyone with an effusive joy that sent most of them scattered in terror. Fools. He was sincere! For once.
+
+Sam eyed him and his little pirouette through the door suspiciously. "You didn't get us both coffee again, did you?"
+
+"No, not this morning. I didn't want to risk that glare. You've got your own bollocking face, you know?"
+
+Sam handed him his cup and studied him for a moment. "Your date went well, I see, but you want me to send even more flowers, no holds barred."
+
+"How do you figure that?"
+
+"You're over the moon, but you're not wearing yesterday's clothes or looking rushed."
+
+"Why," Malcolm said, speculatively, "are you not running the nation?"
+
+"What makes you think I'm not?"
+
+"Darling, I would not bet against that possibility. Could you get fucking John at fucking Culture on the phone for me? I've decided to go mental about that Turner Prize faff."
+
+"He's already on your schedule at ten, but I can ring him if you want a warm-up."
+
+"Do it, Sammy."
+
+Malcolm swept off into his office with coffee cup in hand. Over the moon? Over fuckin' any planet you cared to mention.

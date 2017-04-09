@@ -1,12 +1,13 @@
 mixin capsule(story)
 	- var taglist = ''
 	if story.tags
-		- taglist = story.tags.join(', ')
+		- b = story.tags.map(t => t.name)
+		- taglist = b.join(', ')
 	if !rootPath
 		- rootPath = ''
 	.story_box
-		- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
-		a.storytitle(title='#{taglist}' href=fullpath) #{story.title}
+		- fullpath = rootPath + story.path
+		a.storytitle(title='#{taglist}' href='#{fullpath}') #{story.title}
 		br
 		| #{story.pairing}, #{story.rating}
 		br
