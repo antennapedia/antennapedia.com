@@ -7,9 +7,10 @@ mixin capsule(story)
 			a.storytitle(href=fullpath) #{story.title} - #{story.pairing}
 
 block topmatter
-	.wrapper
-		.masthead.masthead(style="background-image: url('img/twelve_clara_header_2.jpg')")
-			h1= title
+	.wrapper: .masthead.masthead(style="background-image: url('#{b}')")
+		.container: .row: .col-md-5.offset-md-1(style="margin-top: 4em;")
+			h2= title
+			p #{summary}
 
 block content
 	.wrapper: .container 

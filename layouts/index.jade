@@ -3,22 +3,31 @@ extends basic.jade
 block title
 	title= site.title
 
+block navigation
+	// nothing
+
 block topmatter
-	.wrapper
-		.masthead.masthead(style="background-image: url('img/twelve_clara_header_2.jpg')")
+	.wrapper: .masthead.masthead(style="background-image: url('img/twelve_clara_header_2.jpg')")
+		.container: .row: .col-md-8.offset-md-1(style="margin-top: 240px;")
+			h1 Antennapedia's fanfiction
+			!= contents
+			p #{storycount} stories totalling #{wordcount} words.
+			a.btn.btn-default.btn-sm(href='all.html') All stories &rarr;
+			| &nbsp;
+			a.btn.btn-primary.btn-sm(href='tags.html') By tags &rarr;
+			| &nbsp;
+			a.btn.btn-info.btn-sm(href='pairings.html') By pairings &rarr;
+			| &nbsp;
+			a.btn.btn-success.btn-sm(href='characters.html') By characters &rarr;
+			| &nbsp;
+			a.btn.btn-warning.btn-sm(href='yearlist.html') By year &rarr;
+			| &nbsp;
+			a.btn.btn-danger.btn-sm(href='new.html') Latest &rarr;
 
 block content
 	.wrapper: .container 
 		.row: .col-md-4 &nbsp;
 		.row
-			.col-md-4
-				!= contents
-				p #{storycount} stories totalling #{wordcount} words.
-			.col-md-4
-				a.btn.btn-default(href='all.html') All stories &rarr;
-				| &nbsp;
-				a.btn.btn-info(href='yearlist.html') By year &rarr;
-
 			- var fnames = Object.keys(fandoms)
 			- each ftag in fnames
 				- var fandom = fandoms[ftag]
@@ -28,8 +37,8 @@ block content
 				- else subtitle = tagobj.length + ' stories'
 				.col-md-4
 					.panel.panel-default
-						.panel-heading: a(href='tags/#{tagobj.urlSafe}.html'): h4= fandom.title
+						.panel-heading 
+							span.pull-right= subtitle
+							a(href='tags/#{tagobj.urlSafe}.html')= fandom.title
 						.panel-body
 							= fandom.description
-							| &nbsp;
-							i= subtitle
