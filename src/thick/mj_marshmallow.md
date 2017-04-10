@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm attempts to cope with a reminder of mortality. Jamie has an entirely different way of coping"
 rating: mature
 pairing: Malcolm/Jamie
-banner: "../img/malcolm_tux_header.jpg"
+banner: "../img/malcolm_jamie_header.jpg"
 published: 2016-09-03T12:00:00-08:00
 tags:
     - p:malcolm/jamie

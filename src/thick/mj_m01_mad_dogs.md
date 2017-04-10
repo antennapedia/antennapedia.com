@@ -6,7 +6,7 @@ summary: "Jamie receives messages from Saint Malcolm."
 rating: mature
 pairing: Malcolm/Jamie
 published: 2015-07-27T12:00:00-08:00
-banner: ../img/malcolm_tux_header.jpg
+banner: ../img/malcolm_jamie_header.jpg
 tags:
     - s:maddogs
     - p:malcolm/jamie

@@ -460,13 +460,13 @@ Malcolm took a second, more careful look at this teacher. She looked alarmingly 
 
 "The minister gets nervous. Starts quivering like a mouse in a fucking cathouse."
 
-Malcolm shrugged at the schoolteacher. What could he do? But he was already feeling more at ease about this particular civilian. This hunch was borne out in the first rehearsal. Miss Oswald seemed to have already memorized her lines and was rolling her eyes at Nicola where she thought no-one could see. Malcolm caught her glance mid-roll and grinned with one side of his mouth. She wrinkled up her nose at him and grinned back. Quick on her feet, quick with her wits, and her seventh form seemed to adore her. Good find on Nicola's part-- or Glenn's, rather-- and Malcolm stopped worrying entirely about the civilian half of the dog and elephant show. The politician half still needed a taste of the verbal whip, which he was more than ready to provide at top volume.
+Malcolm shrugged at the schoolteacher. What could he do? But he was already feeling more at ease about this particular civilian. This hunch was borne out in the first rehearsal. Miss Oswald seemed to have already memorized her lines and was rolling her eyes at Nicola where she thought no-one could see. Malcolm caught her glance mid-roll and grinned with one side of his mouth. She wrinkled up her nose at him and grinned back. Quick on her feet, quick with her wits, and her seventh form seemed to adore her. Good find on Nicola's part-- or Glen's, rather-- and Malcolm stopped worrying entirely about the civilian half of the dog and elephant show. The politician half still needed a taste of the verbal whip, which he was more than ready to provide at top volume.
 
-In the rehearsal Miss Oswald called the team of kids the Spitfires and Nicola giggled and picked up on it. Glenn looked at Malcolm, who shrugged.
+In the rehearsal Miss Oswald called the team of kids the Spitfires and Nicola giggled and picked up on it. Glen looked at Malcolm, who shrugged.
 
 "Run with it," he said.
 
-Glenn said, "At least there's nothing printed. Just a web site. No five hundred reams of brochures to pulp like the last time."
+Glen said, "At least there's nothing printed. Just a web site. No five hundred reams of brochures to pulp like the last time."
 
 "Clever girl," Reeder said. "We should hire her."
 
@@ -504,7 +504,7 @@ Reeder showed no signs of understanding that he'd been dismissed, so Malcolm ste
 
 "Ensign Ball Crusher, have you fixed up the web site yet? You've got a new name for the initiative. Get crushing, yeah? Can't have the kiddies snapping off Nazi salutes."
 
-"Right, I'll just get somebody on that. Delegation, you know, Clara? Right! See you!" He did something with his hands intended to indicate suaveness, and oozed off back to Glenn.
+"Right, I'll just get somebody on that. Delegation, you know, Clara? Right! See you!" He did something with his hands intended to indicate suaveness, and oozed off back to Glen.
 
 Malcolm watched him go, then turned back to Miss Oswald to see her frowning at Ollie's back.
 

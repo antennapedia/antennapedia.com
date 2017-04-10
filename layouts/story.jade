@@ -19,7 +19,7 @@ block title
 
 block topmatter
 	.wrapper: .masthead.masthead(style="background-image: url('#{b}')")
-		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+		.container: .row: .col-md-5.offset-md-1(style="margin-top: 4em;")
 			h2= title
 			p #{summary}
 				
@@ -27,11 +27,19 @@ block content
 	.container
 		.row: .col-lg-8 &nbsp;
 		.row
-			.col-lg-8.offset-lg-2.col-md-9.offset-md-1
+			.col-lg-8.col-md-9
 				!= contents
-			.col-lg-2.col-md-2.offset-md-1(style="position: sticky; top: 20px;")
+			.col-lg-3.col-md-3(style="position: sticky; top: 20px;")
+				if (rating === 'mature')
+					- label = 'warning'
+				else if (rating === 'adult')
+					- label = 'danger'
+				else 
+					- label = 'info'
+				p: span.label(class='label-#{label}')= rating
 				p #{wordCount} words; reading time #{readingTime}.
-				p: a(href='#{altlink}') first posted here on #{published}
+				p: a(href='#{altlink}') first posted here 
+				| on #{published}
 				if tags
 					- var tagl = []
 					- for (i = 0; i < tags.length; i++)

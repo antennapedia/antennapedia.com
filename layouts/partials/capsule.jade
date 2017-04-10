@@ -6,19 +6,20 @@ mixin capsule(story)
 	if !rootPath
 		- rootPath = ''
 	- fullpath = rootPath + story.path
-	if (story.rating === 'teen')
+	if (story.rating === 'mature')
 		- label = 'warning'
-	else if (story.rating === 'mature')
+	else if (story.rating === 'adult')
 		- label = 'danger'
 	else 
 		- label = 'info'
 	.panel.panel-default
 		.panel-heading
 			a(title='#{taglist}' href='#{fullpath}') #{story.title}
-			span.label.pull-right(class='label-#{label}')= story.rating
+			span.pull-right
+				= story.pairing
+				| &nbsp;
+				span.label(class='label-#{label}')= story.rating
 		.panel-body
-			| #{story.pairing}
-			br
 			!= story.summary
 			br
 			| #{story.wordCount} words; reading time #{story.readingTime}. 

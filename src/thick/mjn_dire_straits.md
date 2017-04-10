@@ -12,19 +12,21 @@ tags:
     - f:the-thick-of-it
     - c:julius-nicholson
     - c:malcolm-tucker
-    - genre:kink
-    - kink:whipping
-    - genre:hurt/comfort
-    - kink:dom/sub
-    - c:sub!malcolm
     - c:dom!julius
-    - kink:spanking
+    - c:sub!malcolm
+    - aftercare
+    - genre:hurt/comfort
+    - genre:kink
     - kink:aftercare
-    - kink:enemas
-    - kink:plugs
-    - kink:crying
     - kink:collars
+    - kink:crying
+    - kink:dom/sub
+    - kink:enemas
     - kink:pet-play
+    - kink:plugs
+    - kink:service-top
+    - kink:spanking
+    - kink:whipping
 altlink: http://archiveofourown.org/works/14460010
 autotoc: true
 ---
@@ -1268,7 +1270,7 @@ Now Malcolm turned and paced closer to Ollie, one, two, three steps. By the seco
 
 Ollie ran. Malcolm watched him go. He could feel the tension in his jaw, the vein in his forehead. Every single bit of the floating happiness from the night before was gone.
 
-Glenn said, into the total silence that followed, "That's what a real threat from Malcolm sounds like. Good to know."
+Glen said, into the total silence that followed, "That's what a real threat from Malcolm sounds like. Good to know."
 
 "Fascinating," Julius said.
 

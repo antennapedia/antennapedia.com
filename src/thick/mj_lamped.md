@@ -2,11 +2,11 @@
 idtag: mj_lamped
 title: Lamped with a lamp
 author: antennapedia
-summary: "Glenn Cullen goes postal at last, and lamps Malcolm with a lamp. To everyone's surprise, when Malcolm comes to, he can't remember the last decade. Or being with Jamie."
+summary: "Glen Cullen goes postal at last, and lamps Malcolm with a lamp. To everyone's surprise, when Malcolm comes to, he can't remember the last decade. Or being with Jamie."
 rating: mature
 pairing: Malcolm/Jamie
 published: 2016-02-14T12:00:00-08:00
-banner: ../img/malcolm_tux_header.jpg
+banner: ../img/malcolm_jamie_header.jpg
 tags:
     - p:malcolm/jamie
     - f:the-thick-of-it
@@ -19,9 +19,9 @@ autotoc: true
 ---
 ## One
 
-No one blamed Glenn, least of all Malcolm himself, later on, once he'd recovered. Everyone understood that a man can only be pushed so far before he snaps. Or a woman, for that matter, but in this case it was Glenn, and a comment about sexual proclivities, and an office lamp that was to hand. And, of course, the memory of the punch to the nose that Malcolm had himself delivered not so long ago.
+No one blamed Glen, least of all Malcolm himself, later on, once he'd recovered. Everyone understood that a man can only be pushed so far before he snaps. Or a woman, for that matter, but in this case it was Glen, and a comment about sexual proclivities, and an office lamp that was to hand. And, of course, the memory of the punch to the nose that Malcolm had himself delivered not so long ago.
 
-That merely resulted in blood. That the lamp would send Malcolm to hospital with a concussion surprised everyone, most especially Glenn. That Malcolm would wake up with no memory of the last decade went beyond surprising to shocking.
+That merely resulted in blood. That the lamp would send Malcolm to hospital with a concussion surprised everyone, most especially Glen. That Malcolm would wake up with no memory of the last decade went beyond surprising to shocking.
 
 Especially to Jamie. Oh, Malcolm remembered Jamie. Jamie was the only person in the hospital room whom Malcolm knew at all. It's just that he didn't remember anything *important*.
 
@@ -97,7 +97,7 @@ And this man didn't remember a single moment of it.
 
 "You're the one with the stitches in his fucking head. Take the bed."
 
-Malcolm nodded. He looked lost. Jamie felt sorry for him. Wasn't his fault he didn't remember the last ten years. Was his fault Glenn had lamped him, mind, and Jamie was going to laugh himself sick about that. Later. When his Malcolm was back. If his Malcolm ever came back.
+Malcolm nodded. He looked lost. Jamie felt sorry for him. Wasn't his fault he didn't remember the last ten years. Was his fault Glen had lamped him, mind, and Jamie was going to laugh himself sick about that. Later. When his Malcolm was back. If his Malcolm ever came back.
 
 The doctors had said it usually came back in a couple of days, assuming there was nothing the patient truly wanted to repress. Jamie wasn't normally a fretful man, but something about this had him spooked. What if he was the thing Malcolm wanted to repress? He might be.
 
@@ -159,7 +159,7 @@ Company. Malcolm had always liked the company in bed. Jamie didn't say it, just 
 
 Jamie woke up aware that he was spooned up behind Malcolm, an arm over his waist. Malcolm was, as always, a furnace, much warmer than anything else in the bed. Malcolm's thin hand was on his, pressing it against his heart. He was curled up and motionless, but Jamie could tell from his breathing that he was awake. Rain on the windows, gray light filtering in: another fucking dismal London fall day. Get up? Break the spell? No. Steal a few more minutes of warmth and rest before the hell of the workday commenced.
 
-Would Malcolm remember anything today? He'd been confused and emotional the night before; that was what the doctor had said to expect before he recovered. Didn't make Jamie happy, but it was normal for concussion. Brain injuries. Fucking Glenn with the fucking lamp. He stirred, imagining what he was going to say to fucking Glenn when he saw him. He'd have a word in private before Malcolm did. Maybe later today.
+Would Malcolm remember anything today? He'd been confused and emotional the night before; that was what the doctor had said to expect before he recovered. Didn't make Jamie happy, but it was normal for concussion. Brain injuries. Fucking Glen with the fucking lamp. He stirred, imagining what he was going to say to fucking Glen when he saw him. He'd have a word in private before Malcolm did. Maybe later today.
 
 "You're awake," Malcolm said.
 
@@ -277,9 +277,9 @@ Jamie frowned. That had been a shite time; not something he particularly wanted 
 
 Malcolm pressed his hand tight, then shifted and interlaced his fingers with Jamie's. "It's patchy. Can't tell you the name of the prime minister, but I can remember walking into Downing Street like I own it. Fucking mad."
 
-He'd forgotten Tom. Jamie grinned evilly at Malc. Perfect. He remembered their first time but not the idiot they both worked for. "It'll come back," he said, hoping it wouldn't. "You might even remember why Glenn walloped you."
+He'd forgotten Tom. Jamie grinned evilly at Malc. Perfect. He remembered their first time but not the idiot they both worked for. "It'll come back," he said, hoping it wouldn't. "You might even remember why Glen walloped you."
 
-"Glenn?"
+"Glen?"
 
 "Fuckin' harmless teabag, or so I thought until he clocked you. Anyway. I'm guttin'. Tea?"
 

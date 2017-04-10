@@ -19,7 +19,5 @@ block content
 				- full = tags[tag]
 				.col-md-2
 					a(href='tags/#{full.urlSafe}.html')= tag
-					if full.length === 1
-						|  1 story
-					else
-						|  #{full.length} stories
+					| &nbsp;
+					span.badge= full.length
