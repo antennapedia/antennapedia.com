@@ -6,7 +6,7 @@ summary: "Glenn Cullen goes postal at last, and lamps Malcolm with a lamp. To ev
 rating: mature
 pairing: Malcolm/Jamie
 published: 2016-02-14T12:00:00-08:00
-banner: ../css/malcolm_tux_header.jpg
+banner: ../img/malcolm_tux_header.jpg
 tags:
     - p:malcolm/jamie
     - f:the-thick-of-it

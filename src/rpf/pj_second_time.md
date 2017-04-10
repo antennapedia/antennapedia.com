@@ -20,7 +20,7 @@ tags:
   - marriage
 rating: mature
 pairing: Peter/Jenna
-banner: ../css/colepaldi_header.jpg
+banner: ../img/colepaldi_header.jpg
 autotoc: true
 ---
 # A Second Time

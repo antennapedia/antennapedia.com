@@ -5,7 +5,7 @@ author: antennapedia
 summary: Malcolm's been waiting for this night all week. It doesn't go as planned.
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-04-19T12:00:00-08:00
 tags:
     - s:owned

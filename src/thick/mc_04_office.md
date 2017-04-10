@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm should have known better than to tell Clara about his fantasies, because she's exactly the kind of woman who takes them as a challenge. Now he has to get through a day in Whitehall."
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-05-16T12:00:00-08:00
 tags:
     - s:owned

@@ -5,13 +5,21 @@ mixin capsule(story)
 		- taglist = b.join(', ')
 	if !rootPath
 		- rootPath = ''
-	.story_box
-		- fullpath = rootPath + story.path
-		a.storytitle(title='#{taglist}' href='#{fullpath}') #{story.title}
-		br
-		| #{story.pairing}, #{story.rating}
-		br
-		= story.summary
-		br
-		| #{story.wordCount} words; reading time #{story.readingTime}. 
-		i= story.published
+	- fullpath = rootPath + story.path
+	if (story.rating === 'teen')
+		- label = 'warning'
+	else if (story.rating === 'mature')
+		- label = 'danger'
+	else 
+		- label = 'info'
+	.panel.panel-default
+		.panel-heading
+			a(title='#{taglist}' href='#{fullpath}') #{story.title}
+			span.label.pull-right(class='label-#{label}')= story.rating
+		.panel-body
+			| #{story.pairing}
+			br
+			!= story.summary
+			br
+			| #{story.wordCount} words; reading time #{story.readingTime}. 
+			i= story.published

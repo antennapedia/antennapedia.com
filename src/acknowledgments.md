@@ -1,6 +1,8 @@
 ---
 title: Credits, acknowledgments, and disclaimers
-layout: basic.jade
+layout: credits.jade
+basepath: ./
+
 ---
 ### Disclaimer
 

@@ -1,44 +1,47 @@
 extends basic.jade
 
 mixin renderToc(items)
-	#toc
-		| Chapters:
-		ul
+	.dropdown
+		button#chapters.btn.btn-default.dropdown-toggle(type='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false')
+			| Chapters 
+			span.caret
+		ul.dropdown-menu(aria-labelledby='chapters')
 			- each item in items
-				li
-					a(href="##{item.id}")= item.text
-					if (item.children.length > 0)
-						+renderToc(item.children)
+				li: a(href="##{item.id}")= item.text
 
-block banner
+block title
+	- rootPath = '../'
 	if banner
-		style.
-			#nav { background-image: url(#{banner}) }
-			
+		- b = banner
+	else
+		- b = rootPath + 'img/twelve_clara_header.jpg'
+	title= title
+
 block topmatter
-	h2= title
-	p #{summary} &nbsp; #{wordCount} words; reading time #{readingTime}.
-	p 
-		a(href='#{altlink}') first posted here
-		|  on #{published}
-	if tags
-		- var tagl = []
-		- for (i = 0; i < tags.length; i++)
-			- tag = tags[i].name
-			- urltag = tags[i].slug
-			- tagl.push("<a href='../tags/" + urltag + ".html'>" + tag + "</a>")
-		- var tagstring = tagl.join(', ')
-		.info 
-			| tags:&nbsp;
-			!= tagstring
+	.wrapper: .masthead.masthead(style="background-image: url('#{b}')")
+		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+			h2= title
+			p #{summary}
 				
 block content
-	#story_box
-		#storybody
-			!= contents
-		if toc
-			+renderToc(toc)
-
-block footer
+	.container
+		.row: .col-lg-8 &nbsp;
+		.row
+			.col-lg-8.offset-lg-2.col-md-9.offset-md-1
+				!= contents
+			.col-lg-2.col-md-2.offset-md-1(style="position: sticky; top: 20px;")
+				p #{wordCount} words; reading time #{readingTime}.
+				p: a(href='#{altlink}') first posted here on #{published}
+				if tags
+					- var tagl = []
+					- for (i = 0; i < tags.length; i++)
+						- tag = tags[i].name
+						- urltag = tags[i].slug
+						- tagl.push("<a href='../tags/" + urltag + ".html'>" + tag + "</a>")
+					- var tagstring = tagl.join(', ')
+					p 
+						| tags:&nbsp;
+						!= tagstring
+				if toc
+					+renderToc(toc)
 	hr
-	p: small: a(href='../acknowledgments.html') Credits, acknowledgments, and disclaimers.

@@ -19,7 +19,7 @@ tags:
   - authors-favorite
 rating: mature
 pairing: Peter/Jenna
-banner: ../css/colepaldi_header.jpg
+banner: ../img/colepaldi_header.jpg
 ---
 The staircase wall was clean at last. They'd finally got round to scraping off the layers of paint from that idiot exercise in filling balloons with latex paint and launching them at the wall. Peter had admired the contraptions they'd built for throwing the balloons even though he'd hated the results. And hated the fact that the balloon launchers had beat him to the wall by half an hour. But now it was a brilliant, pristine white of stunning clarity.
 

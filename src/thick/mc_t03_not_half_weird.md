@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Clara has to break some news to Malcolm."
 rating: mature
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-05-13T12:05:00-08:00
 tags:
     - s:traveling

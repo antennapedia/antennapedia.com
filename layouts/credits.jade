@@ -1,0 +1,15 @@
+extends basic.jade
+
+block title
+	title= site.title
+
+block topmatter
+	.wrapper
+		.masthead.masthead(style="background-image: url('img/twelve_clara_header.jpg')")
+
+block content
+	.wrapper: .container 
+		.row: .col-md-4 &nbsp;
+		.row
+			.col-md-8.offset-md-2
+				!= contents

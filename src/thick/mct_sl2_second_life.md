@@ -5,7 +5,7 @@ author: antennapedia
 summary: They're in their right minds again, and Clara wants to do it again. Malcolm wants to as well, but he wants things he's afraid to admit.
 rating: mature
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2016-06-23T22:00:00-08:00
 tags:
     - genre:crossover

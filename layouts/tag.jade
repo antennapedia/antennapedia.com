@@ -1,10 +1,6 @@
 extends basic.jade
 include partials/capsule.jade
 
-block links
-	link(rel='stylesheet' rev='stylesheet' href='../css/styles.css')
-	link(rel='alternate' type='application/rss' href='../rss.xml')
-
 block title
 	- rootPath = '../'
 	- fandom = fandoms[tag]
@@ -16,46 +12,30 @@ block title
 		title= series.title
 		- banner = series.banner
 	else
+		- banner = '../img/twelve_clara_header.jpg'
 		title tag: #{tag}
 
-block banner
-	if banner
-		style.
-			#nav { background-image: url(#{banner})	 }
-			
-block navigation
-	a(href="../index.html")
-		b Antennapedia
-	| &nbsp;|&nbsp;
-	a(href="../all.html") all stories
-	| &nbsp;|&nbsp;
-	a(href='../tags.html') by tags
-	| &nbsp;|&nbsp;
-	a(href='../pairings.html') by pairing
-	| &nbsp;|&nbsp;
-	a(href='../characters.html') by character
-	| &nbsp;|&nbsp;
-	a(href='../new.html') newest stories
-	br
-
 block topmatter
-	if fandom
-		h2= fandom.title
-		p= fandom.description
-	else if series
-		h2= series.title
-		p= series.summary
-	else
-		h2 #{tag}
-	if pagination.files.length === 1
-		p 1 story.
-	else
-		p= pagination.files.length
-			|  stories.
-				
+	.wrapper: .masthead.masthead(style="background-image: url('#{banner}')")
+		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+			if fandom
+				h2= fandom.title
+				p= fandom.description
+			else if series
+				h2= series.title
+				p= series.summary
+			else
+				h2 #{tag}
+			if pagination.files.length === 1
+				p 1 story.
+			else
+				p= pagination.files.length
+					|  stories.
+
 block content
-	#threecolumn
-		- each story in pagination.files
-			.box_33
-				+capsule(story)
-				br
+	.wrapper: .container
+		.row: .col-lg-8 &nbsp;
+		.row
+			- each story in pagination.files
+				.col-md-6
+					+capsule(story)

@@ -5,7 +5,7 @@ author: antennapedia
 summary: Malcolm's first date with Clara, and his first time doing a lot of things. He's as nervous as he ever gets, not that he's admitting it.
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-08-16T12:00:00-08:00
 tags:
     - genre:crossover

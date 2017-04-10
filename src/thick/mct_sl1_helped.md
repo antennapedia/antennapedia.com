@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm Tucker's second life aboard the TARDIS isn't all about smashing oppressive states. Sometimes it's about sex pollen in canisters."
 rating: mature
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-12-26T22:05:00-08:00
 tags:
     - genre:crossover

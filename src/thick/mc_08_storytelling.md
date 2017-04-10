@@ -5,7 +5,7 @@ author: antennapedia
 summary: Clara sets some boundaries; Malcolm is forced to do some thinking.
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-10-30T12:00:00-08:00
 tags:
     - s:owned
