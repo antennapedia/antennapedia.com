@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - genre:hurt/comfort
     - kink:orgasm-control
     - kink:dom/sub

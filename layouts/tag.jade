@@ -12,8 +12,26 @@ block title
 		title= series.title
 		- banner = series.banner
 	else
-		- banner = '../img/twelve_clara_header.jpg'
 		title tag: #{tag}
+
+	if tag.match(/p:malcolm\/clara/i)
+		- banner = '../img/malcolm_clara_header.jpg'
+	else if tag.match(/p:malcolm\/jamie/i)
+		- banner = '../img/malcolm_jamie_header.jpg'
+	else if tag.match(/p:peter\/jenna/i)
+		- banner = '../img/colepaldi_header.jpg'
+	else if tag.match(/p:giles\/buffy/i)
+		- banner = '../img/giles_buffy_header.jpg'
+	else if tag.match(/p:giles\/ethan/i)
+		- banner = '../img/giles_ethan_header.jpg'
+	else if tag.match(/p:giles\/xander/i)
+		- banner = '../img/giles_xander_header.jpg'
+	else if tag.match(/c:.*malcolm/i)
+		- banner = '../img/malcolm_tux_header.jpg'
+	else if tag.match(/c:.*giles/i)
+		- banner = '../img/giles_header.jpg'
+	else
+		- banner = '../img/twelve_clara_header.jpg'
 
 block topmatter
 	.wrapper: .masthead.masthead(style="background-image: url('#{banner}')")

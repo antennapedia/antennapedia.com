@@ -14,7 +14,6 @@ tags:
     - c:malcolm-tucker
     - c:dom!julius
     - c:sub!malcolm
-    - aftercare
     - genre:hurt/comfort
     - genre:kink
     - kink:aftercare

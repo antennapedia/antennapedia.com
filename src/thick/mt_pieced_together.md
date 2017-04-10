@@ -8,17 +8,17 @@ pairing: Malcolm/Twelve
 banner: "../img/malcolm_tux_header.jpg"
 published: 2016-03-31T12:05:00-08:00
 tags:
-    - p:malcolm/twelve
-    - f:the-thick-of-it
-    - c:twelfth-doctor
-    - c:malcolm-tucker
-    - genre:kink
-    - kink:whipping
-    - genre:hurt/comfort
-    - kink:dom/sub
     - c:dom!malcolm
+    - c:malcolm-tucker
     - c:sub!twelve
-    - aftercare
+    - c:twelfth-doctor
+    - f:the-thick-of-it
+    - genre:hurt/comfort
+    - genre:kink
+    - kink:aftercare
+    - kink:dom/sub
+    - kink:whipping
+    - p:malcolm/twelve
 altlink: http://archiveofourown.org/works/6310009
 
 ---
