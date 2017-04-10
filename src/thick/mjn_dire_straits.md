@@ -69,7 +69,7 @@ Julius rubbed his chin but said nothing. Nicola had reported as much; the situat
 
 Julius hung up his overcoat and walked into his ground-floor office without waiting to see if Malcolm followed. If he didn't follow, it would be a sign that drastic measures were needed. That had happened before; it usually meant that Julius had let too much time pass since his last serious session alone with Malcolm. It was entirely possible he was in such a state now. Poor devil, Malcolm. Such a fragile man, really, under the bluster.
 
-He followed this time, however. He took off his jacket and draped it messily over the back of one of Julius's leather  armchairs. Cheeky. Julius ignored it, however.
+He followed this time, however. He took off his jacket and draped it messily over the back of one of Julius's leather armchairs. Cheeky. Julius ignored it, however.
 
 "I would like you over my desk, please, Malcolm. Trousers down."
 

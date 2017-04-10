@@ -12,13 +12,12 @@ block content
 		.row: .col-md-4 &nbsp;
 		.row
 			.col-md-4
-				!=content
-			.col-md-4
+				!= contents
 				p #{storycount} stories totalling #{wordcount} words.
-				p 
-					a.btn.btn-default(href='all.html') All stories &rarr;
-					| &nbsp;
-					a.btn.btn-info(href='yearlist.html') By year &rarr;
+			.col-md-4
+				a.btn.btn-default(href='all.html') All stories &rarr;
+				| &nbsp;
+				a.btn.btn-info(href='yearlist.html') By year &rarr;
 
 			- var fnames = Object.keys(fandoms)
 			- each ftag in fnames
@@ -28,9 +27,9 @@ block content
 				- if (tagobj.length === 1) subtitle = '1 story'; 
 				- else subtitle = tagobj.length + ' stories'
 				.col-md-4
-					.panel
+					.panel.panel-default
 						.panel-heading: a(href='tags/#{tagobj.urlSafe}.html'): h4= fandom.title
 						.panel-body
-							p= fandom.description
-								| &nbsp;
-								i= subtitle
+							= fandom.description
+							| &nbsp;
+							i= subtitle

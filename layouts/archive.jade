@@ -7,18 +7,23 @@ mixin capsule(story)
 			a.storytitle(href=fullpath) #{story.title} - #{story.pairing}
 
 block topmatter
-	h1= title
+	.wrapper
+		.masthead.masthead(style="background-image: url('img/twelve_clara_header_2.jpg')")
+			h1= title
 
 block content
-	- var list = archive
-	- each year in list
-		h2= year.year
-		p #{year.wordcount} words.
-		.container(style="display: flex; flex-flow: row wrap")
-			- each month in year.months
-				.box(style="flex: 0 1 25%;")
-					h3= month.name
-					- each story in month.data
-						+capsule(story)
-						br
-			
+	.wrapper: .container 
+		- var list = archive
+		- each year in list
+			.row
+				.col-md-4
+					h2= year.year
+					p #{year.wordcount} words.
+			.row
+				- each month in year.months
+					.col-md-3
+						h4= month.name
+						- each story in month.data
+							+capsule(story)
+							br
+				
