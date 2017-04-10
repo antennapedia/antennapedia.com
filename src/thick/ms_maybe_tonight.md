@@ -5,10 +5,10 @@ author: antennapedia
 summary: "Perhaps now he dares."
 rating: general
 pairing: Malcolm/Sam
-banner: "../css/malcolm_tux_header.jpg"
+banner: "../img/malcolm_tux_header.jpg"
 published: 2016-12-03T12:00:00-08:00
 tags:
-    - p:malcolm/same
+    - p:malcolm/sam
     - f:the-thick-of-it
     - c:sam-cassidy
     - c:malcolm-tucker

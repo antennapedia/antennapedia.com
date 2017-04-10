@@ -2,16 +2,23 @@ extends basic.jade
 include partials/capsule.jade
 
 block title
+	if basepath
+		- rootPath = basepath
+	if !banner
+		- banner = rootPath + 'img/twelve_clara_header.jpg'
 	title= pageTitle
 
 block topmatter
-	h1= title
+	.wrapper: .masthead.masthead(style="background-image: url('#{banner}')")
+		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+			h1= title
 
 block content
 	- var list = collections[pullfrom]
-	#threecolumn
-		- each story in list
-			if story.title
-				.box_33
-					+capsule(story)
-					br
+	.wrapper: .container
+		.row: .col-lg-8 &nbsp;
+		.row
+			- each story in list
+				if story.title
+					.col-md-6
+						+capsule(story)

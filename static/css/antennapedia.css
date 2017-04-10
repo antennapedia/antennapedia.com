@@ -1,0 +1,11 @@
+.masthead
+{
+    background-size: cover;
+    background-color: #FF8F5E;
+    background-position: center;
+    margin-top: -100px;
+    min-height: 450px;
+    color: white;
+}
+.masthead-image { background-image: url('img/twelve_clara_header_2.jpg'); }
+body { padding-bottom: 70px; }

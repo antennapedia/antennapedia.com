@@ -1,19 +1,23 @@
 extends basic.jade
 
 block topmatter
-	h2 All tags
-	- var tagl = Object.keys(tags).sort()
-	p There are #{tagl.length} tags.
+	.wrapper: .masthead.masthead(style="background-image: url('img/twelve_clara_header.jpg')")
+		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+			h2 All tags
+			- var all = Object.keys(tags).sort()
+			- var tagl = []
+			- each tag in all
+				if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
+					- tagl.push(tag)
+			p There are #{tagl.length} tags.
 				
 block content
-	#fivecolumn.tags
-		- each tag in tagl
-			if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
+	.wrapper: .container
+		.row: .col-lg-8 &nbsp;
+		.row
+			- each tag in tagl
 				- full = tags[tag]
-				a(href='tags/#{full.urlSafe}.html')= tag
-				if full.length === 1
-					|  1 story
-				else
-					|  #{full.length} stories
-				br
-			
+				.col-md-2
+					a(href='tags/#{full.urlSafe}.html')= tag
+					| &nbsp;
+					span.badge= full.length

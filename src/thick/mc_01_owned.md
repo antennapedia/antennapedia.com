@@ -6,7 +6,7 @@ summary: "Malcolm's bit of solo experimentation with bondage has gone horribly w
 pairing: Malcolm/Clara
 rating: adult
 published: 2015-04-08T12:00:00-08:00
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 tags:
     - genre:crossover
     - s:owned
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - genre:kink
     - sex:first-time
     - kink:orgasm-control

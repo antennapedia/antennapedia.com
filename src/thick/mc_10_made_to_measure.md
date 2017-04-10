@@ -5,7 +5,7 @@ author: antennapedia
 summary: Clara thinks Malcolm's suits are terrible and does something about it.
 rating: mature
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2016-05-14T12:00:00-08:00
 tags:
     - s:owned
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - kink:dom/sub
     - kink:clothing
     - kink:measurement

@@ -5,7 +5,7 @@ author: antennapedia
 summary: "The morning after: Clara persuades Malcolm to take a holiday. He isn't sure how to do those."
 rating: mature
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-05-09T12:00:00-08:00
 tags:
     - s:owned
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - genre:hurt/comfort
     - kink:orgasm-control
     - kink:dom/sub

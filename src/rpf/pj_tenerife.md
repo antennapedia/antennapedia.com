@@ -16,7 +16,7 @@ tags:
   - trope:bed-sharing
 rating: general
 pairing: Peter/Jenna
-banner: ../css/colepaldi_header.jpg
+banner: ../img/colepaldi_header.jpg
 ---
 Tenerife was a lovely vacation spot, or so they said. Jenna had to take them on faith, because she was (as usual) run off her feet on set, working, and when she had a moment of free time it was spent running lines with Peter and not sightseeing. They went back to the hotel from the set and immediately went up to his room to continue working on the next scene between them. They ran more lines then rehearsed a bit of business he wanted to do with circling each other before he leaned in and said the key lines. Then it was all a relaxed bickering over room service about which one of them should grab the other and shake first.
 

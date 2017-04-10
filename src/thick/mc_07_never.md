@@ -4,7 +4,7 @@ title: Never
 author: antennapedia
 summary: Holiday mornings, with coffee and croissants and a man wearing her tag.
 rating: adult
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 pairing: Malcolm/Clara
 published: 2015-07-12T12:00:00-08:00
 tags:
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - issues:childhood-abuse
     - coffee
     - genre:hurt/comfort

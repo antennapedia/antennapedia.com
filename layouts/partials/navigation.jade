@@ -1,13 +1,16 @@
-a(href="index.html")
-	b Antennapedia
-| &nbsp;|&nbsp;
-a(href="#{rootPath}all.html") all stories
-| &nbsp;|&nbsp;
-a(href='#{rootPath}tags.html') by tags
-| &nbsp;|&nbsp;
-a(href='#{rootPath}pairings.html') by pairing
-| &nbsp;|&nbsp;
-a(href='#{rootPath}characters.html') by character
-| &nbsp;|&nbsp;
-a(href='#{rootPath}new.html') newest stories
-br
+nav.navbar.navbar-relative
+	.container
+		.navbar-header
+			button.navbar-toggle(type='button' data-toggle='collapse' data-target='#navbarResponsive' aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation")
+				span.sr-only Toggle navigation
+				span.icon-bar
+				span.icon-bar
+				span.icon-bar
+			a.navbar-brand(href='#{rootPath}index.html') Antennapedia
+		#navbarResponsive.collapse.navbar-collapse
+			ul.nav.navbar-nav.navbar-right
+				li: a.active(href='#{rootPath}all.html') all stories
+				li: a.active(href='#{rootPath}tags.html') by tag
+				li: a.active(href='#{rootPath}pairings.html') by pairing
+				li: a.active(href='#{rootPath}characters.html') by character
+				li: a.active(href='#{rootPath}new.html') newest

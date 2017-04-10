@@ -3,7 +3,7 @@ idtag: tc_limits
 title: Limits
 author: antennapedia
 summary: "Clara and the Doctor in a play session, take two."
-rating: general
+rating: mature
 notes: Written for an anonymous prompt on tumblr that asked for CBT.
 pairing: Twelve/Clara
 published: 2015-02-08T12:00:00-08:00

@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Friday night is date night. Also the night when Clara introduces Malcolm to new things."
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-06-06T10:30:00-08:00
 tags:
     - genre:crossover
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - genre:kink
     - sex:oral
     - kink:orgasm-control

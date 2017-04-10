@@ -5,7 +5,7 @@ author: antennapedia
 summary: Clara sets some boundaries; Malcolm is forced to do some thinking.
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-10-30T12:00:00-08:00
 tags:
     - s:owned
@@ -15,6 +15,8 @@ tags:
     - f:doctor-who
     - c:clara-oswald
     - c:malcolm-tucker
+    - c:dom!clara
+    - c:sub!malcolm
     - kink:dom/sub
     - genre:hurt/comfort
     - genre:angst
@@ -215,7 +217,7 @@ He didn't have words for the feeling in his stomach. He shivered. His da, shovin
 
 Clara stroked his face. Malcolm sucked in a deep breath, held it, let it out. Warm here, in this little sunny room, in the south of France. Nothing like the bitter Glasgow winters. He couldn't have conceived of this life now, back then. He'd known he was clever, known he was going to uni, but hadn't ever imagined a life that included bespoke suits and his head in the lap of a gorgeous, intelligent woman. Being a journalist, yeah, he'd imagined that. He'd liked being a journalist. He'd had his crusades. He'd had friends in those days. Jamie. He'd had girlfriends then. Never lived with them. Never drank with them. Got himself proper drunk once, with Jamie on his stag night, sworn never to do it again. Lived up to his oath.
 
-Had he ever hit anybody? He'd swung his fists once or twice, in anger even, but if they'd ever connected with anybody it would have shocked him. No, wait, he'd slugged Glenn. And then almost wept he'd been so sick about it. Had to stiffen his upper lip, draw Glenn aside, and fucking grovel because fucked if he was going to hit people. Ever. Especially not harmless decent teabags like Glenn.
+Had he ever hit anybody? He'd swung his fists once or twice, in anger even, but if they'd ever connected with anybody it would have shocked him. No, wait, he'd slugged Glen. And then almost wept he'd been so sick about it. Had to stiffen his upper lip, draw Glen aside, and fucking grovel because fucked if he was going to hit people. Ever. Especially not harmless decent teabags like Glen.
 
 The idea of hitting Clara made him even sicker. How could a man do such a thing? How could he do it to a wee boy? How could his da do it to *him*? Fuck. Fuck.
 

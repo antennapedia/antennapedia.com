@@ -4,31 +4,33 @@ block title
 	title= site.title
 
 block topmatter
-	h1= site.title
-	p= archive.subtitle
-	!= contents
-	p #{storycount} stories totalling #{wordcount} words.
-	
-	p See the
-		a(href='yearlist.hmtml') full list by year.
+	.wrapper
+		.masthead.masthead(style="background-image: url('img/twelve_clara_header_2.jpg')")
 
 block content
-	#twocolumn
-		- var fnames = Object.keys(fandoms)
-		- each ftag in fnames
-			- var fandom = fandoms[ftag]
-			- var tagobj = tags[ftag]
-			.box_50
-				h3
-					a(href='tags/#{tagobj.urlSafe}.html')= fandom.title
-					|:&nbsp;
-					if tagobj.length === 1
-						| 1 story
-					else
-						| #{tagobj.length} stories
-				p= fandom.description
+	.wrapper: .container 
+		.row: .col-md-4 &nbsp;
+		.row
+			.col-md-4
+				!=content
+			.col-md-4
+				p #{storycount} stories totalling #{wordcount} words.
+				p 
+					a.btn.btn-default(href='all.html') All stories &rarr;
+					| &nbsp;
+					a.btn.btn-info(href='yearlist.html') By year &rarr;
 
-block footer
-	hr
-	p: small: a(href='acknowledgments.html') Credits, acknowledgments, and disclaimers.
-	p: small: i Last updated #{date}.
+			- var fnames = Object.keys(fandoms)
+			- each ftag in fnames
+				- var fandom = fandoms[ftag]
+				- var tagobj = tags[ftag]
+				- var subtitle = ''
+				- if (tagobj.length === 1) subtitle = '1 story'; 
+				- else subtitle = tagobj.length + ' stories'
+				.col-md-4
+					.panel
+						.panel-heading: a(href='tags/#{tagobj.urlSafe}.html'): h4= fandom.title
+						.panel-body
+							p= fandom.description
+								| &nbsp;
+								i= subtitle

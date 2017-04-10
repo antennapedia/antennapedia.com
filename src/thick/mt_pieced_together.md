@@ -5,20 +5,20 @@ author: antennapedia
 summary: "The Doctor snatches Malcolm Tucker off the street before he makes his way to the Goolding inquiry hearing. Why? Fucked if Malcolm knows. Something to do with the copies of their shared face scattered across the universe. But while they're figuring that out, they've got a lot of time to fill."
 rating: mature
 pairing: Malcolm/Twelve
-banner: "../css/malcolm_tux_header.jpg"
+banner: "../img/malcolm_tux_header.jpg"
 published: 2016-03-31T12:05:00-08:00
 tags:
-    - p:malcolm/twelve
-    - f:the-thick-of-it
-    - c:twelfth-doctor
-    - c:malcolm-tucker
-    - genre:kink
-    - kink:whipping
-    - genre:hurt/comfort
-    - kink:dom/sub
     - c:dom!malcolm
+    - c:malcolm-tucker
     - c:sub!twelve
-    - aftercare
+    - c:twelfth-doctor
+    - f:the-thick-of-it
+    - genre:hurt/comfort
+    - genre:kink
+    - kink:aftercare
+    - kink:dom/sub
+    - kink:whipping
+    - p:malcolm/twelve
 altlink: http://archiveofourown.org/works/6310009
 
 ---

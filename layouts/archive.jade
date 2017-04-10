@@ -3,7 +3,7 @@ extends basic.jade
 mixin capsule(story)
 	if !rootPath
 		- rootPath = ''
-			- fullpath = rootPath + story.path.dir + '/' + story.path.name + '.html'
+			- fullpath = rootPath + story.path
 			a.storytitle(href=fullpath) #{story.title} - #{story.pairing}
 
 block topmatter

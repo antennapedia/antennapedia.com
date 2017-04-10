@@ -1,22 +1,23 @@
 extends basic.jade
 
 block topmatter
-	h2 Characters
-	- var tagl = Object.keys(tags).sort()
-	- var chars = []
-	- each tag in tagl
-		if (tag.indexOf('c:') === 0)
-			- chars.push(tag)
-	p There are #{chars.length} character tags.
+	.wrapper: .masthead.masthead(style="background-image: url('img/twelve_clara_header.jpg')")
+		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+			h2 Characters
+			- var tagl = Object.keys(tags).sort()
+			- var chars = []
+			- each tag in tagl
+				if (tag.indexOf('c:') === 0)
+					- chars.push(tag)
+			p There are #{chars.length} character tags.
 				
 block content
-	#fivecolumn.tags
-		- each tag in chars
-			- full = tags[tag]
-			a(href='tags/#{full.urlSafe}.html')= tag.substring(2).replace(/\-/g, ' ')
-			if full.length === 1
-				|  1 story
-			else
-				|  #{full.length} stories
-			br
-			
+	.wrapper: .container
+		.row: .col-lg-8 &nbsp;
+		.row
+			- each tag in chars
+				- full = tags[tag]
+				.col-md-2
+					a(href='tags/#{full.urlSafe}.html')= tag.substring(2).replace(/\-/g, ' ')
+					| &nbsp;
+					span.badge= full.length

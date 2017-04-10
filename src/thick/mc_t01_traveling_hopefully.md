@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm is returning to London from self-imposed exile on a remote island, but a storm has delayed the ferry. To his annoyance, somebody else is also stuck waiting for the same ferry. She had better not be a reporter."
 rating: adult
 pairing: Malcolm/Clara
-banner: ../css/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara_header.jpg
 published: 2015-01-18T12:00:00-08:00
 tags:
     - s:traveling

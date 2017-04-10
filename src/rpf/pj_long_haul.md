@@ -16,7 +16,7 @@ tags:
   - airplanes
 rating: general
 pairing: Peter/Jenna
-banner: ../css/colepaldi_header.jpg
+banner: ../img/colepaldi_header.jpg
 ---
 
 Jenna shifted in her seat and pulled the blanket back up over her legs. Dallas to Heathrow, overnight. A long haul flight, they called this, a red-eye. Drinks service, a bit of dinner, more drinks in the hope of stupefying you, then lights out to trick you into sleeping. Lights back up before you wanted them up, breakfast before you wanted that. Then, sooner than you expected it, England below them, green fields if you were lucky, gray clouds if you weren't. Down at Heathrow, through passport control, say goodbye to Peter.

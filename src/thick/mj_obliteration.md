@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Submission. Self-abnegation. A million big words that Malcolm might use when he was forced to talk about it. Jamie had other words, simpler ones. Malcolm belonged to him."
 rating: mature
 pairing: Malcolm/Jamie
-banner: "../css/malcolm_tux_header.jpg"
+banner: "../img/malcolm_jamie_header.jpg"
 published: 2016-01-16T12:00:00-08:00
 tags:
     - p:malcolm/jamie
