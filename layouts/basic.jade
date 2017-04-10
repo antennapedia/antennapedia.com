@@ -25,19 +25,7 @@ html(lang='en')
 			!= contents
 		
 		block footer
-			hr
-			nav.navbar: .container
-				.navbar-header
-					button.navbar-toggle(type='button' data-toggle='collapse' data-target='#navbarResponsive' aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation")
-						span.sr-only Toggle navigation
-						span.icon-bar
-						span.icon-bar
-						span.icon-bar
-					a.navbar-brand(href='#{rootPath}index.html') Antennapedia
-				#navbarResponsive.collapse.navbar-collapse
-					ul.nav.navbar-nav
-						li: a(href='#{rootPath}acknowledgments.html') credits
-						p.navbar-text Last updated #{date}.
+			// footer
 
 		block scripts
 			script(src='#{rootPath}js//bootstrap.min.js')

@@ -18,10 +18,12 @@ block title
 	title= title
 
 block topmatter
-	.wrapper: .masthead.masthead(style="background-image: url('#{b}')")
-		.container: .row: .col-md-5.offset-md-1(style="margin-top: 4em;")
-			h2= title
-			p #{summary}
+	.wrapper: .masthead(style="background-image: url('#{b}'); min-height: 450px;")
+		.container: .row.row-bottom
+			.col-md-6.cell-bottom(style="height: 425px;")
+				h2= title
+				p #{summary}
+			.col-md-6.cell-bottom(style="height: 425px;") &nbsp;
 				
 block content
 	.container

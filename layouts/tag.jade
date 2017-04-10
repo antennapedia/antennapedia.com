@@ -28,27 +28,33 @@ block title
 		- banner = '../img/giles_xander_header.jpg'
 	else if tag.match(/c:.*malcolm/i)
 		- banner = '../img/malcolm_tux_header.jpg'
+	else if tag.match(/f:.*thick/i)
+		- banner = '../img/malcolm_tux_header.jpg'
+	else if tag.match(/f:btvs/i)
+		- banner = '../img/giles_header.jpg'
 	else if tag.match(/c:.*giles/i)
 		- banner = '../img/giles_header.jpg'
 	else
-		- banner = '../img/twelve_clara_header.jpg'
+		- banner = '../img/twelve_clara_header_2.jpg'
 
 block topmatter
-	.wrapper: .masthead.masthead(style="background-image: url('#{banner}')")
-		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
-			if fandom
-				h2= fandom.title
-				p= fandom.description
-			else if series
-				h2= series.title
-				p= series.summary
-			else
-				h2 #{tag}
-			if pagination.files.length === 1
-				p 1 story.
-			else
-				p= pagination.files.length
-					|  stories.
+	.wrapper: .masthead(style="background-image: url('#{banner}'); min-height: 450px;")
+		.container: .row.row-bottom
+			.col-md-6.cell-bottom(style="height: 425px;")
+				if fandom
+					h2= fandom.title
+					p= fandom.description
+				else if series
+					h2= series.title
+					p= series.summary
+				else
+					h2 #{tag}
+				if pagination.files.length === 1
+					p 1 story.
+				else
+					p= pagination.files.length
+						|  stories.
+			.col-md-6.cell-bottom(style="height: 425px;") &nbsp;
 
 block content
 	.wrapper: .container

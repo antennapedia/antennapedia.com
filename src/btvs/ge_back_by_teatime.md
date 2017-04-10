@@ -6,6 +6,7 @@ title: Back by Teatime
 notes: More a fragment than a full story. Continuations possible.
 summary: 'Rupert and Ethan are bored, wishing for adventure, and expecting never to find one. And then a police call box appears in the most unlikely of places.'
 altlink: 'http://antennapedia.livejournal.com/303203.html'
+banner: '../img/giles_ethan_header.jpg'
 tags:
   - c:ethan
   - c:giles
@@ -23,7 +24,7 @@ pairing: giles/ethan
 ---
 Ethan had had enough of the fifth form common room for the moment. Callow boys, making callow boasts about unlikely exploits with girls while they were at home over the summer hols. And it was Evans making the most noise; Evans, who didn't have two neurons to rub together to make fire with. First in their year to lose his virginity, if one believed him. Ethan met Rupert's eye, and closed his history book. He tucked it under his arm and wandered out of the room, down the hall, and out of the building. A gray day, freshening wind, the smell of rain in the air. But it smelled better outside. Not so much like dirty socks.
 
-"Behave yourself, Rayne." 
+"Behave yourself, Rayne."
 
 Ethan looked up. Hammond, the classics master, glowering from his perch on the back of a bench. Cigarette in hand, threadbare tweed jacket, shoes with scuffed toes, and a limp Rupert said he'd got fighting a fiend of hell. Rupert did not exaggerate about such matters, and Ethan knew enough about the world not to doubt him any more. Hammond ought not be twitted, at any rate.
 
@@ -35,7 +36,7 @@ Ethan leapt and caught the lowest branch and swung himself up. It got easier eve
 
 The wards had held, as Ethan expected. There were other Watcher boys in the school. St Dunstan's had been where they were sent to study for over a century, according to Rupert. But most of those were no sorcerers. They might find the tree, but they wouldn't find Ethan's goodies. He extracted the pack and lighter and set about practicing inhaling. He might learn the trick soon.
 
-A minute later he heard the rustle below that meant Rupert had joined him. The branches shivered, and Rupert clambered up beside him. He still had his book with him, thrust into the back pocket of his trousers: Horace. Ethan waited for him to get settled, then politely offered him the cigarette. Rupert took it gingerly and inhaled. He coughed immediately, and made a face. He handed the cigarette back. 
+A minute later he heard the rustle below that meant Rupert had joined him. The branches shivered, and Rupert clambered up beside him. He still had his book with him, thrust into the back pocket of his trousers: Horace. Ethan waited for him to get settled, then politely offered him the cigarette. Rupert took it gingerly and inhaled. He coughed immediately, and made a face. He handed the cigarette back.
 
 "Suppose Evans did any of that with his cousin?" he said.
 
@@ -73,13 +74,13 @@ A blue police box, the old-fashioned kind, stood in the middle of the woods. The
 
 Ethan peeked around the tree. No one was around. Rupert straightened and advanced into the open. Ethan followed him to the police box, and touched it. Wood, blue paint, a sign on the side with lettering in English. It looked perfectly ordinary, though Ethan hadn't seen one since he was small. Though there was nothing ordinary about a police box appearing in the midst of a small rural woods.
 
-The door opened a crack, and smoke poured out. Ethan stepped back, and Rupert stepped forward. Then the door slammed open all the way, and a man in a black coat two sizes too big for him tumbled out. He caught himself on the door, staggered three steps, and fell flat on his face. 
+The door opened a crack, and smoke poured out. Ethan stepped back, and Rupert stepped forward. Then the door slammed open all the way, and a man in a black coat two sizes too big for him tumbled out. He caught himself on the door, staggered three steps, and fell flat on his face.
 
-Rupert was at his side in an instant, checking for a pulse. 
+Rupert was at his side in an instant, checking for a pulse.
 
-"Strange," said Rupert. "Very thready. Help me turn him over." 
+"Strange," said Rupert. "Very thready. Help me turn him over."
 
-Ethan scrambled to obey. Rupert leaned his ear against the man's chest. His expression turned dark. 
+Ethan scrambled to obey. Rupert leaned his ear against the man's chest. His expression turned dark.
 
 "Bugger. Two heartbeats. Demon. Got a weapon?"
 
@@ -97,7 +98,7 @@ The man, demon, thing with two hearts, whatever, made a sound. His eyes blinked 
 
 "Yes, good, but when?"
 
-Rupert met Ethan's glance and shrugged. Obviously still dazed by the smoke. Rupert shifted around behind the man. "Here, sir, let me help you sit up." 
+Rupert met Ethan's glance and shrugged. Obviously still dazed by the smoke. Rupert shifted around behind the man. "Here, sir, let me help you sit up."
 
 The man groaned, but sat up with some help. He coughed. The smoke was truly vile. Then he looked up into Rupert's face and squinted.
 

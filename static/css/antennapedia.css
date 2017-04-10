@@ -8,4 +8,12 @@
     color: white;
 }
 .masthead-image { background-image: url('img/twelve_clara_header_2.jpg'); }
-body { padding-bottom: 70px; padding-top: 100px; }
+body { padding-bottom: 70px; }
+.row-bottom { display: table; }
+.cell-bottom
+{
+    display: table-cell;
+    vertical-align: bottom;
+    height: 600px;
+    float: none;
+}
