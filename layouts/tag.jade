@@ -20,6 +20,8 @@ block title
 		- banner = '../img/malcolm_jamie_header.jpg'
 	else if tag.match(/p:peter\/jenna/i)
 		- banner = '../img/colepaldi_header.jpg'
+	else if tag.match(/p:twelve\/clara/i)
+		- banner = '../img/twelve_clara_header_2.jpg'
 	else if tag.match(/p:giles\/buffy/i)
 		- banner = '../img/giles_buffy_header.jpg'
 	else if tag.match(/p:giles\/ethan/i)
@@ -30,17 +32,19 @@ block title
 		- banner = '../img/malcolm_tux_header.jpg'
 	else if tag.match(/f:.*thick/i)
 		- banner = '../img/malcolm_tux_header.jpg'
+	else if tag.match(/f:doctor/i)
+		- banner = '../img/twelve_header.jpg'
 	else if tag.match(/f:btvs/i)
 		- banner = '../img/giles_header.jpg'
 	else if tag.match(/c:.*giles/i)
 		- banner = '../img/giles_header.jpg'
 	else
-		- banner = '../img/twelve_clara_header_2.jpg'
+		- banner = '../img/twelve_clara_header.jpg'
 
 block topmatter
-	.wrapper: .masthead(style="background-image: url('#{banner}'); min-height: 450px;")
+	.wrapper: .masthead(style="background-image: url('#{banner}')")
 		.container: .row.row-bottom
-			.col-md-6.cell-bottom(style="height: 425px;")
+			.col-md-8.cell-bottom(style="height: 425px;")
 				if fandom
 					h2= fandom.title
 					p= fandom.description
@@ -54,7 +58,7 @@ block topmatter
 				else
 					p= pagination.files.length
 						|  stories.
-			.col-md-6.cell-bottom(style="height: 425px;") &nbsp;
+			.col-md-4.cell-bottom &nbsp;
 
 block content
 	.wrapper: .container

@@ -1,15 +1,17 @@
 extends basic.jade
 
 block topmatter
-	.wrapper: .masthead(style="background-image: url('img/twelve_clara_header.jpg')")
-		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
-			h2 All tags
-			- var all = Object.keys(tags).sort()
-			- var tagl = []
-			- each tag in all
-				if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
-					- tagl.push(tag)
-			p There are #{tagl.length} tags.
+	.wrapper: .masthead(style="background-image: url('img/twelve_clara_header.jpg'); min-height: 650px;")
+		.container: .row.row-bottom
+			.col-md-8.cell-bottom
+				h2 All tags
+				- var all = Object.keys(tags).sort()
+				- var tagl = []
+				- each tag in all
+					if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
+						- tagl.push(tag)
+				p There are #{tagl.length} tags.
+			.col-md-4.cell-bottom &nbsp;
 				
 block content
 	.wrapper: .container

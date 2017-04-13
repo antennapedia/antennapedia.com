@@ -22,6 +22,7 @@ tags:
     - trope:sex-pollen
     - sex:anal
     - sex:threesome
+    - s:second-life
 altlink: http://archiveofourown.org/works/5609965
 autotoc: true
 

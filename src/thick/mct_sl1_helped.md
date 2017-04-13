@@ -19,6 +19,7 @@ tags:
     - trope:sex-pollen
     - sex:anal
     - sex:threesome
+    - s:second-life
 altlink: http://archiveofourown.org/works/5542241
 ---
 The canister rolled to a halt at their feet, hissing. Malcolm kicked it away immediately and finished his assigned job of launching the escape pods, the pods with all the refugees on them. They'd follow the homing beacons to the planet below; mission accomplished. Lives saved.
