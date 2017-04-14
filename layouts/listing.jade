@@ -9,9 +9,11 @@ block title
 	title= pageTitle
 
 block topmatter
-	.wrapper: .masthead(style="background-image: url('#{banner}')")
-		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
-			h1= title
+	.wrapper: .topmast(style="background-image: url('#{banner}')")
+		.container: .row.row-bottom
+			.col-md-8.cell-bottom
+				h1= title
+			.col-md-4.cell-bottom &nbsp;
 
 block content
 	- var list = collections[pullfrom]
