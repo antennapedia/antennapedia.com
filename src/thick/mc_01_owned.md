@@ -8,21 +8,21 @@ rating: adult
 published: 2015-04-08T12:00:00-08:00
 banner: ../img/malcolm_clara.jpg
 tags:
-    - genre:crossover
-    - s:owned
-    - p:malcolm/clara
-    - f:the-thick-of-it
-    - f:doctor-who
     - c:clara-oswald
-    - c:malcolm-tucker
     - c:dom!clara
+    - c:malcolm-tucker
     - c:sub!malcolm
+    - f:doctor-who
+    - f:the-thick-of-it
+    - genre:crossover
     - genre:kink
-    - sex:first-time
-    - kink:orgasm-control
-    - kink:dom/sub
     - kink:bondage
+    - kink:dom/sub
+    - kink:orgasm-control
     - kink:self-bondage
+    - p:malcolm/clara
+    - s:owned
+    - sex:first-time
 altlink: http://archiveofourown.org/works/3703711
 ---
 Malcolm almost had it. He'd managed to get his teeth onto the strap and if he could hold this position for another second--

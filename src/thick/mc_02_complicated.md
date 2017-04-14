@@ -24,7 +24,6 @@ tags:
     - kink:aftercare
     - genre:romance
     - genre:kink
-    - p:malcolm/clara
 altlink: http://archiveofourown.org/works/4592943
 ---
 They were out for dinner-- expensive plates of trendy food that Malcolm was completely uninterested in eating, from a trendy pub near his house. Only water for them, to the waiter's disappointment. Not that Malcolm ever drank anything, but he'd been willing to indulge in a bottle of wine with Clara on this, their first date. First real date. Real, public, no hiding date. And then home for their first night of for-real, negotiated, kinky sex. The sex of his fantasies, at last. If he was getting nervous about it, he wasn't going to admit it. He'd been waiting for it all his life. And at last he'd found a woman who wasn't afraid of him.
