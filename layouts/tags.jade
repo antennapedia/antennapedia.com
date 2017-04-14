@@ -3,7 +3,7 @@ extends basic.jade
 block topmatter
 	.wrapper: .topmast(style="background-image: url('img/twelve_clara.jpg');")
 		.container: .row.row-bottom
-			.col-md-8.cell-bottom
+			.col-md-12.cell-bottom
 				h2 All tags
 				- var all = Object.keys(tags).sort()
 				- var tagl = []
@@ -11,7 +11,6 @@ block topmatter
 					if (tag.indexOf('p:') !== 0) && (tag.indexOf('c:') !== 0)
 						- tagl.push(tag)
 				p There are #{tagl.length} tags.
-			.col-md-4.cell-bottom &nbsp;
 				
 block content
 	.wrapper: .container

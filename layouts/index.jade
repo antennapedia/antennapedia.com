@@ -9,7 +9,7 @@ block navigation
 block topmatter
 	.wrapper: .topmast
 		.container: .row.row-bottom
-			.col-md-8.cell-bottom
+			.col-md-12.cell-bottom
 				h1 Antennapedia's fanfiction
 				!= contents
 				p #{storycount} stories totalling #{wordcount} words.
@@ -24,7 +24,6 @@ block topmatter
 				a.btn.btn-warning.btn-sm(href='yearlist.html') By year &rarr;
 				| &nbsp;
 				a.btn.btn-danger.btn-sm(href='new.html') Latest &rarr;
-			.col-md-4.cell-bottom &nbsp;
 
 block content
 	.wrapper: .container 
