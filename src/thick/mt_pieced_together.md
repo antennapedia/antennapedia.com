@@ -5,7 +5,7 @@ author: antennapedia
 summary: "The Doctor snatches Malcolm Tucker off the street before he makes his way to the Goolding inquiry hearing. Why? Fucked if Malcolm knows. Something to do with the copies of their shared face scattered across the universe. But while they're figuring that out, they've got a lot of time to fill."
 rating: mature
 pairing: Malcolm/Twelve
-banner: "../img/malcolm_tux_header.jpg"
+banner: "../img/malcolm_tux.jpg"
 published: 2016-03-31T12:05:00-08:00
 tags:
     - c:dom!malcolm

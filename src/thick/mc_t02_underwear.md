@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Malcolm doesn't do things in a sensible order."
 rating: mature
 pairing: Malcolm/Clara
-banner: ../img/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara.jpg
 published: 2015-05-13T12:00:00-08:00
 tags:
     - s:traveling

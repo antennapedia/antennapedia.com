@@ -16,7 +16,7 @@ tags:
   - airplanes
 rating: general
 pairing: Peter/Jenna
-banner: ../img/colepaldi_header.jpg
+banner: ../img/colepaldi.jpg
 ---
 
 Jenna loved the job, loved her colleagues, loved the show, and most of all loved her co-star. But the she didn't love the way the days sometimes ran into nights. She knew the directors worked even harder than the leads, and the crew was right there with them the whole time, but it did take it out of her. Three hours sitting on set, running lines, hopping into character for thirty seconds at a time, over and over, then running down the same bit of corridor twenty times, the middle ten ruined because a prop had broken and nobody noticed. So much pressure on them in those last takes, to get it right so they could all go home. They finally did.

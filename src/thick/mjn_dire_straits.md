@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Julius has an angry, tired Malcolm on his hands-- over-tired, hungry, out-of-control. Fortunately they have a ritual that helps in these cases."
 rating: mature
 pairing: Malcolm/Julius
-banner: "../img/malcolm_tux_header.jpg"
+banner: "../img/malcolm_julius.jpg"
 published: 2017-04-06T12:00:00-08:00
 tags:
     - p:malcolm/julius

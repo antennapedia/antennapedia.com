@@ -1,15 +1,15 @@
 extends basic.jade
 
 block topmatter
-	.wrapper: .masthead(style="background-image: url('img/twelve_clara_header.jpg')")
-		.container: .row: .col-md-4.offset-md-1(style="margin-top: 4em;")
+	.wrapper: .masthead(style="background-image: url('img/twelve_clara.jpg')")
+		.container: .row: .col-md-4.offset-md-1
 			h2 All pairings
 			- var tagl = Object.keys(tags).sort()
 			- var pairings = []
 			- each tag in tagl
 				if (tag.indexOf('p:') === 0)
 					- pairings.push(tag)
-			p There are #{pairings.length} pairings. Pairings aren't tagged unless they're major.
+			p There are #{pairings.length} pairings.
 
 block content
 	.wrapper: .container

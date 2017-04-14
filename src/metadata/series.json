@@ -3,19 +3,19 @@
         "owner": "antennapedia",
         "title": "Thusia",
         "summary": "Europe worships the old gods, while the New World and the Middle East are the bastions of Christianity. Slayers are touched by the gods... and sometimes so are Watchers.",
-        "banner": "../img/giles_buffy_header.jpg"
+        "banner": "../img/giles_buffy.jpg"
     },
     "s:tradition_protocol": {
         "owner": "antennapedia",
         "title": "Tradition &amp; Protocol",
         "summary": "Watchers aren't what Buffy thought they were. A season 4 rewrite.",
-        "banner": "../img/giles_buffy_header.jpg"
+        "banner": "../img/giles_buffy.jpg"
     },
     "s:helios_hyperion": {
         "owner": "antennapedia",
         "title": "Helios Hyperion",
         "summary": "A long hot summer in the Hyperion Hotel, after Sunnydale collapsed.",
-        "banner": "../img/giles_buffy_header.jpg"
+        "banner": "../img/giles_buffy.jpg"
     },
     "s:ars_draconis": {
         "owner": "antennapedia",
@@ -33,25 +33,25 @@
         "owner": "antennapedia",
         "title": "Cloud Animals",
         "summary": "Giles rebuilds the Council in England. To Xander's eternal surprise, he's a Watcher now too. A sweet post-Chosen AU.",
-        "banner": "../img/giles_xander_header.jpg"
+        "banner": "../img/giles_xander.jpg"
     },
     "s:core_four": {
         "owner": "antennapedia",
         "title": "Core Four 'verse",
         "summary": "The enjoining spell the Scoobies used to defeat Adam has surprising and life-changing after-effects.",
-        "banner": "../img/giles_header.jpg"
+        "banner": "../img/giles.jpg"
     },
     "s:displaced_watcher": {
         "owner": "antennapedia",
         "title": "The Displaced Watcher",
         "summary": "Giles acquires a strange artifact, and makes the acquaintance of a consulting dectective and his biographer.",
-        "banner": "../img/giles_header.jpg"
+        "banner": "../img/giles.jpg"
     },
     "s:breaking_glass": {
         "owner": "antennapedia",
         "title": "Breaking Glass",
         "summary": "Religion, conspiracies, history, magic, artifacts buried deep, Watchers and Slayers. And the story of Rupert Giles, who wants to serve a Slayer.",
-        "banner": "../img/giles_header.jpg"
+        "banner": "../img/giles.jpg"
     },
     "s:antique_roman": {
         "owner": "antennapedia",
@@ -63,7 +63,7 @@
         "owner": "antennapedia",
         "title": "The Attic",
         "summary": "After the fall of Sunnydale, Rupert Giles is with the new Slayers in Cleveland, fighting demons on the new hellmouth. They have no money, but they have each other. Most especially, Giles has Xander. But the year of fighting the First has scarred all of them.",
-        "banner": "../img/giles_xander_header.jpg"
+        "banner": "../img/giles_xander.jpg"
     },
     "s:blackmail": {
         "owner": "antennapedia",
@@ -75,42 +75,42 @@
         "owner": "antennapedia",
         "title": "Legacies",
         "summary": "Giles's Uncle Charles died in the explosion that destroyed the Council of Watchers, but he left Giles a few legacies. Life-changing legacies.",
-        "banner": "../img/giles_buffy_header.jpg"
+        "banner": "../img/giles_buffy.jpg"
     },
     "s:watchers_child": {
         "owner": "antennapedia",
         "title": "Watcher's Child",
         "summary": "Giles/Jenny, various ratings, ending up with a different pairing to be revealed.",
-        "banner": "../img/giles_header.jpg"
+        "banner": "../img/giles.jpg"
     },
     "s:owned": {
         "owner": "antennapedia",
         "title": "Owned",
         "summary": "Malcolm Tucker, spin doctor to Downing Street, and Clara Oswald, up-and-coming party strategist, are in an relationship. A most unconventional relationship.",
-        "banner": "../img/malcolm_clara_header.jpg"
+        "banner": "../img/malcolm_clara.jpg"
     },
     "s:traveling": {
         "owner": "antennapedia",
         "title": "Traveling Hopefully",
         "summary": "Malcolm Tucker, spin doctor to Downing Street, and Clara Oswald, schoolteacher. And their travels in a little blue box with an alien who looks alarmingly like Malcolm's father.",
-        "banner": "../img/malcolm_clara_header.jpg"
+        "banner": "../img/malcolm_clara.jpg"
     },
     "s:tyger": {
         "owner": "antennapedia",
         "title": "Tyger Tyger",
         "summary": "Tyger Tyger burning bright: what if In the Forest of the Night had ended very differently?",
-        "banner": "../img/twelve_clara_header.jpg"
+        "banner": "../img/twelve_clara.jpg"
     },
     "s:the-idiot": {
         "owner": "antennapedia",
         "title": "The Idiot",
         "summary": "The Doctor goes into a special kind of heat when he recognizes his soulmate. He's afraid Clara won't like it, though.",
-        "banner": "../img/twelve_clara_header.jpg"
+        "banner": "../img/twelve_clara.jpg"
     },
     "s:maddogs": {
         "owner": "antennapedia",
         "title": "Mad Dogs and Scotsmen",
         "summary": "Malcolm Tucker and Jamie MacDonald before Downing Street.",
-        "banner": "../img/malcolm_clara_header.jpg"
+        "banner": "../img/malcolm_clara.jpg"
     }
 }

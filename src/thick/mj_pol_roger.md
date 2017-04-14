@@ -5,7 +5,7 @@ author: antennapedia
 summary: "A night of celebration, a night of fighting in an elevator, a good night. With a bottle of champagne that survives more abuse than it deserves."
 rating: mature
 pairing: Malcolm/Jamie
-banner: ../img/malcolm_jamie_header.jpg
+banner: ../img/malcolm_jamie.jpg
 published: 2015-07-29T12:00:00-08:00
 tags:
     - p:malcolm/jamie

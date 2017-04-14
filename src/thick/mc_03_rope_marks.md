@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Friday night is date night. Also the night when Clara introduces Malcolm to new things."
 rating: adult
 pairing: Malcolm/Clara
-banner: ../img/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara.jpg
 published: 2015-06-06T10:30:00-08:00
 tags:
     - genre:crossover

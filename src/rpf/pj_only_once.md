@@ -19,7 +19,7 @@ tags:
   - authors-favorite
 rating: mature
 pairing: Peter/Jenna
-banner: ../img/colepaldi_header.jpg
+banner: ../img/colepaldi.jpg
 ---
 It had been a long day of filming. Intense filming, even, with the Doctor making a difficult and impassioned speech about how Clara would be gone some day and how much it would hurt. It was the kind of thing Jenna didn't let herself think about, how much that would be her and Peter, some time in the late fall. Right now it wasn't. Right now it was fantastic. Right now, she was having the time of her life.
 

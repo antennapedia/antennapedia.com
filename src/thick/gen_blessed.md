@@ -5,7 +5,7 @@ author: antennapedia
 summary: Malcolm has a secret. Nicola stumbles upon it.
 rating: general
 pairing: gen
-banner: ../img/malcolm_tux_header.jpg
+banner: ../img/malcolm_tux.jpg
 published: 2016-09-11T12:00:00-08:00
 tags:
   - p:gen

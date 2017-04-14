@@ -6,7 +6,7 @@ summary: "Malcolm's bit of solo experimentation with bondage has gone horribly w
 pairing: Malcolm/Clara
 rating: adult
 published: 2015-04-08T12:00:00-08:00
-banner: ../img/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara.jpg
 tags:
     - genre:crossover
     - s:owned

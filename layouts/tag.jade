@@ -15,36 +15,40 @@ block title
 		title tag: #{tag}
 
 	if tag.match(/p:malcolm\/clara/i)
-		- banner = '../img/malcolm_clara_header.jpg'
+		- banner = '../img/malcolm_clara.jpg'
 	else if tag.match(/p:malcolm\/jamie/i)
-		- banner = '../img/malcolm_jamie_header.jpg'
+		- banner = '../img/malcolm_jamie.jpg'
+	else if tag.match(/p:malcolm\/sam/i)
+		- banner = '../img/malcolm_sam.gif'
 	else if tag.match(/p:peter\/jenna/i)
-		- banner = '../img/colepaldi_header.jpg'
+		- banner = '../img/colepaldi.jpg'
 	else if tag.match(/p:twelve\/clara/i)
-		- banner = '../img/twelve_clara_header_2.jpg'
+		- banner = '../img/twelve_clara_2.jpg'
 	else if tag.match(/p:giles\/buffy/i)
-		- banner = '../img/giles_buffy_header.jpg'
+		- banner = '../img/giles_buffy.jpg'
 	else if tag.match(/p:giles\/ethan/i)
-		- banner = '../img/giles_ethan_header.jpg'
+		- banner = '../img/giles_ethan.jpg'
 	else if tag.match(/p:giles\/xander/i)
-		- banner = '../img/giles_xander_header.jpg'
+		- banner = '../img/giles_xander.jpg'
 	else if tag.match(/c:.*malcolm/i)
-		- banner = '../img/malcolm_tux_header.jpg'
+		- banner = '../img/malcolm_tux.jpg'
 	else if tag.match(/f:.*thick/i)
-		- banner = '../img/malcolm_tux_header.jpg'
+		- banner = '../img/malcolm_tux.jpg'
 	else if tag.match(/f:doctor/i)
-		- banner = '../img/twelve_header.jpg'
+		- banner = '../img/twelve.jpg'
 	else if tag.match(/f:btvs/i)
-		- banner = '../img/giles_header.jpg'
+		- banner = '../img/giles.jpg'
+	else if tag.match(/f:the-hour/i)
+		- banner = '../img/the_hour.jpg'
 	else if tag.match(/c:.*giles/i)
-		- banner = '../img/giles_header.jpg'
+		- banner = '../img/giles.jpg'
 	else
-		- banner = '../img/twelve_clara_header.jpg'
+		- banner = '../img/twelve_clara.jpg'
 
 block topmatter
 	.wrapper: .masthead(style="background-image: url('#{banner}')")
 		.container: .row.row-bottom
-			.col-md-8.cell-bottom(style="height: 425px;")
+			.col-md-8.cell-bottom
 				if fandom
 					h2= fandom.title
 					p= fandom.description

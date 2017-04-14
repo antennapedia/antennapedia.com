@@ -2,17 +2,17 @@
     "f:btvs": {
         "title": "Buffy the Vampire Slayer",
         "description": "In every generation there is a Chosen One. She alone will stand against the vampires, the demons and the forces of darkness. She is the Slayer. Behind her stands her Watcher. He's the one in the tweed and the glasses, translating strange prophecies from Latin for her.",
-        "banner": "../img/giles_header.jpg"
+        "banner": "../img/giles.jpg"
     },
     "f:doctor-who": {
         "title": "Doctor Who",
         "description": "Time and relative dimensions in space.",
-        "banner": "../img/twelve_clara_header.jpg"
+        "banner": "../img/twelve_clara.jpg"
     },
     "f:the-thick-of-it": {
         "title": "The Thick of It",
         "description": "Malcolm Tucker swears at idiot politicians. And is the architect of his own doom.",
-        "banner": "../img/malcolm_tux_header.jpg"
+        "banner": "../img/malcolm_tux.jpg"
     },
     "f:sherlock-holmes": {
         "title": "Sherlock Holmes",

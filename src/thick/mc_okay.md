@@ -5,7 +5,7 @@ author: antennapedia
 summary: Clara has some news for Malcolm. Malcolm takes it in his stride. His penuin-run stride, to be specific.
 rating: mature
 pairing: Malcolm/Clara
-banner: ../img/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara.jpg
 published: 2017-04-07T12:00:00-08:00
 tags:
     - p:malcolm/clara

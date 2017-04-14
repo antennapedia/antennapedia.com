@@ -6,7 +6,7 @@ title: Back by Teatime
 notes: More a fragment than a full story. Continuations possible.
 summary: 'Rupert and Ethan are bored, wishing for adventure, and expecting never to find one. And then a police call box appears in the most unlikely of places.'
 altlink: 'http://antennapedia.livejournal.com/303203.html'
-banner: '../img/giles_ethan_header.jpg'
+banner: '../img/giles_ethan.jpg'
 tags:
   - c:ethan
   - c:giles

@@ -5,7 +5,7 @@ author: antennapedia
 summary: "Julius takes care of Malcolm."
 rating: mature
 pairing: Malcolm/Julius
-banner: "../img/malcolm_tux_header.jpg"
+banner: "../img/malcolm_julius.jpg"
 published: 2016-05-08T12:01:00-08:00
 tags:
     - p:malcolm/julius

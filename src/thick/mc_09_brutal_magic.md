@@ -5,7 +5,7 @@ author: antennapedia
 summary: The second time Clara spanked him, it was at Malcolm's request.
 rating: adult
 pairing: Malcolm/Clara
-banner: ../img/malcolm_clara_header.jpg
+banner: ../img/malcolm_clara.jpg
 published: 2016-05-14T12:00:00-08:00
 tags:
     - s:owned
