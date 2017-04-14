@@ -26,6 +26,8 @@ tags:
     - kink:service-top
     - kink:spanking
     - kink:whipping
+    - sex:anal
+    - sex:oral
 altlink: http://archiveofourown.org/works/14460010
 autotoc: true
 ---

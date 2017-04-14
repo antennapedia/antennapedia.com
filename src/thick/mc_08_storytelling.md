@@ -1,6 +1,6 @@
 ---
 idtag: mc_owned_08_storytelling
-title: Storytelling
+title: "Owned 8: Storytelling"
 author: antennapedia
 summary: Clara sets some boundaries; Malcolm is forced to do some thinking.
 rating: adult

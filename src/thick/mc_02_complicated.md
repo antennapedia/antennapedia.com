@@ -1,6 +1,6 @@
 ---
 idtag: mc_owned_02_complicated
-title: Complicated
+title: "Owned 2: Complicated"
 author: antennapedia
 summary: Malcolm's first date with Clara, and his first time doing a lot of things. He's as nervous as he ever gets, not that he's admitting it.
 rating: adult

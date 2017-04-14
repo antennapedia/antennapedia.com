@@ -1,6 +1,6 @@
 ---
-idtag: mc_owned_02_rope_marks
-title: Rope Marks
+idtag: mc_owned_03_rope_marks
+title: "Owned 3: Rope Marks"
 author: antennapedia
 summary: "Friday night is date night. Also the night when Clara introduces Malcolm to new things."
 rating: adult

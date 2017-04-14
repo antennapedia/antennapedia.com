@@ -1,6 +1,6 @@
 ---
 idtag: mc_owned_08_brutal_magic
-title: Brutal Magic
+title: "Owned 9: Brutal Magic"
 author: antennapedia
 summary: The second time Clara spanked him, it was at Malcolm's request.
 rating: adult

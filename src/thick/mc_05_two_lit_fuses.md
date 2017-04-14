@@ -1,6 +1,6 @@
 ---
 idtag: mc_owned_05_two_lit_fuses
-title: Two Lit Fuses
+title: "Owned 5: Two Lit Fuses"
 author: antennapedia
 summary: Malcolm's been waiting for this night all week. It doesn't go as planned.
 rating: adult

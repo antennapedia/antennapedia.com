@@ -1,6 +1,6 @@
 ---
 idtag: mc_owned_10_made_to_measure
-title: Made to Measure
+title: "Owned 10: Made to Measure"
 author: antennapedia
 summary: Clara thinks Malcolm's suits are terrible and does something about it.
 rating: mature
