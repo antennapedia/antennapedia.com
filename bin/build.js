@@ -132,6 +132,13 @@ metalsmith
 		'dest': '.'
 	}));
 
+function emitTags(files, ms, done)
+{
+	var metadata = metalsmith.metadata();
+	console.log(JSON.stringify(Object.keys(metadata.tags).sort()));
+	done();
+}
+
 function dupePubDate(files, ms, done)
 {
 	var metadata = metalsmith.metadata();
