@@ -18,6 +18,7 @@ tags:
     - au:soulmates
     - soulmate-markings
     - guitars
+    - authors-favorite
 altlink: http://archiveofourown.org/works/8738848
 ---
 It was true of every being in the universe, the Doctor had assured Clara once, back when he had his chinny no-eyebrows young face. He wasn't about to go into the technicalities of it, he said, nor was he about to speculate about universes he'd been unable to visit, or the many dimensions alongside this one. He was instead going to spin out on a long discussion about how the Copenhagen Interpretation had always been nonsense, and he'd told Bohr as much, but it had done no good; Bohr was off and away. The Bohr he'd known, anyway, in this universe of the many possible ones. Bohr had found Margrethe's name over his heart and been struck by the possibilities, then horrified by them. Many worlds, the Doctor said, and then he was pushing his ridiculous hat back and flinging himself at his ridiculous console and sending them across the universe again. This one, this universe. The one where intelligent beings who were meant to be together -- in whatever way together meant for their species -- had some kind of marking on whatever served as their skin, in some location meaningful to their species, of their soulmate's name, or some expression of their soulmate's identity somehow. Somehow. Once they knew. Again, somehow. The Doctor wasn't interested in speculating how. He was more interested in fine adjustments on the console, nudging them closer into *something*.

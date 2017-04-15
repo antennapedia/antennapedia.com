@@ -2,7 +2,7 @@
 idtag: tc_feeling_rough
 title: Feeling a Bit Rough
 author: antennapedia
-summary: Missy captured the Doctor, but he has escaped. He flees to Clara, but it's not easy.
+summary: Sometimes things get to Clara.
 rating: general
 pairing: Twelve/Clara
 published: 2015-03-07T12:00:00-08:00

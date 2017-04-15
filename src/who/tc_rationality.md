@@ -2,7 +2,7 @@
 idtag: tc_rationality
 title: Rationality
 author: antennapedia
-summary: Missy captured the Doctor, but he has escaped. He flees to Clara, but it's not easy.
+summary: He was starting to feel rationality return. It was, he had to admit, fairly awful to be rational. No wonder he'd fled from it.
 rating: general
 pairing: Twelve/Clara
 published: 2016-01-16T12:01:00-08:00

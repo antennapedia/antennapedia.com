@@ -48,7 +48,7 @@ block title
 block topmatter
 	.wrapper: .masthead(style="background-image: url('#{banner}')")
 		.container: .row.row-bottom
-			.col-md-8.cell-bottom
+			.col-md-12.cell-bottom
 				if fandom
 					h2= fandom.title
 					p= fandom.description
@@ -62,7 +62,6 @@ block topmatter
 				else
 					p= pagination.files.length
 						|  stories.
-			.col-md-4.cell-bottom &nbsp;
 
 block content
 	.wrapper: .container

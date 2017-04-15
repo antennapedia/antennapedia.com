@@ -20,6 +20,7 @@ tags:
     - guitars
     - genre:angst
     - genre:romance
+    - authors-favorite
 altlink: http://archiveofourown.org/works/7344586
 
 ---
