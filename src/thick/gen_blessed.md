@@ -2,10 +2,10 @@
 idtag: gen_blessed
 title: Blessed
 author: antennapedia
-summary: Malcolm has a secret. Nicola stumbles upon it.
+summary: "Malcolm has a secret: he's not entirely human. Everybody else seems to think it's a blessing, but he knows he's cursed. And he knows he deserves to be cursed. Banner image by Britt Sabo."
 rating: general
 pairing: gen
-banner: ../img/malcolm_tux.jpg
+banner: ../img/blessed_sabo_header.png
 published: 2016-09-11T12:00:00-08:00
 tags:
   - p:gen

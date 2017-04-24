@@ -39,16 +39,16 @@ block title
 		else if pairing.match(/c:.*giles/i)
 			- banner = '../img/giles.jpg'
 		else
-			- banner = '../img/twelve_clara.jpg'
+			- banner = '../img/twelve_clara_3.jpg'
 	title= title
 
 block topmatter
-	.wrapper: .masthead(style="background-image: url('#{banner}'); background-position: center;")
+	.wrapper: .masthead(style="background-image: url('#{banner}');")
 		.container: .row.row-bottom
-			.col-md-9.cell-bottom(style="height: 425px;")
+			.col-md-8.cell-bottom(style="mix-blend-mode: exclusion;")
 				h2= title
 				p= summary
-			.col-md-3.cell-bottom &nbsp;
+			.col-md-4.cell-bottom
 				
 block content
 	.container
