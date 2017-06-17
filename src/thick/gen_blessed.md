@@ -6,7 +6,7 @@ summary: "Malcolm has a secret: he's not entirely human. Everybody else seems to
 rating: general
 pairing: gen
 banner: ../img/blessed_sabo_header.png
-published: 2016-09-11T12:00:00-08:00
+published: 2017-04-25T12:00:00-08:00
 tags:
   - p:gen
   - f:the-thick-of-it
@@ -1905,11 +1905,11 @@ An oath. An oath he would be held to, but it felt so different from the last tim
 
 The knocker at the front door went. Malcolm froze for a moment, wondering if Tom was there, if he'd been caught.
 
-"Deliver's here," Sam said, and he sighed in relief. Foolish thought. Guilty thought.
+"Delivery's here," Sam said, and he sighed in relief. Foolish thought. Guilty thought.
 
 Sam went off without another word to him. Malcolm remained where he was for a moment, kneeling on the floor beside her empty chair. He wiped at his face. Fuck, this was hard. It was all too much emotion for him. He wanted to get angry at something. Anger was familiar. He'd spent the last decade angry and he was good at it.
 
-Sam poked her head back into the kitchen. "Go roust up, Jamie, would you?"
+Sam poked her head back into the kitchen. "Go roust up Jamie, would you?"
 
 "Yeah, okay."
 
@@ -1939,7 +1939,7 @@ And then Jamie was on his feet, and they were holding each other tight and not s
 
 "You can fucking have it. I want a curry that burns my head off."
 
-Jamie let go of him with one last thump of his back, and they went downstairs together. Rami was awake and sitting up. Sam had piled the lounge table high with plates and cartons of food. It smelled fucking fantastic. Malcolm wanted to eat and drink; he wanted to hold Sam's hand again; he wanted to live. So Malcolm ate. He ate blistering hot vindaloo scooped up with naan. He ate and sweated and felt the will to live grow ever-stronger in himself. Curry, a mango lassi, a full stomach. Rami inhaled a container of mattar paneer, everyone's leftovers, and the last of the naan. Jamie shook his head and muttered something about youth. Malcolm shrugged. The cunt would find his middle softening before too long, as every man before him had, and he'd stop eating everything in sight.
+Jamie let go of him with one last thump of his back, and they went downstairs together. Rami was awake and sitting up. Sam had piled the lounge table high with plates and cartons of food. It smelled fucking fantastic. Malcolm wanted to eat and drink; he wanted to hold Sam's hand again; he wanted to live. So Malcolm ate. He ate blistering hot vindaloo scooped up with naan. He ate and sweated and felt the will to live grow ever-stronger in himself. Hot food, a mango lassi, a full stomach. Rami inhaled a container of mattar paneer, everyone's leftovers, and the last of the naan. Jamie shook his head and muttered something about youth. Malcolm shrugged. The cunt would find his middle softening before too long, as every man before him had, and he'd stop eating everything in sight.
 
 After all the food was gone, and they were sat making random conversation with their legs stretched out before them, Rami pulled a metal pipe from his pocket and a bag full of herb. He sat himself tailor-fashion on Malcolm's sofa, bare feet and all. He packed the pipe methodically, seemingly oblivious of Malcolm's glare. He stared at the bowl of the pipe and it lit itself. He inhaled deeply. The bowl of the pipe glowed red. Malcolm glared and wondered why the fuck didn't burst into flames. Then he gave up. What the fuck did he care? He'd campaigned for legalization as a social justice issue, rather pointlessly given that he was part of a fucking Tory government, but the thought counted, right? Wrong, but here he was. He flung himself down into his armchair and watched Rami inhale and hold his breath. He could smell it everywhere. Like being at uni again, where it had been all around him. Not that he'd dared.
 

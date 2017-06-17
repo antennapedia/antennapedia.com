@@ -1,10 +1,10 @@
 ---
 idtag: rl_clear_head
 author: antennapedia
-published: '2016-10-02T12:17:00-08:00'
+published: '2017-05-28T12:17:00-08:00'
 title: A Clear Head
 summary: Things are much clearer now that he's sober.
-altlink: 'http://antennapedia.tumblr.com/post/125039658658/randall-and-lix-marriage-proposal'
+altlink: http://archiveofourown.org/works/5078080
 tags:
   - c:lix-storm
   - c:randall-brown
@@ -407,3 +407,235 @@ Randall's chest felt better, somehow, now that his arms were around his boy. How
 Randall settled Peter on his lap more comfortably.
 
 *In that pleasant district of merry England which is watered by the river Don, there extended in ancient times a large forest, covering the greater part of the beautiful hills and valleys which lie between Sheffield and the pleasant town of Doncaster.*
+
+## Man to Man
+
+Peter watched his father out the door carefully, to be sure it went on the latch properly. It made the right sound, which he imitated under his breath. Then he turned and ran up the steps to the first floor, where his mother's office was, where she did her writing. It was also the only room in the house where cigarettes were allowed, so it smelled like tobacco. Peter wasn't sure he liked it, but his mother smelled like that most of the time and he liked her, so he supposed it wasn't so bad.
+
+He knocked on the door, as he was required to do when she was working, and then opened it and went in without waiting to be invited. Oops. He stopped short in the doorway, for his mother was sitting on the comfortable chair with her shoes off and feet curled under her, and she was blowing her nose.
+
+"Peter," she said.
+
+He took this as invitation and ran in toward her, climbed up onto the arm of the chair, and kissed her on the cheek.
+
+"I am to tell you that Dad is off for a walk. He was in his office moving things around but he stopped when I came in."
+
+His mother gave him a long careful look, the kind she gave him when she was thinking about something. "Did he seem-- Did he tell you when he'd be back?"
+
+Peter shook his head. "He told me to go to you and give you a kiss."
+
+"Which you have done, thank you."
+
+His mother's eyes were red and so was her nose. And she was holding a handkerchief. Peter deduced that this was why his father had asked him to go into his mother's office and kiss her, to make her feel better. Both of his parents were upset, which made him feel uneasy. He rubbed his thumb against his trouser leg and then reached up and rumpled up his hair a few times. Okay. Better.
+
+"Why are you sad?" he asked. "Why does Dad want to move everything in his office?"
+
+"I was in hospital for a couple of days while you were visiting your grandmother."
+
+Peter's stomach went funny and he felt his eyebrows shoot up. "Are you--"
+
+"I'm quite well now, Peter. It was just to be careful. And because your father is a bit of a fuss-budget sometimes, to be honest."
+
+"Why were you being careful? And why are you crying now if you're okay?"
+
+"I suppose you're old enough to hear this sort of thing. Your father wasn't sure, but--"
+
+"I'm old enough to hear lots of things."
+
+His mother sighed and tucked the linen into her skirt pocket. "We were hoping to give you a little sister."
+
+Peter considered this. "I'd like a little sister," he said.
+
+"We know."
+
+"I could take care of her and show her how to do things."
+
+"Yes, we did think that would be lovely for you. But--"
+
+"You're not having one?"
+
+"We thought we'd succeeded, but it's gone wrong. We shall try again, I think, once I feel better."
+
+Peter rubbed his thumbs against his fingers, thinking about this. They were going to try again to give him a little sister. That was excellent. Not half brilliant, even. But this meant it was something one could make happen, and that was new information.
+
+"You and Dad can just make a baby if you want to?"
+
+"Almost. We can start, but it doesn't seem to stick."
+
+"How do you start? Can I help?"
+
+His mother laughed a little bit at that question. It was a strange laugh because she was crying. She ruffled up his hair, which she did when she was happy with him, so it felt good. Then she said, "You should ask your father that question, Peter. It's something for him to tell you, one man to another."
+
+That made him excited enough that he slipped down from the arm of his mother's chair and stuck his hands into his trouser pockets, to keep them from moving as much as they wanted to.
+
+"May I go ask him now?"
+
+"He's out for a walk, you said."
+
+"He'll have gone to the square to go round and round. He always does that. Clockwise."
+
+His mother nodded to him. "You may, then. Do put on your coat, Peter."
+
+Peter kissed his mother on the cheek a second time and ran down to the front hall to find his coat. It was hanging on the lower peg of the coat stand. His father's overcoat was still missing, which meant he was still out walking. Peter went out the front door and pushed it closed and listened for the sound of the latch. Then he was down the steps and off.
+
+Peter hadn't been out in the park that morning as he'd planned to be. He had a kite he'd made with paper and balsa and painted to look like birds in the sky. He wanted to know if it would fly in the wind. But it had rained, so he hadn't gone out, and now he had other things on his mind. Puddles on the pavements, dead leaves in piles, the smell of more rain in the air. It wasn't quite cold enough that he could see his breath.
+
+He ran all the way to the square and then went around anti-clockwise. He could see a man in an overcoat and hat all the way on the other side. His father wore a hat most days when he went outside. His father wore a hat but most other people didn't. His father had gray hair. These two thoughts were connected.
+
+Peter ran up to his father, who bent down to hug him tightly. Peter's took his father's hand and they walked the length of the square together, then turned right to walk the next side.
+
+"What brings you out to walk with me, dearest?"
+
+"Mum said to ask you. Man to man."
+
+"Ask me what?"
+
+"How do you and Mummy make babies?"
+
+"Oh dear," his father said. "Wasn't expecting this question just yet. Let's sit down and discuss it, shall we?"
+
+They walked together along the path toward the center of the square, where there was a statue and some iron and wooden benches. His father brushed leaves off a bench and sat down. Peter sat next to him. The bench was cold enough he could feel it through his trousers. His feet stuck out over the edge. Some day he'd be old enough to touch the ground. He'd be as tall as his father.
+
+"How shall I explain this?" His father bit at his thumb and then smiled for a moment at him.  "You know that there are times when I hug your mother while we're in bed."
+
+"Yes."
+
+"A special sort of hug that men and women do can make babies, if they want it to. It's the kind of thing that they prefer to do with the door shut so they can be alone."
+
+"Oh. That's why you lock your door."
+
+"Yes, er, you had quite a knack for bursting in on us for a time there."
+
+"So I can't help," Peter said. If they had to be alone, it only made sense.
+
+"I'm afraid not."
+
+More questions crowded in on him. Could they make more than one at a time? Twins, that was twins, and maybe he could ask for twin sisters. What did it mean that they had to want it to make babies? What other kinds of hugs were there if this special kind existed?
+
+The question he chose to ask was: "Can a man hug a man and make a baby?"
+
+"An astute question. Anybody can hug anybody else, but only a man with his wife can make a baby by hugging."
+
+"Only after you're married?"
+
+"Ah, not, ah, necessarily. I will confess that your mother and I did hug each other that way before we were married. A very long time ago. It is considered proper to marry first, however."
+
+"Oh. Did you make any babies back then?"
+
+"Yes, we did. We made one." His father said this, then cleared his throat. He took his hat off then put it back on again.
+
+"Where is she? Or is it a him?"
+
+"It was a she."
+
+"What's her name? Can I meet her?"
+
+"Her name was Sophia, and I'm afraid she died a long time ago. In a German air raid."
+
+Peter thought this through carefully. The Germans had been to blame for the war, which had been a long time ago but was still something people were upset about. And now they'd killed his older sister. He hadn't even known he had an older sister until just now and now he'd never know her.
+
+"I don't like the Germans," he said, eventually.
+
+"Quite," his father said. "We must forgive them, though."
+
+"Why?"
+
+"Many of them were children at the time, like you. Or in an army because they were forced to be."
+
+"Oh. You were in the war too, fighting the people who bombed my sister?"
+
+"I was in several wars, but as a journalist not a soldier. I took photographs and wrote newspaper articles, and reports that were read on the radio."
+
+"And you reported for TV and this is how you know Miss Lambert."
+
+"Television was later, but yes, correct in essentials."
+
+"Were you forced to do it?"
+
+"No. I chose to do it because I thought it was important."
+
+"Was it?"
+
+"Yes."
+
+"Oh." This made him unhappy and he frowned at his hands in his lap and rubbed his thumbs against his fingers. Important things were things one had to do whether one wanted to or not. And he wasn't sure he wanted to take photographs of wars. He liked singing. And painting his kite. And dressing up in costumes. And meeting Miss Lambert and Mr Hartnell and watching them in the television studio, as he had three times now. He frowned and rubbed at his hair the special way, once, twice.
+
+"Peter, dear, is something troubling you?"
+
+"I don't want to be a journalist," he said to his father.
+
+"You needn't be."
+
+"But I have to."
+
+"You don't have to decide now. Wait until you're grown and then you'll know what you like, my dear."
+
+"What if what I like isn't important?"
+
+"Ah. I see the trouble. If you want to do it, Peter, given the sort of boy you are-- if you want to do it, it will be important."
+
+"Oh," Peter said. Music was important, he felt. And so was painting things. Nobody at school seemed to think that, but his father wasn't ever wrong, so he felt better.
+
+"Shall we go back home and make tea for your mother?"
+
+"Let's," Peter said. He hopped down from the bench, took his father's hand, and tugged at him until he got to his feet. Then he let go and raced away down the path toward home.
+
+## Chasing Metaphors
+
+Liz unstrapped her shoes and toed them off. She wriggled her toes for a moment, then pulled her feet up onto her armchair. She found her packet of cigarettes and lit one, inhaled, and studied the glowing end. It tasted bad. She'd lost the taste for whisky and wine as well.
+
+She rested a hand on her belly. Third time. Third child. No, fourth child. The nameless child hadn't lived long enough to be more than a gentle swelling, a few weeks of nausea, and then gone. Easier to bear, really, than what had happened to Sofia. Well. Dwelling on this would not help.
+
+Lix stubbed out the cigarette unsmoked. Time to follow the doctor's advice and cut back. Cut back on the work, too. She'd been writing for the BBC again, drama this time, not strenuous work, but she wanted to sleep rather more than was compatible with work. Randall's savings were more than enough for them to retire on, and he had a steady income from writing for newspapers, analysis and commentary, so she could give it up if she wanted.
+
+Randall did enjoy being the one at home for Peter, though.
+
+She would need to break the news to Randall soon. He was attentive enough that he no doubt alreay knew she'd missed her second time. He had no doubt studied her when she wasn't looking, made some strange sideways calculation in his his head, and decided not to speak. He would be waiting for her to decide to tell him, at which point he would kiss her and look as if he would about burst with joy, and continue to say nothing.
+
+Randall. Her husband.
+
+He looked like a man in his late fifties now. She hadn't much more time to try herself. She'd done it twice already, after all. Surely her body had one more go in it. She wanted to give Randall a daughter. To give him the daughter he'd longed for and searched for years after she'd flinched and he'd fled and they'd both made such a muck of it. He'd be snowy-haired and dignified and elderly by the time this child was at university, or wherever she wanted to go. One assumed university for any child of theirs, given how Peter was turning out. He liked school rather more than his school masters, but that was unsurprising.
+
+A tap at the door, and it opened. Randall stuck his head in. She nodded to him, and he came all the way in. He folded himself up on the ottoman at her feet, all elbows and knees. Lix stretched her feet out and rested them on his thighs. He cupped his hands around her feet and massaged. Lix closed her eyes and made an encouraging sound. No conversation needed; a moment of quiet company.
+
+"Peter's asleep," Randall said. "Wasn't as difficult as I'd feared."
+
+Lix opened her eyes to look at Randall. He was smiling. She said, "Did our swashbuckler hang up his sword?"
+
+Randall ran his hands up her calves. "I convinced him to put it under his pillow for the night in exchange for another chapter of Dumas. He nodded off before I'd got three pages in."
+
+"He loves you reading to him."
+
+"He'll outgrow it soon enough, I'm afraid."
+
+"Well, perhaps we shall have someone else for you to read to once he does."
+
+Randall raised an eyebrow at her, an expression that was an entire question on its own. Lix shrugged.
+
+"Perhaps. I have learned not to count my chickens."
+
+Randall cocked his head. "I'm afraid to chase that metaphor."
+
+Lix considered this and laughed, briefly. "Best not."
+
+"Well."
+
+Randall worked his way to her knees and then back down again to her heels. Why did she wear those shoes? Dreadful things. Her feet were all swollen and aching. Though perhaps that was her condition. A little of both. Liz let her eyes close.
+
+Randall laid a hand on her knee and she started.
+
+"You're tired. Shall we go up?" Then he said, hastily, "To sleep, I mean. Since we are waiting for chickens now, it appears."
+
+"You've gone and chased it."
+
+"You're entirely to blame." He took her hand and helped her out of the armchair.
+
+"I would prefer to sleep tonight, yes. I'm feeling rather logy."
+
+"Ten weeks? Eleven?" Randall had indeed been counting days. She made a confirming noise. "Perhaps I will read Dumas to you, then."
+
+"Something more restful, perhaps. Tristram Shandy. I'll be asleep three pages in."
+
+"*I'll* be asleep three pages in."
+
+Randall took her arm and helped her up the stairs. Not that she needed his assistance, but it comforted her to lean on him. Randall was, however improbably, the love of her life. Now if only her body would not betray her-- and  him-- again.
