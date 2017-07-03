@@ -10,7 +10,7 @@
     "url": "https://github.com/antennapedia/antennapedia.com/issues"
   },
   "dependencies": {
-    "async": "~2.4.1",
+    "async": "~2.5.0",
     "glob": "~7.1.2",
     "humanize-number": "0.0.2",
     "jade": "~1.11.0",

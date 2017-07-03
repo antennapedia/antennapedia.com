@@ -3,7 +3,7 @@ extends basic.jade
 mixin renderToc(items)
 	.dropdown
 		button#chapters.btn.btn-default.dropdown-toggle(type='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false')
-			| Chapters 
+			| Chapters
 			span.caret
 		ul.dropdown-menu(aria-labelledby='chapters')
 			- each item in items
@@ -49,7 +49,7 @@ block topmatter
 				h2= title
 				p= summary
 			.col-md-4.cell-bottom
-				
+
 block content
 	.container
 		.row: .col-lg-8 &nbsp;
@@ -62,13 +62,13 @@ block content
 					- label = 'warning'
 				else if (rating === 'adult')
 					- label = 'danger'
-				else 
+				else
 					- label = 'info'
 				p= pairing
 					| &nbsp;
 					span.label(class='label-#{label}')= rating
 				p #{wordCount} words; reading time #{readingTime}.
-				p: a(href='#{altlink}') first posted here 
+				p: a(href='#{altlink}') first posted here
 				| on #{published}
 				if tags
 					- var tagl = []
@@ -77,7 +77,7 @@ block content
 						- urltag = tags[i].slug
 						- tagl.push("<a href='../tags/" + urltag + ".html'>" + tag + "</a>")
 					- var tagstring = tagl.join(', ')
-					p 
+					p
 						| tags:&nbsp;
 						!= tagstring
 				if toc

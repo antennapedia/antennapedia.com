@@ -4,7 +4,7 @@ title: Couldn't be helped
 author: antennapedia
 summary: "Malcolm Tucker's second life aboard the TARDIS isn't all about smashing oppressive states. Sometimes it's about sex pollen in canisters."
 rating: mature
-pairing: Malcolm/Clara
+pairing: Malcolm/Clara/Twelve
 banner: ../img/malcolm_clara.jpg
 published: 2015-12-26T22:05:00-08:00
 tags:
@@ -46,7 +46,7 @@ The Doctor pulled his jumper up over the bottom of his face. "Get Clara back to 
 
 Malcolm scooped up Clara, ignored the way she started unbuttoning his shirt, and ran for the TARDIS.
 
-Inside, all three inside, levers pulled home, into the Vortex, away from the foundering spaceship. Malcolm breathed deep, but now he knew it for certain: something wasn't right. It wasn't normal that he'd feel this way in the present of the Old Coot, the man who looked like a long-lost relative with the gray hair and the flashy coat. He wanted to fuck Clara about as often as he saw her, so that was normal, but he managed to keep it in his trousers when they were having adventures with the Coot, or when she'd shagged his brains out recently. This qualified as *adventures*, which meant that the raging erection in his trousers was not on.
+Inside, all three inside, levers pulled home, into the Vortex, away from the foundering spaceship. Malcolm breathed deep, but now he knew it for certain: something wasn't right. It wasn't normal that he'd feel this way in the presence of the Old Coot, the man who looked like a long-lost relative with the gray hair and the flashy coat. He wanted to fuck Clara about as often as he saw her, so that was normal, but he managed to keep it in his trousers when they were having adventures with the Coot, or when she'd shagged his brains out recently. This qualified as *adventures*, which meant that the raging erection in his trousers was not on.
 
 The rager in his trousers? How about the one in the Coot's trousers? That was something impressive. Malcolm looked, and licked his lips. Dimly in the back of his mind he was aware that this wasn't a usual reaction for him. He was ninety percent a ladies man, and that odd ten percent was not something that he expressed anywhere other than in the privacy of his own head.
 
